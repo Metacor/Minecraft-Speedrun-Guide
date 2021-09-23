@@ -338,9 +338,10 @@
 * *using Pick Block to select Beds, while One Cycling the Dragon is very useful*
 
 **Drop Item**: *Q*
-* Drops the Item that you either currently have Selected, or are currently Hovering over
-	* *Inventory Opened: Drop Hovered*
-	* *Inventory Closed: Drop Selected*
+* Drops an Item
+* *which item drops depends on if your Inventory is Currently Opened or Closed
+	* *Inventory Opened: Drops Currently Hovered Item*
+	* *Inventory Closed: Drop Currently Selected Item*
 * *hold the Control key while pressing Q, in order to Drop the entire stack*
 
 **Transfer Item**: *Shift + Click (left **or** right, both work)*
