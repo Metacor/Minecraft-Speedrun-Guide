@@ -386,7 +386,7 @@
 
 ## The Nether:
 * if you need more Blocks while in the Nether, Mine some Netherrack
-	* it's abundant and fast to Mine (0.1s with an Iron Pickaxe)
+	* it's not flammable, and is fast to Mine (0.1s with an Iron Pickaxe)
 * if there is a far away Ghast attacking you, change your Render Distance to 2
 	* This will usually despawn the Ghast - you can turn your Render Distance back up afterwards
 * if you find stray Nether Gold Ore while travelling to a Bastion, consider making Gold Boots
