@@ -372,7 +372,7 @@
 		* Activate the Pressure Plate →
 		* Break the TnT below you (don't activate it) →
 		* Crouch in the hole under the active TnT, avoiding most of it's Damage
-* It takes slightly less time to Mine Stone, than it does to Mine Cobblestone
+* It takes slightly less time to Mine Stone than it does to Mine Cobblestone
 	* **Wooden Pickaxe**: **Stone** takes **1.15 Seconds** | **Cobblestone** takes **1.5 Seconds**
 	* **Stone Pickaxe**: **Stone** takes **0.6 Seconds** | **Cobblestone** takes **0.75 Seconds**
 * Lava Lakes
@@ -382,23 +382,26 @@
 	* if you see floating Kelp in a Deep Ocean, there is likely a Ravine below it
 * [Glitchy Buckets](https://youtu.be/EjwStTX4U3A)
 	* if you're having trouble with Glitchy Buckets while making Nether Portals, watch the video posted above
-* Buckets of Water don't actually work in the Nether, so when you're done with your Nether Portal, fill it with Lava
+* Buckets of Water don't actually work in the Nether, so when you finish your Nether Portal, fill the Bucket with Lava
 
 ## The Nether:
-* While in the Nether, Mine Netherrack (Pickaxe) for some fast and easy blocks
-* if a far away Ghast is attacking you, change your Render Distance to 2, despawning it (can turn up after)
-* Craft Gold Boots to be safe in Bastions, 4 Gold Ingot (36 Gold Nuggets)
-* Bastions cannot spawn in a Basalt Delta Biome
-* All Bastions besides Treasure can spawn a Triple Chest top section, to tell them apart;
+* if you need more Blocks while in the Nether, Mine some Netherrack
+	* it's abundant and fast to Mine (0.1s with an Iron Pickaxe)
+* if there is a far away Ghast attacking you, change your Render Distance to 2
+	* This will usually despawn the Ghast - you can turn your Render Distance back up afterwards
+* if you find stray Nether Gold Ore while travelling to a Bastion, consider making Gold Boots
+	* Boot take 4 Gold Ingots (36 Gold Nuggets), and make it so Piglins don't auto-aggro you
+* Bastions cannot spawn inside of a Basalt Delta Biome
+* All of the Bastions, besides Treasure, can spawn a Triple Chest top section, to tell them apart;
 	* if there are 2 Blocks between the Double/Single Chest, then it's Stables
-	* if there are 3 Blocks, then it can be either Housing or Bridge (should be easy to tell them apart)
+	* if there are 3 Blocks, then it can be either Housing or Bridge (it should be easy to tell them apart)
 * Mobs spawn more often in Soul Sand Valleys, so if a Fortress is located in one, 5RD is pretty risky
 	
 ## The Overworld 2: Triangulation + Stronghold
-* When travelling in water, it is faster to use a Dolphin boost, than it would be to use a Boat
-* if you find an underwater Stronghold, make sure to look around for the Portal Room before entering
+* When travelling across Water, it is faster to use a Dolphin's Boost, than it would be to use a Boat
+* if you find an underwater Stronghold, make sure to look around for the Portal Room before blindly entering
 * Strongholds are extremely unlikely to spawn in Swamps (supposedly): https://youtu.be/_rbWryJVEmw?t=1011
-* In the Stronghold, Spiral Staircases always lead UP to the Entrance
+* In the Stronghold, Spiral Staircases always lead up, towards the Starter Staircase
 * Libraries lead nowhere, if you enter a Library from the Starter Staircase, turn around
 	* if you need more Beds, you can gather string from Library Cobwebs (use a Sword or Shears, 20s → 0.4s)
 
