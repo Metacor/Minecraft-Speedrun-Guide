@@ -340,17 +340,17 @@
 	* *if the Item is in your Inventory, then it will be moved to the lowest available Empty Slot*
 		* *unless you are currently Selecting an Empty Slot, in that case, the Item will move to that Slot, even if that particular Slot is not the lowest available*
 	* *if no Empty Slots are available, then your currently Selected Item will be Swapped into your Inventory*
-* *using Pick Block to select Beds, while One Cycling the Dragon is very useful*
+* *using Pick Block to select Beds while One Cycling the Dragon is very useful*
 
 **Drop Item**: *Q*
 * Drops an Item
-* *which item drops depends on if your Inventory is Currently Opened or Closed
+* *which Item you will drop depends on if your Inventory is Currently Opened or Closed
 	* *Inventory Opened: Drops Currently Hovered Item*
 	* *Inventory Closed: Drop Currently Selected Item*
-* *holding the Control key while pressing Q will drop an entire Stack of Items*
+* *holding the Control key while pressing Q will drop an the entire Stack of Items in that Item Slot*
 
 **Transfer Item**: *Shift + Click (left **or** right, both work)*
-* Sends an Item To/From your Hotbar/Inventory
+* Sends the Item that your Cursor is currently Hovering over To/From your Hotbar/Inventory
 * *if a Storage Interface is currently Open, then the Item will Transfer between that and your Inventory instead*
 
 **Equip Item**: *Right Click **or** Shift + Click (transfer item)*
@@ -362,14 +362,15 @@
 
 **Half Split**: *Right Click*
 * Selects half a Stack of an Item, leaving the other half in the Slot that you Selected it from
-* *requires the Stack of Items to be in any Slot, while you're not currently Selecting an Item*
+* *requires your Inventory to be Opened*
+* *requires you to currently not have anything Selected*
 
 **Drag Split, 1**: *Select an Item → Hold Right Click → Drag*
-* Splits off 1 Item into each Slot that you Drag the Stack over
+* Splits off 1 Item into each Slot that you Drag a Stack of Items over
 * *press Left Click to undo the current Split Selection, (before releasing Right Click)*
 
 **Drag Split, x**: *Select an Item → Hold Left Click → Drag*
-* Equally Splits a Stack of Items between multiple Slots
+* Equally Splits a Stack of Items between all Slots that you drag a Stack of Items over
 	* *stack of 30: 2 Slots x 15 Items | 3 Slots x 10 Items | 4 Slots x 7 Items (+2), etc*
 * *press Right Click to undo the current Split Selection, (before releasing Left Click)*
 
@@ -377,14 +378,14 @@
 * Combines All Stacks of an Item Type into 1 Stack *(Max Stack Limits still apply)*
 * *the Keybind depends on if you currently have an Item Selected or not*
 	* *if nothing is Selected, Double Click the Item*
-	* *if the SAME Item Type is Selected, Triple Left Click*
-	* *if an unrelated Item is Selected, you cannot Select All*
-		* *trying to do so would just swap the Items back and forth*
+	* *if the SAME Item Type is Selected, Triple Left Click the Item*
+	* *if an unrelated Item is Selected, you CANNOT Select All*
+		* *trying to do so would just Select the Items back and forth*
 
 **Transfer All of an Item Type**: *Shift + Double Left Click*
 * Sends All Items of the same Type between Storage Interfaces and your Inventory
-	* *Inventory and Crafting wont put items into your Hotbar*
-	* *Chests will prioritize your Hotbar, before putting items into your Inventory*
+	* *the Chest Interface will prioritize your Hotbar, before putting items into your Inventory*
+	* *the Inventory and Crafting Interfaces will prioritize putting items into your Inventory first*
 * *requires an Item to be currently Selected, otherwise you will just instantly send over a single Stack*
 	* *your current Selected Item Stack will not be Trasnfered*
 	* *to easily send ALL of an item type, have an unrelated Item Selected*
