@@ -352,7 +352,7 @@
 * Puts an Equipable Item onto your Character's corresponding Equipment Slot
 * *the Keybind depends on if your Inventory is currently Opened or Closed*
 	* *Inventory Opened: Shift + Click (transfer item)*
-	* *Inventory Closed: Right Click, Selected*
+	* *Inventory Closed: Right Click (selected item)*
 * *both of these methods require the Equipment Slot to be currently Empty, otherwise you will need to Manually Equip*
 
 **Half Split**: *Right Click*
@@ -368,16 +368,21 @@
 	* *stack of 30: 2 Slots x 15 Items | 3 Slots x 10 Items | 4 Slots x 7 Items (+2), etc*
 * *press Right Click to undo the current Split Selection, (before releasing Left Click)*
 
+**Select All of an Item Type**: *Double Left Click | Triple Left Click*
+* Combines All Stacks of an Item Type into 1 Stack *(Max Stack Limits still apply)*
+* *the Keybind depends on if you currently have an Item Selected or not*
+	* *if nothing is Selected, Double Click the Item*
+	* *if the SAME Item Type is Selected, Triple Left Click*
+	* *if an unrelated Item is Selected, you cannot Select All*
+		* *trying to do so would just swap the Items back and forth*
 
-
-
-			Select all of Item Type; Combine all Stacks of a type of Item into 1 Stack (Max Stack Limits still apply)
-				if nothing is Selected, Double Left Click | if the same Item Type is Selected, Triple Left Click
-				(this will not work if you have an unrelated Item Selected, you will simply switch the selection)
-			Transfer all of Item Type; Sends all Items of the same Type between Storage Interfaces and your Inventory
-				(Inventory/Crafting wont put items in your Hotbar, Chests will prioritize your Hotbar, for some reason)
-				with an Item Selected (a selection IS required), Shift + Double left Click 
-				(your current selection will not be transfered, use an unrelated Item to be sure to Transfer all)
+**Transfer All of an Item Type**: *Shift + Double Left Click*
+* Sends All Items of the same Type between Storage Interfaces and your Inventory
+	* *Inventory and Crafting wont put items into your Hotbar*
+	* *Chests will prioritize your Hotbar, before putting items into your Inventory*
+* *requires an Item to be currently Selected, otherwise you will just instantly send over a single Stack*
+	* *your current Selected Item Stack will not be Trasnfered*
+	* *to easily send ALL of an item type, have an unrelated Item Selected*
 		
 <br/>
 
