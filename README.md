@@ -16,6 +16,9 @@ Setup: https://youtu.be/4cTbSyvWNgI | https://youtu.be/km0sXurMj5s
 Mods: Make sure you're using version 1.16 Mods
 	https://www.minecraftspeedrunning.com/public-resources/mods
 		Mod Explainations: https://youtu.be/km0sXurMj5s?t=126
+	Fabric Loader (Don't use Fabric API): [Website](https://fabricmc.net/use/) | [Download](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.4/fabric-installer-0.7.4.jar)	
+		
+		
 	Fabric Loader (DO NOT USE FABRIC API)
 		Autoreset; Automatically Quits -> Creates New World -> Loads World, when exiting a world
 		Fast Reset; Enables you to Exit World without the forced auto save
