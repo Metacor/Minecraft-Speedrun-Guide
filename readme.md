@@ -309,17 +309,24 @@
 
 # Keybinds & Shortcuts
 ## F3 Keybinds
-* F3 + Q = Shows most F3 Commands in-game 
-* F3+F4 = Game Mode Selection (Open to LAN → Allow Cheats: ON → Start LAN World → F3+F4), after a Failed Run
-* F3 = Standard F3 Menu
-* F3 + G = Chunk Borders
-* F3 + B = Hitboxes  
-
+* F3:
+	* Standard F3 Menu
+* F3+F4:
+	* Game Mode Selection (Open to LAN → Allow Cheats: ON → Start LAN World → F3+F4), after a Failed Run
+* F3 + Q:
+	* Shows most F3 Commands in-game 
+* F3 + G:
+	* Chunk Borders
+* F3 + B:
+	* Hitboxes  
 
 *Useful for [Pie-ray](https://www.youtube.com/watch?v=Aq9qfHNEOHM) scouting:*
-* Shift + F3 = Pie Chart F3 Menu (Tick → Level → Entites → Block Entites)
-* F3 + F = Increase Render Distance by 1
-* F3 + Shift + F = Decrease Render Distance by 1
+* Shift + F3:
+	Pie Chart F3 Menu (Tick → Level → Entites → Block Entites)
+* F3 + F:
+	Increase Render Distance by 1
+* F3 + Shift + F:
+	Decrease Render Distance by 1
 		
 ## Inventory Management: (Storage Interface = Chest, Crafting Table etc)
 	Hotbar Swap; Swaps the Hotbar Slot's Item with the Item Slot on your Mouse Hover
