@@ -370,8 +370,8 @@
 		* Place 1 TnT in a Corner on the Top → 
 		* Place a Pressure Plate next to it → 
 		* Activate the Pressure Plate →
-		* Break the TnT below you (don't light it) →
-		* Crouch and hide to avoid the TnT's Explosion Damage
+		* Break the TnT below you (don't activate it) →
+		* Crouch in the hole under the active TnT, avoiding most of it's Damage
 * Stone is slightly faster to Mine than Cobblestone (found as part of houses in Plains Villages)
 * Why 8+ Wood @ Overworld 1, after crafting Stone Tools; More is fine, less is risky
 	* W=Wood,P=Plank [8W=32P: 12P Left,(6P if Shield) | if Flintless: 0P], (+1P, Pickaxe Leftover)
