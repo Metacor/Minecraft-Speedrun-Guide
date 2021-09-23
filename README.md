@@ -1,6 +1,5 @@
 Minecraft: Version 1.16.1  
-Discord: https://discord.com/invite/jmdFn3C  
-Speedrun Resource Website: https://www.minecraftspeedrunning.com/  
+[Discord](https://discord.com/invite/jmdFn3C) | [Minecraft Speedrunning Website](https://www.minecraftspeedrunning.com/)   
 
 Setup Guide Playlist: https://www.youtube.com/playlist?list=PLcGcbFWXx7R2BbS9xGfHj8w-XRy_qLK8P  
 Speedrun Guide (1.16) Playlist: https://www.youtube.com/playlist?list=PLcGcbFWXx7R0qYy53RKHKpevIPBipSjJ9  
