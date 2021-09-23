@@ -12,7 +12,7 @@
 
 ## Mods
 [Website](https://www.minecraftspeedrunning.com/public-resources/mods ) | [Explainations](https://youtu.be/km0sXurMj5s?t=126)  
-### Fabric Loader is Required for all other Mods listed below (DON'T USE FABRIC API): [Website](https://fabricmc.net/use/) | [Download](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.4/fabric-installer-0.7.4.jar)  
+### Fabric Loader (DON'T USE FABRIC API): [Website](https://fabricmc.net/use/) | [Download](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.4/fabric-installer-0.7.4.jar)  
 * Auto Reset Mod: [Website](https://github.com/DuncanRuns/AutoResetMod) | [Download](https://github.com/DuncanRuns/AutoResetMod/releases/download/v1.2.0/autoreset-1.2.0+MC1.16.1.jar)
 	* When Active, on pressing Quit: Quits -> Creates a New World, with correct Settings -> Loads the World
 	* **Optional**: AHK Keybind Reset + Saved Worlds Culling [Video](https://youtu.be/km0sXurMj5s?t=187)
@@ -23,29 +23,33 @@
 * Sodium: [Website](https://github.com/mrmangohands/sodium-fabric) | [Download](https://github.com/mrmangohands/sodium-fabric/releases/download/mc1.16.1-0.2.0%2Bbuild.17/sodium-1.16.1-backport-fabric-0.2.0+build.17.jar)
 	* Greatly increases General Performance, Reduces Micro-Stutters, and Fixes Graphical Issues
 * Lithium: [Website](https://github.com/mrmangohands/lithium-fabric) | [Download](https://github.com/mrmangohands/lithium-fabric/releases/download/mc1.16.1-0.6.6/lithium-1.16.1-backport-fabric-0.6.6.jar)
-	* Optimizes Game Areas
-### Starlight is incompatible with Phosphor, only use Phosphor if Starlight doesn't work for you
+	* Optimizes Game Areas  
+
+
+**Starlight is incompatible with Phosphor, only use Phosphor if Starlight doesn't work for you**
 * Starlight: [Website](https://github.com/PaperMC/Starlight) | [Download](https://github.com/PaperMC/Starlight/releases/download/1.0.0-RC2/starlight-fabric-1.0.0-RC2-1.16.x.jar)
-	* Completely rewrites the Lighting Engine, greatly increasing World Generation, resulting in faster World Creation times
+	* Completely rewrites the Lighting Engine, greatly reducing World Creation times
 * Phosphor: [Website](https://github.com/mrmangohands/phosphor-fabric) | [Download](https://github.com/mrmangohands/phosphor-fabric/releases/download/mc1.16.1-0.7.2/phosphor-1.16.1-backport-fabric-0.7.2.jar)
-	* Optimizes the Lighting Engine, causing general improvements and faster World Generation 
-
-		
-		
+	* Optimizes the Lighting Engine, causing general improvements and faster World Generation  
 
 
-## Practice Maps: https://www.minecraftspeedrunning.com/public-resources/maps
-	General Speedrun Practice: https://youtu.be/UihtGJhK_-w
-		https://sethbling.s3-us-west-2.amazonaws.com/Downloads/DataPacks/speedrun_practice.zip
-	Nether Portals: https://youtu.be/K233ih6nSCU
-		https://www.mediafire.com/file/1oanxrh14db4u7g/Portal_Practice.zip/file
-	Bastions: https://youtu.be/jlA-jW7VGqw | how to save loadout: https://youtu.be/uTn9LwB5WAE
-		https://www.dropbox.com/s/9e103bjzroi85aa/Llama%27s%20Bastion%20Practice%20v2.6.1.zip?dl=0
-	Blazes: https://youtu.be/CNqrnlgCRXk
-		https://www.mediafire.com/file/2c6vo3qt9hv3qp5/Blaze_Practice.zip/file
-	End Fight: https://youtu.be/fV5B7xJmiZU
-		https://sites.google.com/view/emma-practice-map/home
-			
+## Practice Maps
+[Website](https://www.minecraftspeedrunning.com/public-resources/maps)  
+* Sethbling's Speedrun: [Video](https://youtu.be/UihtGJhK_-w) | [Download](https://sethbling.s3-us-west-2.amazonaws.com/Downloads/DataPacks/speedrun_practice.zip)
+* Semper's Nether Portal: [Video](https://youtu.be/K233ih6nSCU) | [Download](https://www.mediafire.com/file/1oanxrh14db4u7g/Portal_Practice.zip/file)
+* Llama's Bastion: [Video](https://youtu.be/jlA-jW7VGqw) | [Download](https://www.dropbox.com/s/9e103bjzroi85aa/Llama%27s%20Bastion%20Practice%20v2.6.1.zip?dl=0) | [Loadout Guide](https://youtu.be/uTn9LwB5WAE)
+* Semper's Blaze: [Video](https://youtu.be/CNqrnlgCRXk) | [Download](https://www.mediafire.com/file/2c6vo3qt9hv3qp5/Blaze_Practice.zip/file)
+* Emma's End: [Video](https://youtu.be/fV5B7xJmiZU) | [Download](https://sites.google.com/view/emma-practice-map/home)
+
+
+## Bastions
+[Identification Playlist](https://www.youtube.com/watch?v=TioQsF5ygOg&list=PLS6QbW9YR38SQFYq6NIuGnHxoL73dFp8Y) | [Routing Spreadsheet](https://bit.ly/3kv8NL1)   
+<br/>
+**Identification:** Videos by T_Wagz, Screenshots by ElaMeTrataDiferente
+* Bridge: [Video]() | [Screenshots]()
+* Treasure: [Video]() | [Screenshots]()
+* Housing: [Video]() | [Screenshots]()
+* Stables: [Video](https://youtu.be/TioQsF5ygOg?list=PLS6QbW9YR38SQFYq6NIuGnHxoL73dFp8Y&t=149) | [Screenshots](https://bit.ly/3kv8NL1)
 
 
 Bastions: 4 Types of Bastions, all with multiple Routes for optimal trade times
