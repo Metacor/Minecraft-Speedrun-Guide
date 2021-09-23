@@ -84,7 +84,7 @@
 * Find a nearby Lava Lake, or Dig deeper in the Cave to find Lava → [Create a Nether Portal](https://youtu.be/iaUF0oaegns?t=2029) → Enter the Nether
 	* While in the Nether, Collect Mushrooms in order to Craft [Suspicious Stews](https://i.imgur.com/9ckpeB6.png)
 
-## **Standard** | Village Overworld: Spawn with a nearby Plains, Desert, or Savanna Village
+## **Standard** | Village Overworld: Spawn with a nearby Village, Ideally a Plains, Desert, or Savanna Village, for the guaranteed Hay Bales
 *if Village is in a Desert, Gather Wood / Stone before entering it, since the building will be made out of Sand*
 * Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
 * Place the Crafting Table near your Mining Destination → Craft a Wooden Pickaxe →
@@ -145,7 +145,7 @@
 		* Fall Damage: 1/2 Heart per Block above 3 Blocks (4 Blocks = 1/2 Heart | 7 Blocks = 2 Hearts | 15 Blocks = 6 Hearts, etc)
 			* While in the Stronghold, you can climb up the Starter Staircase to easily get some height
 
-## **Advanced** | Pirate + Monument: Pirate Strat, with a nearby Ocean Monument
+## **Advanced+** | Pirate + Monument: Pirate Strat, with a nearby Ocean Monument
 **Video Guides:** [T_Wagz](https://youtu.be/0dyHYkg_xIU) | [Silver](https://youtu.be/-b7nQyXZkfw) | [Silver, Part 2](https://youtu.be/14FGC1eUHug)  
 *Gets the same start as Pirate Overworld, but you also collect the guaranteed 8 Gold Blocks from an Ocean Monument, allowing you to completely skip the Bastion in the Nether, if you get decent Trades*  
 * Pirate Start → Shipwreck (Shield, since Fortress without Fire Resistance Potions) → Ocean Monument
