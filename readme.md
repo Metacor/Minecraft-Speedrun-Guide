@@ -164,9 +164,9 @@
 
 ## **Expert** | [Hypermodern](https://youtu.be/gAHMJfsrHe4)
 *Combination of the most optimal strats, Resets are frequent, so having a very high Reset Efficiency is recommended*
-* Pirate → Ravine Nether Entry → Microlensing → Bastion → Pie-Ray → Fortress, Blazebed → Blind/Divine Travel →
+* Pirate → Ravine Nether Entry → Microlensing → Bastion → Pie-Ray → Fortress, Blazebed → Blind/Divine Travel
 	* if 20+ Obsidian: Educated / Calulated Travel
-* Triangulation → Starter Staircase Stronghold Entry, if Ocean exposed; Portal Room Entry → Stronghold Navigation → End Entry →
+* Triangulation → Starter Staircase Stronghold Entry (if Ocean exposed: Portal Room Entry) → Stronghold Navigation → End Entry →
 	* Half-Bow + North / South Ground + One-Cycle Dragon (4 Bed)  
 
 
