@@ -387,7 +387,7 @@
 	* *the Chest Interface will prioritize your Hotbar, before putting items into your Inventory*
 	* *the Inventory and Crafting Interfaces will prioritize putting items into your Inventory first*
 * *requires an Item to be currently Selected, otherwise you will just instantly send over a single Stack*
-	* *your current Selected Item Stack will not be Trasnfered*
+	* *your current Selected Item Stack will not be Transferred*
 	* *to easily send ALL of an item type, have an unrelated Item Selected*
 		
 <br/>
