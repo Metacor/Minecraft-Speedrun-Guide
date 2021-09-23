@@ -375,10 +375,13 @@
 * It takes slightly less time to Mine Stone, than it does to Mine Cobblestone
 	* **Wooden Pickaxe**: **Stone** takes **1.15 Seconds** | **Cobblestone** takes **1.5 Seconds**
 	* **Stone Pickaxe**: **Stone** takes **0.6 Seconds** | **Cobblestone** takes **0.75 Seconds**
-* if you're unable to find a Lava Lake on the surface, try digging near small Water Lakes - Lava tends to spawn below
-* While searching for Ocean Ravines, look out for Kelp - it tends to spawn above Ravines
-	* if you see floating Kelp in a Deep Ocean, there is likely a Ravine below it - [Video](https://youtu.be/yGyMWYhHYoQ?t=471)
-* if you are having trouble with Glitchy Buckets while making Nether Portals, watch this [Video](https://youtu.be/EjwStTX4U3A)
+* Lava Lakes
+	* if you're unable to find a Lava Lake on the surface, try digging near small Water Lakes - Lava tends to spawn below
+* [Ocean Ravines](https://youtu.be/yGyMWYhHYoQ?t=471)
+	* While searching for Ocean Ravines, look out for Kelp - it tends to spawn above Ravines
+	* if you see floating Kelp in a Deep Ocean, there is likely a Ravine below it
+* [Glitchy Buckets](https://youtu.be/EjwStTX4U3A)
+	* if you're having trouble with Glitchy Buckets while making Nether Portals, watch the video posted above
 * Buckets of Water don't actually work in the Nether, so when you're done with your Nether Portal, fill it with Lava
 
 ## The Nether:
