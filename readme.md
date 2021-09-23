@@ -372,7 +372,7 @@
 		* Activate the Pressure Plate →
 		* Break the TnT below you (don't activate it) →
 		* Crouch in the hole under the active TnT, avoiding most of it's Damage
-* It takes slightly less time to Mine Stone, than it does to Mine Cobblestone (*Found as part of Village Buildings*)
+* It takes slightly less time to Mine Stone, than it does to Mine Cobblestone (*Found as part of Plains Village Buildings*)
 	* **Wooden Pickaxe**: **Stone** takes **1.15 Seconds** | **Cobblestone** takes **1.5 Seconds**
 	* **Stone Pickaxe**: **Stone** takes **0.6 Seconds** | **Cobblestone** takes **0.75 Seconds**
 * Stone is slightly faster to Mine than Cobblestone (found as part of houses in Plains Villages)
