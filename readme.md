@@ -342,7 +342,7 @@
 * *which item drops depends on if your Inventory is Currently Opened or Closed
 	* *Inventory Opened: Drops Currently Hovered Item*
 	* *Inventory Closed: Drop Currently Selected Item*
-* *hold the Control key while pressing Q, in order to Drop the entire stack*
+* *holding the Control key while pressing Q will drop an entire Stack of Items*
 
 **Transfer Item**: *Shift + Click (left **or** right, both work)*
 * Sends an Item To/From your Hotbar/Inventory
@@ -355,19 +355,22 @@
 	* *Inventory Closed: Right Click, Selected*
 * *both of these methods require the Equipment Slot to be currently Empty, otherwise you will need to Manually Equip*
 
+**Half Split**: *Right Click*
+* Selects half a Stack of an Item, leaving the other half in the Slot that you Selected it from
+* *requires the Stack of Items to be in any Slot, while you're not currently Selecting an Item*
+
+**Drag Split, 1**: *Select an Item → Hold Right Click → Drag*
+* Splits off 1 Item into each Slot that you Drag the Stack over
+* *press Left Click to undo the current Split Selection, (before releasing Right Click)*
+
+**Drag Split, x**: *Select an Item → Hold Left Click → Drag*
+* Equally Splits a Stack of Items between multiple Slots
+	* *stack of 30: 2 Slots x 15 Items | 3 Slots x 10 Items | 4 Slots x 7 Items (+2), etc*
+* *press Right Click to undo the current Split Selection, (before releasing Left Click)*
 
 
 
 
-			Equip Item; Puts an equipable Item on your Character's corresponding equipment Slot
-				if Inventory is closed, select in Hotbar → Right Click | if open, Transfer Item (Shift + Click)
-				(both of these methods require the Slot to be currently empty, if it's filled, you need to manually equip)
-			Half Split; Selects half the Stack of an Item, leaving the other half in the Slot you Selected it from
-				Right Click an item in an Item Slot (while not currently having anything Selected)
-			Drag Split 1; Split off 1 Item into each Slot that you Drag over
-				Select an Item → Hold Right Click → Drag (Press Left Click to Undo the current Split)
-			Drag Split x; Equally Split a Stack of Items between multiple Slots (Stack of 30: 2x15, 3x10, 4x7(+2) etc)
-				Select an Item → Hold Left Click → Drag (Press Right Click to Undo the current Split)
 			Select all of Item Type; Combine all Stacks of a type of Item into 1 Stack (Max Stack Limits still apply)
 				if nothing is Selected, Double Left Click | if the same Item Type is Selected, Triple Left Click
 				(this will not work if you have an unrelated Item Selected, you will simply switch the selection)
