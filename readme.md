@@ -127,7 +127,7 @@
 		* if 8+ Iron: Iron Shovel, otherwise Wood/Stone Shovel
 		* if 11+ iron: Craft an Iron Axe
 		* if any remaining Iron Ingots, Craft Iron Armor (can also save 1 for a Shield, if Fortress before Bastion)
-		* Dig up Gravel until you find some Flint → Craft a Flint and Steel → Pickup the Crafting Table (and Door)
+	* Dig up Gravel until you find some Flint → Craft a Flint and Steel → Pickup the Crafting Table (and Door)
 * Resurface → Place the Boat → Search for an Ocean Ravine → 
 	* When Searching for an Ocean Ravine, turn on Entity Hitboxes (F3 + B), and look out for Floating Kelp
 	* Kelp Tends to spawn above Ravines, and if the Ravine has Gravel/Sand in it, [the Kelp will Break](https://youtu.be/yGyMWYhHYoQ?t=471)
