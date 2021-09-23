@@ -27,7 +27,7 @@
 * Starlight: [Website](https://github.com/PaperMC/Starlight) | [Download](https://github.com/PaperMC/Starlight/releases/download/1.0.0-RC2/starlight-fabric-1.0.0-RC2-1.16.x.jar)
 	* Completely rewrites the Lighting Engine, greatly increasing World Generation, resulting in faster World Creation times
 * Phosphor: [Website](https://github.com/mrmangohands/phosphor-fabric) | [Download](https://github.com/mrmangohands/phosphor-fabric/releases/download/mc1.16.1-0.7.2/phosphor-1.16.1-backport-fabric-0.7.2.jar)
-	* Optimizes the Lighting Engine, causing general improvements and faster World Generation
+	* Optimizes the Lighting Engine, causing general improvements and faster World Generation 
 
 		
 		
