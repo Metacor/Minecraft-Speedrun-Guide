@@ -3,18 +3,18 @@
 
 ## Setup 
 ### Video Guides: [k4yfour](https://youtu.be/4cTbSyvWNgI) | [DashPum4](https://youtu.be/km0sXurMj5s)
-* Win + r -> %appdata% -> .minecraft -> options.txt (gamma:5.0, syncChunkWrites:false)  
-* Options -> Music & Sounds -> Show Subtitles: ON  
-* Options -> Video Settings -> Quality -> Entity Distance (500)  
+* Win + r → %appdata% → .minecraft → options.txt (gamma:5.0, syncChunkWrites:false)  
+* Options → Music & Sounds → Show Subtitles: ON  
+* Options → Video Settings → Quality → Entity Distance (500)  
 * with Sodium Mod: (Disabling Entity Culling isn't required for Sodium v0.2.0+)
-	* Options -> Video Settings -> Advanced -> Disable Entity Culling   
-	* Options -> Video Settings -> Unofficial -> Enable Planar Fog  
+	* Options → Video Settings → Advanced → Disable Entity Culling   
+	* Options → Video Settings → Unofficial → Enable Planar Fog  
 
 ## Mods
 [Website](https://www.minecraftspeedrunning.com/public-resources/mods ) | [Explainations](https://youtu.be/km0sXurMj5s?t=126)  
 ### Fabric Loader (DON'T USE FABRIC API): [Website](https://fabricmc.net/use/) | [Download](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.4/fabric-installer-0.7.4.jar)  
 * Auto Reset Mod: [Website](https://github.com/DuncanRuns/AutoResetMod) | [Download](https://github.com/DuncanRuns/AutoResetMod/releases/download/v1.2.0/autoreset-1.2.0+MC1.16.1.jar)
-	* When Active, on pressing Quit: Quits -> Creates a New World, with correct Settings -> Loads the World
+	* When Active, on pressing Quit: Quits → Creates a New World, with correct Settings → Loads the World
 	* **Optional**: AHK Keybind Reset + Saved Worlds Culling [Video](https://youtu.be/km0sXurMj5s?t=187)
 * Fast Reset: [Website](https://github.com/jan-leila/FastReset) | [Download](https://github.com/jan-leila/FastReset/releases/download/1.15.2-1.0.0/fast_reset-1.15.2-1.0.0.jar)
 	* Disables the forced Auto Save when Exiting a World, saving time between Resets  
@@ -76,24 +76,34 @@
 <br/>
 
 # Speedrun Guide
+**Video Guides:** [Haroon Shah, Jun 2021](https://youtu.be/iaUF0oaegns) | [Couriway, Dec 2020](https://youtu.be/REas9cmjlic) | [LiquidCandy, Dec 2020](https://youtu.be/14XeowuYgV0) | [Cuffep, Oct 2020](https://youtu.be/GQodZBfdL3g)
+
+### **[Beginner]** [Structureless Overworld](https://youtu.be/7dOca1LHefk): Slower, but requires far fewer Resets
+* Gather 3 Wood → Craft 12 Planks → Craft a Crafting Table + 8 Sticks
+* Find a nearby Cave → Decend the Cave until you find Iron
+	* Place your Crafting Table → Craft a Wooden Pickaxe → 
+
+
+
+
 [Beginner] Structureless Overworld: Slower, but fewer resets - https://youtu.be/7dOca1LHefk
-	Gather 3 Wood -> 12 Planks -> Crafting Table + 8 Sticks
-	Find a nearby Cave, go down until you find Iron -> Place Crafting Table -> Craft Wooden Pickaxe
-		Mine 3 Cobblestone -> Craft Stone Pickaxe -> Mine 7 Iron (8 if Shield) + 12 Cobblestone + 1 Coal
+	Gather 3 Wood → 12 Planks → Crafting Table + 8 Sticks
+	Find a nearby Cave, go down until you find Iron → Place Crafting Table → Craft Wooden Pickaxe
+		Mine 3 Cobblestone → Craft Stone Pickaxe → Mine 7 Iron (8 if Shield) + 12 Cobblestone + 1 Coal
 		Craft Furnace + Stone Axe + Stone Shovel, Pickup Crafting Table
-		Resurface, Place Furance @ Tree, Smelt Iron -> Chop 8+ Wood
-			Collect the first Iron Ingot -> Search for Gravel, dig for Flint -> Craft Flint and Steel
+		Resurface, Place Furance @ Tree, Smelt Iron → Chop 8+ Wood
+			Collect the first Iron Ingot → Search for Gravel, dig for Flint → Craft Flint and Steel
 				Kill burning animals to get pre-cooked meat and search for Dandelions/Blue Orchids
-			Once the Iron is done, place Crafting Table -> Craft Iron Pickaxe + Bucket + Boat + Bowls
-	Find a nearby Lava Lake, or dig in the cave to find Lava -> Create Nether Portal -> Enter the Nether;
+			Once the Iron is done, place Crafting Table → Craft Iron Pickaxe + Bucket + Boat + Bowls
+	Find a nearby Lava Lake, or dig in the cave to find Lava → Create Nether Portal → Enter the Nether;
 		Collect Mushrooms for Stews (Dandelion Stew gives a Saturation Buff); https://i.imgur.com/9ckpeB6.png
 
 
 [Standard] Village Overworld: Village Spawn | Ideally Plains, Savanna, or Desert for Hay Bales
 	if Desert Village; Grab Wood / Stone before going into the Village (their buildings don't use wood)
-	Gather 3 Wood -> 12 Planks -> Crafting Table + 8 Sticks
-		Place Crafting Table @ Mining Destination -> Craft Wooden Pickaxe -> 
-			Mine 6 Stone -> Craft Stone Shovel + Axe + Hoe -> Pickup Crafting Table -> Chop 8+ Wood
+	Gather 3 Wood → 12 Planks → Crafting Table + 8 Sticks
+		Place Crafting Table @ Mining Destination → Craft Wooden Pickaxe → 
+			Mine 6 Stone → Craft Stone Shovel + Axe + Hoe → Pickup Crafting Table → Chop 8+ Wood
 
 	Village Tasks:
 		Loot Blacksmiths, if available;
@@ -105,48 +115,48 @@
 		Collect Beds from Village Houses (+Carpets, if Carpet Flintless Portal)
 
 		Kill the Golem for 3-5 Iron Ingots;
-			Hit the Golem (from behind) -> Run a few Blocks away -> Build up 3 Blocks (Wood Planks) ->
-				Crit the Golem 8-9 times to Kill it; Jump -> Fall -> Attack (Stone Hatchet)
+			Hit the Golem (from behind) → Run a few Blocks away → Build up 3 Blocks (Wood Planks) →
+				Crit the Golem 8-9 times to Kill it; Jump → Fall → Attack (Stone Hatchet)
 
-		Place Crafting Table -> Craft Iron Pickaxe, Boat, (+Composter/Barrel if doing Bucket Trade)
+		Place Crafting Table → Craft Iron Pickaxe, Boat, (+Composter/Barrel if doing Bucket Trade)
 			if 4 Iron Ingots; Craft Flint and Steel (after getting Flint from digging up Gravel)
 				if you only get 3 Iron Ingots, you can search for a Shipwreck/Ruined Portal
-				or learn Flintless Portal; Turn on Hard Difficulty -> Back to Easy when the Portal Lights
+				or learn Flintless Portal; Turn on Hard Difficulty → Back to Easy when the Portal Lights
 					Teaching Video; https://youtu.be/axHdNQtPOf8?t=66
 					More Strats; https://www.youtube.com/watch?v=DVDbfKuLaWo
 			if 5 Iron Ingots; Craft Shield, useful for Fortress before Bastion Nethers
 
-		Hoe 7 Hay Bales -> 7:63 Wheat -> Hoe 7 additional Hay Bales -> Bucket Trade;
+		Hoe 7 Hay Bales → 7:63 Wheat → Hoe 7 additional Hay Bales → Bucket Trade;
 			Find or Craft Composter (7 Wood Slabs)
 				Turn a Villager into a Farmer; Trade Wheat 60:3 Emeralds
 			Find or Craft Barrel (6 Wood Planks + 2 Wood Slabs)
 				Turn a Villager into a Fisherman; Trade Emeralds 3:1 Bucket of Cod
 
-		Craft Hay bales -> Wheat -> Bread -> Pickup Crafting Table
+		Craft Hay bales → Wheat → Bread → Pickup Crafting Table
 			
-	Leave the Village and Search for a Lava Lake -> Create a Nether Portal -> Enter the Nether;
+	Leave the Village and Search for a Lava Lake → Create a Nether Portal → Enter the Nether;
 		Nether Portal, Standard Method; https://youtu.be/iaUF0oaegns?t=2029
 			Minimum Blocks Needed: https://i.imgur.com/jSspUON.png
 			Minimum Space Needed: https://i.imgur.com/GKtJlok.png
 
 
 [Advanced] Pirate Overworld: Ocean Spawn | Requires a nearby Shipwreck with 7+ Iron Ingots (Ideally 11+)
-	Gather 3 Wood -> 12 Planks -> Crafting Table + 8 Sticks
-		Place Crafting Table @ Tree -> Craft Wooden Axe -> Chop 8+ Wood ->
-			Craft Doors -> Craft Boat -> Pickup Crafting Table ->
-				Place Boat in the Ocean -> Search for a Shipwreck (don't forget to grab the Boat when you dive)
+	Gather 3 Wood → 12 Planks → Crafting Table + 8 Sticks
+		Place Crafting Table @ Tree → Craft Wooden Axe → Chop 8+ Wood →
+			Craft Doors → Craft Boat → Pickup Crafting Table →
+				Place Boat in the Ocean → Search for a Shipwreck (don't forget to grab the Boat when you dive)
 
-	Once you find a Shipwreck, go to the Top side @ the Back of the Boat -> Loot Chest;
-		if <7 iron; Grab the Buried Treasure Map and locate the Buried Treasure, if bad Loot -> Reset
+	Once you find a Shipwreck, go to the Top side @ the Back of the Boat → Loot Chest;
+		if <7 iron; Grab the Buried Treasure Map and locate the Buried Treasure, if bad Loot → Reset
 		you can use the Door in the Chest room to refresh your breath meter
 
-	Swim to the nearest Gravel -> Place Crafting Table @ Ocean floor -> Place Door on top of the Table ->
-		Craft Iron Pickaxe, Bucket, (if 8+ Iron; Iron Shovel, else; Wood/Stone Shovel), (if 11+ Iron; Iron Axe) ->
+	Swim to the nearest Gravel → Place Crafting Table @ Ocean floor → Place Door on top of the Table →
+		Craft Iron Pickaxe, Bucket, (if 8+ Iron; Iron Shovel, else; Wood/Stone Shovel), (if 11+ Iron; Iron Axe) →
 			if Gold Ingots, can get Gold Shovel (allowing you to get Iron Axe with 10 Iron)
 			if any Iron Ingots remain, Craft Shield (if wanted), and Iron Armor
-			Dig up Gravel for Flint -> Craft Flint and Steel -> Pickup Crafting Table
+			Dig up Gravel for Flint → Craft Flint and Steel → Pickup Crafting Table
 
-	Resurface -> Place Boat -> Search for an Ocean Ravine -> Ravine Nether Portal: 
+	Resurface → Place Boat → Search for an Ocean Ravine → Ravine Nether Portal: 
 		Standard: https://youtu.be/yGyMWYhHYoQ
 		Cobble Skip: https://youtu.be/H2fHDidyfJo?t=63
 		2-Wide: https://youtu.be/K233ih6nSCU?t=94 (not really a guide)
@@ -154,8 +164,8 @@
 
 	You wont have any Beds, Make sure you get enough String from Trades: 7 Beds = 84 String (+21 Planks)
 	You wont have much Food, Nether: Make Stews or kill burning Hoglins | Overworld: kill burning Animals
-		Nether: 6 Crying Obsidian + 3 Glowstone (12 Dust) = Respawn Anchor -> Suicide to Reset HP/Hunger
-		Overworld: Before entering The End, Sleep at a Bed -> Suicide to Reset HP/Hunger (if no food)
+		Nether: 6 Crying Obsidian + 3 Glowstone (12 Dust) = Respawn Anchor → Suicide to Reset HP/Hunger
+		Overworld: Before entering The End, Sleep at a Bed → Suicide to Reset HP/Hunger (if no food)
 		Suicide Methods; use any Method that seems convienent to you at the time
 			Fire: Burn yourself with Flint and Steel or Lava, (Put out the Fire, so you don't burn any Items)
 			Ender Pearl: if you have excess Pearls, throw into a nearby Wall/Floor, taking damage on impact
@@ -168,7 +178,7 @@
 	Uses the same strats as Pirate Overworld, but you also go to an Ocean Monument, to collect 
 		the guaranteed 8 Gold Blocks, allowing you to completely skip the Bastion in the Nether
 
-	Pirate Start (Boat/Doors/Blocks) -> Shipwreck (Iron Pickaxe/Bucket) -> Ocean Monument
+	Pirate Start (Boat/Doors/Blocks) → Shipwreck (Iron Pickaxe/Bucket) → Ocean Monument
 	Once you Locate the Ocean Monument, turn your Render Distance to the lowest (RD2), this will cause
 		the Elder Guardian to not spawn most of the time, stopping you from getting Mining Fatigue
 			if you get Mining Fatigue, either drink a Bucket of Milk, or set your Spawn and Suicide
@@ -176,14 +186,14 @@
 		with healing, easy will almost always take 6 hits, and normal will sometimes take 5
 
 	Once you're a reasonable distance away from the Monument, turn your Render Distance back up
-	Continue with the normal Pirate Overworld strats -> Ravine Nether Portal -> Enter the Nether
+	Continue with the normal Pirate Overworld strats → Ravine Nether Portal → Enter the Nether
 
 
 [Expert] Hypermodern: Combination of the most optimal strats, high reset efficiency; https://youtu.be/gAHMJfsrHe4
-	Pirate -> Ravine Nether Entry -> Microlensing -> Bastion Routing -> Pie-Ray ->
-		Fortress -> Blazebed -> Blind/Divine Travel (if 20+ Obsidian; Educated/Calculated) -> Triangulation -> 
-			Stronghold Staircase Entry (if Ocean exposed, Portal Room) -> Stronghold Navigation -> 
-				End Entry -> Half-Bow + N/S Ground + One-Cycle Dragon
+	Pirate → Ravine Nether Entry → Microlensing → Bastion Routing → Pie-Ray →
+		Fortress → Blazebed → Blind/Divine Travel (if 20+ Obsidian; Educated/Calculated) → Triangulation → 
+			Stronghold Staircase Entry (if Ocean exposed, Portal Room) → Stronghold Navigation → 
+				End Entry → Half-Bow + N/S Ground + One-Cycle Dragon
 
 	Optionally; Villages starts, if you have a close Lava Pool / Ruined Portal / Blacksmith (with 10+ Obsidian)
 		if >= 7 Iron (Blacksmith + Golem); Iron Pickaxe + Bucket + Flint and Steel
@@ -204,7 +214,7 @@ The Nether: Bastion, Trade Gold to Piglins for Obsidian/Ender Pearls | Fortress,
 
 	Bastion: if you can, do the Bastion first - Trading has a chance to give you Fire Resistance Potions
 		Identify the Bastion Type, and run the route accordingly
-		Mine Gold Blocks -> Turn into Gold Ingots -> Trap Piglins in a hole -> Trade with Piglins;
+		Mine Gold Blocks → Turn into Gold Ingots → Trap Piglins in a hole → Trade with Piglins;
 			While the Piglins Trade; Loot Chests | Pie-Ray for Fortress Location, if Bastion first
 			@10+ Obsidian, @16+ Ender Pearls; Leave for Fortress (if close to 20 Obsidian, you should wait)
 				Optional Items; Not necessary for the run, but can make it easier
@@ -227,7 +237,7 @@ The Nether: Bastion, Trade Gold to Piglins for Obsidian/Ender Pearls | Fortress,
 
 		When entering a Fortress, change your Render Distance to 5 (RD5), increasing nearby enemy spawns rates
 			this wont change the spawn rate from Blaze Spawners, but will increase naturally spawning blazes
-		Locate a Blaze Spawner -> Drink/Throw Fire Resistance Potion (if acquired) -> Kill Blazes;
+		Locate a Blaze Spawner → Drink/Throw Fire Resistance Potion (if acquired) → Kill Blazes;
 			Loot atleast 7/8 Blaze Rods, you can Mine out around the Blaze Spawner to increase spawn rates
 				Learn how to efficiently Blazebed; (put out Fires ASAP, Blazes only spawn @ Light level <= 11)
 					Blazebed; https://www.youtube.com/watch?v=3TD4jkuT8QA
@@ -272,7 +282,7 @@ The Overworld, Part 2: Find the Location of the Stronghold, Navigate to the Port
 		NinjaBrain Axis Calculated, (can be used for general Triangulation); https://youtu.be/0LDj48fsRT8
 		Change FoV to 30 when Recording the Angle for a more precise Triangulation;
 			Either go to 30 FoV at the start, and back to your normal FoV after Triangulation, or
-			Throw Eye -> Look @ Eye -> FoV: 30 -> Record ° -> FoV: Reset -> Move -> Repeat for Second Eye
+			Throw Eye → Look @ Eye → FoV: 30 → Record ° → FoV: Reset → Move → Repeat for Second Eye
 				It could also be useful to go into Third Person View when throwing the Eye (default F5)
 				to make sure you know which direction it flew, (still look at the Eye in First Person View)
 				if you don't want to use F5, you could also just look at the ground when you throw
@@ -282,7 +292,7 @@ The Overworld, Part 2: Find the Location of the Stronghold, Navigate to the Port
 		if Entering from above, Dig @ 4/x/4 (3,4,5/x/3,4,5 all work) in the Chunk to enter the Starter Staircase
 		if not entering @ the Starter Staircase; Go through Backwards Doors until you find it
 		Portal Room is usually within 5-7 rooms of the Starter Staircase
-		on entering the Portal Room, run up the stairs -> place a block in the lava -> stand on it ->
+		on entering the Portal Room, run up the stairs → place a block in the lava → stand on it →
 			Place Eyes of Ender into the End Portal Frames, on the final Frame, you will be teleported to The End
 
 
@@ -297,7 +307,7 @@ The End: Kill the Ender Dragon, Finish the Game;
 	You always Spawn to the East, facing the Main Island, Ender pearl to the Island if possible
 		if you spawn underground, Dig up in the top left/right corner
 
-	Get to the Fountain asap -> setup the bed platform -> run in your desired direction
+	Get to the Fountain asap → setup the bed platform → run in your desired direction
 		The Dragon Perches faster the futher away you are from the fountain
 		Run away in a Cardinal Direction, in relation to the fountain
 			if you don't, the dragon might Diagonal Perch, making the one cycle very hard
@@ -305,7 +315,7 @@ The End: Kill the Ender Dragon, Finish the Game;
 		The Dragon will Perch on the Opposite side of you;
 			so if you're North, and the dragon snaps middle from the South, it's likely perching
 	if 2+ Pearls; Pearl to the highest tower in your desired direction (N/S/E/W), build up to y = 122
-		if the Dragon fireballs you, either dodge it, or get hit on purpose then jump -> place a block below you
+		if the Dragon fireballs you, either dodge it, or get hit on purpose then jump → place a block below you
 	F3 + B to enable Hitboxes for the Dragon fight, also helps with recognizing the Perch
 	When the Dragon starts to Perch, Pearl/Run to the fountain and Kill it with beds
 
@@ -315,12 +325,12 @@ The End: Kill the Ender Dragon, Finish the Game;
 
 ~-~-~-~-~-~-~-~-~- Keybinds & Shortcuts -~-~-~-~-~-~-~-~-~
 F3 Keybinds: F3 + Q = Shows most F3 Commands in-game 
-	F3+F4 = Game Mode Selection (Open to LAN -> Allow Cheats: ON -> Start LAN World -> F3+F4), after a Failed Run
+	F3+F4 = Game Mode Selection (Open to LAN → Allow Cheats: ON → Start LAN World → F3+F4), after a Failed Run
 	F3 = Standard F3 Menu
 	F3 + G = Chunk Borders
 	F3 + B = Hitboxes
 	Useful for Pie-ray scouting; https://www.youtube.com/watch?v=Aq9qfHNEOHM
-		Shift + F3 = Pie Chart F3 Menu (Tick -> Level -> Entites -> Block Entites)
+		Shift + F3 = Pie Chart F3 Menu (Tick → Level → Entites → Block Entites)
 		F3 + F = Increase Render Distance by 1
 		F3 + Shift + F = Decrease Render Distance by 1
 		
@@ -336,14 +346,14 @@ Inventory Management: (Storage Interface = Chest, Crafting Table etc)
 	Transfer Item; Shift + Click (left or right, both work) Sends an Item To/From your Hotbar/Inventory
 		(if a Storage Interface is open, then you will Transfer between that and your Inventory instead)
 	Equip Item; Puts an equipable Item on your Character's corresponding equipment Slot
-		if Inventory is closed, select in Hotbar -> Right Click | if open, Transfer Item (Shift + Click)
+		if Inventory is closed, select in Hotbar → Right Click | if open, Transfer Item (Shift + Click)
 		(both of these methods require the Slot to be currently empty, if it's filled, you need to manually equip)
 	Half Split; Selects half the Stack of an Item, leaving the other half in the Slot you Selected it from
 		Right Click an item in an Item Slot (while not currently having anything Selected)
 	Drag Split 1; Split off 1 Item into each Slot that you Drag over
-		Select an Item -> Hold Right Click -> Drag (Press Left Click to Undo the current Split)
+		Select an Item → Hold Right Click → Drag (Press Left Click to Undo the current Split)
 	Drag Split x; Equally Split a Stack of Items between multiple Slots (Stack of 30: 2x15, 3x10, 4x7(+2) etc)
-		Select an Item -> Hold Left Click -> Drag (Press Right Click to Undo the current Split)
+		Select an Item → Hold Left Click → Drag (Press Right Click to Undo the current Split)
 	Select all of Item Type; Combine all Stacks of a type of Item into 1 Stack (Max Stack Limits still apply)
 		if nothing is Selected, Double Left Click | if the same Item Type is Selected, Triple Left Click
 		(this will not work if you have an unrelated Item Selected, you will simply switch the selection)
@@ -359,13 +369,13 @@ The Overworld:
 	Shipwrecks; Front = Food | Back = Top: Iron/Gold, Bot: Treasure Maps
 		Buried Treasure always spawns @ 9/x/9 in the chunk where the X is located
 	Desert Temples: Clear the Chests + surrounding Blocks with 1 TnT: https://youtu.be/gS6LxaNibWM?t=76
-		Grab TnT -> Place 1 up top (in a corner) -> Pressure Plate next to it -> Activate -> Crouch in the hole
+		Grab TnT → Place 1 up top (in a corner) → Pressure Plate next to it → Activate → Crouch in the hole
 	Stone is slightly faster to Mine than Cobblestone (found as part of houses in Plains Villages)
 	Why 8+ Wood @ Overworld 1, after crafting Stone Tools; More is fine, less is risky
 		W=Wood,P=Plank [8W=32P: 12P Left,(6P if Shield) | if Flintless: 0P], (+1P, Pickaxe Leftover)
-		2W -> 8P, 6P -> 12 Slabs | 9|10 Needed, [-7(composter), -2(barrel), -1,Optional(slab dragon)]
-		4W -> 16P, 14P -> [-6(barrel), -5(boat), -3(golem tower)]
-			if Flintless; 2W -> 8P(+4 Leftover = 12P), https://i.imgur.com/wyPQ9Sb.png
+		2W → 8P, 6P → 12 Slabs | 9|10 Needed, [-7(composter), -2(barrel), -1,Optional(slab dragon)]
+		4W → 16P, 14P → [-6(barrel), -5(boat), -3(golem tower)]
+			if Flintless; 2W → 8P(+4 Leftover = 12P), https://i.imgur.com/wyPQ9Sb.png
 	if you can't find a Lava Lake on the surface, try to dig near Small Water Lakes (Lava tends to spawn below)
 	if searching for Ocean Ravines, try to find Kelp, as it tends to spawn above Ravines
 		floating kelp in an Ocean is an ever larger indicator; https://youtu.be/yGyMWYhHYoQ?t=471
@@ -388,25 +398,25 @@ The Overworld 2: Triangulation + Stronghold
 	Strongholds are extremely unlikely to spawn in Swamps (supposedly): https://youtu.be/_rbWryJVEmw?t=1011
 	In the Stronghold, Spiral Staircases always lead UP to the Entrance
 	Libraries lead nowhere, if you enter a Library from the Starter Staircase, turn around
-		if you need more Beds, you can gather string from Library Cobwebs (use a Sword or Shears, 20s -> 0.4s)
+		if you need more Beds, you can gather string from Library Cobwebs (use a Sword or Shears, 20s → 0.4s)
 
 The End:
 	The Dragon's Fireball doesn't do damage, the AoE ground effect does;
-		an easy way to avoid the damage, is to get hit on purpose, then jump -> place a block below you
+		an easy way to avoid the damage, is to get hit on purpose, then jump → place a block below you
 
 
 Practice: Ideally, get comfortable with each of these steps before starting runs
-	Beginning Overworld Movement: 3 Wood -> 12 Planks -> Crafting Table + 8 Sticks
-		Wood(1) -> sClick Planks -> Planks(`), bR -> Split -> Drag bR, bL, tL -> Left Click tR -> collect, sClick x2;
+	Beginning Overworld Movement: 3 Wood → 12 Planks → Crafting Table + 8 Sticks
+		Wood(1) → sClick Planks → Planks(`), bR → Split → Drag bR, bL, tL → Left Click tR → collect, sClick x2;
 			Crafting: https://i.imgur.com/pzABDu2.png | Demonstration: https://youtu.be/TeFeMmjoUIc?t=28
-	Place Table -> Craft Wood Pick -> Mine 6 Stone -> 
-		Stick(f), bM -> Split, lClick mM -> Plank(1), tL -> Split -> Drag tM, tR -> collect, F	
+	Place Table → Craft Wood Pick → Mine 6 Stone → 
+		Stick(f), bM → Split, lClick mM → Plank(1), tL → Split → Drag tM, tR → collect, F	
 			Crafting: https://i.imgur.com/k3vCKuq.png	
 	Craft Stone Axe + Shovel + Hoe
-		Stick(2), bM -> Split, lClick mM -> Stone(3), tM -> Split -> rClick mL -> lClick tL -> Collect, R -> 4 -> 5
+		Stick(2), bM → Split, lClick mM → Stone(3), tM → Split → rClick mL → lClick tL → Collect, R → 4 → 5
 			Crafting: https://i.imgur.com/TCqDxat.png
-	Collect Table -> Farm Wood (Normally:8) -> Planks -> 4 Sticks
-	Kill Golem -> Table -> Iron Pick -> Boat -> Collect Table
+	Collect Table → Farm Wood (Normally:8) → Planks → 4 Sticks
+	Kill Golem → Table → Iron Pick → Boat → Collect Table
 
 	Village: Identify which Houses have Beds (and Carpets)
 	Nether Portal Construction, +Flintless Portal
@@ -418,7 +428,7 @@ Practice: Ideally, get comfortable with each of these steps before starting runs
 	Blind Travel: Try to remember the general locations of the 1st/2nd Ring Coordinates
 
 	Triangulation: Quick 90° turn + Consistent 17.5 Block Jumps, Fast Menuing
-	Stronghold: Optimal Navigation, do a lot of stronghold trial solves (random -> starter -> portal)
+	Stronghold: Optimal Navigation, do a lot of stronghold trial solves (random → starter → portal)
 	Dragon: 1 Cycle (N/S Perch), <=7 Beds, with Obsidian and Full Block/Slab setups (no obby backup)
 
 
