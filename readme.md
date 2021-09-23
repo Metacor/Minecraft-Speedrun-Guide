@@ -409,8 +409,8 @@
 	* if you need more Beds, you can gather string from Library Cobwebs (use a Sword or Shears, 20s → 0.4s)
 
 ### The End:
-* The Dragon's Fireball doesn't do damage, the AoE ground effect does;
-	* an easy way to avoid the damage is to get hit on purpose, then jump → place a block below you
+* The Dragon's Fireball doesn't actually do damage, the AoE ground effect it leaves behind does;
+	* an easy way to avoid the damage is to get hit on purpose, then Jump → place a Block below you
 		
 <br/>
 
