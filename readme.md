@@ -372,20 +372,14 @@
 		* Activate the Pressure Plate →
 		* Break the TnT below you (don't activate it) →
 		* Crouch in the hole under the active TnT, avoiding most of it's Damage
-* It takes slightly less time to Mine Stone, than it does to Mine Cobblestone (*Found as part of Plains Village Buildings*)
+* It takes slightly less time to Mine Stone, than it does to Mine Cobblestone
 	* **Wooden Pickaxe**: **Stone** takes **1.15 Seconds** | **Cobblestone** takes **1.5 Seconds**
 	* **Stone Pickaxe**: **Stone** takes **0.6 Seconds** | **Cobblestone** takes **0.75 Seconds**
-* Stone is slightly faster to Mine than Cobblestone (found as part of houses in Plains Villages)
-* Why 8+ Wood @ Overworld 1, after crafting Stone Tools; More is fine, less is risky
-	* W=Wood,P=Plank [8W=32P: 12P Left,(6P if Shield) | if Flintless: 0P], (+1P, Pickaxe Leftover)
-	* 2W → 8P, 6P → 12 Slabs | 9|10 Needed, [-7(composter), -2(barrel), -1,Optional(slab dragon)]
-	* 4W → 16P, 14P → [-6(barrel), -5(boat), -3(golem tower)]
-		* if Flintless; 2W → 8P(+4 Leftover = 12P), https://i.imgur.com/wyPQ9Sb.png
-* if you can't find a Lava Lake on the surface, try to dig near Small Water Lakes (Lava tends to spawn below)
-* if searching for Ocean Ravines, try to find Kelp, as it tends to spawn above Ravines
-	* floating kelp in an Ocean is an ever larger indicator; https://youtu.be/yGyMWYhHYoQ?t=471
-* How to stop glitchy buckets, when making Nether Portals; https://youtu.be/EjwStTX4U3A
-* Water Bucket is useless in the Nether, after making your Nether Portal, grab Lava (grab Water in Overworld 2)
+* if you're unable to find a Lava Lake on the surface, try digging near small Water Lakes - Lava tends to spawn below
+* While searching for Ocean Ravines, look out for Kelp - it tends to spawn above Ravines
+	* if you see floating Kelp in a Deep Ocean, there is likely a Ravine below it - [Video](https://youtu.be/yGyMWYhHYoQ?t=471)
+* if you are having trouble with Glitchy Buckets while making Nether Portals, watch this [Video](https://youtu.be/EjwStTX4U3A)
+* Buckets of Water don't actually work in the Nether, so when you're done with your Nether Portal, fill it with Lava
 
 ## The Nether:
 * While in the Nether, Mine Netherrack (Pickaxe) for some fast and easy blocks
