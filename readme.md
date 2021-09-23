@@ -312,7 +312,7 @@
 ## F3 Keybinds
 **F3**: Standard F3 Menu
 
-**F3 + F4**: Game Mode Selection | Open to LAN → Allow Cheats: ON → Start LAN World → F3+F4 *(after a Failed Run)*
+**F3 + F4**: Game Mode Selection | Open to LAN → Allow Cheats: ON → Start LAN World → F3 + F4 *(after a Failed Run)*
 
 **F3 + Q**: Shows most of the F3 Commands in-game 
 
