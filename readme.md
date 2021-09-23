@@ -321,7 +321,7 @@
 	* Hitboxes  
 
 *Useful for [Pie-ray](https://www.youtube.com/watch?v=Aq9qfHNEOHM) scouting:*
-* F3 + Shift
+* Shift + F3
 	* Pie Chart F3 Menu (Tick → Level → Entites → Block Entites)
 * F3 + F
 	* Increase Render Distance by 1
