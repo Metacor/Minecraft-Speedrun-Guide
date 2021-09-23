@@ -358,14 +358,20 @@
 
 # Tips & Tricks
 ## The Overworld:
-* Shipwrecks: 
-	* Front Side: Food 
+* Shipwrecks 
+	* Front Side Chest: Food 
 	* Back Side: 
 		* Top Chest: Iron Ingots, Gold Ingots
 		* Bot Chest: Buried Treasure Maps
 			* Buried Treasure is always located @ 9|x|9 in the Chunk where the X is located 
-* Desert Temples: Clear the Chests + surrounding Blocks with 1 TnT: https://youtu.be/gS6LxaNibWM?t=76
-	* Grab TnT → Place 1 up top (in a corner) → Pressure Plate next to it → Activate → Crouch in the hole
+* Desert Temples
+	* To quickly clear all of the Chests, aswell as any surrounding Blocks: [Video](https://youtu.be/gS6LxaNibWM?t=76)
+		* Collect all of the TnT → Place 1 TnT under you → 
+		* Place 1 TnT in a Corner on the Top → 
+		* Place a Pressure Plate next to it → 
+		* Activate the Pressure Plate →
+		* Break the TnT below you (don't light it) →
+		* Crouch and hide to avoid the TnT's Explosion Damage
 * Stone is slightly faster to Mine than Cobblestone (found as part of houses in Plains Villages)
 * Why 8+ Wood @ Overworld 1, after crafting Stone Tools; More is fine, less is risky
 	* W=Wood,P=Plank [8W=32P: 12P Left,(6P if Shield) | if Flintless: 0P], (+1P, Pickaxe Leftover)
