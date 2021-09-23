@@ -75,7 +75,7 @@
 * Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
 * Find a nearby Cave → Decend into the Cave until you find Iron Ore
 * Place the Crafting Table → Craft a Wooden Pickaxe → Mine 3 Cobblestone → Craft a Stone Pickaxe → 
-	* Mine 7 Iron (8, if you want a Shield), 12 Cobblestone, and 1-2 Coal
+	* Mine 7 Iron (8 - if you want a Shield), 12 Cobblestone, and 1-2 Coal
 * Craft [a Furnace, a Stone Axe, and a Stone Shovel](https://i.imgur.com/4kdtS6b.png) → Pickup the Crafting Table
 * Resurface → Place the Furnace near a Tree → Smelt the Iron Ore → Chop 8+ Logs
 	* Collect the first Iron Ingot → Search for Gravel → Dig for Flint → Craft a Flint and Steel
