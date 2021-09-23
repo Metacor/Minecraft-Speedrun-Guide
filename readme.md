@@ -337,10 +337,11 @@
 * Selects the Block you crosshair is currently looking at, if you have any of that Item in your Inventory
 * *using Pick Block to select Beds, while One Cycling the Dragon is very useful*
 
-**Drop Stack**: *Control + Q*
-* Drops the entire stack of Items that you either have Selected, or are currently Hovering over
-	* *Inventory Open: Drop Currently Hovered*
-	* *Inventory Closed: Drop Currently Selected*
+**Drop Item**: *Q*
+* Drops the Item that you either currently have Selected, or are currently Hovering over
+	* *Inventory Open: Drop Hovered*
+	* *Inventory Closed: Drop Selected*
+* *hold Control while pressing Q, in order to Drop the entire stack
 
 
 
