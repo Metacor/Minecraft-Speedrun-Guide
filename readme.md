@@ -113,7 +113,7 @@
 	* [Minimum Blocks Required](https://i.imgur.com/jSspUON.png) | [Minimum Space Required](https://i.imgur.com/GKtJlok.png)
 
 ## **Advanced** | Pirate Overworld
-*Spawn near and Ocean, wiht a Shipwreck nearby - with 7+ Iron inside (ideally 11+)*
+*Spawn near an Ocean, with a Shipwreck nearby - with 7+ Iron inside (ideally 11+)*
 * Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
 * Place the Crafting Table near a Tree → Craft a Wooden Axe → Chop 8+ Wood →
 	* Craft Doors, and a Boat → Pickup the Crafting Table
