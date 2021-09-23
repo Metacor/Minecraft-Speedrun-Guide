@@ -87,7 +87,7 @@
 
 ## **Standard** | Village Overworld 
 *Spawn with a nearby Village - Ideally a Plains, Desert, or Savanna Village (for the guaranteed Hay Bales)*  
-*if Village is in a Desert, Gather Wood / Stone before entering it, since the building will be made out of Sand*
+*if Village is in a Desert, Gather Wood / Stone before entering it, since the buildings will be made out of Sand*
 * Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
 * Place the Crafting Table near your Mining Destination → Craft a Wooden Pickaxe →
 	* Mine 6 Stone → Craft [a Stone Shovel, a Stone Axe, and a Stone Hoe](https://i.imgur.com/TCqDxat.png) → Pickup the Crafting Table → Chop 8+ Logs  
