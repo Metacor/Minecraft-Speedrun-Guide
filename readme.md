@@ -43,25 +43,25 @@
 
 
 ## Bastions
-**Identification:** Videos by T_Wagz, Screenshots by ElaMeTrataDiferente
-* Bridge: [Video](https://youtu.be/2pzMpX1RJGI?t=128) | [Screenshots](https://imgur.com/a/OHwW0tb)
-* Treasure: [Video](https://youtu.be/A9GGUWwNcrY?t=132) | [Screenshots](https://imgur.com/gallery/U4FnQC5)
-* Housing: [Video](https://youtu.be/BoNr-pbEITM?t=132) | [Screenshots](https://imgur.com/gallery/wyjWcli)
-* Stables: [Video](https://youtu.be/TioQsF5ygOg?t=149) | [Screenshots](https://imgur.com/gallery/u91rHC4)
+* Bastion Type: **Identification:** Videos by T_Wagz, Screenshots by ElaMeTrataDiferente
+	* Recommend Routes ([Routing Spreadsheet](https://bit.ly/3kv8NL1))
 
-**Routing:** Recommended Routes  ([Routing Spreadsheet](https://bit.ly/3kv8NL1))
-* Bridge
+<br/>
+
+* Bridge: [Video](https://youtu.be/2pzMpX1RJGI?t=128) | [Screenshots](https://imgur.com/a/OHwW0tb)
 	* if Triple, (right side): [Dowsky]()
 	* if Single, (right side): [Dip by EleventyBillion]()
-* Treasure
+* Treasure: [Video](https://youtu.be/A9GGUWwNcrY?t=132) | [Screenshots](https://imgur.com/gallery/U4FnQC5)
 	* [NinjaBrain]()
-* Housing
+* Housing: [Video](https://youtu.be/BoNr-pbEITM?t=132) | [Screenshots](https://imgur.com/gallery/wyjWcli)
 	* if Top: [Top Down Manhunt]()
 	* if Bot: [Manhunt]()
-* Stables
+* Stables: [Video](https://youtu.be/TioQsF5ygOg?t=149) | [Screenshots](https://imgur.com/gallery/u91rHC4)
+
 	* if Triple: [Triple Chest Stables]()
 	* if no Triple, w/ Good Gap: [Good Gap Stables]()
 	* if no Triple, w/ Double Bad Gap: [Better Lucky Next Time](https://i.imgur.com/YxRxdhI.png)
+
 
 <br/>
 
