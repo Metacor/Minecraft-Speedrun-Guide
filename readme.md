@@ -443,7 +443,8 @@
 * Strongholds are extremely unlikely to spawn in Swamps ([supposedly](https://youtu.be/_rbWryJVEmw?t=1011))
 * In the Stronghold, Spiral Staircases always lead up, towards the Starter Staircase
 * Libraries lead nowhere, if you enter a Library from the Starter Staircase, turn around
-	* if you need more Beds, you can gather string from Library Cobwebs (use a Sword or Shears, 20s → 0.4s)
+	* if you need more Beds, you can gather string from Library Cobwebs 
+		* make sure to use either a Sword or Shears, (decreasing the Gather Time from 20s → 0.4s)
 
 ### The End
 * The Dragon's Fireball doesn't actually do damage, the AoE ground effect it leaves behind does;
