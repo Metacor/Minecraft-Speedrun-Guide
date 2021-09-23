@@ -1,34 +1,39 @@
-Minecraft: Version 1.16.1  
-&nbsp;&nbsp;&nbsp;&nbsp;[Discord](https://discord.com/invite/jmdFn3C) | [Minecraft Speedrunning Website](https://www.minecraftspeedrunning.com/)   
+# Minecraft: Version 1.16.1  
+[Discord](https://discord.com/invite/jmdFn3C) | [Minecraft Speedrunning Website](https://www.minecraftspeedrunning.com/)   
 
-Setup Guides: [k4yfour](https://youtu.be/4cTbSyvWNgI) | [DashPum4](https://youtu.be/km0sXurMj5s) 
-	Win + r -> %appdata% -> .minecraft -> options.txt (gamma:5.0, syncChunkWrites:false)  
-	Options -> Music & Sounds -> Show Subtitles: ON  
-	Options -> Video Settings -> Quality -> Entity Distance (500)  
-	with Sodium Mod:  
-		Options -> Video Settings -> Advanced -> Disable Entity Culling   
-		Options -> Video Settings -> Unofficial -> Enable Planar Fog  
+## Setup Guides: [k4yfour](https://youtu.be/4cTbSyvWNgI) | [DashPum4](https://youtu.be/km0sXurMj5s)
+* Win + r -> %appdata% -> .minecraft -> options.txt (gamma:5.0, syncChunkWrites:false)  
+* Options -> Music & Sounds -> Show Subtitles: ON  
+* Options -> Video Settings -> Quality -> Entity Distance (500)  
+* with Sodium Mod: (Disabling Entity Culling isn't required for Sodium v0.2.0+)
+	* Options -> Video Settings -> Advanced -> Disable Entity Culling   
+	* Options -> Video Settings -> Unofficial -> Enable Planar Fog  
 
-Mods: Make sure you're using version 1.16 Mods  
-	https://www.minecraftspeedrunning.com/public-resources/mods  
-		Mod Explainations: https://youtu.be/km0sXurMj5s?t=126  
-	Fabric Loader (Don't use Fabric API): [Website](https://fabricmc.net/use/) | [Download](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.4/fabric-installer-0.7.4.jar)	  
+## Mods
+[Website](https://www.minecraftspeedrunning.com/public-resources/mods ) | [Explainations](https://youtu.be/km0sXurMj5s?t=126)  
+### Fabric Loader is Required for all other Mods listed below (DON'T USE FABRIC API): [Website](https://fabricmc.net/use/) | [Download](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.4/fabric-installer-0.7.4.jar)  
+* Auto Reset Mod: [Website](https://github.com/DuncanRuns/AutoResetMod) | [Download](https://github.com/DuncanRuns/AutoResetMod/releases/download/v1.2.0/autoreset-1.2.0+MC1.16.1.jar)
+	* When Active, on pressing Quit: Quits -> Creates a New World, with correct Settings -> Loads the World
+	* **Optional**: AHK Keybind Reset + Saved Worlds Culling [Video](https://youtu.be/km0sXurMj5s?t=187)
+* Fast Reset: [Website](https://github.com/jan-leila/FastReset) | [Download](https://github.com/jan-leila/FastReset/releases/download/1.15.2-1.0.0/fast_reset-1.15.2-1.0.0.jar)
+	* Disables the forced Auto Save when Exiting a World, saving time between Resets  
+* LazyDFU: [Website](https://modrinth.com/mod/lazydfu) | [Download](https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar)
+	* Lowers the time it takes to initially open the game
+* Sodium: [Website](https://github.com/mrmangohands/sodium-fabric) | [Download](https://github.com/mrmangohands/sodium-fabric/releases/download/mc1.16.1-0.2.0%2Bbuild.17/sodium-1.16.1-backport-fabric-0.2.0+build.17.jar)
+	* Greatly increases General Performance, Reduces Micro-Stutters, and Fixes Graphical Issues
+* Lithium: [Website](https://github.com/mrmangohands/lithium-fabric) | [Download](https://github.com/mrmangohands/lithium-fabric/releases/download/mc1.16.1-0.6.6/lithium-1.16.1-backport-fabric-0.6.6.jar)
+	* Optimizes Game Areas
+### Starlight is incompatible with Phosphor, only use Phosphor if Starlight doesn't work for you
+* Starlight: [Website](https://github.com/PaperMC/Starlight) | [Download](https://github.com/PaperMC/Starlight/releases/download/1.0.0-RC2/starlight-fabric-1.0.0-RC2-1.16.x.jar)
+	* Completely rewrites the Lighting Engine, greatly increasing World Generation, resulting in faster World Creation times
+* Phosphor: [Website](https://github.com/mrmangohands/phosphor-fabric) | [Download](https://github.com/mrmangohands/phosphor-fabric/releases/download/mc1.16.1-0.7.2/phosphor-1.16.1-backport-fabric-0.7.2.jar)
+	* Optimizes the Lighting Engine, causing general improvements and faster World Generation
+
 		
 		
-	Fabric Loader (DO NOT USE FABRIC API)  
-		Autoreset; Automatically Quits -> Creates New World -> Loads World, when exiting a world  
-		Fast Reset; Enables you to Exit World without the forced auto save  
-		LazyDFU; Makes the initial World Load take less time  
 
-		FPS Optimizations; Highly Recommeneded, Boosts FPS by a significant amount  
-			Sodium; Reduces Micro-Stutters, Fixes Graphical Issues  
-			Lithium; Optimizes Game Areas  
-			Phosphor; Optimizes the Lighting Engine  
 
-			Starlight; Compeltely rewrites the Lighting code (Doesn't work with Phosphor)  
-				Starlight is faster, so only use Phosphor if Starlight doesn't work for you  
-
-Practice Maps: https://www.minecraftspeedrunning.com/public-resources/maps
+## Practice Maps: https://www.minecraftspeedrunning.com/public-resources/maps
 	General Speedrun Practice: https://youtu.be/UihtGJhK_-w
 		https://sethbling.s3-us-west-2.amazonaws.com/Downloads/DataPacks/speedrun_practice.zip
 	Nether Portals: https://youtu.be/K233ih6nSCU
