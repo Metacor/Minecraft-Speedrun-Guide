@@ -358,43 +358,43 @@
 
 # Tips & Tricks
 ## The Overworld:
-	Shipwrecks; Front = Food | Back = Top: Iron/Gold, Bot: Treasure Maps
-		Buried Treasure always spawns @ 9/x/9 in the chunk where the X is located
-	Desert Temples: Clear the Chests + surrounding Blocks with 1 TnT: https://youtu.be/gS6LxaNibWM?t=76
-		Grab TnT → Place 1 up top (in a corner) → Pressure Plate next to it → Activate → Crouch in the hole
-	Stone is slightly faster to Mine than Cobblestone (found as part of houses in Plains Villages)
-	Why 8+ Wood @ Overworld 1, after crafting Stone Tools; More is fine, less is risky
-		W=Wood,P=Plank [8W=32P: 12P Left,(6P if Shield) | if Flintless: 0P], (+1P, Pickaxe Leftover)
-		2W → 8P, 6P → 12 Slabs | 9|10 Needed, [-7(composter), -2(barrel), -1,Optional(slab dragon)]
-		4W → 16P, 14P → [-6(barrel), -5(boat), -3(golem tower)]
-			if Flintless; 2W → 8P(+4 Leftover = 12P), https://i.imgur.com/wyPQ9Sb.png
-	if you can't find a Lava Lake on the surface, try to dig near Small Water Lakes (Lava tends to spawn below)
-	if searching for Ocean Ravines, try to find Kelp, as it tends to spawn above Ravines
-		floating kelp in an Ocean is an ever larger indicator; https://youtu.be/yGyMWYhHYoQ?t=471
-	How to stop glitchy buckets, when making Nether Portals; https://youtu.be/EjwStTX4U3A
-	Water Bucket is useless in the Nether, after making your Nether Portal, grab Lava (grab Water in Overworld 2)
+* Shipwrecks; Front = Food | Back = Top: Iron/Gold, Bot: Treasure Maps
+	* Buried Treasure always spawns @ 9/x/9 in the chunk where the X is located
+* Desert Temples: Clear the Chests + surrounding Blocks with 1 TnT: https://youtu.be/gS6LxaNibWM?t=76
+	* Grab TnT → Place 1 up top (in a corner) → Pressure Plate next to it → Activate → Crouch in the hole
+* Stone is slightly faster to Mine than Cobblestone (found as part of houses in Plains Villages)
+* Why 8+ Wood @ Overworld 1, after crafting Stone Tools; More is fine, less is risky
+	* W=Wood,P=Plank [8W=32P: 12P Left,(6P if Shield) | if Flintless: 0P], (+1P, Pickaxe Leftover)
+	* 2W → 8P, 6P → 12 Slabs | 9|10 Needed, [-7(composter), -2(barrel), -1,Optional(slab dragon)]
+	* 4W → 16P, 14P → [-6(barrel), -5(boat), -3(golem tower)]
+		* if Flintless; 2W → 8P(+4 Leftover = 12P), https://i.imgur.com/wyPQ9Sb.png
+* if you can't find a Lava Lake on the surface, try to dig near Small Water Lakes (Lava tends to spawn below)
+* if searching for Ocean Ravines, try to find Kelp, as it tends to spawn above Ravines
+	* floating kelp in an Ocean is an ever larger indicator; https://youtu.be/yGyMWYhHYoQ?t=471
+* How to stop glitchy buckets, when making Nether Portals; https://youtu.be/EjwStTX4U3A
+* Water Bucket is useless in the Nether, after making your Nether Portal, grab Lava (grab Water in Overworld 2)
 
 ## The Nether:
-	While in the Nether, Mine Netherrack (Pickaxe) for some fast and easy blocks
-	if a far away Ghast is attacking you, change your Render Distance to 2, despawning it (can turn up after)
-	Craft Gold Boots to be safe in Bastions, 4 Gold Ingot (36 Gold Nuggets)
-	Bastions cannot spawn in a Basalt Delta Biome
-	All Bastions besides Treasure can spawn a Triple Chest top section, to tell them apart;
-		if there are 2 Blocks between the Double/Single Chest, then it's Stables
-		if there are 3 Blocks, then it can be either Housing or Bridge (should be easy to tell them apart)
-	Mobs spawn more often in Soul Sand Valleys, so if a Fortress is located in one, 5RD is pretty risky
+* While in the Nether, Mine Netherrack (Pickaxe) for some fast and easy blocks
+* if a far away Ghast is attacking you, change your Render Distance to 2, despawning it (can turn up after)
+* Craft Gold Boots to be safe in Bastions, 4 Gold Ingot (36 Gold Nuggets)
+* Bastions cannot spawn in a Basalt Delta Biome
+* All Bastions besides Treasure can spawn a Triple Chest top section, to tell them apart;
+	* if there are 2 Blocks between the Double/Single Chest, then it's Stables
+	* if there are 3 Blocks, then it can be either Housing or Bridge (should be easy to tell them apart)
+* Mobs spawn more often in Soul Sand Valleys, so if a Fortress is located in one, 5RD is pretty risky
 	
 ## The Overworld 2: Triangulation + Stronghold
-	When travelling in water, it is faster to use a Dolphin boost, than it would be to use a Boat
-	if you find an underwater Stronghold, make sure to look around for the Portal Room before entering
-	Strongholds are extremely unlikely to spawn in Swamps (supposedly): https://youtu.be/_rbWryJVEmw?t=1011
-	In the Stronghold, Spiral Staircases always lead UP to the Entrance
-	Libraries lead nowhere, if you enter a Library from the Starter Staircase, turn around
-		if you need more Beds, you can gather string from Library Cobwebs (use a Sword or Shears, 20s → 0.4s)
+* When travelling in water, it is faster to use a Dolphin boost, than it would be to use a Boat
+* if you find an underwater Stronghold, make sure to look around for the Portal Room before entering
+* Strongholds are extremely unlikely to spawn in Swamps (supposedly): https://youtu.be/_rbWryJVEmw?t=1011
+* In the Stronghold, Spiral Staircases always lead UP to the Entrance
+* Libraries lead nowhere, if you enter a Library from the Starter Staircase, turn around
+	* if you need more Beds, you can gather string from Library Cobwebs (use a Sword or Shears, 20s → 0.4s)
 
 ## The End:
-	The Dragon's Fireball doesn't do damage, the AoE ground effect does;
-		an easy way to avoid the damage, is to get hit on purpose, then jump → place a block below you
+* The Dragon's Fireball doesn't do damage, the AoE ground effect does;
+	* an easy way to avoid the damage is to get hit on purpose, then jump → place a block below you
 		
 <br/>
 
