@@ -400,7 +400,9 @@
 		
 <br/>
 
-# Practice: Ideally, get comfortable with each of these steps before starting runs
+# Practice
+*Ideally, get comfortable with each of these steps before starting runs*
+
 	Beginning Overworld Movement: 3 Wood → 12 Planks → Crafting Table + 8 Sticks
 		Wood(1) → sClick Planks → Planks(`), bR → Split → Drag bR, bL, tL → Left Click tR → collect, sClick x2;
 			Crafting: https://i.imgur.com/pzABDu2.png | Demonstration: https://youtu.be/TeFeMmjoUIc?t=28
