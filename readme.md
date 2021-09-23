@@ -330,7 +330,7 @@
 *Storage Interfaces: Chests, Crafting Tables etc*  
 
 **Hotbar Swap**: *1, 2, 3, 4, 5, 6, 7, 8, 9*
-* Swaps the Hotbar Slot's Item, with the Item SLot under your Mouse's Cursor
+* Swaps the Hotbar Slot's Item, with the Item Slot under your Mouse's Cursor
 * *this can be used to Quickly Move Items into the Crafting Window, with minimal Mouse Movement*
 
 **Pick Block**: *Middle Mouse Button*
@@ -339,18 +339,25 @@
 
 **Drop Item**: *Q*
 * Drops the Item that you either currently have Selected, or are currently Hovering over
-	* *Inventory Open: Drop Hovered*
+	* *Inventory Opened: Drop Hovered*
 	* *Inventory Closed: Drop Selected*
-* *hold Control while pressing Q, in order to Drop the entire stack
+* *hold the Control key while pressing Q, in order to Drop the entire stack*
+
+**Transfer Item**: *Shift + Click (left **or** right, both work)*
+* Sends an Item To/From your Hotbar/Inventory
+* *if a Storage Interface is currently Open, then the Item will Transfer between that and your Inventory instead*
+
+**Equip Item**: *Right Click **or** Shift + Click (transfer item)*
+* Puts an Equipable Item onto your Character's corresponding Equipment Slot
+* *the Keybind depends on if your Inventory is currently Opened or Closed*
+	* *Inventory Opened: Shift + Click (transfer item)*
+	* *Inventory Closed: Right Click, Selected*
+* *both of these methods require the Equipment Slot to be currently Empty, otherwise you will need to Manually Equip*
 
 
 
 
 
-			Drop Stack; Drops the entire stack of either a Selected, or Hovered Item Slot
-				Control + Drop Item Keybind (default Q), if Inventory is opened, drop Hovered | if closed, drop Selected
-			Transfer Item; Shift + Click (left or right, both work) Sends an Item To/From your Hotbar/Inventory
-				(if a Storage Interface is open, then you will Transfer between that and your Inventory instead)
 			Equip Item; Puts an equipable Item on your Character's corresponding equipment Slot
 				if Inventory is closed, select in Hotbar → Right Click | if open, Transfer Item (Shift + Click)
 				(both of these methods require the Slot to be currently empty, if it's filled, you need to manually equip)
