@@ -1,5 +1,5 @@
 # Minecraft: Version 1.16.1  
-[Discord](https://discord.com/invite/jmdFn3C) | [Minecraft Speedrunning Website](https://www.minecraftspeedrunning.com/) | [Minecraft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki) [Speedrun.com](https://www.speedrun.com/mc#Any_Glitchless)
+[Discord](https://discord.com/invite/jmdFn3C) | [Minecraft Speedrunning Website](https://www.minecraftspeedrunning.com/) | [Minecraft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki) | [Speedrun.com](https://www.speedrun.com/mc#Any_Glitchless)
 
 ## Setup 
 **Video Guides:** [k4yfour](https://youtu.be/4cTbSyvWNgI) | [DashPum4](https://youtu.be/km0sXurMj5s)
@@ -372,7 +372,9 @@
 		* Activate the Pressure Plate →
 		* Break the TnT below you (don't activate it) →
 		* Crouch in the hole under the active TnT, avoiding most of it's Damage
-* Mining Stone is slightly faster than Mining Cobblestone (
+* It is slightly faster to Mine Stone, than it is to Mine Cobblestone
+	* Wooden Pickaxe: Stone takes **1.15 Seconds** | Cobblestone takes **1.5 Seconds**
+	* Stone Pickaxe: Stone takes **0.6 Seconds** | Cobblestone takes **0.75 Seconds**
 * Stone is slightly faster to Mine than Cobblestone (found as part of houses in Plains Villages)
 * Why 8+ Wood @ Overworld 1, after crafting Stone Tools; More is fine, less is risky
 	* W=Wood,P=Plank [8W=32P: 12P Left,(6P if Shield) | if Flintless: 0P], (+1P, Pickaxe Leftover)
