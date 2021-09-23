@@ -347,7 +347,7 @@
 * *which Item you will drop depends on if your Inventory is Currently Opened or Closed
 	* *Inventory Opened: Drops Currently Hovered Item*
 	* *Inventory Closed: Drop Currently Selected Item*
-* *holding the Control key while pressing Q will drop an the entire Stack of Items in that Item Slot*
+* *holding the Control key while pressing Q will drop the entire Stack of Items in that Item Slot*
 
 **Transfer Item**: *Shift + Click (left **or** right, both work)*
 * Sends the Item that your Cursor is currently Hovering over To/From your Hotbar/Inventory
