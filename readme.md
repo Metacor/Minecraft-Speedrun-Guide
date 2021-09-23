@@ -236,7 +236,7 @@
 			Axis Calculated Guide (very precise calculated travel); https://youtu.be/0LDj48fsRT8
 
 
-The Overworld, Part 2: Find the Location of the Stronghold, Navigate to the Portal Room, and enter The End
+## The Overworld, Part 2: Find the Location of the Stronghold, Navigate to the Portal Room, and enter The End
 	Stronghold Navigation: Minimum 1400 Blocks away from 0,0 (~175 in the Nether, since Distance is 8:1)
 		This is calculated Triangularly not linearly, so a²+b²=c², not a+b=c | 150x,150z = 212, not 300
 			Generally if you're just adding x+z, 2000-2400 for The Overworld, 250-300 for the Nether
@@ -271,7 +271,7 @@ The Overworld, Part 2: Find the Location of the Stronghold, Navigate to the Port
 
 
 
-The End: Kill the Ender Dragon, Finish the Game; 
+## The End: Kill the Ender Dragon, Finish the Game; 
 		End Guide: https://youtu.be/-Ta_1R1aXvA
 		In-depth explainations: https://youtu.be/1daiTbj1OiE
 		One-Cycle Tips: 
@@ -297,8 +297,8 @@ The End: Kill the Ender Dragon, Finish the Game;
 
 
 
-~-~-~-~-~-~-~-~-~- Keybinds & Shortcuts -~-~-~-~-~-~-~-~-~
-F3 Keybinds: F3 + Q = Shows most F3 Commands in-game 
+# Keybinds & Shortcuts
+## F3 Keybinds: F3 + Q = Shows most F3 Commands in-game 
 	F3+F4 = Game Mode Selection (Open to LAN → Allow Cheats: ON → Start LAN World → F3+F4), after a Failed Run
 	F3 = Standard F3 Menu
 	F3 + G = Chunk Borders
@@ -308,7 +308,7 @@ F3 Keybinds: F3 + Q = Shows most F3 Commands in-game
 		F3 + F = Increase Render Distance by 1
 		F3 + Shift + F = Decrease Render Distance by 1
 		
-Inventory Management: (Storage Interface = Chest, Crafting Table etc)
+## Inventory Management: (Storage Interface = Chest, Crafting Table etc)
 	Hotbar Swap; Swaps the Hotbar Slot's Item with the Item Slot on your Mouse Hover
 		Hover over an Item Slot, and press a Hotbar Hotkey (1,2,3 etc)
 		(this can be used to quickly move items into the Crafting Window, with minimal mouse movement)
@@ -338,8 +338,8 @@ Inventory Management: (Storage Interface = Chest, Crafting Table etc)
 
 
 
-~-~-~-~-~-~-~-~-~- Tips & Tricks -~-~-~-~-~-~-~-~-~
-The Overworld:
+# Tips & Tricks
+## The Overworld:
 	Shipwrecks; Front = Food | Back = Top: Iron/Gold, Bot: Treasure Maps
 		Buried Treasure always spawns @ 9/x/9 in the chunk where the X is located
 	Desert Temples: Clear the Chests + surrounding Blocks with 1 TnT: https://youtu.be/gS6LxaNibWM?t=76
@@ -356,7 +356,7 @@ The Overworld:
 	How to stop glitchy buckets, when making Nether Portals; https://youtu.be/EjwStTX4U3A
 	Water Bucket is useless in the Nether, after making your Nether Portal, grab Lava (grab Water in Overworld 2)
 
-The Nether:
+## The Nether:
 	While in the Nether, Mine Netherrack (Pickaxe) for some fast and easy blocks
 	if a far away Ghast is attacking you, change your Render Distance to 2, despawning it (can turn up after)
 	Craft Gold Boots to be safe in Bastions, 4 Gold Ingot (36 Gold Nuggets)
@@ -366,7 +366,7 @@ The Nether:
 		if there are 3 Blocks, then it can be either Housing or Bridge (should be easy to tell them apart)
 	Mobs spawn more often in Soul Sand Valleys, so if a Fortress is located in one, 5RD is pretty risky
 	
-The Overworld 2: Triangulation + Stronghold
+## The Overworld 2: Triangulation + Stronghold
 	When travelling in water, it is faster to use a Dolphin boost, than it would be to use a Boat
 	if you find an underwater Stronghold, make sure to look around for the Portal Room before entering
 	Strongholds are extremely unlikely to spawn in Swamps (supposedly): https://youtu.be/_rbWryJVEmw?t=1011
@@ -374,12 +374,12 @@ The Overworld 2: Triangulation + Stronghold
 	Libraries lead nowhere, if you enter a Library from the Starter Staircase, turn around
 		if you need more Beds, you can gather string from Library Cobwebs (use a Sword or Shears, 20s → 0.4s)
 
-The End:
+## The End:
 	The Dragon's Fireball doesn't do damage, the AoE ground effect does;
 		an easy way to avoid the damage, is to get hit on purpose, then jump → place a block below you
 
 
-Practice: Ideally, get comfortable with each of these steps before starting runs
+# Practice: Ideally, get comfortable with each of these steps before starting runs
 	Beginning Overworld Movement: 3 Wood → 12 Planks → Crafting Table + 8 Sticks
 		Wood(1) → sClick Planks → Planks(`), bR → Split → Drag bR, bL, tL → Left Click tR → collect, sClick x2;
 			Crafting: https://i.imgur.com/pzABDu2.png | Demonstration: https://youtu.be/TeFeMmjoUIc?t=28
@@ -406,7 +406,7 @@ Practice: Ideally, get comfortable with each of these steps before starting runs
 	Dragon: 1 Cycle (N/S Perch), <=7 Beds, with Obsidian and Full Block/Slab setups (no obby backup)
 
 
-Speedrun Cheatsheet:
+# Speedrun Cheatsheet:
 	Blind Travel; https://imgur.com/gallery/i3fIanf
 		(0,220 | 50,210 | 75,200 | 100, 190 | 125,175 | 155,155), First Ring
 		(0,620 | 100,610 | 150,600 | 200,585 | 250,565 | 300,540 | 350,510 | 435,435), Second Ring
