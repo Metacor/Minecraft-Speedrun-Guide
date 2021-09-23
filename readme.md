@@ -153,7 +153,7 @@
 
 ## **Advanced+** | Pirate → Ocean Monument
 ***Ocean Monument Guides:* [T_Wagz](https://youtu.be/0dyHYkg_xIU) | [Silver](https://youtu.be/14FGC1eUHug) | [Silver, Part 2](https://youtu.be/-b7nQyXZkfw)**  
-*Same start as Pirate Overworld, but you also gather the guaranteed 8 Gold Blocks from an Ocean Monument - sometimes allowing you to completely skip the Bastion in the Nether*
+*Same start as Pirate Overworld, but you also Gather the guaranteed 8 Gold Blocks from an Ocean Monument - sometimes allowing you to completely skip the Bastion in the Nether*
 * Pirate Start → Shipwreck (Shield, since Fortress without Fire Resistance Potions) → Ocean Monument
 	* As soon as you see the Ocean Monument, turn your Render Distance to 2 (RD2), this will usually result in the Elder Guardian not spawning, stopping it from giving you Mining Fatigue
 	* if you get Mining Fatigue anyway, either Drink a Bucket of Milk, or set your Spawn and Suicide (or raw Suicide, near the World Spawn)
@@ -443,11 +443,11 @@
 * Strongholds are extremely unlikely to spawn in Swamps ([supposedly](https://youtu.be/_rbWryJVEmw?t=1011))
 * In the Stronghold, Spiral Staircases always lead up, towards the Starter Staircase
 * Libraries lead nowhere, if you enter a Library from the Starter Staircase, turn around
-	* if you need more Beds, you can gather string from Library Cobwebs 
+	* if you need more Beds, you can Gather string from Library Cobwebs 
 		* make sure to use either a Sword or Shears, (decreasing the Gather Time from 20s → 0.4s)
 
 ### The End
-* The Dragon's Fireball doesn't actually do damage, the AoE ground effect it leaves behind does;
+* The Dragon's Fireball doesn't actually do damage, the AoE ground effect it leaves behind does
 	* an easy way to avoid the damage is to get hit on purpose, then Jump → place a Block below you
 		
 <br/>
