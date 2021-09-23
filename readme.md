@@ -168,6 +168,8 @@
 	* if 20+ Obsidian: Educated / Calulated Travel
 * Triangulation → Starter Staircase Stronghold Entry, if Ocean exposed; Portal Room Entry → Stronghold Navigation → End Entry →
 	* Half-Bow + North / South Ground + One-Cycle Dragon (4 Bed)  
+
+
 *Optionally*   
 * Village Start: if there is a close Lava Lake or Ruined Portal or Blacksmith, with 10+ Obsidian
 	* if >= 7 Iron (Blacksmith + Golem): Iron Pickaxe + Bucket + Flint and Steel
