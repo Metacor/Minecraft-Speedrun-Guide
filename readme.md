@@ -44,79 +44,38 @@
 
 ## Bastions
 [Identification Playlist](https://www.youtube.com/watch?v=TioQsF5ygOg&list=PLS6QbW9YR38SQFYq6NIuGnHxoL73dFp8Y) | [Routing Spreadsheet](https://bit.ly/3kv8NL1)   
+
 <br/>
+
 **Identification:** Videos by T_Wagz, Screenshots by ElaMeTrataDiferente
-* Bridge: [Video]() | [Screenshots]()
-* Treasure: [Video]() | [Screenshots]()
-* Housing: [Video]() | [Screenshots]()
-* Stables: [Video](https://youtu.be/TioQsF5ygOg?list=PLS6QbW9YR38SQFYq6NIuGnHxoL73dFp8Y&t=149) | [Screenshots](https://bit.ly/3kv8NL1)
+* Bridge: [Video](https://youtu.be/2pzMpX1RJGI?t=128) | [Screenshots](https://imgur.com/a/OHwW0tb)
+* Treasure: [Video](https://youtu.be/A9GGUWwNcrY?t=132) | [Screenshots](https://imgur.com/gallery/U4FnQC5)
+* Housing: [Video](https://youtu.be/BoNr-pbEITM?t=132) | [Screenshots](https://imgur.com/gallery/wyjWcli)
+* Stables: [Video](https://youtu.be/TioQsF5ygOg?t=149) | [Screenshots](https://imgur.com/gallery/u91rHC4)
 
+<br/>
 
-Bastions: 4 Types of Bastions, all with multiple Routes for optimal trade times
-	Identification and Basic Routing: https://youtu.be/TioQsF5ygOg?list=PLS6QbW9YR38SQFYq6NIuGnHxoL73dFp8Y
-		Routes Spreadsheet: https://bit.ly/3kv8NL1
-		Couriway Routes: https://youtu.be/5QIMHxpfUkg
-		Feinberg Routes: https://youtu.be/Ux9trS8YLW0
-	Backup Strats: https://www.youtube.com/watch?v=9AdYm8JBDf4
-		Use Gravel if you fall into your Piglin hole: https://youtu.be/Ux9trS8YLW0?t=806
-
-	Recommended Routes;
-		Bridge; 
-			if Triple (right side); Dowsky
-			if Single (right side); 11tb Dip
-
-		Treaure; 
-			NinjaBrain
-
-		Housing; 
-			if Top; Top Down Manhunt
-			if Bottom; Manhunt
-
-		Stables;
-			if Triple; Triple Gold -> Triple Chest -> Good Gap/2nd Triple (if needed)
-			if no Triple, w/ Good Gap; Good Bottom
-			if Bad/Bad + no Triple; Reset
-
-	Identification:
-		Bridge - https://imgur.com/a/OHwW0tb
-			Large Bridge in the middle with 16 Gold Blocks in a Stack on top
-			In the center, there are 5 Lava Flows on each side of the Bridge
-			Beyond each side is a Rampart, with a chance to spawn Chests in the upper area
-
-		Treasure - https://imgur.com/gallery/U4FnQC5
-			Main Building has a Magma Spawner + a pile of Gold Blocks next to it (bad side)
-			2 Identical Ramparts are townhoused together on the opposite side of the Bastion (good side)
-			Between the 2 Structures is a Small bridge, situated over 10 segmented lava pools (start here)
-				if you're inside, the bridge to the Ramparts is located at the top of the Treasure area
-				on the side with the staircase (opposite of the Spawner); https://i.imgur.com/yGngvi4.jpeg
-			bottom placements: https://i.imgur.com/k0VMRTd.jpeg
-				3 blocks below the divider; dig into wall for chest (2-4 all work, 3 is easiest)
-				3 blocks above the divider; tower up to the bridge (0 to 3 work, 3 is the max)
-
-		Housing - https://imgur.com/gallery/wyjWcli
-			Short Section; Scattered housing structures, with Soul Sand in the middle open area
-				if the Lower Section is covered in Blocks, find the Rampart by the Soul Sand formation
-				view the longest line of Soul Sand on the right; https://youtu.be/BoNr-pbEITM?t=853
-			Tall Section; 2 Ramparts, the Main Rampart is always the same, it has 9 Gold Blocks + Triple Chest
-
-		Stables - https://imgur.com/gallery/u91rHC4
-			Short Section; 2 open Structures, separated by 2 air blocks with 3 pillars inbetween
-				lots of Lava on the ground, many holes in the walls, and Hoglins everywhere (avoid)
-				if you're having trouble finding the Ramparts from the Lower Section, use the Pillars
-					1 Pillar on the left, 2 Pillars on the right; https://youtu.be/TioQsF5ygOg?t=1695
-			Tall Section; 3 RNG Ramparts, with a Top and Bottom half, (both with 3 possible formations)
-				Top; Large(Triple Chest) | Medium(Lantern Chest) | Small(Diagonal Chest)
-					All 3 Rampart Tops are random, and they can all be the same type of top
-				Bot; Good(7-10 Gold Blocks) | Bad(1 chest) | Open Stairs(1 chest) |
-					identify by Gaps; good(1high,3wide) | bad(2high,2wide) | open(no gap)
-						The Middle Ramparts bottom will always be the Open Stairs variant
-						The Left/Right Ramparts can be either Good or Bad (gg/bb/gb/bg)
-					if the Rampart's Top is Medium, the Gap will be covered in Netherrack either,
-					mine it out, or detect the Gap from the inside; https://youtu.be/AczOTF5QpZ4?t=164
+**Routing:** Recommended Routes
+* Bridge
+	* if Triple, (right side): [Dowsky Dip]()
+	* if Single, (right side): [EleventyBillion Dip]()
+* Treasure
+	* [NinjaBrain]()
+* Housing
+	* if Top: [Top Down Manhunt]()
+	* if Bot: [Manhunt]()
+* Stables
+	* if Triple: [Triple Chest Stables]()
+	* if no Triple, w/ Good Gap: [Good Gap Stables]()
+	* if no Triple, w/ Double Bad Gap: [Better Lucky Next Time](https://i.imgur.com/YxRxdhI.png)
 
 
 
-~-~-~-~-~-~-~-~-~- Speedrun Guide -~-~-~-~-~-~-~-~-~
+
+
+<br/>
+
+# Speedrun Guide
 [Beginner] Structureless Overworld: Slower, but fewer resets - https://youtu.be/7dOca1LHefk
 	Gather 3 Wood -> 12 Planks -> Crafting Table + 8 Sticks
 	Find a nearby Cave, go down until you find Iron -> Place Crafting Table -> Craft Wooden Pickaxe
