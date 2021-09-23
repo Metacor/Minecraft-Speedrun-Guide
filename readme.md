@@ -92,7 +92,7 @@
 * Place the Crafting Table near your Mining Destination → Craft a Wooden Pickaxe →
 	* Mine 6 Stone → Craft [a Stone Shovel, a Stone Axe, and a Stone Hoe](https://i.imgur.com/TCqDxat.png) → Pickup the Crafting Table → Chop 8+ Logs  
 ### Village Tasks:
-* Loot Blacksmiths, if available;
+* Loot Blacksmiths, if available:
 	* if 10+ Obsidian: Skip Bucket → Mine 4 Stone, instead of 6 → Skip Hoe (slightly slower, but doesn't require a second Stick Craft)
 	* if 3+ Iron Ingots: Gather 2 Logs, instead of 3 → Skip Wooden Pickaxe
 	* if 7+ Total Iron Ingots (Blacksmith + Golem): Skip the Bucket of Cod Trade (can skip with 6, but requires [Flintless Portal](https://youtu.be/DVDbfKuLaWo?t=9))
@@ -101,7 +101,7 @@
 	* Hit the Golem from max distance, from behind if possible → Run a few Blocks away → Build up 3 Blocks (Wood Planks) →
 	* Crit the Golem 8-9 times to Kill it: Jump → Fall → Attack, while Falling (with Stone Hatchet)
 * Place the Crafting Table → Craft an Iron Pickaxe and a Boat
-	* if you're doing the Bucket of Cod Trade, place this Crafting Table near Villagers, and addtionally Craft a Composter and a Barrel
+	* if you're doing the Bucket of Cod Trade, place this Crafting Table near Villagers, and addtionally Craft a [Composter](https://i.imgur.com/qK3yzOP.png) and a [Barrel](https://i.imgur.com/arI5xh9.png)
 	* if 4 Iron Ingots: Craft a Flint and Steel, (after getting Flint from Digging up Gravel)
 		* if you only get 3 Iron Ingots: [Flintless Portal](https://youtu.be/axHdNQtPOf8?t=66), or Search for a Shipwreck/Ruined Portal
 	* if 5 Iron Ingots: Save for a Shield, in case you get a Fortress before a Bastion in the Nether
