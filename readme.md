@@ -79,52 +79,40 @@
 **Video Guides:** [Haroon Shah, Jun 2021](https://youtu.be/iaUF0oaegns) | [Couriway, Dec 2020](https://youtu.be/REas9cmjlic) | [LiquidCandy, Dec 2020](https://youtu.be/14XeowuYgV0) | [Cuffep, Oct 2020](https://youtu.be/GQodZBfdL3g)
 
 ### **[Beginner]** [Structureless Overworld](https://youtu.be/7dOca1LHefk): Slower, but requires far fewer Resets
-* Gather 3 Logs → Craft 12 Planks → Craft a Crafting Table + 8 Sticks
+* Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
 * Find a nearby Cave → Decend into the Cave until you find Iron Ore
 * Place the Crafting Table → Craft a Wooden Pickaxe → Mine 3 Cobblestone → Craft a Stone Pickaxe → 
 	* Mine 7 Iron (8, if you want a Shield), 12 Cobblestone, and 1-2 Coal
-* Craft a Furnace, a Stone Axe, and a Stone Shovel → Pickup the Crafting Table
+* Craft [a Furnace, a Stone Axe, and a Stone Shovel](https://i.imgur.com/4kdtS6b.png) → Pickup the Crafting Table
 * Resurface → Place the Furnace near a Tree → Smelt the Iron Ore → Chop 8+ Logs
 	* Collect the first Iron Ingot → Search for Gravel → Dig for Flint → Craft a Flint and Steel
 	* Kill Burning Animals to get Pre-Cooked Meat
-		* While Searching for Gravel / Animals: [Collect Dandelions / Blue Orchids](https://i.imgur.com/iMwY9Wo.png) (for Suspicious Stews)
-* Collect the Iron once it's done → Place the Crafting Table → Craft an Iron Pickaxe, a Bucket, a Boat, and Bowls
+		* While Searching for Gravel / Animals: Collect [Dandelions or Blue Orchids](https://i.imgur.com/iMwY9Wo.png) (for Suspicious Stews)
+* Collect the Iron once it's done → Place the Crafting Table → Craft an Iron Pickaxe, a Bucket, [a Boat, and Bowls](https://i.imgur.com/ROB8bsI.png)
 * Find a nearby Lava Lake, or Dig deeper in the Cave to find Lava → [Create a Nether Portal](https://youtu.be/iaUF0oaegns?t=2029) → Enter the Nether
 	* While in the Nether, Collect Mushrooms in order to Craft [Suspicious Stews](https://i.imgur.com/9ckpeB6.png)
 
+### **[Standard]** Village Overworld: Village Spawn | Ideally Plains, Savanna, or Desert for the Hay Bales
+*if Village is in a Desert, Gather Wood / Stone before entering it, since the building will be made out of Sand*
+* Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
+* Place the Crafting Table near your Mining Destination → Craft a Wooden Pickaxe →
+	* Mine 6 Stone → Craft [a Stone Shovel, a Stone Axe, and a Stone Hoe](https://i.imgur.com/TCqDxat.png) → Pickup the Crafting Table → Chop 8+ Logs  
 
 
-		[Beginner] Structureless Overworld: Slower, but fewer resets - https://youtu.be/7dOca1LHefk
-			Gather 3 Wood → 12 Planks → Crafting Table + 8 Sticks
-			Find a nearby Cave, go down until you find Iron → Place Crafting Table → Craft Wooden Pickaxe
-				Mine 3 Cobblestone → Craft Stone Pickaxe → Mine 7 Iron (8 if Shield) + 12 Cobblestone + 1 Coal
-				Craft Furnace + Stone Axe + Stone Shovel, Pickup Crafting Table
-				Resurface, Place Furance @ Tree, Smelt Iron → Chop 8+ Wood
-					Collect the first Iron Ingot → Search for Gravel, dig for Flint → Craft Flint and Steel
-						Kill burning animals to get pre-cooked meat and search for Dandelions/Blue Orchids
-					Once the Iron is done, place Crafting Table → Craft Iron Pickaxe + Bucket + Boat + Bowls
-			Find a nearby Lava Lake, or dig in the cave to find Lava → Create Nether Portal → Enter the Nether;
-				Collect Mushrooms for Stews (Dandelion Stew gives a Saturation Buff); https://i.imgur.com/9ckpeB6.png
+**Village Tasks:**
+* Loot Blacksmiths, if available;
+	* if 10+ Obsidian: Skip Bucket → Mine 4 Stone, instead of 6 → Skip Hoe (slightly slower, but doesn't require a second Stick Craft)
+	* if 3+ Iron Ingots: Gather 2 Logs, instead of 3 → Skip Wooden Pickaxe
+	* if 7+ Total Iron Ingots (Blacksmith + Golem): Skip the Bucket of Cod Trade (can skip with 6, but requires [Flintless Portal](https://youtu.be/DVDbfKuLaWo?t=9))
+* Collect Beds from the Village Houses, (and Carpets, if you plan on doing the [Carpet Flintless Portal](https://youtu.be/DVDbfKuLaWo?t=38))
+* Kill the Golem: Drops 3-5 Iron Ingots
+	* Hit the Golem from max distance, from behind if possible → Run a few Blocks away → Build up 3 Blocks (Wood Planks) →
+	* Crit the Golem 8-9 times to Kill it: Jump → Fall → Attack, while Falling (with Stone Hatchet)
+* Place the Crafting Table → Craft an Iron Pickaxe, a Boat, (and a [Composter](https://i.imgur.com/qK3yzOP.png)/[Barrel](https://i.imgur.com/arI5xh9.png), if you're doing the Bucket of Cod Trade)
 
 
-		[Standard] Village Overworld: Village Spawn | Ideally Plains, Savanna, or Desert for Hay Bales
-			if Desert Village; Grab Wood / Stone before going into the Village (their buildings don't use wood)
-			Gather 3 Wood → 12 Planks → Crafting Table + 8 Sticks
-				Place Crafting Table @ Mining Destination → Craft Wooden Pickaxe → 
-					Mine 6 Stone → Craft Stone Shovel + Axe + Hoe → Pickup Crafting Table → Chop 8+ Wood
 
-			Village Tasks:
-				Loot Blacksmiths, if available;
-					if 10+ Obsidian;
-						Skip Bucket; 4 Stone, Skip Hoe (slightly slower, but doesn't require a second stick craft)
-					if 3+ Iron Ingots; 2 Wood Start, Skip Wooden Pickaxe
-						if 7+ Total (Blacksmith+Golem), can skip Bucket Trade (can do with 6, if Flintless Portal)
 
-		Collect Beds from Village Houses (+Carpets, if Carpet Flintless Portal)
-
-		Kill the Golem for 3-5 Iron Ingots;
-			Hit the Golem (from behind) → Run a few Blocks away → Build up 3 Blocks (Wood Planks) →
-				Crit the Golem 8-9 times to Kill it; Jump → Fall → Attack (Stone Hatchet)
 
 		Place Crafting Table → Craft Iron Pickaxe, Boat, (+Composter/Barrel if doing Bucket Trade)
 			if 4 Iron Ingots; Craft Flint and Steel (after getting Flint from digging up Gravel)
