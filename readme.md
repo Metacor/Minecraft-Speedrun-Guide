@@ -334,7 +334,7 @@
 * *this can be used to Quickly Move Items into the Crafting Window, with minimal Mouse Movement*
 
 **Pick Block**: *Middle Mouse Button*
-* Swaps your currently Selected Hotbar Slot with the Item that your Crosshair is currently looking
+* Swaps your currently Selected Hotbar Slot with the Item that your Crosshair is pointed at
 	* *this is assuming that you any of that Item Type in your Inventory already*
 * *using Pick Block to select Beds, while One Cycling the Dragon is very useful*
 
