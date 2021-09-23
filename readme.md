@@ -358,8 +358,12 @@
 
 # Tips & Tricks
 ## The Overworld:
-* Shipwrecks; Front = Food | Back = Top: Iron/Gold, Bot: Treasure Maps
-	* Buried Treasure always spawns @ 9/x/9 in the chunk where the X is located
+* Shipwrecks: 
+	* Front Side: Food 
+	* Back Side: 
+		* Top Chest: Iron Ingots, Gold Ingots
+		* Bot Chest: Buried Treasure Maps
+			* Buried Treasure is always located @ 9|x|9 in the Chunk where the X is located 
 * Desert Temples: Clear the Chests + surrounding Blocks with 1 TnT: https://youtu.be/gS6LxaNibWM?t=76
 	* Grab TnT → Place 1 up top (in a corner) → Pressure Plate next to it → Activate → Crouch in the hole
 * Stone is slightly faster to Mine than Cobblestone (found as part of houses in Plains Villages)
