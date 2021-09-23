@@ -1,36 +1,36 @@
-Minecraft: Version 1.16.1 
-Discord: https://discord.com/invite/jmdFn3C
-Speedrun Resource Website: https://www.minecraftspeedrunning.com/
+Minecraft: Version 1.16.1  
+Discord: https://discord.com/invite/jmdFn3C  
+Speedrun Resource Website: https://www.minecraftspeedrunning.com/  
 
-Setup Guide Playlist: https://www.youtube.com/playlist?list=PLcGcbFWXx7R2BbS9xGfHj8w-XRy_qLK8P
-Speedrun Guide (1.16) Playlist: https://www.youtube.com/playlist?list=PLcGcbFWXx7R0qYy53RKHKpevIPBipSjJ9
+Setup Guide Playlist: https://www.youtube.com/playlist?list=PLcGcbFWXx7R2BbS9xGfHj8w-XRy_qLK8P  
+Speedrun Guide (1.16) Playlist: https://www.youtube.com/playlist?list=PLcGcbFWXx7R0qYy53RKHKpevIPBipSjJ9  
 
-Setup: https://youtu.be/4cTbSyvWNgI | https://youtu.be/km0sXurMj5s
-	Win + r -> %appdata% -> .minecraft -> options.txt (gamma:5.0, syncChunkWrites:false)
-	Options -> Music & Sounds -> Show Subtitles: ON
-	Options -> Video Settings -> Quality -> Entity Distance (500)
-	with Sodium Mod:
-		Options -> Video Settings -> Advanced -> Disable Entity Culling 
-		Options -> Video Settings -> Unofficial -> Enable Planar Fog
+Setup: https://youtu.be/4cTbSyvWNgI | https://youtu.be/km0sXurMj5s  
+	Win + r -> %appdata% -> .minecraft -> options.txt (gamma:5.0, syncChunkWrites:false)  
+	Options -> Music & Sounds -> Show Subtitles: ON  
+	Options -> Video Settings -> Quality -> Entity Distance (500)  
+	with Sodium Mod:  
+		Options -> Video Settings -> Advanced -> Disable Entity Culling   
+		Options -> Video Settings -> Unofficial -> Enable Planar Fog  
 
-Mods: Make sure you're using version 1.16 Mods
-	https://www.minecraftspeedrunning.com/public-resources/mods
-		Mod Explainations: https://youtu.be/km0sXurMj5s?t=126
-	Fabric Loader (Don't use Fabric API): [Website](https://fabricmc.net/use/) | [Download](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.4/fabric-installer-0.7.4.jar)	
+Mods: Make sure you're using version 1.16 Mods  
+	https://www.minecraftspeedrunning.com/public-resources/mods  
+		Mod Explainations: https://youtu.be/km0sXurMj5s?t=126  
+	Fabric Loader (Don't use Fabric API): [Website](https://fabricmc.net/use/) | [Download](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.4/fabric-installer-0.7.4.jar)	  
 		
 		
-	Fabric Loader (DO NOT USE FABRIC API)
-		Autoreset; Automatically Quits -> Creates New World -> Loads World, when exiting a world
-		Fast Reset; Enables you to Exit World without the forced auto save
-		LazyDFU; Makes the initial World Load take less time
+	Fabric Loader (DO NOT USE FABRIC API)  
+		Autoreset; Automatically Quits -> Creates New World -> Loads World, when exiting a world  
+		Fast Reset; Enables you to Exit World without the forced auto save  
+		LazyDFU; Makes the initial World Load take less time  
 
-		FPS Optimizations; Highly Recommeneded, Boosts FPS by a significant amount
-			Sodium; Reduces Micro-Stutters, Fixes Graphical Issues
-			Lithium; Optimizes Game Areas
-			Phosphor; Optimizes the Lighting Engine
+		FPS Optimizations; Highly Recommeneded, Boosts FPS by a significant amount  
+			Sodium; Reduces Micro-Stutters, Fixes Graphical Issues  
+			Lithium; Optimizes Game Areas  
+			Phosphor; Optimizes the Lighting Engine  
 
-			Starlight; Compeltely rewrites the Lighting code (Doesn't work with Phosphor)
-				Starlight is faster, so only use Phosphor if Starlight doesn't work for you
+			Starlight; Compeltely rewrites the Lighting code (Doesn't work with Phosphor)  
+				Starlight is faster, so only use Phosphor if Starlight doesn't work for you  
 
 Practice Maps: https://www.minecraftspeedrunning.com/public-resources/maps
 	General Speedrun Practice: https://youtu.be/UihtGJhK_-w
