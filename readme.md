@@ -357,7 +357,7 @@
 <br/>
 
 # Tips & Tricks
-## The Overworld:
+### The Overworld:
 * Shipwrecks 
 	* Front Side Chest: Food 
 	* Back Side: 
@@ -384,7 +384,7 @@
 	* if you're having trouble with Glitchy Buckets while making Nether Portals, watch the video posted above
 * Buckets of Water don't actually work in the Nether, so when you finish your Nether Portal, fill the Bucket with Lava
 
-## The Nether:
+### The Nether:
 * if you need more Blocks while in the Nether, Mine some Netherrack
 	* it's not flammable, and is fast to Mine (0.1s with an Iron Pickaxe)
 * if there is a far away Ghast attacking you, change your Render Distance to 2
@@ -397,7 +397,7 @@
 	* if there are 3 Blocks, then it can be either Housing or Bridge (it should be easy to tell them apart)
 * Mobs spawn more often in Soul Sand Valleys, so if a Fortress is located in one, 5RD is pretty risky
 	
-## The Overworld 2: Triangulation + Stronghold
+### The Overworld 2: Triangulation + Stronghold
 * When travelling across Water, it is faster to use a Dolphin's Boost, than it would be to use a Boat
 * if you find an underwater Stronghold, make sure to look around for the Portal Room before blindly entering
 * Strongholds are extremely unlikely to spawn in Swamps (supposedly): https://youtu.be/_rbWryJVEmw?t=1011
@@ -405,7 +405,7 @@
 * Libraries lead nowhere, if you enter a Library from the Starter Staircase, turn around
 	* if you need more Beds, you can gather string from Library Cobwebs (use a Sword or Shears, 20s → 0.4s)
 
-## The End:
+### The End:
 * The Dragon's Fireball doesn't do damage, the AoE ground effect does;
 	* an easy way to avoid the damage is to get hit on purpose, then jump → place a block below you
 		
