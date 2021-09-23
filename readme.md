@@ -412,7 +412,8 @@
 	* **Wooden Pickaxe**: **Stone** takes **1.15 Seconds** | **Cobblestone** takes **1.5 Seconds**
 	* **Stone Pickaxe**: **Stone** takes **0.6 Seconds** | **Cobblestone** takes **0.75 Seconds**
 * Lava Lakes
-	* if you're unable to find a Lava Lake on the surface, try digging near small surface Water Lakes - Lava tends to spawn below
+	* if you're unable to find a Lava Lake on the surface, try digging near small surface Water Lakes
+		* Lava Lakes tend to spawn underneath Water Lakes
 * [Ocean Ravines](https://youtu.be/yGyMWYhHYoQ?t=471)
 	* While searching for Ocean Ravines, look out for Kelp - it tends to spawn above Ravines
 	* if you see floating Kelp in a Deep Ocean, there is likely a Ravine below it
@@ -422,15 +423,18 @@
 
 ### The Nether:
 * if you need more Blocks while in the Nether, Mine some Netherrack
-	* it's not flammable, and is fast to Mine (0.1s with an Iron Pickaxe)
-* if there is a far away Ghast attacking you, change your Render Distance to 2
-	* This will usually despawn the Ghast - you can turn your Render Distance back up afterwards
-* if you find stray Nether Gold Ore while travelling to a Bastion, consider making Gold Boots
-	* Boot take 4 Gold Ingots (36 Gold Nuggets), and make it so Piglins don't auto-aggro you
+	* Netherrack isn't flammable, and it's fast to Mine (0.1s with an Iron Pickaxe)
+* if there is a far away Ghast attacking you, quickly lower your Render Distance to 2
+	* This will usually despawn the Ghast
+	* You can turn your Render Distance back up after it disappears
+* if you find Nether Gold Ore while travelling to a Bastion, consider Mining it and making Gold Boots
+	* Boots only take 4 Gold Ingots (36 Gold Nuggets)
+	* Wearing any Gold Armor will make it so Piglins don't auto-aggro you
 * Bastions cannot spawn inside of a Basalt Delta Biome
-* All of the Bastions, besides Treasure, can spawn a Triple Chest top section, to tell them apart;
+* All of the Bastions (besides Treasure), can spawn a Triple Chest top section - to easily tell them apart;
 	* if there are 2 Blocks between the Double/Single Chest, then it's Stables
-	* if there are 3 Blocks, then it can be either Housing or Bridge (it should be easy to tell them apart)
+	* if there are 3 Blocks, then it can be either Housing or Bridge
+		* Housing and Bridge are very different, so it shouldn't be too hard to Identify the correct one
 * Mobs spawn more often in Soul Sand Valleys, so if a Fortress is located in one, 5RD is pretty risky
 	
 ### The Overworld 2: Triangulation + Stronghold
