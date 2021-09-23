@@ -176,6 +176,8 @@
 	* if 4-6 Iron: Skip Iron Pickaxe, get lucky with Bastion Chests
 	* if 3 Iron: Reset (or Flintless Portal, if you REALLY want to force the seed)
 
+<br/>
+
 ## The Nether: Bastion, Trade Gold to Piglins for Obsidian/Ender Pearls | Fortress, Kill Blazes for Blaze Rods
 	Use Boats to negate Fall Damage, and kill burning Hoglins for easy Food; https://youtu.be/REas9cmjlic?t=686
 		Lava Bucket Hoglin killing Method; https://youtu.be/iaUF0oaegns?t=3860
@@ -235,6 +237,7 @@
 		Calculated = Throw 2 Eyes, Triangulate the Stronghold's distance for a better Blind
 			Axis Calculated Guide (very precise calculated travel); https://youtu.be/0LDj48fsRT8
 
+<br/>
 
 ## The Overworld, Part 2: Find the Location of the Stronghold, Navigate to the Portal Room, and enter The End
 	Stronghold Navigation: Minimum 1400 Blocks away from 0,0 (~175 in the Nether, since Distance is 8:1)
@@ -268,8 +271,8 @@
 		Portal Room is usually within 5-7 rooms of the Starter Staircase
 		on entering the Portal Room, run up the stairs → place a block in the lava → stand on it →
 			Place Eyes of Ender into the End Portal Frames, on the final Frame, you will be teleported to The End
-
-
+			
+<br/>
 
 ## The End: Kill the Ender Dragon, Finish the Game; 
 		End Guide: https://youtu.be/-Ta_1R1aXvA
@@ -292,10 +295,8 @@
 		if the Dragon fireballs you, either dodge it, or get hit on purpose then jump → place a block below you
 	F3 + B to enable Hitboxes for the Dragon fight, also helps with recognizing the Perch
 	When the Dragon starts to Perch, Pearl/Run to the fountain and Kill it with beds
-
-
-
-
+	
+<br/>
 
 # Keybinds & Shortcuts
 ## F3 Keybinds: F3 + Q = Shows most F3 Commands in-game 
@@ -335,8 +336,8 @@
 		(Inventory/Crafting wont put items in your Hotbar, Chests will prioritize your Hotbar, for some reason)
 		with an Item Selected (a selection IS required), Shift + Double left Click 
 		(your current selection will not be transfered, use an unrelated Item to be sure to Transfer all)
-
-
+		
+<br/>
 
 # Tips & Tricks
 ## The Overworld:
@@ -377,7 +378,8 @@
 ## The End:
 	The Dragon's Fireball doesn't do damage, the AoE ground effect does;
 		an easy way to avoid the damage, is to get hit on purpose, then jump → place a block below you
-
+		
+<br/>
 
 # Practice: Ideally, get comfortable with each of these steps before starting runs
 	Beginning Overworld Movement: 3 Wood → 12 Planks → Crafting Table + 8 Sticks
@@ -404,7 +406,8 @@
 	Triangulation: Quick 90° turn + Consistent 17.5 Block Jumps, Fast Menuing
 	Stronghold: Optimal Navigation, do a lot of stronghold trial solves (random → starter → portal)
 	Dragon: 1 Cycle (N/S Perch), <=7 Beds, with Obsidian and Full Block/Slab setups (no obby backup)
-
+	
+<br/>
 
 # Speedrun Cheatsheet:
 	Blind Travel; https://imgur.com/gallery/i3fIanf
