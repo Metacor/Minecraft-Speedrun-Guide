@@ -119,7 +119,7 @@
 	* Craft Doors, and a Boat → Pickup the Crafting Table
 * Place the Boat in the Ocean → Search for a Shipwreck → Collect the Boat and Dive towards the Shipwreck
 * Once you find a Shipwreck → Enter the Top Side at the Back of the Boat → Loot the Chest (Iron / Gold) →
-	* if < 7 Iron: Loot the Bottom Side Chest at the Back of the Boat → Collect the Buried Treasure Mape
+	* if < 7 Iron: Loot the Bottom Side Chest at the Back of the Boat → Collect the Buried Treasure Map
 		* You can use the opened Door in the Bottom Cabin to refresh your Breath Meter 
 		* Locate the Buried Treasure, if the Loot is bad → Reset
 * Swim to the nearest Gravel → Place the Crafting Table, on the Ocean Floor → Place a Door on top of the Table →
