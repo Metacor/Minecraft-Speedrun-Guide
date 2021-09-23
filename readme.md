@@ -136,6 +136,7 @@
 	* [Cobblestone Skip](https://youtu.be/H2fHDidyfJo?t=63) | [1-Deep]()
 	* [2-Wide](https://youtu.be/K233ih6nSCU?t=94) | [1-Deep]()
 
+<br/>
 
 * You wont have any Beds, so make sure you get enough String from Piglin Trades: 7 Beds = 84 String (+21 Planks)
 * You wont have much Food (if any):
