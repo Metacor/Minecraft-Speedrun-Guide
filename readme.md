@@ -70,7 +70,8 @@
 # Speedrun Guide
 **Video Guides:** [Haroon Shah, Jun 2021](https://youtu.be/iaUF0oaegns) | [Couriway, Dec 2020](https://youtu.be/REas9cmjlic) | [LiquidCandy, Dec 2020](https://youtu.be/14XeowuYgV0) | [Cuffep, Oct 2020](https://youtu.be/GQodZBfdL3g)
 
-## **Beginner** | [Structureless Overworld](https://youtu.be/7dOca1LHefk): Slower, but requires far fewer Resets
+## **Beginner** | [Structureless Overworld](https://youtu.be/7dOca1LHefk)
+*Lower speed potential, but far more consistent, resulting in far fewer resets - great for new runners*
 * Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
 * Find a nearby Cave → Decend into the Cave until you find Iron Ore
 * Place the Crafting Table → Craft a Wooden Pickaxe → Mine 3 Cobblestone → Craft a Stone Pickaxe → 
@@ -84,7 +85,8 @@
 * Find a nearby Lava Lake, or Dig deeper in the Cave to find Lava → [Create a Nether Portal](https://youtu.be/iaUF0oaegns?t=2029) → Enter the Nether
 	* While in the Nether, Collect Mushrooms in order to Craft [Suspicious Stews](https://i.imgur.com/9ckpeB6.png)
 
-## **Standard** | Village Overworld: Spawn with a nearby Village - Ideally a Plains, Desert, or Savanna Village (for the guaranteed Hay Bales)
+## **Standard** | Village Overworld 
+*Spawn with a nearby Village - Ideally a Plains, Desert, or Savanna Village (for the guaranteed Hay Bales)*  
 *if Village is in a Desert, Gather Wood / Stone before entering it, since the building will be made out of Sand*
 * Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
 * Place the Crafting Table near your Mining Destination → Craft a Wooden Pickaxe →
@@ -110,7 +112,8 @@
 * Leave the Village → Search for a Lava Lake or Ruined Portal → [Create a Nether Portal](https://youtu.be/iaUF0oaegns?t=2029) → Enter the Nether
 	* [Minimum Blocks Required](https://i.imgur.com/jSspUON.png) | [Minimum Space Required](https://i.imgur.com/GKtJlok.png)
 
-## **Advanced** | Pirate Overworld: Spawn near an Ocean, with a Shipwreck nearby
+## **Advanced** | Pirate Overworld
+*Spawn near and Ocean, wiht a Shipwreck nearby - with 7+ Iron inside (ideally 11+)*
 * Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
 * Place the Crafting Table near a Tree → Craft a Wooden Axe → Chop 8+ Wood →
 	* Craft Doors, and a Boat → Pickup the Crafting Table
@@ -145,9 +148,8 @@
 		* Fall Damage: 1/2 Heart per Block above 3 Blocks (4 Blocks = 1/2 Heart | 7 Blocks = 2 Hearts | 15 Blocks = 6 Hearts, etc)
 			* While in the Stronghold, you can climb up the Starter Staircase to easily get some height
 
-## **Advanced+** | Pirate + Monument: Pirate Strat, with a nearby Ocean Monument
-**Video Guides:** [T_Wagz](https://youtu.be/0dyHYkg_xIU) | [Silver](https://youtu.be/-b7nQyXZkfw) | [Silver, Part 2](https://youtu.be/14FGC1eUHug)  
-*Gets the same start as Pirate Overworld, but you also collect the guaranteed 8 Gold Blocks from an Ocean Monument, allowing you to completely skip the Bastion in the Nether, if you get decent Trades*  
+## **Advanced+** | Pirate + Monument
+*Same start as Pirate Overworld, but also get the guaranteed 8 Gold Blocks from an Ocean Monument - sometimes allowing you to completely skip the Bastion in the Nether*
 * Pirate Start → Shipwreck (Shield, since Fortress without Fire Resistance Potions) → Ocean Monument
 	* As soon as you see the Ocean Monument, turn your Render Distance to 2 (RD2), this will usually result in the Elder Guardian not spawning, stopping it from giving you Mining Fatigue
 	* if you get Mining Fatigue anyway, either Drink a Bucket of Milk, or set your Spawn and Suicide (or raw Suicide, near the World Spawn)
@@ -157,7 +159,8 @@
 * Continue with the normal Pirate Overworld strats → Ravine Nether Portal → Enter the Nether
 	* The same Bed/Food limitations exist
 
-## **Expert** | [Hypermodern](https://youtu.be/gAHMJfsrHe4): Combination of the most optimal strats, very high Reset Efficiency
+## **Expert** | [Hypermodern](https://youtu.be/gAHMJfsrHe4)
+*Combination of the most optimal strats, Resets are frequent, so having a very high Reset Efficiency is recommended*
 * Pirate → Ravine Nether Entry → Microlensing → Bastion → Pie-Ray → Fortress, Blazebed → Blind/Divine Travel →
 	* if 20+ Obsidian: Educated / Calulated Travel
 * Triangulation → Starter Staircase Stronghold Entry, if Ocean exposed; Portal Room Entry → Stronghold Navigation → End Entry →
