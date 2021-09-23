@@ -322,11 +322,11 @@
 
 *Useful for [Pie-ray](https://www.youtube.com/watch?v=Aq9qfHNEOHM) scouting:*
 * F3 + Shift
-	Pie Chart F3 Menu (Tick → Level → Entites → Block Entites)
+	* Pie Chart F3 Menu (Tick → Level → Entites → Block Entites)
 * F3 + F
-	Increase Render Distance by 1
+	* Increase Render Distance by 1
 * F3 + Shift + F
-	Decrease Render Distance by 1
+	* Decrease Render Distance by 1
 		
 ## Inventory Management: (Storage Interface = Chest, Crafting Table etc)
 	Hotbar Swap; Swaps the Hotbar Slot's Item with the Item Slot on your Mouse Hover
