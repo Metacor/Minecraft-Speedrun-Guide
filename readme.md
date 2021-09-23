@@ -128,9 +128,9 @@
 		* if 11+ iron: Craft an Iron Axe
 		* if any remaining Iron Ingots, Craft Iron Armor (can also save 1 for a Shield, if Fortress before Bastion)
 	* Dig up Gravel until you find some Flint → Craft a Flint and Steel → Pickup the Crafting Table (and Door)
-* Resurface → Place the Boat → Search for an Ocean Ravine → 
+* Resurface → Place the Boat → Search for an Ocean Ravine
 	* When Searching for an Ocean Ravine, turn on Entity Hitboxes (F3 + B), and look out for Floating Kelp
-	* Kelp Tends to spawn above Ravines, and if the Ravine has Gravel/Sand in it, [the Kelp will Break](https://youtu.be/yGyMWYhHYoQ?t=471)
+		* Kelp Tends to spawn above Ravines, and if the Ravine has Gravel/Sand in it, [the Kelp will Break](https://youtu.be/yGyMWYhHYoQ?t=471)
 * Create a Ravine Nether Portal:
 	* [Standard](https://youtu.be/yGyMWYhHYoQ) | [1-Deep]()
 	* [Cobblestone Skip](https://youtu.be/H2fHDidyfJo?t=63) | [1-Deep]()
