@@ -178,7 +178,8 @@
 
 <br/>
 
-## The Nether: Bastion, Trade Gold to Piglins for Obsidian/Ender Pearls | Fortress, Kill Blazes for Blaze Rods
+## The Nether
+*Find a Bastion, Trade Gold to Piglins for Obsidian and Ender Pearls → Find a Fortress, Kill Blazes for Blaze Rods*
 	Use Boats to negate Fall Damage, and kill burning Hoglins for easy Food; https://youtu.be/REas9cmjlic?t=686
 		Lava Bucket Hoglin killing Method; https://youtu.be/iaUF0oaegns?t=3860
 
@@ -239,7 +240,8 @@
 
 <br/>
 
-## The Overworld, Part 2: Find the Location of the Stronghold, Navigate to the Portal Room, and enter The End
+## The Overworld, Part 2
+*Find the Location of a Stronghold → Enter it and Navigate to the Portal Room → Enter The End*
 	Stronghold Navigation: Minimum 1400 Blocks away from 0,0 (~175 in the Nether, since Distance is 8:1)
 		This is calculated Triangularly not linearly, so a²+b²=c², not a+b=c | 150x,150z = 212, not 300
 			Generally if you're just adding x+z, 2000-2400 for The Overworld, 250-300 for the Nether
@@ -274,7 +276,8 @@
 			
 <br/>
 
-## The End: Kill the Ender Dragon, Finish the Game; 
+## The End
+*Kill the Ender Dragon, Finishing the Game*
 		End Guide: https://youtu.be/-Ta_1R1aXvA
 		In-depth explainations: https://youtu.be/1daiTbj1OiE
 		One-Cycle Tips: 
