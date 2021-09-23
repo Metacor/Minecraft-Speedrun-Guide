@@ -79,15 +79,18 @@
 **Video Guides:** [Haroon Shah, Jun 2021](https://youtu.be/iaUF0oaegns) | [Couriway, Dec 2020](https://youtu.be/REas9cmjlic) | [LiquidCandy, Dec 2020](https://youtu.be/14XeowuYgV0) | [Cuffep, Oct 2020](https://youtu.be/GQodZBfdL3g)
 
 ### **[Beginner]** [Structureless Overworld](https://youtu.be/7dOca1LHefk): Slower, but requires far fewer Resets
-* Gather 3 Wood → Craft 12 Planks → Craft a Crafting Table + 8 Sticks
+* Gather 3 Logs → Craft 12 Planks → Craft a Crafting Table + 8 Sticks
 * Find a nearby Cave → Decend into the Cave until you find Iron Ore
 * Place the Crafting Table → Craft a Wooden Pickaxe → Mine 3 Cobblestone → Craft a Stone Pickaxe → 
-	* Mine 7 Iron (8, if you want a Shield) + 12 Cobblestone + 1 Coal
-* Craft a Furnace + Stone Axe + Stone Shovel → Pickup the Crafting Table
-* Resurface → Place the Furnace near a Tree → Smelt the Iron Ore → Chop 8+ Wood
+	* Mine 7 Iron (8, if you want a Shield), 12 Cobblestone, and 1-2 Coal
+* Craft a Furnace, a Stone Axe, and a Stone Shovel → Pickup the Crafting Table
+* Resurface → Place the Furnace near a Tree → Smelt the Iron Ore → Chop 8+ Logs
 	* Collect the first Iron Ingot → Search for Gravel → Dig for Flint → Craft a Flint and Steel
 	* Kill Burning Animals to get Pre-Cooked Meat
-		* While Searching for Gravel / Animals: Collect Dandelions / Blue Orchids (for Suspicious Stews)
+		* While Searching for Gravel / Animals: [Collect Dandelions / Blue Orchids](https://i.imgur.com/iMwY9Wo.png) (for Suspicious Stews)
+* Collect the Iron once it's done → Place the Crafting Table → Craft an Iron Pickaxe, a Bucket, a Boat, and Bowls
+* Find a nearby Lava Lake, or Dig deeper in the Cave to find Lava → [Create a Nether Portal](https://youtu.be/iaUF0oaegns?t=2029) → Enter the Nether
+	* While in the Nether, Collect Mushrooms in order to Craft [Suspicious Stews](https://i.imgur.com/9ckpeB6.png)
 
 
 
