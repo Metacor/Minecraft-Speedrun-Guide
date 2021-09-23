@@ -2,7 +2,7 @@
 [Discord](https://discord.com/invite/jmdFn3C) | [Minecraft Speedrunning Website](https://www.minecraftspeedrunning.com/)   
 
 ## Setup 
-### Video Guides: [k4yfour](https://youtu.be/4cTbSyvWNgI) | [DashPum4](https://youtu.be/km0sXurMj5s)
+**Video Guides:** [k4yfour](https://youtu.be/4cTbSyvWNgI) | [DashPum4](https://youtu.be/km0sXurMj5s)
 * Win + r → %appdata% → .minecraft → options.txt (gamma:5.0, syncChunkWrites:false)  
 * Options → Music & Sounds → Show Subtitles: ON  
 * Options → Video Settings → Quality → Entity Distance (500)  
@@ -110,69 +110,65 @@
 * Leave the Village → Search for a Lava Lake or Ruined Portal → [Create a Nether Portal](https://youtu.be/iaUF0oaegns?t=2029) → Enter the Nether
 	* [Minimum Blocks Required](https://i.imgur.com/jSspUON.png) | [Minimum Space Required](https://i.imgur.com/GKtJlok.png)
 
-## **Advanced** | Pirate Overworld: Ocean Spawn | Requires a nearby Shipwreck with 7+ Iron Ingots (Ideally 11+)
-	Gather 3 Wood → 12 Planks → Crafting Table + 8 Sticks
-		Place Crafting Table @ Tree → Craft Wooden Axe → Chop 8+ Wood →
-			Craft Doors → Craft Boat → Pickup Crafting Table →
-				Place Boat in the Ocean → Search for a Shipwreck (don't forget to grab the Boat when you dive)
+## **Advanced** | Pirate Overworld: Spawn near an Ocean, with a Shipwreck nearby
+* Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
+* Place the Crafting Table near a Tree → Craft a Wooden Axe → Chop 8+ Wood →
+	* Craft Doors, and a Boat → Pickup the Crafting Table
+* Place the Boat in the Ocean → Search for a Shipwreck → Collect the Boat and Dive towards the Shipwreck
+* Once you find a Shipwreck → Enter the Top Side at the Back of the Boat → Loot the Chest (Iron / Gold) →
+	* if < 7 Iron: Loot the Bottom Side Chest at the Back of the Boat → Collect the Buried Treasure Mape
+		* You can use the opened Door in the Bottom Cabin to refresh your Breath Meter 
+		* Locate the Buried Treasure, if the Loot is bad → Reset
+* Swim to the nearest Gravel → Place the Crafting Table, on the Ocean Floor → Place a Door on top of the Table →
+	* Craft an Iron Pickaxe, a Bucket, a Shovel 
+		* if 8+ Iron: Iron Shovel, otherwise Wood/Stone Shovel
+		* if 11+ iron: Craft an Iron Axe
+		* if any remaining Iron Ingots, Craft Iron Armor (can also save 1 for a Shield, if Fortress before Bastion)
+		* Dig up Gravel until you find some Flint → Craft a Flint and Steel → Pickup the Crafting Table (and Door)
+* Resurface → Place the Boat → Search for an Ocean Ravine → 
+	* When Searching for an Ocean Ravine, turn on Entity Hitboxes (F3 + B), and look out for Floating Kelp
+	* Kelp Tends to spawn above Ravines, and if the Ravine has Gravel/Sand in it, [the Kelp will Break](https://youtu.be/yGyMWYhHYoQ?t=471)
+* Create a Ravine Nether Portal:
+	* [Standard](https://youtu.be/yGyMWYhHYoQ) | [1-Deep]()
+	* [Cobblestone Skip](https://youtu.be/H2fHDidyfJo?t=63) | [1-Deep]()
+	* [2-Wide](https://youtu.be/K233ih6nSCU?t=94) | [1-Deep]()
+* You wont have any Beds, so make sure you get enough String from Piglin Trades: 7 Beds = 84 String (+21 Planks)
+* You wont have much Food (if any):
+	* Nether: Craft [Mushroom Stews](https://i.imgur.com/FUo9nfP.png)
+	* Overworld: Kill Burning Animals to get Pre-Cooked Meat
+	* Optionally: Suicide to Reset Hitpoints / Hunger
+		* Nether: Craft a [Respawn Anchor](https://i.imgur.com/mo7y0XA.png) → use a Glowstone Block on it → Suicide
+		* Overworld: Place a Bed → Right-Click the Bed → Suicide
+	* Suicide Methods: use any Method that seems convienent to you at the time
+		* [Fire](https://youtu.be/itqFlGfKvdk?t=460): Burn yourself with either a Flint and Steel, or Lava (put out the Fire, so you don't destroy Items)
+		* Ender Pearl: if you have excess Pearls, throw them into a nearby Wall or Floor, taking 2.5 Hearts of Damage on impact
+		* Fall Damage: 1/2 Heart per Block above 3 Blocks (4 Blocks = 1/2 Heart | 7 Blocks = 2 Hearts | 15 Blocks = 6 Hearts, etc)
+			* While in the Stronghold, you can climb up the Starter Staircase to easily get some height
 
-	Once you find a Shipwreck, go to the Top side @ the Back of the Boat → Loot Chest;
-		if <7 iron; Grab the Buried Treasure Map and locate the Buried Treasure, if bad Loot → Reset
-		you can use the Door in the Chest room to refresh your breath meter
+## **Advanced** | Pirate + Monument: Pirate Strat, with a nearby Ocean Monument
+**Video Guides:** [T_Wagz](https://youtu.be/0dyHYkg_xIU) | [Silver](https://youtu.be/-b7nQyXZkfw) | [Silver, Part 2](https://youtu.be/14FGC1eUHug)  
+*Gets the same start as Pirate Overworld, but you also collect the guaranteed 8 Gold Blocks from an Ocean Monument, allowing you to completely skip the Bastion in the Nether, if you get decent Trades*  
+* Pirate Start → Shipwreck (Shield, since Fortress without Fire Resistance Potions) → Ocean Monument
+	* As soon as you see the Ocean Monument, turn your Render Distance to 2 (RD2), this will usually result in the Elder Guardian not spawning, stopping it from giving you Mining Fatigue
+	* if you get Mining Fatigue anyway, either Drink a Bucket of Milk, or set your Spawn and Suicide (or raw Suicide, near the World Spawn)
+	* Guaridna Lazers: Hits to Kill, without Healing (Damage/20) - Easy = 5 (4) | Normal = 4 (6) | Hard = 3 (9)
+		* with Healing, Easy will almost always take 6 hits, and Normal will sometimes take 5 
+	* Once you're a reasonable distance away from the Monument, set your Render Distance back to normal
+* Continue with the normal Pirate Overworld strats → Ravine Nether Portal → Enter the Nether
+	* The same Bed/Food limitations exist
 
-	Swim to the nearest Gravel → Place Crafting Table @ Ocean floor → Place Door on top of the Table →
-		Craft Iron Pickaxe, Bucket, (if 8+ Iron; Iron Shovel, else; Wood/Stone Shovel), (if 11+ Iron; Iron Axe) →
-			if Gold Ingots, can get Gold Shovel (allowing you to get Iron Axe with 10 Iron)
-			if any Iron Ingots remain, Craft Shield (if wanted), and Iron Armor
-			Dig up Gravel for Flint → Craft Flint and Steel → Pickup Crafting Table
+## **Expert** | [Hypermodern](https://youtu.be/gAHMJfsrHe4): Combination of the most optimal strats, very high Reset Efficiency
+* Pirate → Ravine Nether Entry → Microlensing → Bastion → Pie-Ray → Fortress, Blazebed → Blind/Divine Travel →
+	* if 20+ Obsidian: Educated / Calulated Travel
+* Triangulation → Starter Staircase Stronghold Entry, if Ocean exposed; Portal Room Entry → Stronghold Navigation → End Entry →
+	* Half-Bow + North / South Ground + One-Cycle Dragon (4 Bed)  
+*Optionally*   
+* Village Start: if there is a close Lava Lake or Ruined Portal or Blacksmith, with 10+ Obsidian
+	* if >= 7 Iron (Blacksmith + Golem): Iron Pickaxe + Bucket + Flint and Steel
+	* if 4-6 Iron: Skip Iron Pickaxe, get lucky with Bastion Chests
+	* if 3 Iron: Reset (or Flintless Portal, if you REALLY want to force the seed)
 
-	Resurface → Place Boat → Search for an Ocean Ravine → Ravine Nether Portal: 
-		Standard: https://youtu.be/yGyMWYhHYoQ
-		Cobble Skip: https://youtu.be/H2fHDidyfJo?t=63
-		2-Wide: https://youtu.be/K233ih6nSCU?t=94 (not really a guide)
-	When searching for an Ocean Ravine, turn on Entity Hitboxes (F3 + B), and look for floating Kelp
-
-	You wont have any Beds, Make sure you get enough String from Trades: 7 Beds = 84 String (+21 Planks)
-	You wont have much Food, Nether: Make Stews or kill burning Hoglins | Overworld: kill burning Animals
-		Nether: 6 Crying Obsidian + 3 Glowstone (12 Dust) = Respawn Anchor → Suicide to Reset HP/Hunger
-		Overworld: Before entering The End, Sleep at a Bed → Suicide to Reset HP/Hunger (if no food)
-		Suicide Methods; use any Method that seems convienent to you at the time
-			Fire: Burn yourself with Flint and Steel or Lava, (Put out the Fire, so you don't burn any Items)
-			Ender Pearl: if you have excess Pearls, throw into a nearby Wall/Floor, taking damage on impact
-			Fall Damage: 1/2 Heart per Block above 3 (4: 1/2 | 7: 2 | 15: 6 etc),
-				in the Stronghold, you can easily climb up the Starter Staircase for some height
-
-
-[Advanced] Pirate + Monument: Ocean Spawn | Requires a nearby Ocean Monument (Requires Deep Ocean)
-		Guide: https://youtu.be/14FGC1eUHug | https://youtu.be/-b7nQyXZkfw | https://youtu.be/0dyHYkg_xIU
-	Uses the same strats as Pirate Overworld, but you also go to an Ocean Monument, to collect 
-		the guaranteed 8 Gold Blocks, allowing you to completely skip the Bastion in the Nether
-
-	Pirate Start (Boat/Doors/Blocks) → Shipwreck (Iron Pickaxe/Bucket) → Ocean Monument
-	Once you Locate the Ocean Monument, turn your Render Distance to the lowest (RD2), this will cause
-		the Elder Guardian to not spawn most of the time, stopping you from getting Mining Fatigue
-			if you get Mining Fatigue, either drink a Bucket of Milk, or set your Spawn and Suicide
-	Guardian Laser; Hits to kill, -healing (Damage/20); Easy = 5 (4) | Normal = 4 (6) | Hard = 3 (9)
-		with healing, easy will almost always take 6 hits, and normal will sometimes take 5
-
-	Once you're a reasonable distance away from the Monument, turn your Render Distance back up
-	Continue with the normal Pirate Overworld strats → Ravine Nether Portal → Enter the Nether
-
-
-[Expert] Hypermodern: Combination of the most optimal strats, high reset efficiency; https://youtu.be/gAHMJfsrHe4
-	Pirate → Ravine Nether Entry → Microlensing → Bastion Routing → Pie-Ray →
-		Fortress → Blazebed → Blind/Divine Travel (if 20+ Obsidian; Educated/Calculated) → Triangulation → 
-			Stronghold Staircase Entry (if Ocean exposed, Portal Room) → Stronghold Navigation → 
-				End Entry → Half-Bow + N/S Ground + One-Cycle Dragon
-
-	Optionally; Villages starts, if you have a close Lava Pool / Ruined Portal / Blacksmith (with 10+ Obsidian)
-		if >= 7 Iron (Blacksmith + Golem); Iron Pickaxe + Bucket + Flint and Steel
-		if 4-6 Iron; Skip Iron Pickaxe, try to get lucky with Bastion Chests
-			if 3 Iron, Reset (or Flintless Portal, if you really want to force the seed)
-
-
-
-The Nether: Bastion, Trade Gold to Piglins for Obsidian/Ender Pearls | Fortress, Kill Blazes for Blaze Rods
+## The Nether: Bastion, Trade Gold to Piglins for Obsidian/Ender Pearls | Fortress, Kill Blazes for Blaze Rods
 	Use Boats to negate Fall Damage, and kill burning Hoglins for easy Food; https://youtu.be/REas9cmjlic?t=686
 		Lava Bucket Hoglin killing Method; https://youtu.be/iaUF0oaegns?t=3860
 
