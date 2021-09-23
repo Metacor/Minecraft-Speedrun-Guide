@@ -1,7 +1,8 @@
 # Minecraft: Version 1.16.1  
 [Discord](https://discord.com/invite/jmdFn3C) | [Minecraft Speedrunning Website](https://www.minecraftspeedrunning.com/)   
 
-## Setup Guides: [k4yfour](https://youtu.be/4cTbSyvWNgI) | [DashPum4](https://youtu.be/km0sXurMj5s)
+## Setup 
+### Video Guides: [k4yfour](https://youtu.be/4cTbSyvWNgI) | [DashPum4](https://youtu.be/km0sXurMj5s)
 * Win + r -> %appdata% -> .minecraft -> options.txt (gamma:5.0, syncChunkWrites:false)  
 * Options -> Music & Sounds -> Show Subtitles: ON  
 * Options -> Video Settings -> Quality -> Entity Distance (500)  
