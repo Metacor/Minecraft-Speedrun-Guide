@@ -84,7 +84,7 @@
 * Find a nearby Lava Lake, or Dig deeper in the Cave to find Lava → [Create a Nether Portal](https://youtu.be/iaUF0oaegns?t=2029) → Enter the Nether
 	* While in the Nether, Collect Mushrooms in order to Craft [Suspicious Stews](https://i.imgur.com/9ckpeB6.png)
 
-## **Standard** | Village Overworld: Spawn with a nearby Village, Ideally a Plains, Desert, or Savanna Village, for the guaranteed Hay Bales
+## **Standard** | Village Overworld: Spawn with a nearby Village - Ideally a Plains, Desert, or Savanna Village (for the guaranteed Hay Bales)
 *if Village is in a Desert, Gather Wood / Stone before entering it, since the building will be made out of Sand*
 * Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
 * Place the Crafting Table near your Mining Destination → Craft a Wooden Pickaxe →
