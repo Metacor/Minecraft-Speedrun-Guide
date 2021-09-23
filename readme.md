@@ -156,7 +156,7 @@
 * Pirate Start → Shipwreck (Shield, since Fortress without Fire Resistance Potions) → Ocean Monument
 	* As soon as you see the Ocean Monument, turn your Render Distance to 2 (RD2), this will usually result in the Elder Guardian not spawning, stopping it from giving you Mining Fatigue
 	* if you get Mining Fatigue anyway, either Drink a Bucket of Milk, or set your Spawn and Suicide (or raw Suicide, near the World Spawn)
-	* Guaridna Lazers: Hits to Kill, without Healing (Damage/20) - Easy = 5 (4) | Normal = 4 (6) | Hard = 3 (9)
+	* Guardian Lazers: Hits to Kill, without Healing (Damage/20) - Easy = 5 (4) | Normal = 4 (6) | Hard = 3 (9)
 		* with Healing, Easy will almost always take 6 hits, and Normal will sometimes take 5 
 	* Once you're a reasonable distance away from the Monument, set your Render Distance back to normal
 * Continue with the normal Pirate Overworld strats → Ravine Nether Portal → Enter the Nether
