@@ -152,7 +152,7 @@
 			* While in the Stronghold, you can climb up the Starter Staircase to easily get some height
 
 ## **Advanced+** | Pirate + Monument
-*Same start as Pirate Overworld, but also get the guaranteed 8 Gold Blocks from an Ocean Monument - sometimes allowing you to completely skip the Bastion in the Nether*
+*Same start as Pirate Overworld, but you also gather the guaranteed 8 Gold Blocks from an Ocean Monument - sometimes allowing you to completely skip the Bastion in the Nether*
 * Pirate Start → Shipwreck (Shield, since Fortress without Fire Resistance Potions) → Ocean Monument
 	* As soon as you see the Ocean Monument, turn your Render Distance to 2 (RD2), this will usually result in the Elder Guardian not spawning, stopping it from giving you Mining Fatigue
 	* if you get Mining Fatigue anyway, either Drink a Bucket of Milk, or set your Spawn and Suicide (or raw Suicide, near the World Spawn)
