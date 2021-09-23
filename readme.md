@@ -140,8 +140,8 @@
 	* You can also use Iron Nuggets 9:1 Iron Ingots → Shears →
 		* Shear Sheep in the Overworld or Collect Cobwebs in a Stronghold Library
 * You wont have much Food (if any):
-	* Nether: Craft [Mushroom Stews](https://i.imgur.com/FUo9nfP.png)
-	* Overworld: Kill Burning Animals to get Pre-Cooked Meat
+	* In the Nether: Craft [Mushroom Stews](https://i.imgur.com/FUo9nfP.png)
+	* In the Overworld: Kill Burning Animals to get Pre-Cooked Meat
 	* Optionally: Suicide to Reset Hitpoints / Hunger
 		* Nether: Craft a [Respawn Anchor](https://i.imgur.com/mo7y0XA.png) → use a Glowstone Block on it → Suicide
 		* Overworld: Place a Bed → Right-Click the Bed → Suicide
