@@ -52,7 +52,7 @@
 	* if Triple, (right side): [Dowsky]()
 	* if Single, (right side): [Dip by EleventyBillion]()
 * Treasure: [Video](https://youtu.be/A9GGUWwNcrY?t=132) | [Screenshots](https://imgur.com/gallery/U4FnQC5)
-	* [NinjaBrain]()
+	* [Ninjabrain]()
 * Housing: [Video](https://youtu.be/BoNr-pbEITM?t=132) | [Screenshots](https://imgur.com/gallery/wyjWcli)
 	* if Top: [Top Down Manhunt]()
 	* if Bot: [Manhunt]()
