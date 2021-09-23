@@ -309,7 +309,7 @@
 <br/>
 
 # Keybinds & Shortcuts
-## F3 Keybinds
+### F3 Keybinds
 **F3**: Standard F3 Menu
 
 **F3 + F4**: Game Mode Selection | Open to LAN → Allow Cheats: ON → Start LAN World → F3 + F4 *(after a Failed Run)*
@@ -326,7 +326,7 @@
 * **F3 + Shift + F**: Decreases Render Distance by 1
 
 		
-## Inventory Management: (Storage Interface = Chest, Crafting Table etc)
+### Inventory Management: (Storage Interface = Chest, Crafting Table etc)
 	Hotbar Swap; Swaps the Hotbar Slot's Item with the Item Slot on your Mouse Hover
 		Hover over an Item Slot, and press a Hotbar Hotkey (1,2,3 etc)
 		(this can be used to quickly move items into the Crafting Window, with minimal mouse movement)
