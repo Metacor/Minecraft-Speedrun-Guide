@@ -326,7 +326,9 @@
 * **F3 + Shift + F**: Decreases Render Distance by 1
 
 		
-### Inventory Management: (Storage Interface = Chest, Crafting Table etc)
+### Inventory Management
+*Storage Interfaces: Chests, Crafting Tables etc*
+
 	Hotbar Swap; Swaps the Hotbar Slot's Item with the Item Slot on your Mouse Hover
 		Hover over an Item Slot, and press a Hotbar Hotkey (1,2,3 etc)
 		(this can be used to quickly move items into the Crafting Window, with minimal mouse movement)
