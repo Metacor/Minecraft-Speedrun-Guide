@@ -137,6 +137,8 @@
 <br/>
 
 * You wont have any Beds, so make sure you get enough String from Piglin Trades: 7 Beds = 84 String (+21 Planks)
+	* You can also use Iron Nuggets 9:1 Iron Ingots → Shears →
+		* Shear Sheep in the Overworld or Collect Cobwebs in a Stronghold Library
 * You wont have much Food (if any):
 	* Nether: Craft [Mushroom Stews](https://i.imgur.com/FUo9nfP.png)
 	* Overworld: Kill Burning Animals to get Pre-Cooked Meat
