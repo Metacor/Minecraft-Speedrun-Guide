@@ -43,10 +43,6 @@
 
 
 ## Bastions
-[Identification Playlist](https://www.youtube.com/watch?v=TioQsF5ygOg&list=PLS6QbW9YR38SQFYq6NIuGnHxoL73dFp8Y) | [Routing Spreadsheet](https://bit.ly/3kv8NL1)   
-
-<br/>
-
 **Identification:** Videos by T_Wagz, Screenshots by ElaMeTrataDiferente
 * Bridge: [Video](https://youtu.be/2pzMpX1RJGI?t=128) | [Screenshots](https://imgur.com/a/OHwW0tb)
 * Treasure: [Video](https://youtu.be/A9GGUWwNcrY?t=132) | [Screenshots](https://imgur.com/gallery/U4FnQC5)
@@ -55,10 +51,10 @@
 
 <br/>
 
-**Routing:** Recommended Routes
+**Routing:** Recommended Routes  ([Routing Spreadsheet](https://bit.ly/3kv8NL1))
 * Bridge
-	* if Triple, (right side): [Dowsky Dip]()
-	* if Single, (right side): [EleventyBillion Dip]()
+	* if Triple, (right side): [Dowsky]()
+	* if Single, (right side): [Dip by EleventyBillion]()
 * Treasure
 	* [NinjaBrain]()
 * Housing
@@ -69,16 +65,12 @@
 	* if no Triple, w/ Good Gap: [Good Gap Stables]()
 	* if no Triple, w/ Double Bad Gap: [Better Lucky Next Time](https://i.imgur.com/YxRxdhI.png)
 
-
-
-
-
 <br/>
 
 # Speedrun Guide
 **Video Guides:** [Haroon Shah, Jun 2021](https://youtu.be/iaUF0oaegns) | [Couriway, Dec 2020](https://youtu.be/REas9cmjlic) | [LiquidCandy, Dec 2020](https://youtu.be/14XeowuYgV0) | [Cuffep, Oct 2020](https://youtu.be/GQodZBfdL3g)
 
-### **[Beginner]** [Structureless Overworld](https://youtu.be/7dOca1LHefk): Slower, but requires far fewer Resets
+## **Beginner** | [Structureless Overworld](https://youtu.be/7dOca1LHefk): Slower, but requires far fewer Resets
 * Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
 * Find a nearby Cave → Decend into the Cave until you find Iron Ore
 * Place the Crafting Table → Craft a Wooden Pickaxe → Mine 3 Cobblestone → Craft a Stone Pickaxe → 
@@ -92,14 +84,12 @@
 * Find a nearby Lava Lake, or Dig deeper in the Cave to find Lava → [Create a Nether Portal](https://youtu.be/iaUF0oaegns?t=2029) → Enter the Nether
 	* While in the Nether, Collect Mushrooms in order to Craft [Suspicious Stews](https://i.imgur.com/9ckpeB6.png)
 
-### **[Standard]** Village Overworld: Village Spawn | Ideally Plains, Savanna, or Desert for the Hay Bales
+## **Standard** | Village Overworld: Spawn with a nearby Plains, Desert, or Savanna Village
 *if Village is in a Desert, Gather Wood / Stone before entering it, since the building will be made out of Sand*
 * Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
 * Place the Crafting Table near your Mining Destination → Craft a Wooden Pickaxe →
 	* Mine 6 Stone → Craft [a Stone Shovel, a Stone Axe, and a Stone Hoe](https://i.imgur.com/TCqDxat.png) → Pickup the Crafting Table → Chop 8+ Logs  
-
-
-**Village Tasks:**
+### Village Tasks:
 * Loot Blacksmiths, if available;
 	* if 10+ Obsidian: Skip Bucket → Mine 4 Stone, instead of 6 → Skip Hoe (slightly slower, but doesn't require a second Stick Craft)
 	* if 3+ Iron Ingots: Gather 2 Logs, instead of 3 → Skip Wooden Pickaxe
@@ -108,35 +98,19 @@
 * Kill the Golem: Drops 3-5 Iron Ingots
 	* Hit the Golem from max distance, from behind if possible → Run a few Blocks away → Build up 3 Blocks (Wood Planks) →
 	* Crit the Golem 8-9 times to Kill it: Jump → Fall → Attack, while Falling (with Stone Hatchet)
-* Place the Crafting Table → Craft an Iron Pickaxe, a Boat, (and a [Composter](https://i.imgur.com/qK3yzOP.png)/[Barrel](https://i.imgur.com/arI5xh9.png), if you're doing the Bucket of Cod Trade)
+* Place the Crafting Table → Craft an Iron Pickaxe and a Boat
+	* if you're doing the Bucket of Cod Trade, place this Crafting Table near Villagers, and addtionally Craft a Composter and a Barrel
+	* if 4 Iron Ingots: Craft a Flint and Steel, (after getting Flint from Digging up Gravel)
+		* if you only get 3 Iron Ingots: [Flintless Portal](https://youtu.be/axHdNQtPOf8?t=66), or Search for a Shipwreck/Ruined Portal
+	* if 5 Iron Ingots: Save for a Shield, in case you get a Fortress before a Bastion in the Nether
+* Hoe 7 Hay Bales → Craft Wheat (7:63) → Hoe 7 additional Hay Bales → Complete the Bucket of Cod Trade
+	* Find or Craft a [Composter](https://i.imgur.com/qK3yzOP.png) → Turn a Villager into a Farmer → Trade Wheat 60:3 Emeralds
+	* Find or Craft a [Barrel](https://i.imgur.com/arI5xh9.png) → Turn a Villager into a Fisherman → Trade Emeralds 3:1 Bucket of Cod
+* Craft Hay Bales → Wheat → Bread → Pickup the Crafting Table
+* Leave the Village → Search for a Lava Lake or Ruined Portal → [Create a Nether Portal](https://youtu.be/iaUF0oaegns?t=2029) → Enter the Nether
+	* [Minimum Blocks Required](https://i.imgur.com/jSspUON.png) | [Minimum Space Required](https://i.imgur.com/GKtJlok.png)
 
-
-
-
-
-		Place Crafting Table → Craft Iron Pickaxe, Boat, (+Composter/Barrel if doing Bucket Trade)
-			if 4 Iron Ingots; Craft Flint and Steel (after getting Flint from digging up Gravel)
-				if you only get 3 Iron Ingots, you can search for a Shipwreck/Ruined Portal
-				or learn Flintless Portal; Turn on Hard Difficulty → Back to Easy when the Portal Lights
-					Teaching Video; https://youtu.be/axHdNQtPOf8?t=66
-					More Strats; https://www.youtube.com/watch?v=DVDbfKuLaWo
-			if 5 Iron Ingots; Craft Shield, useful for Fortress before Bastion Nethers
-
-		Hoe 7 Hay Bales → 7:63 Wheat → Hoe 7 additional Hay Bales → Bucket Trade;
-			Find or Craft Composter (7 Wood Slabs)
-				Turn a Villager into a Farmer; Trade Wheat 60:3 Emeralds
-			Find or Craft Barrel (6 Wood Planks + 2 Wood Slabs)
-				Turn a Villager into a Fisherman; Trade Emeralds 3:1 Bucket of Cod
-
-		Craft Hay bales → Wheat → Bread → Pickup Crafting Table
-			
-	Leave the Village and Search for a Lava Lake → Create a Nether Portal → Enter the Nether;
-		Nether Portal, Standard Method; https://youtu.be/iaUF0oaegns?t=2029
-			Minimum Blocks Needed: https://i.imgur.com/jSspUON.png
-			Minimum Space Needed: https://i.imgur.com/GKtJlok.png
-
-
-[Advanced] Pirate Overworld: Ocean Spawn | Requires a nearby Shipwreck with 7+ Iron Ingots (Ideally 11+)
+## **Advanced** | Pirate Overworld: Ocean Spawn | Requires a nearby Shipwreck with 7+ Iron Ingots (Ideally 11+)
 	Gather 3 Wood → 12 Planks → Crafting Table + 8 Sticks
 		Place Crafting Table @ Tree → Craft Wooden Axe → Chop 8+ Wood →
 			Craft Doors → Craft Boat → Pickup Crafting Table →
