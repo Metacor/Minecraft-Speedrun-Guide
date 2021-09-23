@@ -49,8 +49,6 @@
 * Housing: [Video](https://youtu.be/BoNr-pbEITM?t=132) | [Screenshots](https://imgur.com/gallery/wyjWcli)
 * Stables: [Video](https://youtu.be/TioQsF5ygOg?t=149) | [Screenshots](https://imgur.com/gallery/u91rHC4)
 
-<br/>
-
 **Routing:** Recommended Routes  ([Routing Spreadsheet](https://bit.ly/3kv8NL1))
 * Bridge
 	* if Triple, (right side): [Dowsky]()
