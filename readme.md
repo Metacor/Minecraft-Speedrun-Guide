@@ -80,37 +80,42 @@
 
 ### **[Beginner]** [Structureless Overworld](https://youtu.be/7dOca1LHefk): Slower, but requires far fewer Resets
 * Gather 3 Wood → Craft 12 Planks → Craft a Crafting Table + 8 Sticks
-* Find a nearby Cave → Decend the Cave until you find Iron
-	* Place your Crafting Table → Craft a Wooden Pickaxe → 
+* Find a nearby Cave → Decend into the Cave until you find Iron Ore
+* Place the Crafting Table → Craft a Wooden Pickaxe → Mine 3 Cobblestone → Craft a Stone Pickaxe → 
+	* Mine 7 Iron (8, if you want a Shield) + 12 Cobblestone + 1 Coal
+* Craft a Furnace + Stone Axe + Stone Shovel → Pickup the Crafting Table
+* Resurface → Place the Furnace near a Tree → Smelt the Iron Ore → Chop 8+ Wood
+	* Collect the first Iron Ingot → Search for Gravel → Dig for Flint → Craft a Flint and Steel
+	* Kill Burning Animals to get Pre-Cooked Meat
+		* While Searching for Gravel / Animals: Collect Dandelions / Blue Orchids (for Suspicious Stews)
 
 
 
+		[Beginner] Structureless Overworld: Slower, but fewer resets - https://youtu.be/7dOca1LHefk
+			Gather 3 Wood → 12 Planks → Crafting Table + 8 Sticks
+			Find a nearby Cave, go down until you find Iron → Place Crafting Table → Craft Wooden Pickaxe
+				Mine 3 Cobblestone → Craft Stone Pickaxe → Mine 7 Iron (8 if Shield) + 12 Cobblestone + 1 Coal
+				Craft Furnace + Stone Axe + Stone Shovel, Pickup Crafting Table
+				Resurface, Place Furance @ Tree, Smelt Iron → Chop 8+ Wood
+					Collect the first Iron Ingot → Search for Gravel, dig for Flint → Craft Flint and Steel
+						Kill burning animals to get pre-cooked meat and search for Dandelions/Blue Orchids
+					Once the Iron is done, place Crafting Table → Craft Iron Pickaxe + Bucket + Boat + Bowls
+			Find a nearby Lava Lake, or dig in the cave to find Lava → Create Nether Portal → Enter the Nether;
+				Collect Mushrooms for Stews (Dandelion Stew gives a Saturation Buff); https://i.imgur.com/9ckpeB6.png
 
-[Beginner] Structureless Overworld: Slower, but fewer resets - https://youtu.be/7dOca1LHefk
-	Gather 3 Wood → 12 Planks → Crafting Table + 8 Sticks
-	Find a nearby Cave, go down until you find Iron → Place Crafting Table → Craft Wooden Pickaxe
-		Mine 3 Cobblestone → Craft Stone Pickaxe → Mine 7 Iron (8 if Shield) + 12 Cobblestone + 1 Coal
-		Craft Furnace + Stone Axe + Stone Shovel, Pickup Crafting Table
-		Resurface, Place Furance @ Tree, Smelt Iron → Chop 8+ Wood
-			Collect the first Iron Ingot → Search for Gravel, dig for Flint → Craft Flint and Steel
-				Kill burning animals to get pre-cooked meat and search for Dandelions/Blue Orchids
-			Once the Iron is done, place Crafting Table → Craft Iron Pickaxe + Bucket + Boat + Bowls
-	Find a nearby Lava Lake, or dig in the cave to find Lava → Create Nether Portal → Enter the Nether;
-		Collect Mushrooms for Stews (Dandelion Stew gives a Saturation Buff); https://i.imgur.com/9ckpeB6.png
 
+		[Standard] Village Overworld: Village Spawn | Ideally Plains, Savanna, or Desert for Hay Bales
+			if Desert Village; Grab Wood / Stone before going into the Village (their buildings don't use wood)
+			Gather 3 Wood → 12 Planks → Crafting Table + 8 Sticks
+				Place Crafting Table @ Mining Destination → Craft Wooden Pickaxe → 
+					Mine 6 Stone → Craft Stone Shovel + Axe + Hoe → Pickup Crafting Table → Chop 8+ Wood
 
-[Standard] Village Overworld: Village Spawn | Ideally Plains, Savanna, or Desert for Hay Bales
-	if Desert Village; Grab Wood / Stone before going into the Village (their buildings don't use wood)
-	Gather 3 Wood → 12 Planks → Crafting Table + 8 Sticks
-		Place Crafting Table @ Mining Destination → Craft Wooden Pickaxe → 
-			Mine 6 Stone → Craft Stone Shovel + Axe + Hoe → Pickup Crafting Table → Chop 8+ Wood
-
-	Village Tasks:
-		Loot Blacksmiths, if available;
-			if 10+ Obsidian;
-				Skip Bucket; 4 Stone, Skip Hoe (slightly slower, but doesn't require a second stick craft)
-			if 3+ Iron Ingots; 2 Wood Start, Skip Wooden Pickaxe
-				if 7+ Total (Blacksmith+Golem), can skip Bucket Trade (can do with 6, if Flintless Portal)
+			Village Tasks:
+				Loot Blacksmiths, if available;
+					if 10+ Obsidian;
+						Skip Bucket; 4 Stone, Skip Hoe (slightly slower, but doesn't require a second stick craft)
+					if 3+ Iron Ingots; 2 Wood Start, Skip Wooden Pickaxe
+						if 7+ Total (Blacksmith+Golem), can skip Bucket Trade (can do with 6, if Flintless Portal)
 
 		Collect Beds from Village Houses (+Carpets, if Carpet Flintless Portal)
 
