@@ -465,7 +465,8 @@
 	* *if item(num), xX: Put the Item into that specific Crafting Window Slot*
 * *xX: tL,tM,tR - mL,mM,mR - bL,bM,bR*
 	* *first, small letter is top/middle/bottom (row)*
-	* *second, Big letter is Left/Middle/Right (column)*
+	* *second, Big letter is Left/Middle/Right (column)*  
+
 *the given intructions/screenshots will only be for the most optimal version, even if multiple videos are provided*  
 
 **Crafting Table + Sticks**:  
