@@ -462,14 +462,17 @@
 *Notation: sClick = Shift + Click | (num) = Hotbar Keybind | bR = top/mid/bot (row) + Left/Mid/Right (column)*  
 *the given intructions/screenshots will only be for the most optimal version, even if multiple videos are provided*  
 
-**Crafting Table + Sticks**: [Screenshot](https://i.imgur.com/pzABDu2.png) | Videos: **[8 Clicks](https://youtu.be/TeFeMmjoUIc?t=28)**, [10 Clicks](), [10 Clicks + doesn't return planks to the Hotbar]()
+**Crafting Table + Sticks**: [Screenshot](https://i.imgur.com/pzABDu2.png), Videos: **[Optimal - (8 Clicks)](https://youtu.be/TeFeMmjoUIc?t=28)** | [Split 2 → Left Click - 10 Clicks]() | [Double Split - 10 Clicks]()
 * Turn 3 Logs → 12 Planks → a Crafting Table, and 8 Sticks
 	* Logs(1) → collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → collect: sClick x2  
 
-**Wooden Pickaxe**: [Screenshot](https://i.imgur.com/k3vCKuq.png) | [Video]()
-* Place Crafting Table → Craft Wooden Pick → Mine 6 Stone
+**Wooden Pickaxe**: [Screenshot](https://i.imgur.com/k3vCKuq.png), [Video]()
+* Place Crafting Table → Craft Wooden Pick
 	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tL → Half Split → Drag tM, tR → collect: 8
 		* *highly recommend to collect to your Pickaxe Hotbar Keybind, instead of shift + clicking*
+		* *i have mine set to 8 (rebound to f), but you can collect to whatever yours is
+
+**Stone Tools**: [Screenshot](https://i.imgur.com/k3vCKuq.png), [Video]()
 
 
 
