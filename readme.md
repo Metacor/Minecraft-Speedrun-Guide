@@ -2,18 +2,32 @@
 [Discord](https://discord.com/invite/jmdFn3C) | [Minecraft Speedrunning Website](https://www.minecraftspeedrunning.com/) | [Minecraft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki) | [Speedrun.com](https://www.speedrun.com/mc#Any_Glitchless)
 
 ## Table of Contents
-* [Setup]()
-	* [Mods]()
-	* [Practice Maps]()
-* [Bastions]()
-* [Speedrun Guide]()
-	* [Overworld]()
-		* [Beginner | Structureless]()
-		* [Standard | Village]()
-		* [Advanced | Pirate]()
-			* [Advanced+ | Pirate + Ocean Monument]()
-		* [Expert | Hypermodern]()
-
+* [Setup](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#setup)
+	* [Mods](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#mods)
+	* [Practice Maps](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#practice-maps)
+* [Bastions](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#bastions)
+* [Speedrun Guide](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#speedrun-guide)
+	* [The Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#beginner--structureless-overworld)
+		* [Beginner | Structureless](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#beginner--structureless-overworld)
+		* [Standard | Village](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#standard--village-overworld)
+		* [Advanced | Pirate](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#advanced--pirate-overworld)
+			* [Advanced+ | Pirate → Ocean Monument](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#advanced--pirate--ocean-monument)
+		* [Expert | Hypermodern](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#expert--hypermodern)
+	* [The Nether](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#the-nether)
+	* [The Overworld, Part 2](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#the-overworld-part-2)
+	* [The End](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#the-end)
+* [Keybinds & Shortcuts](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#keybinds--shortcuts)
+	* [F3 Keybinds](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#f3-keybinds)
+	* [Inventory Management](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#inventory-management)
+* [Tips & Tricks](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#tips--tricks)
+	* [The Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#the-overworld)
+	* [The Nether](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#the-nether-1)
+	* [The Overworld, Part 2]()
+	* [The End](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#the-end-1)
+* [Practice](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#practice)
+	* [Crafting](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#crafting)
+	* [Tasks](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#tasks)
+* [Speedrun Cheatsheet](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#speedrun-cheatsheet)
 
 ## Setup 
 **Video Guides:** [k4yfour](https://youtu.be/4cTbSyvWNgI) | [DashPum4](https://youtu.be/km0sXurMj5s)
@@ -454,7 +468,7 @@
 * Mobs spawn more often in Soul Sand Valleys, so if a Fortress is located in one, 5RD is pretty risky
 * While trying to Pie-Ray, if you accidentally press the wrong button, press '0' to go back a page
 	
-### The Overworld 2
+### The Overworld, Part 2
 * When travelling across Water, it is faster to use a Dolphin's Boost, than it would be to use a Boat
 * if you find an underwater Stronghold, make sure to look around for the Portal Room before blindly entering
 * Strongholds are extremely unlikely to spawn in Swamps ([supposedly](https://youtu.be/_rbWryJVEmw?t=1011))
