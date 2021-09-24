@@ -519,7 +519,7 @@
 * Pie-Ray: Locate the Fortress direction using the F3 Pie Chart *(also useful for finding Villages)*
 
 **Stronghold**  
-* Blind Travel: Memorize the general Coordinates for both the First and Second Ring
+* Blind Travel: Try to remember the general Coordinates for atleast the First Ring
 * Triangulation: Quickly and accurately turn 90°, and be able to consistently travel 17.5 Blocks
 * Stronghold Navigation: Complete a lot of Stronghold trial runs, starting from random positions
 
