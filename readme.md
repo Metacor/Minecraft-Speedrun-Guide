@@ -456,8 +456,8 @@
 # Practice
 *Ideally, get comfortable with each of these steps before starting runs*
 
-### Crafting
-*learn to quickly, and efficiently, complete the most common early game Crafting Windows*  
+## Crafting
+*learn to quickly, and optimally, complete the most common early game Crafting Windows*  
 
 **Notation:**
 * *sClick: Shift + Click | lClick: Left Click | rClick: Right Click*
@@ -469,29 +469,27 @@
 
 *the given intructions/screenshots will only be for the most optimal version, even if multiple videos are provided*  
 
-**Crafting Table + Sticks**:  
+**Crafting Table + Sticks**: *used in practiacally every run*
 [Screenshot](https://i.imgur.com/pzABDu2.png) | Videos: **[Optimal (8 Clicks)](https://youtu.be/TeFeMmjoUIc?t=28)** | [Split 2 → Left Click (10 Clicks)]() | [Double Split (10 Clicks + bad planks)]()
 * Gather 3 Logs, turn them into 12 Planks, then Craft a Crafting Table and 8 Sticks
 	* Logs(1) → collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → collect: sClick x2  
 
-**Wooden Pickaxe**:  
+**Wooden Pickaxe**: *used in non-pirate strats, assuming you don't get 3+ Iron from a Blacksmith/Ruined Portal*
 [Screenshot](https://i.imgur.com/k3vCKuq.png) | [Video]()
 * Place the Crafting Table, Craft a Wooden Pickaxe, then Mine 6 Cobblestone
 	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tL → Half Split → Drag tM, tR → collect: 8
 		* *highly recommend to collect to your Pickaxe Hotbar Keybind, instead of shift + clicking*
 		* *i have mine set to 8 rebound to f, just collect to whatever yours is bound to*
 
-**Stone Tools**:  
+**Stone Tools**: *used in non-pirate strats, if you don't want/need a Hoe, simply Mine 4 Stone instead*
 [Screenshot](https://i.imgur.com/TCqDxat.png) | [Video]()
 * Craft a Stone Axe, a Stone Shovel, and a Stone Hoe
 	* Sticks(2), bM → Half Split → lClick mM → Stone(3), tM → Half Split → rClick mL → lClick tL → collect: 7 → 4 → 5
 		* *once again, i'd recommend collecting directly to your axe/shovel/hoe slots*
 
+## Tasks
+*learn to efficiently complete these tasks*  
 
-
-		Craft Stone Axe + Shovel + Hoe
-			Stick(2), bM → Split, lClick mM → Stone(3), tM → Split → rClick mL → lClick tL → Collect, R → 4 → 5
-				Crafting: https://i.imgur.com/TCqDxat.png
 		Collect Table → Farm Wood (Normally:8) → Planks → 4 Sticks
 		Kill Golem → Table → Iron Pick → Boat → Collect Table
 
