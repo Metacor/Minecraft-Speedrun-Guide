@@ -457,6 +457,8 @@
 * Buckets of Water don't actually work in the Nether, so when you finish your Nether Portal, fill the Bucket with Lava
 
 ### The Nether
+* Falling while in a Boat will negate all Fall Damage: [Video](https://youtu.be/REas9cmjlic?t=686)
+* Killing Burning Hoglins is an easy way to get food in the Nether [Lava Bucket](https://youtu.be/iaUF0oaegns?t=3861) | [Flint and Steel](https://youtu.be/REas9cmjlic?t=694)
 * if you need more Blocks while in the Nether, Mine some Netherrack
 	* Netherrack isn't flammable, and it's fast to Mine (0.1s with an Iron Pickaxe)
 * if there is a far away Ghast attacking you, quickly lower your Render Distance to 2
