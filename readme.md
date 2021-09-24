@@ -192,7 +192,9 @@
 	* Once you're a reasonable distance away from the Monument, set your Render Distance back to normal
 * Continue with the normal Pirate Overworld strats → Ravine Nether Portal → Enter the Nether
 	* The same Bed/Food limitations exist
-* While in the Nether, find a Fortress, then begin to trade with nearby random Piglins (trap 2 in a boat, or in a hole, drop them your gold, then go kill Blazes)
+* While in the Nether: Find a Fortress → Trade with nearby randomly spawned Piglins → Kill Blazes for Blaze Rods
+	* *trap 2 Piglins in a Boat, or in a 2 Block deep hole → Throw them your Gold Ingots → Proceed into the Fortress*
+		* *don't forget to return to the Piglins to collect your loot, if you don't have enough → Find a Bastion*
 
 ## **Expert** | [Hypermodern](https://youtu.be/gAHMJfsrHe4)
 *Combination of the most optimal strats, Resets are frequent, so having a very high Reset Efficiency is recommended*
