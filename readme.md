@@ -471,24 +471,24 @@
 
 **Crafting Table + Sticks**:  
 [Screenshot](https://i.imgur.com/pzABDu2.png) | Videos: **[Optimal (8 Clicks)](https://youtu.be/TeFeMmjoUIc?t=28)** | [Split 2 → Left Click (10 Clicks)]() | [Double Split (10 Clicks + bad planks)]()
-* Turn 3 Logs → 12 Planks → a Crafting Table, and 8 Sticks
+* Gather 3 Logs, turn them into 12 Planks, then Craft a Crafting Table and 8 Sticks
 	* Logs(1) → collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → collect: sClick x2  
 
 **Wooden Pickaxe**:  
 [Screenshot](https://i.imgur.com/k3vCKuq.png) | [Video]()
-* Place Crafting Table → Craft Wooden Pick
+* Place the Crafting Table, Craft a Wooden Pickaxe, then Mine 6 Cobblestone
 	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tL → Half Split → Drag tM, tR → collect: 8
 		* *highly recommend to collect to your Pickaxe Hotbar Keybind, instead of shift + clicking*
-		* *i have mine set to 8 (rebound to f), but you can collect to whatever yours is
+		* *i have mine set to 8 rebound to f, just collect to whatever yours is bound to*
 
 **Stone Tools**:  
-[Screenshot](https://i.imgur.com/k3vCKuq.png) | [Video]()
+[Screenshot](https://i.imgur.com/TCqDxat.png) | [Video]()
+* Craft a Stone Axe, a Stone Shovel, and a Stone Hoe
+	* Sticks(2), bM → Half Split → lClick mM → Stone(3), tM → Half Split → rClick mL → lClick tL → collect: 7 → 4 → 5
+		* *once again, i'd recommend collecting directly to your axe/shovel/hoe slots*
 
 
 
-		Place Table → Craft Wood Pick → Mine 6 Stone → 
-			Stick(f), bM → Split, lClick mM → Plank(1), tL → Split → Drag tM, tR → collect, F	
-				Crafting: https://i.imgur.com/k3vCKuq.png	
 		Craft Stone Axe + Shovel + Hoe
 			Stick(2), bM → Split, lClick mM → Stone(3), tM → Split → rClick mL → lClick tL → Collect, R → 4 → 5
 				Crafting: https://i.imgur.com/TCqDxat.png
