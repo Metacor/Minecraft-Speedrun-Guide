@@ -462,7 +462,7 @@
 * if you need more Blocks while in the Nether, Mine some Netherrack
 	* Netherrack isn't flammable, and it's fast to Mine (0.1s with an Iron Pickaxe)
 * if there is a far away Ghast attacking you, quickly lower your Render Distance to 2
-	* [This will usually despawn the Ghast](https://youtu.be/tWVrxt0G6r0?t=693)
+	* [This will usually despawn the Ghast](https://youtu.be/tWVrxt0G6r0?t=696)
 	* You can turn your Render Distance back up after it disappears
 * if you find Nether Gold Ore while travelling to a Bastion, consider Mining it and making Gold Boots
 	* Boots only take 4 Gold Ingots (36 Gold Nuggets)
