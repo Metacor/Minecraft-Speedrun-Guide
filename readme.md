@@ -1,4 +1,4 @@
-# Minecraft: Version 1.16.1  
+# Minecraft: Speedrun Guide - Any%, RSG, 1.16.1
 [Discord](https://discord.com/invite/jmdFn3C) | [Minecraft Speedrunning Website](https://www.minecraftspeedrunning.com/) | [Minecraft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki) | [Speedrun.com](https://www.speedrun.com/mc#Any_Glitchless)
 
 ## Setup 
