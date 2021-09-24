@@ -187,8 +187,7 @@
 * Pirate Start → Shipwreck (Craft a Shield, since you wont have Fire Resistance for the Fortress) → Ocean Monument
 	* As soon as you see the Ocean Monument, turn your Render Distance to 2 (RD2), this will usually result in the Elder Guardian not spawning, stopping it from giving you Mining Fatigue
 	* if you get Mining Fatigue anyway, either Drink a Bucket of Milk, or set your Spawn and Suicide (or raw Suicide, near the World Spawn)
-	* Guardian Lazer Hits taken to Kill you, without Healing (Damage/20): Easy = 5 (4) | Normal = 4 (6) | Hard = 3 (9)
-		* with Healing, Easy will almost always take 6 hits, and Normal will sometimes take 5 
+	* loot the 8 Gold Blocks from the Monument, following one of the guides linked above → Leave the Monument
 	* Once you're a reasonable distance away from the Monument, set your Render Distance back to normal
 * Continue with the normal Pirate Overworld strats → Ravine Nether Portal → Enter the Nether
 	* The same Bed/Food limitations exist
@@ -433,6 +432,9 @@
 		* Top Chest: Iron Ingots, Gold Ingots
 		* Bot Chest: Buried Treasure Maps
 			* Buried Treasure is always located @ 9/x/9 in the Chunk where the X is located 
+* Ocean Monuments
+	* Guardian Lazer Hits taken to Kill you, without Healing (Damage/20): Easy = 5 (4) | Normal = 4 (6) | Hard = 3 (9)
+		* with Healing, Easy will almost always take 6 hits, and Normal will sometimes take 5 
 * [Desert Temples](https://youtu.be/gS6LxaNibWM?t=76)
 	* To quickly collect all of the Chests, aswell as any surrounding Blocks
 		* Collect all of the TnT → Place 1 TnT under you → 
