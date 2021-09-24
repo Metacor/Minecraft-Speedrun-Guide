@@ -474,7 +474,7 @@
 * Gather 3 Logs, turn them into 12 Planks, then Craft a Crafting Table and 8 Sticks
 	* Logs(1) → collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → collect: sClick x2  
 
-**Wooden Pickaxe**: *used in non-pirate strats, assuming you don't get 3+ Iron from a Blacksmith/Ruined Portal*  
+**Wooden Pickaxe**: *used in non-pirate strats | unless: 3+ Iron from Blacksmith, or Golden Pickaxe from a Ruined Portal*  
 [Screenshot](https://i.imgur.com/k3vCKuq.png) | [Video]()
 * Place the Crafting Table, Craft a Wooden Pickaxe, then Mine 6 Cobblestone
 	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tL → Half Split → Drag tM, tR → collect: 8
