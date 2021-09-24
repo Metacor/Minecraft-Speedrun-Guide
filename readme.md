@@ -460,38 +460,40 @@
 *learn to quickly, and efficiently, complete the most common early game Crafting Windows*  
 
 *Notation: sClick = Shift + Click | (num) = Hotbar Keybind | bR = top/mid/bot (row) + Left/Mid/Right (column)*  
-*the given intructions/screenshots will be for the most optimal version, even if multiple videos are provided*
-*example: Drag bR, bL, tL = Drag Items, starting at the bottom right → bottom left → top left*  
+*the given intructions/screenshots will only be for the most optimal version, even if multiple videos are provided*  
 
-**Crafting Table + Sticks**: [Screenshot]() | Videos: **[8 Clicks]()**, [10 Clicks](), [10 Clicks + doesn't return planks to the Hotbar]()
+**Crafting Table + Sticks**: [Screenshot](https://i.imgur.com/pzABDu2.png) | Videos: **[8 Clicks](https://youtu.be/TeFeMmjoUIc?t=28)**, [10 Clicks](), [10 Clicks + doesn't return planks to the Hotbar]()
 * Turn 3 Logs → 12 Planks → a Crafting Table, and 8 Sticks
-	* Log(1) → collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → collect: sClick x2
+	* Logs(1) → collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → collect: sClick x2  
+
+**Wooden Pickaxe**: [Screenshot](https://i.imgur.com/k3vCKuq.png) | [Video]()
+* Place Crafting Table → Craft Wooden Pick → Mine 6 Stone
+	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tL → Half Split → Drag tM, tR → collect: 8
+		* *highly recommend to collect to your Pickaxe Hotbar Keybind, instead of shift + clicking*
 
 
-	Beginning Overworld Movement: 3 Wood → 12 Planks → Crafting Table + 8 Sticks
-		Wood(1) → sClick Planks → Planks(`), bR → Split → Drag bR, bL, tL → Left Click tR → collect, sClick x2;
-			Crafting: https://i.imgur.com/pzABDu2.png | Demonstration: https://youtu.be/TeFeMmjoUIc?t=28
-	Place Table → Craft Wood Pick → Mine 6 Stone → 
-		Stick(f), bM → Split, lClick mM → Plank(1), tL → Split → Drag tM, tR → collect, F	
-			Crafting: https://i.imgur.com/k3vCKuq.png	
-	Craft Stone Axe + Shovel + Hoe
-		Stick(2), bM → Split, lClick mM → Stone(3), tM → Split → rClick mL → lClick tL → Collect, R → 4 → 5
-			Crafting: https://i.imgur.com/TCqDxat.png
-	Collect Table → Farm Wood (Normally:8) → Planks → 4 Sticks
-	Kill Golem → Table → Iron Pick → Boat → Collect Table
 
-	Village: Identify which Houses have Beds (and Carpets)
-	Nether Portal Construction, +Flintless Portal
+		Place Table → Craft Wood Pick → Mine 6 Stone → 
+			Stick(f), bM → Split, lClick mM → Plank(1), tL → Split → Drag tM, tR → collect, F	
+				Crafting: https://i.imgur.com/k3vCKuq.png	
+		Craft Stone Axe + Shovel + Hoe
+			Stick(2), bM → Split, lClick mM → Stone(3), tM → Split → rClick mL → lClick tL → Collect, R → 4 → 5
+				Crafting: https://i.imgur.com/TCqDxat.png
+		Collect Table → Farm Wood (Normally:8) → Planks → 4 Sticks
+		Kill Golem → Table → Iron Pick → Boat → Collect Table
 
-	Bastion: Identification + Routing, for all 4 Types
-		Microlensing: Locate Bastion direction from Nether spawn
-	Fortress: General Navigation, be able to quickly find the outside portion of the Fortress
-		Pie-Ray: Locate Fortress drection from the Bastion, (also useful to find Villages)
-	Blind Travel: Try to remember the general locations of the 1st/2nd Ring Coordinates
+		Village: Identify which Houses have Beds (and Carpets)
+		Nether Portal Construction, +Flintless Portal
 
-	Triangulation: Quick 90° turn + Consistent 17.5 Block Jumps, Fast Menuing
-	Stronghold: Optimal Navigation, do a lot of stronghold trial solves (random → starter → portal)
-	Dragon: 1 Cycle (N/S Perch), <=7 Beds, with Obsidian and Full Block/Slab setups (no obby backup)
+		Bastion: Identification + Routing, for all 4 Types
+			Microlensing: Locate Bastion direction from Nether spawn
+		Fortress: General Navigation, be able to quickly find the outside portion of the Fortress
+			Pie-Ray: Locate Fortress drection from the Bastion, (also useful to find Villages)
+		Blind Travel: Try to remember the general locations of the 1st/2nd Ring Coordinates
+
+		Triangulation: Quick 90° turn + Consistent 17.5 Block Jumps, Fast Menuing
+		Stronghold: Optimal Navigation, do a lot of stronghold trial solves (random → starter → portal)
+		Dragon: 1 Cycle (N/S Perch), <=7 Beds, with Obsidian and Full Block/Slab setups (no obby backup)
 	
 <br/>
 
