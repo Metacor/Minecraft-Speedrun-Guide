@@ -215,9 +215,6 @@
 *Find a Bastion, Trade Gold to Piglins for Obsidian and Ender Pearls → Find a Fortress, Kill Blazes for Blaze Rods*
 
 
-	Use Boats to negate Fall Damage, and kill burning Hoglins for easy Food; https://youtu.be/REas9cmjlic?t=686
-		Lava Bucket Hoglin killing Method; https://youtu.be/iaUF0oaegns?t=3860
-
 	Only 1 Structure can Spawn per 432, 432 MegaChunk, for Example:
 		if Bastion @ +x,+z you will have to go to any of the remaining three quadrants; +x,-z | -x,-z | -x,+z
 			aka; pos, pos | pos, neg | neg, neg | neg, pos
@@ -307,7 +304,6 @@
 	Enter the Stronghold
 		if Entering from above, Dig @ 4/x/4 (3,4,5/x/3,4,5 all work) in the Chunk to enter the Starter Staircase
 		if not entering @ the Starter Staircase; Go through Backwards Doors until you find it
-		Portal Room is usually within 5-7 rooms of the Starter Staircase
 		on entering the Portal Room, run up the stairs → place a block in the lava → stand on it →
 			Place Eyes of Ender into the End Portal Frames, on the final Frame, you will be teleported to The End
 			
@@ -323,16 +319,7 @@
 			https://www.youtube.com/watch?v=aGMLHXnD6Bc
 			https://www.youtube.com/watch?v=uBp8uVbW1us
 
-	You always Spawn to the East, facing the Main Island, Ender pearl to the Island if possible
-		if you spawn underground, Dig up in the top left/right corner
-
 	Get to the Fountain asap → setup the bed platform → run in your desired direction
-		The Dragon Perches faster the futher away you are from the fountain
-		Run away in a Cardinal Direction, in relation to the fountain
-			if you don't, the dragon might Diagonal Perch, making the one cycle very hard
-		North/South Perch is faster than East/West, but gives the player less time to react
-		The Dragon will Perch on the Opposite side of you;
-			so if you're North, and the dragon snaps middle from the South, it's likely perching
 	if 2+ Pearls; Pearl to the highest tower in your desired direction (N/S/E/W), build up to y = 122
 		if the Dragon fireballs you, either dodge it, or get hit on purpose then jump → place a block below you
 	F3 + B to enable Hitboxes for the Dragon fight, also helps with recognizing the Perch
@@ -479,6 +466,7 @@
 * When travelling across Water, it is faster to use a Dolphin's Boost, than it would be to use a Boat
 * if you find an underwater Stronghold, make sure to look around for the Portal Room before blindly entering
 * Strongholds are extremely unlikely to spawn in Swamps ([supposedly](https://youtu.be/_rbWryJVEmw?t=1011))
+* The Portal Room is usually within 5-7 Rooms of the Starter Staircase
 * In the Stronghold, Spiral Staircases always lead up, towards the Starter Staircase
 * Libraries lead nowhere, if you enter a Library from the Starter Staircase, turn around
 	* if you need more Beds, you can Gather string from Library Cobwebs 
