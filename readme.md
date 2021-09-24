@@ -469,19 +469,19 @@
 
 *the given intructions/screenshots will only be for the most optimal version, even if multiple videos are provided*  
 
-**Crafting Table + Sticks**: *used in practiacally every run*
+**Crafting Table + Sticks**: *used in practiacally every run*  
 [Screenshot](https://i.imgur.com/pzABDu2.png) | Videos: **[Optimal (8 Clicks)](https://youtu.be/TeFeMmjoUIc?t=28)** | [Split 2 → Left Click (10 Clicks)]() | [Double Split (10 Clicks + bad planks)]()
 * Gather 3 Logs, turn them into 12 Planks, then Craft a Crafting Table and 8 Sticks
 	* Logs(1) → collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → collect: sClick x2  
 
-**Wooden Pickaxe**: *used in non-pirate strats, assuming you don't get 3+ Iron from a Blacksmith/Ruined Portal*
+**Wooden Pickaxe**: *used in non-pirate strats, assuming you don't get 3+ Iron from a Blacksmith/Ruined Portal*  
 [Screenshot](https://i.imgur.com/k3vCKuq.png) | [Video]()
 * Place the Crafting Table, Craft a Wooden Pickaxe, then Mine 6 Cobblestone
 	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tL → Half Split → Drag tM, tR → collect: 8
 		* *highly recommend to collect to your Pickaxe Hotbar Keybind, instead of shift + clicking*
 		* *i have mine set to 8 rebound to f, just collect to whatever yours is bound to*
 
-**Stone Tools**: *used in non-pirate strats, if you don't want/need a Hoe, simply Mine 4 Stone instead*
+**Stone Tools**: *used in non-pirate strats, if you don't want/need a Hoe, simply Mine 4 Stone instead*  
 [Screenshot](https://i.imgur.com/TCqDxat.png) | [Video]()
 * Craft a Stone Axe, a Stone Shovel, and a Stone Hoe
 	* Sticks(2), bM → Half Split → lClick mM → Stone(3), tM → Half Split → rClick mL → lClick tL → collect: 7 → 4 → 5
