@@ -437,6 +437,7 @@
 	* if there are 3 Blocks, then it can be either Housing or Bridge
 		* Housing and Bridge are very different, so it shouldn't be too hard to Identify the correct one
 * Mobs spawn more often in Soul Sand Valleys, so if a Fortress is located in one, 5RD is pretty risky
+* While trying to Pie-Ray, if you accidentally press the wrong button, press '0' to go back a page
 	
 ### The Overworld 2
 * When travelling across Water, it is faster to use a Dolphin's Boost, than it would be to use a Boat
