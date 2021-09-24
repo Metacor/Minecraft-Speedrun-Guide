@@ -474,7 +474,7 @@
 
 ### The End
 * You always Spawn to the East, facing the Main Island
-	* *if you spawn underground, Dig up in the top left or right corners*
+	* *if you spawn underground, Dig up in the top left corner*
 * The Dragon Perches faster the farther away you are from the Fountain, both height and distance
 * The Dragon will Perch from the opposite side of you, in relation to the Fountain
 	* *Diagonal Perches are a lot harder to One Cycle, so it's recommended to run away N/S/E/W*
