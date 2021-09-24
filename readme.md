@@ -474,7 +474,7 @@
 * Gather 3 Logs, turn them into 12 Planks, then Craft a Crafting Table and 8 Sticks
 	* Logs(1) → collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → collect: sClick x2  
 
-**Wooden Pickaxe**: *used in non-pirate strats | unless: 3+ Iron from Blacksmith, or Golden Pickaxe from a Ruined Portal*  
+**Wooden Pickaxe**: *used in non-pirate strats | unless: 3+ Iron from Blacksmith, or Golden Pickaxe from Ruined Portal*  
 [Screenshot](https://i.imgur.com/k3vCKuq.png) | [Video]()
 * Place the Crafting Table, Craft a Wooden Pickaxe, then Mine 6 Cobblestone
 	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tL → Half Split → Drag tM, tR → collect: 8
@@ -490,11 +490,25 @@
 ## Tasks
 *learn to efficiently complete these tasks*  
 
-		Collect Table → Farm Wood (Normally:8) → Planks → 4 Sticks
-		Kill Golem → Table → Iron Pick → Boat → Collect Table
+**Villages**  
+* Kill the Golem → Craft an Iron Pickaxe and a Boat 
+	* *if Bucket of Cod Trade: also Craft a Composter and a Barrel → Trade with Villagers*
+* Identify which Houses have Beds in them, and which don't
+	* *also identify which houses have Carpets in them, in case you need to do a Flintless Portal*
 
-		Village: Identify which Houses have Beds (and Carpets)
-		Nether Portal Construction, +Flintless Portal
+**Nether Portal Constructions**
+* Lava Lake Nether Portal
+	* Standard
+	* Flintless
+	* Carpet Flintless
+* Ocean Ravine Nether Portal
+	* Standard
+	* Cobblestone Skip
+	* 2-Wide
+* 1-Deep Lava verions of all of the Above
+
+
+
 
 		Bastion: Identification + Routing, for all 4 Types
 			Microlensing: Locate Bastion direction from Nether spawn
