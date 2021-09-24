@@ -459,10 +459,10 @@
 ### Crafting
 *learn to quickly, and efficiently, complete the most common early game Crafting Windows*  
 
-*Notation: 
+**Notation:**
 * *sClick: Shift + Click | lClick: Left Click | rClick: Right Click*
-* *item(num): Press that Hotbar Keybind in the Crafting Window*
-	* *if item(num), xX: Put the Item into that specific Crafting Window Slot
+* *item(num): Press that Hotbar Keybind into the Crafting Window*
+	* *if item(num), xX: Put the Item into that specific Crafting Window Slot*
 * *xX: tL,tM,tR - mL,mM,mR - bL,bM,bR*
 	* *first, small letter is top/middle/bottom (row)*
 	* *second, Big letter is Left/Middle/Right (column)*
