@@ -463,7 +463,7 @@
 *the given intructions/screenshots will only be for the most optimal version, even if multiple videos are provided*  
 
 **Crafting Table + Sticks**:  
-[Screenshot](https://i.imgur.com/pzABDu2.png) | Videos: **[Optimal - (8 Clicks)](https://youtu.be/TeFeMmjoUIc?t=28)** | [Split 2 → Left Click - 10 Clicks]() | [Double Split - 10 Clicks]()
+[Screenshot](https://i.imgur.com/pzABDu2.png) | Videos: **[Optimal (8 Clicks)](https://youtu.be/TeFeMmjoUIc?t=28)** | [Split 2 → Left Click (10 Clicks)]() | [Double Split (10 Clicks)]()
 * Turn 3 Logs → 12 Planks → a Crafting Table, and 8 Sticks
 	* Logs(1) → collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → collect: sClick x2  
 
