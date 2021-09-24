@@ -319,7 +319,7 @@
 
 **F3 + G**: Chunk Borders
 
-**F3 + B**: Hitboxes  
+**F3 + B**: Entity Hitboxes  
 
 **Useful for [Pie-ray](https://www.youtube.com/watch?v=Aq9qfHNEOHM) scouting:**
 * **Shift + F3**: Pie Chart F3 Menu | Tick → Level → Entites → Block Entites
