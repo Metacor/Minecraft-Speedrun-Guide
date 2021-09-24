@@ -460,8 +460,10 @@
 *learn to quickly, and efficiently, complete the most common early game Crafting Windows*  
 
 *Notation: sClick = Shift + Click | (num) = Hotbar Keybind | bR = top/mid/bot (row) + Left/Mid/Right (column)*  
-*example: Drag bR, bL, tL = Drag Items, starting at the bottom right → bottom left → top left*
+*the given intructions will be for the most optimal version, even if multiple videos are provided*
+*example: Drag bR, bL, tL = Drag Items, starting at the bottom right → bottom left → top left*  
 
+**Crafting Table + Sticks**: [Screenshot]() | Videos: **[8 Clicks]()**, [10 Clicks](), [10 Clicks, bad end]()
 * Turn 3 Logs → 12 Planks → a Crafting Table, and 8 Sticks
 	* Log(1) → collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → collect: sClick x2
 
