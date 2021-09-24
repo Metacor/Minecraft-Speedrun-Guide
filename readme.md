@@ -183,7 +183,7 @@
 
 ## **Advanced+** | Pirate → Ocean Monument
 ***Ocean Monument Guides:* [T_Wagz](https://youtu.be/0dyHYkg_xIU) | [Silver](https://youtu.be/14FGC1eUHug) | [Silver, Part 2](https://youtu.be/-b7nQyXZkfw)**  
-*Same start as Pirate Overworld, but you also Gather the guaranteed 8 Gold Blocks from an Ocean Monument - sometimes allowing you to completely skip the Bastion in the Nether*
+*Same start as [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#advanced--pirate-overworld), but you also Gather the guaranteed 8 Gold Blocks from an Ocean Monument - sometimes allowing you to completely skip the Bastion in the Nether*
 * Pirate Start → Shipwreck (Shield, since Fortress without Fire Resistance Potions) → Ocean Monument
 	* As soon as you see the Ocean Monument, turn your Render Distance to 2 (RD2), this will usually result in the Elder Guardian not spawning, stopping it from giving you Mining Fatigue
 	* if you get Mining Fatigue anyway, either Drink a Bucket of Milk, or set your Spawn and Suicide (or raw Suicide, near the World Spawn)
