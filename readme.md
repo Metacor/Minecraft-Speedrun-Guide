@@ -43,8 +43,9 @@
 
 
 ## Bastions
+[Routing Spreadsheet](https://bit.ly/3kv8NL1)
 * **Bastion Type:** Identification, **Videos** *by T_Wagz* | **Screenshots** *by ElaMeTrataDiferente*
-	* Recommend Routes ([Routing Spreadsheet](https://bit.ly/3kv8NL1))
+	* Recommend Routes
 
 <br/>
 
