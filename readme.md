@@ -456,11 +456,14 @@
 # Practice
 *Ideally, get comfortable with each of these steps before starting runs*
 
-### Overworld Crafting
+### Crafting
 *learn to quickly, and efficiently, complete the most common early game Crafting Windows*  
-*Notation: sClick = Shift + Click | Numbers = Hotbar Keybinds | bR/bL etc = top/middle/bottom (Row) + Left/Middle/Right (Column)*
+
+*Notation: sClick = Shift + Click | (num) = Hotbar Keybind | bR = top/mid/bot (row) + Left/Mid/Right (column)*  
+*example: Drag bR, bL, tL = Drag Items, starting at the bottom right → bottom left → top left*
+
 * Turn 3 Logs → 12 Planks → a Crafting Table, and 8 Sticks
-	* *1 →  
+	* Log(1) → collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → collect: sClick x2
 
 
 	Beginning Overworld Movement: 3 Wood → 12 Planks → Crafting Table + 8 Sticks
