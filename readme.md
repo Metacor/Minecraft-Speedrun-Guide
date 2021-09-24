@@ -456,7 +456,7 @@
 # Practice
 *Ideally, get comfortable with each of these steps before starting runs*
 
-## Crafting
+### Crafting  
 *learn to quickly, and optimally, complete the most common early game Crafting Windows*  
 
 **Notation:**
@@ -487,7 +487,7 @@
 	* Sticks(2), bM → Half Split → lClick mM → Stone(3), tM → Half Split → rClick mL → lClick tL → collect: 7 → 4 → 5
 		* *once again, i'd recommend collecting directly to your axe/shovel/hoe slots*
 
-## Tasks
+### Tasks  
 *learn to efficiently complete these tasks*  
 
 **Villages**  
@@ -505,20 +505,25 @@
 	* Standard
 	* Cobblestone Skip
 	* 2-Wide
-* 1-Deep Lava verions of all of the Above
+* 1-Deep verions of all of the Above
 
+**Bastions**  
+* [Identification and Optimal Routing](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#bastions)
+* Microlensing: Locate a Bastion from your Nether Portal
 
+**Fortress**  
+* Inside Navigation: Find your way to the outside section of the Fortress and find a Blaze Spawner
+* Blazebed: Learn to execute the correct technique for both enclosed and open spawners
+* Pie-Ray: Locate the Fortress direction using the F3 Pie Chart *(also useful for finding Villages)*
 
+**Stronghold**  
+* Blind Travel: Memorize the general Coordinates for both the First and Second Ring
+* Triangulation: Quickly and accurately turn 90°, and consistently travel 17.5 Blocks
+* Stronghold Navigation: Complete a lot of Stronghold trial runs, starting from random positions
 
-		Bastion: Identification + Routing, for all 4 Types
-			Microlensing: Locate Bastion direction from Nether spawn
-		Fortress: General Navigation, be able to quickly find the outside portion of the Fortress
-			Pie-Ray: Locate Fortress drection from the Bastion, (also useful to find Villages)
-		Blind Travel: Try to remember the general locations of the 1st/2nd Ring Coordinates
-
-		Triangulation: Quick 90° turn + Consistent 17.5 Block Jumps, Fast Menuing
-		Stronghold: Optimal Navigation, do a lot of stronghold trial solves (random → starter → portal)
-		Dragon: 1 Cycle (N/S Perch), <=7 Beds, with Obsidian and Full Block/Slab setups (no obby backup)
+**The End**
+* Force a N/S Perch, and be able to tell when the Dragon is Perching
+* One Cycle with <= 7 Beds - with both Obsidian, and either Full or Slab Block Setups *(no obby backup)*
 	
 <br/>
 
