@@ -401,8 +401,8 @@
 		* Top Chest: Iron Ingots, Gold Ingots
 		* Bot Chest: Buried Treasure Maps
 			* Buried Treasure is always located @ 9/x/9 in the Chunk where the X is located 
-* Desert Temples
-	* To quickly collect all of the Chests, aswell as any surrounding Blocks: [Video](https://youtu.be/gS6LxaNibWM?t=76)
+* [Desert Temples](https://youtu.be/gS6LxaNibWM?t=76)
+	* To quickly collect all of the Chests, aswell as any surrounding Blocks
 		* Collect all of the TnT → Place 1 TnT under you → 
 		* Place 1 TnT in a Corner on the Top → 
 		* Place a Pressure Plate next to it → 
