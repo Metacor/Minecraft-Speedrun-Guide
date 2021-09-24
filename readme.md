@@ -485,6 +485,12 @@
 		* make sure to use either a Sword or Shears, (decreasing the Gather Time from 20s → 0.4s)
 
 ### The End
+* You always Spawn to the East, facing the Main Island
+	* *if you spawn underground, Dig up in the top left or right corners*
+* The Dragon Perches faster the farther away you are from the Fountain, both height and distance
+* The Dragon will Perch from the opposite side of you, in relation to the Fountain
+	* *Diagonal Perches are a lot harder to One Cycle, so it's recommended to run away N/S/E/W*
+	* *N/S Perch is faster than E/W, however it gives the player less time to react to the Perch*
 * The Dragon's Fireball doesn't actually do damage, the AoE ground effect it leaves behind does
 	* an easy way to avoid the damage is to get hit on purpose, then Jump → place a Block below you
 		
