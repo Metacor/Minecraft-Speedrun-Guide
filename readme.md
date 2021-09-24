@@ -456,6 +456,8 @@
 # Practice
 *Ideally, get comfortable with each of these steps before starting runs*
 
+# @@@@@@@ ADD PIRATE STUFF TO PRACTICE @@@@@@@@@@
+
 ### Crafting  
 *learn to quickly, and optimally, complete the most common early game Crafting Windows*  
 
@@ -518,7 +520,7 @@
 
 **Stronghold**  
 * Blind Travel: Memorize the general Coordinates for both the First and Second Ring
-* Triangulation: Quickly and accurately turn 90°, and consistently travel 17.5 Blocks
+* Triangulation: Quickly and accurately turn 90°, and be able to consistently travel 17.5 Blocks
 * Stronghold Navigation: Complete a lot of Stronghold trial runs, starting from random positions
 
 **The End**
