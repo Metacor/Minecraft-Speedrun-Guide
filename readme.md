@@ -606,7 +606,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 			* [Carpet Flintless]() | [1-Deep]()
 * Ocean Ravine Nether Portal
 	* [Standard]() | [1-Deep]()
-		* [Cobblestone Skip]() | [1-Deep]()
+		* [Cobblestone Skip]() | [1-Deep]() | [1-Deep, Double Cobblestone Skip](https://youtu.be/FJSZIBo-SWs)
 	* [2-Wide]() | [1-Deep]()
 
 
