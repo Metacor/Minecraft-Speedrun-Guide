@@ -396,7 +396,8 @@ Nuskapuska 1.16 RSG Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 **Collect All**: Shift + Click *(in the Crafting Output Slot)*
 * Creates the maxiumum amount of that Item with the supplies currently in the Crafting Window
-* *sends all of the items onto your Hotbar*
+	* *will only Craft the Item currently shown in the Output Slot, even if the [Supplies can create multiple Items](https://i.imgur.com/TCqDxat.png)*
+* Sends all of the Crafted items onto your Hotbar
 	* *sends items to the highest available Hotbar Slot (9 > 8 > 7, etc)*
 	* *if your Hotbar is full, the Items will be sent to your Inventory instead*
 
