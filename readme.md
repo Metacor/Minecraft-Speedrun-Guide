@@ -599,8 +599,10 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 **Doors + Boat + Bowls**: *used in pirate strats*
 [Screenshot 1](https://i.imgur.com/Brr2zq1.png) [Screenshot 2](https://i.imgur.com/La90qWK.png)| [Video](https://youtu.be/lEdAMNweD7E?t=60)
 * Craft Doors, a Boat, and Bowls → *Pickup the Crafting Table → Boat on the Ocean*
-	* Logs(3) → collect: sClick → Planks(1), bM → Half Split → Drag mM, tM, tR, mR, bR, bM → rClick bR → lClick mR → collect: 3
-	* Half Split, bM → rClick bL → lClick mL → collect: 4 → sClick
+	* Logs(3) → collect: sClick → Planks(1), bM → Half Split → Drag mM, tM, tR, mR, bR, bM → 
+	* rClick bR → lClick mR → collect: 3 → Half Split, bM → rClick bL → lClick mL → collect: 4 → sClick
+		* there are a few ways to do the Door Drag → Corner Drag, they're all basically the same
+		* as always, change the Hotkey Keybinds to fit your specific setup
 
 ### Tasks  
 *learn to efficiently complete these tasks*  
