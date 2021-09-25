@@ -1,6 +1,19 @@
 # Minecraft: Speedrun Guide - Any%, RSG, 1.16.1
 [Discord](https://discord.com/invite/jmdFn3C) | [Minecraft Speedrunning Website](https://www.minecraftspeedrunning.com/) | [Minecraft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki) | [Speedrun.com](https://www.speedrun.com/mc#Any_Glitchless)
 
+# To Do:
+* Complete **The Nether**, and **The Overworld, Part 2** Sections
+
+* Add Videos for each Bastion Route
+* Add Crafting Screenshots for each mention of an Item *(similarly to: [Composter](https://i.imgur.com/qK3yzOP.png))*
+* Add Links to all Video / Section references, even if they have already previously been linked to
+* Add Pirate Strats to the Practice Section (Crafting + Tasks)
+
+* On Completion:
+	* Check the skinny main view to make sure there isn't any unnecessary text wraps
+	* Spell Check / Phrasing Check the entire document *(look for missed words, poor punctuation, etc)*
+	* Make sure there is no superfluous information in the Speedrun Guide section *(move it to Tips & Tricks)*
+
 ## Table of Contents
 * [Setup](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#setup)
 	* [Mods](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#mods)
