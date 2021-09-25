@@ -321,7 +321,7 @@
 * if you have 2+ Pearls, and you don't plan on doing [Half-Bow]():
 	* Pearl up to the highest Obsidian Tower in the direction you chose, build up until you reach y = 122
 * Turn on Entity Hitboxes *(F3 + B)* to help with One-Cycling the Dragon
-	* *hitboxes will also help make the Dragon's head "snap" while Perching more obvious*
+	* *hitboxes will also make it more obvious when the Dragon's head "snaps" to the center before Perching*
 * When the Dragon begins to Perch, either Ender Pearl or run to the Fountain → One-Cycle it with Beds
 	* *if you fail the One-Cycle: hit the Dragon's Head Hitbox with your Stone Axe*
 		* *don't try to crit it, just stand normally and attack it with fully charged attacks*
