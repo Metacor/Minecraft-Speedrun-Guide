@@ -318,9 +318,12 @@
 * Setup your preferred Bed Platform: [Obsidian]() | [Full Block]() | [Slab]()
 	* *run away in your preferred Perch direction (N/S or E/W)*
 		* *your Bed Platform position might need to change, based on your chosen Perch direction*
-* if you have a *(cross)* Bow and Arrows → [Half-Bow]()
-* if you have 2+ Pearls, and you don't plan on doing Half-Bow:
-	* Pearl up to the highest Obsidian Tower in the direction you chose, build up until you reach y = 122
+* Execute your preferred island method
+	* if you have a *(cross)* Bow and Arrows → [Half-Bow]()
+	* if you have 2+ Pearls, and you don't plan on doing Half-Bow:
+		* Pearl up to the highest Obsidian Tower in the direction you chose, build up until you reach y = 122
+	* if you don't 2+ Pearls, and you also don't plan on doing Half-Bow:
+		* Run as far away from the Fountain as possible, while still being able to see if the Dragon is Perching
 * Turn on Entity Hitboxes *(F3 + B)* to help with One-Cycling the Dragon
 	* *hitboxes will also make it more obvious when the Dragon's head "snaps" to the center before Perching*
 * When the Dragon begins to Perch, either Ender Pearl or run to the Fountain → One-Cycle the Dragon with Beds
