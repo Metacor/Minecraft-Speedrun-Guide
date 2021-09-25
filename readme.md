@@ -517,6 +517,7 @@
 	* *second, Big letter is Left/Middle/Right (column)*  
 
 *the given intructions/screenshots will only be for the most optimal version, even if multiple videos are provided*  
+*the Item(num) positions will assume that you have completed the previous methods as listed*  
 
 **Crafting Table + Sticks**: *used in practically every run*  
 [Screenshot](https://i.imgur.com/pzABDu2.png) | Videos: **[Optimal (8 Clicks)](https://youtu.be/TeFeMmjoUIc?t=28)** | [Split 2 → Left Click (10 Clicks)]() | [Double Split (10 Clicks + bad planks)]()
