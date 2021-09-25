@@ -12,7 +12,7 @@
 * On Completion:
 	* Check the skinny main view to make sure there isn't any unnecessary text wraps
 	* Spell Check / Phrasing Check the entire document *(look for missed words, poor punctuation, etc)*
-	* Double Check every Link to make sure it leads to somewhere *(and make sure it leads to the correct place)*
+	* Double Check every Link to make sure it actually links something *(and make sure it leads to the correct place)*
 	* Make sure there isn't any superfluous information in the Speedrun Guide section *(move it to Tips & Tricks)*
 
 ## Table of Contents
