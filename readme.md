@@ -151,7 +151,7 @@
 	* if Bucket of Cod Trade: Place this Crafting Table near Villagers, additionally: Craft a [Composter](https://i.imgur.com/qK3yzOP.png) and a [Barrel](https://i.imgur.com/arI5xh9.png)
 	* if 4 Iron Ingots: Craft a Flint and Steel, (after getting Flint from Digging up Gravel)
 		* if you only get 3 Iron Ingots: [Flintless Portal](https://youtu.be/axHdNQtPOf8?t=66), or Search for a Shipwreck/Ruined Portal
-	* if 5 Iron Ingots: Save for a Shield, in case you get a Fortress before a Bastion in the Nether
+	* if 5 Iron Ingots: Save 1 Iron for a Shield, in case you get a Fortress before a Bastion in the Nether
 * Hoe 7 Hay Bales → Craft Wheat (7:63) → Hoe 5-10 additional Hay Bales → Complete the Bucket of Cod Trade
 	* Find or Craft a [Composter](https://i.imgur.com/qK3yzOP.png) → Turn a Villager into a Farmer → Trade Wheat 60:3 Emeralds
 	* Find or Craft a [Barrel](https://i.imgur.com/arI5xh9.png) → Turn a Villager into a Fisherman → Trade Emeralds 3:1 Bucket of Cod
