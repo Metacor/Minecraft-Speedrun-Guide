@@ -616,7 +616,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 **Shipwrecks**  
 * Be able to identify each Shipwreck type from a distance *(full, front, front+map, back)*
-* Consistently be able to enter through the back side windows, and loot the chest
+* Quickly enter through the back side windows and loot the chest
 * Follow the Map and quickly find the Buried Treasure
 
 **Ocean Monuments**  
@@ -640,7 +640,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 **Fortress**  
 * Inside Navigation: Quickly naviate to the Outside section of the Fortress, and locate a Blaze Spawner
 * Blazebed: Learn to execute the correct technique for both enclosed and open spawners
-* Be able to effectively complete the Fortress without a Fire Resistance Potion *(can use a shield)*
+* Consistently complete the Fortress without a Fire Resistance Potion *(can use a shield)*
 * Pie-Ray: Locate the Fortress direction using the F3 Pie Chart *(also useful for finding Villages)*
 
 **Stronghold**  
