@@ -572,7 +572,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 *the Item(num) positions will assume that you have completed the previous methods as listed*  
 
 **Crafting Table + Sticks**: *used in practically every run*  
-[Screenshot](https://i.imgur.com/pzABDu2.png) | Videos: **[Half Split (8c)](https://youtu.be/lEdAMNweD7E?t=2)** | [Kuee (8c)](https://youtu.be/lEdAMNweD7E?t=8) | [Split 2 (10c)](https://youtu.be/lEdAMNweD7E?t=13) | [Double Split, Move (10c)](https://youtu.be/lEdAMNweD7E?t=20) | [Double Split, Throw (9c)](https://youtu.be/lEdAMNweD7E?t=28)  
+[Screenshot](https://i.imgur.com/pzABDu2.png) | Videos: **[Half Split (8c)](https://youtu.be/lEdAMNweD7E?t=2)** - [Kuee (8c)](https://youtu.be/lEdAMNweD7E?t=8) - [Split 2 (10c)](https://youtu.be/lEdAMNweD7E?t=13) - [Double Split, Move (10c)](https://youtu.be/lEdAMNweD7E?t=20) - [Double Split, Throw (9c)](https://youtu.be/lEdAMNweD7E?t=28)  
 *while Kuee's Method also only takes 8 Clicks, I personally feel that it doesn't flow as nicely as the Half Split Method*  
 * Gather 3 Logs, turn them into 12 Planks, then Craft a Crafting Table and 8 Sticks
 	* Logs(1) → collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → collect: sClick x2  
@@ -598,7 +598,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 			* *i have my hotkey set to 7, rebound to R, just collect to whatever yours is bound to*
 			* 
 **Doors + Boat + Bowls**: *used in pirate strats*  
-[Screenshot 1](https://i.imgur.com/Brr2zq1.png) [Screenshot 2](https://i.imgur.com/La90qWK.png)| [Video](https://youtu.be/lEdAMNweD7E?t=60)
+[Screenshot 1](https://i.imgur.com/Brr2zq1.png) - [Screenshot 2](https://i.imgur.com/La90qWK.png) | [Video](https://youtu.be/lEdAMNweD7E?t=60)
 * Craft Doors, a Boat, and Bowls → *Pickup the Crafting Table → Boat on the Ocean*
 	* Logs(3) → collect: sClick → Planks(1), bM → Half Split → Drag mM, tM, tR, mR, bR, bM → 
 	* rClick bR → lClick mR → collect: 3 → Half Split, bM → rClick bL → lClick mL → collect: 4 → sClick
