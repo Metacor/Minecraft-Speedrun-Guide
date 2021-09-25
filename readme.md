@@ -318,7 +318,7 @@
 * Setup your preferred Bed Platform: [Obsidian]() | [Full Block]() | [Slab]()
 	* *run away in your preferred Perch direction (N/S or E/W)*
 		* *your Bed Platform position might need to change, based on your chosen Perch direction*
-* if you have a *(cross)*Bow and Arrows → [Half-Bow]()
+* if you have a *(cross)* Bow and Arrows → [Half-Bow]()
 * if you have 2+ Pearls, and you don't plan on doing Half-Bow:
 	* Pearl up to the highest Obsidian Tower in the direction you chose, build up until you reach y = 122
 * Turn on Entity Hitboxes *(F3 + B)* to help with One-Cycling the Dragon
