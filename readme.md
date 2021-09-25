@@ -473,7 +473,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 ### The Overworld
 * [Shipwrecks](https://i.imgur.com/ws384ow.png)
 	* Front Side Chest: Food 
-	* Back Side: 
+	* Back Side: *the back side is wider, and has a window on all 3 outer sides*
 		* Top Chest: Iron Ingots, Gold Ingots
 		* Bot Chest: Buried Treasure Maps
 			* Buried Treasure is always located @ 9/x/9 in the Chunk where the X is located 
