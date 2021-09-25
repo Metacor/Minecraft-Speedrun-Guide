@@ -591,7 +591,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* Sticks(2), bM → Half Split → lClick mM → Stone(3), tM → Half Split → rClick mL → lClick tL → collect: 7 → 4 → 5
 		* *once again, i'd recommend collecting directly to your axe/hoe/shovel slots*
 
-**Wooden Axe**: *used in pirate strats  
+**Wooden Axe**: *used in pirate strats*  
 [Screenshot](https://i.imgur.com/pZaExqe.png) | [Video](https://youtu.be/lEdAMNweD7E?t=53)
 * Place the Crafting Table, Craft a Wooden Axe → *Chop 4 Logs*
 	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tM → Half Split → Drag tR, mR → collect: 7
