@@ -543,7 +543,7 @@ Nuskapuska Slideshow Guide](https://youtu.be/0PXQvPNCxy8)
 	* *N/S Perch is faster than E/W, however it gives the player less time to react to the Perch*
 * The Dragon's Fireball doesn't actually do damage, the AoE ground effect left behind is what damages you
 	* *an easy way to avoid the damage, is to get hit on purpose, then Jump → place a Block below you*
-* *if you failed to One-Cycle the Dragon: attack the Dragon's Head Hitbox*
+* if you failed to One-Cycle the Dragon: attack the Dragon's Head Hitbox
 	* *don't try to crit, just stand normally and hit with fully charged attacks*
 	* *you can deal up to 50 Damage (~6 Stone Axe hits), before the Dragon will fly away*
 		* *if you haven't destroyed the End Crystals, failing to defeat the Dragon at this point will result in a Reset*
