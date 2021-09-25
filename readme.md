@@ -165,7 +165,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Leave the Village → Search for a Lava Lake or Ruined Portal → [Create a Nether Portal](https://youtu.be/iaUF0oaegns?t=2029) → Enter the Nether
 	* [Minimum Blocks Required](https://i.imgur.com/jSspUON.png) | [Minimum Space Required](https://i.imgur.com/MvQjKXN.png)
 
-## **Advanced** | Pirate Overworld
+## **Advanced** | [Pirate](https://youtu.be/EJ4G8QbhrGM) Overworld
 *Spawn near an Ocean, with a Shipwreck nearby - with 7+ Iron inside (ideally 11+)*
 * Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
 * Place the Crafting Table near a Tree → Craft a Wooden Axe → Chop 8+ Wood →
