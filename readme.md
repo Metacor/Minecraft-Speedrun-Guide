@@ -533,9 +533,9 @@
 
 **Stone Tools**: *used in non-pirate strats | if you don't want a Hoe, Mine 4 Stone instead - can use the same movements*  
 [Screenshot](https://i.imgur.com/TCqDxat.png) | [Video]()
-* Craft a Stone Axe, a Stone Shovel, and a Stone Hoe
+* Craft a Stone Axe, a Stone Hoe, and a Stone Shovel
 	* Sticks(2), bM → Half Split → lClick mM → Stone(3), tM → Half Split → rClick mL → lClick tL → collect: 7 → 4 → 5
-		* *once again, i'd recommend collecting directly to your axe/shovel/hoe slots*
+		* *once again, i'd recommend collecting directly to your axe/hoe/shovel slots*
 
 ### Tasks  
 *learn to efficiently complete these tasks*  
