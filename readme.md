@@ -138,7 +138,7 @@
 	* Find or Craft a [Barrel](https://i.imgur.com/arI5xh9.png) → Turn a Villager into a Fisherman → Trade Emeralds 3:1 Bucket of Cod
 * Craft Hay Bales → Wheat → Bread → Pickup the Crafting Table
 * Leave the Village → Search for a Lava Lake or Ruined Portal → [Create a Nether Portal](https://youtu.be/iaUF0oaegns?t=2029) → Enter the Nether
-	* [Minimum Blocks Required](https://i.imgur.com/jSspUON.png) | [Minimum Space Required](https://i.imgur.com/GKtJlok.png)
+	* [Minimum Blocks Required](https://i.imgur.com/jSspUON.png) | [Minimum Space Required](https://i.imgur.com/MvQjKXN.png)
 
 ## **Advanced** | Pirate Overworld
 *Spawn near an Ocean, with a Shipwreck nearby - with 7+ Iron inside (ideally 11+)*
