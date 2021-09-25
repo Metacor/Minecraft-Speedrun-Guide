@@ -283,6 +283,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 			Loot atleast 7/8 Blaze Rods, you can Mine out around the Blaze Spawner to increase spawn rates
 				Learn how to efficiently Blazebed; (put out Fires ASAP, Blazes only spawn @ Light level <= 11)
 					Blazebed; https://www.youtube.com/watch?v=3TD4jkuT8QA
+						sidebed: https://youtu.be/1spSd0Ussy0
 					BlazeTnT; https://www.youtube.com/watch?v=X3kHn0PaZW0 (suboptimal?)
 
 	Advanced Nether Scouting Methods; saves a significant amount of time, while not being all that hard to learn
