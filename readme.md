@@ -433,9 +433,8 @@
 * It takes slightly less time to Mine Stone than it does to Mine Cobblestone
 	* Wooden Pickaxe: Stone takes **1.15 Seconds** | Cobblestone takes **1.5 Seconds**
 	* Stone Pickaxe: Stone takes **0.6 Seconds** | Cobblestone takes **0.75 Seconds**
-* Lava Lakes
-	* if you're unable to find a Lava Lake on the surface, try digging near small surface Water Lakes
-		* *Lava Lakes tend to spawn underneath Water Lakes*
+* Lava Lakes tend to spawn underneath Water Lakes
+	* *if you're unable to find a Lava Lake on the surface, try digging near small surface Water Lakes*
 * [Ocean Ravines](https://youtu.be/yGyMWYhHYoQ?t=471)
 	* While searching for Ocean Ravines, look out for Kelp - it tends to spawn above Ravines
 	* *if you see floating Kelp in a Deep Ocean, there is likely a Ravine below it*
