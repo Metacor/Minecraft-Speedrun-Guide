@@ -574,7 +574,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 **Crafting Table + Sticks**: *used in practically every run*  
 [Screenshot](https://i.imgur.com/pzABDu2.png) | Videos: **[Half Split (8c)](https://youtu.be/lEdAMNweD7E?t=2)** - [Kuee (8c)](https://youtu.be/lEdAMNweD7E?t=8) - [Split 2 (10c)](https://youtu.be/lEdAMNweD7E?t=13) - [Double Split, Move (10c)](https://youtu.be/lEdAMNweD7E?t=20) - [Double Split, Throw (9c)](https://youtu.be/lEdAMNweD7E?t=28)  
 *while Kuee's Method also only takes 8 Clicks, I personally feel that it doesn't flow as nicely as the Half Split Method*  
-*your preference may differ from mine, this is the most common Craft you'll execute, so be sure to pick the one that feels best to you*  
+*this is by far the most common Craft you'll execute when speedrunning, so be sure to pick the one that feels best to you*  
 * Gather 3 Logs, turn them into 12 Planks, then Craft a Crafting Table and 8 Sticks
 	* Logs(1) → collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → collect: sClick x2  
 
