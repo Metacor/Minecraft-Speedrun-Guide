@@ -479,6 +479,7 @@ Nuskapuska Slideshow Guide](https://youtu.be/0PXQvPNCxy8)
 * In Ocean Monuments, the Guardian's Lazer attack will kill you in: Hits Required (Damage Taken/20)
 	* Easy = 5 (4) **|** Normal = 4 (6) **|** Hard = 3 (9)
 		* *with Healing, Easy will almost always take 6 hits, and Normal will sometimes take 5*
+	* *their lazer attack requires 2 seconds of uninterrupted line of sight, simply break LoS to take 0 Damage*
 * [Desert Temples](https://youtu.be/gS6LxaNibWM?t=76)
 	* To quickly collect all of the Chests, aswell as any surrounding Blocks
 		* Collect all of the TnT → Place 1 TnT under you → 
