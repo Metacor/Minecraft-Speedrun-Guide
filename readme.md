@@ -625,7 +625,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Memorize optimal Door placements when checking for the Gold Blocks
 * Avoid the Guardian's Lazer attack
 
-**Nether Portal Constructions**
+**Nether Portal Constructions**  
+*if you plan to Microlens your Bastion in the Nether, turn on the F3 Menu before teleporting to the Nether*  
 * Lava Lake Nether Portal
 	* [Standard]() | [1-Deep]()
 		* [Flintless]() | [1-Deep]()
