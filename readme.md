@@ -395,7 +395,7 @@ Nuskapuska 1.16 RSG Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * *this can be used to Quickly Move Items into the Crafting Window, with minimal Mouse Movement*
 
 **Collect All**: Shift + Click *(in the Crafting Output Slot)*
-* Creates the maxiumum amount of that Item with the supplies currently in the Crafting Window
+* Creates the maxiumum amount of an Item with the supplies currently in the Crafting Window
 	* *will only Craft the Item currently shown in the Output Slot, even if the [Supplies can create multiple Items](https://i.imgur.com/TCqDxat.png)*
 * Sends all of the Crafted items onto your Hotbar
 	* *sends items to the highest available Hotbar Slot (9 > 8 > 7, etc)*
