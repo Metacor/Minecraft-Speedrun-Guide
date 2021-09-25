@@ -529,7 +529,7 @@
 * Place the Crafting Table, Craft a Wooden Pickaxe, then Mine 6 Cobblestone
 	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tL → Half Split → Drag tM, tR → collect: 8
 		* *highly recommend to collect to your Pickaxe Hotbar Keybind, instead of shift + clicking*
-		* *i have my hotkey set to 8, rebound to f, just collect to whatever yours is bound to*
+			* *i have my hotkey set to 8, rebound to f, just collect to whatever yours is bound to*
 
 **Stone Tools**: *used in non-pirate strats | if you don't want a Hoe, Mine 4 Stone instead - can use the same movements*  
 [Screenshot](https://i.imgur.com/TCqDxat.png) | [Video]()
