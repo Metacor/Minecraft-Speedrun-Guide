@@ -327,7 +327,7 @@
 		* *don't try to crit it, just stand normally and attack it with fully charged attacks*
 		* *you can deal up to 50 Damage (~6 Stone Axe hits), before the Dragon will fly away*
 			* *if you haven't destroyed the End Crystals, failing to defeat the Dragon here will result in a Reset*
-* When you defeat the Dragon, stand in the lower part of the Fountain - **Timing ends on the credit screen transition**
+* Once the Dragon is Defeated, stand inside of the Fountain - **Timing ends on the screen transition**
 	
 <br/>
 
