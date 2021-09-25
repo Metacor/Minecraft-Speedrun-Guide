@@ -531,7 +531,7 @@
 		* *highly recommend to collect to your Pickaxe Hotbar Keybind, instead of shift + clicking*
 			* *i have my hotkey set to 8, rebound to f, just collect to whatever yours is bound to*
 
-**Stone Tools**: *used in non-pirate strats | if you don't want a Hoe, Mine 4 Cobblestone instead - can use the same movements*  
+**Stone Tools**: *used in non-pirate strats | if Hoe Skip: Mine 4 Cobblestone instead - the same movements can be used*  
 [Screenshot](https://i.imgur.com/TCqDxat.png) | [Video]()
 * Craft a Stone Axe, a Stone Hoe, and a Stone Shovel → *Pickup the Crafting Table and Chop 8+ Logs*
 	* Sticks(2), bM → Half Split → lClick mM → Stone(3), tM → Half Split → rClick mL → lClick tL → collect: 7 → 4 → 5
