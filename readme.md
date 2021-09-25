@@ -185,7 +185,7 @@
 * Pirate Start → Shipwreck (Craft a Shield, since you wont have Fire Resistance for the Fortress) → Ocean Monument
 	* As soon as you see the Ocean Monument, turn your Render Distance to 2 (RD2)
 		* *this will usually result in the Elder Guardians not spawning, allowing you to avoid Mining Fatigue*
-	* if you get Mining Fatigue anyway
+	* if you get Mining Fatigue
 		* *Drink a Milk Bucket (use an Empty Bucket on a cow, mooshroom, or goat)*
 		* *Set your Spawn at a Bed, and Suicide, (see Suicide Methods in [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#advanced--pirate-overworld)*
 			* *optionally: if you're close to the World Spawn, Suicide without setting your Spawn*
