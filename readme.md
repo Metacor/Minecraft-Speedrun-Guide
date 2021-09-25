@@ -158,6 +158,7 @@
 	* Dig up Gravel until you find some Flint → Craft a Flint and Steel → Pickup the Crafting Table (and Door)
 * Resurface → Place the Boat → Search for an Ocean Ravine
 	* When Searching for an Ocean Ravine, turn on Entity Hitboxes (F3 + B), and look out for Floating Kelp
+		* *if you see floating Kelp in a Deep Ocean, there is [likely a Ravine below it](https://youtu.be/yGyMWYhHYoQ?t=471)*
 * Create a Ravine Nether Portal:
 	* [Standard](https://youtu.be/yGyMWYhHYoQ) | [1-Deep]()
 	* [Cobblestone Skip](https://youtu.be/H2fHDidyfJo?t=63) | [1-Deep]()
@@ -434,7 +435,6 @@
 	* Stone Pickaxe: Stone takes **0.6 Seconds** | Cobblestone takes **0.75 Seconds**
 * Lava Lakes tend to spawn underneath Water Lakes
 	* *if you're unable to find a Lava Lake on the surface, try digging near small surface Water Lakes*
-* *if you see floating Kelp in a Deep Ocean, there is [likely a Ravine below it](https://youtu.be/yGyMWYhHYoQ?t=471)*
 * [Glitchy Buckets](https://youtu.be/EjwStTX4U3A)
 	* if you're having trouble with Glitchy Buckets while making Nether Portals, watch the video posted above
 * Buckets of Water don't actually work in the Nether, so when you finish your Nether Portal, fill the Bucket with Lava
