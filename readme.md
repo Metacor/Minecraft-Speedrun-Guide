@@ -571,7 +571,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 *the Item(num) positions will assume that you have completed the previous methods as listed*  
 
 **Crafting Table + Sticks**: *used in practically every run*  
-[Screenshot](https://i.imgur.com/pzABDu2.png) | Videos: **[Half Split (8c)]()** | [Kuee (8c)]() | [Split 2 (10c)]() | [Double Split (9)]() | [Double Split (10)]()
+[Screenshot](https://i.imgur.com/pzABDu2.png) | Videos: **[Half Split (8c)]()** | [Kuee (8c)]() | [Split 2 (10c)]() | [Double Split, Throw (9)]() | [Double Split, Bad (10)]()
+*although Kuee's Method also only takes 8 Clicks, for me, it doesn't flow aswell - I'd recommend trying both to see which you like better*  
 * Gather 3 Logs, turn them into 12 Planks, then Craft a Crafting Table and 8 Sticks
 	* Logs(1) → collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → collect: sClick x2  
 
