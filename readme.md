@@ -6,7 +6,7 @@
 
 * Add Videos for each Bastion Route
 * Add Crafting Screenshots for each mention of an Item *(similarly to: [Composter](https://i.imgur.com/qK3yzOP.png))*
-* Add Links to all Video / Section references, even if they have already previously been linked to
+* Add Links to all Video / Section / Item references, even if they have previously been linked to
 * Add Pirate Strats to the Practice Section (Crafting + Tasks)
 
 * On Completion:
