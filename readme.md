@@ -13,6 +13,7 @@
 	* Check the skinny main view to make sure there isn't any unnecessary text wraps
 	* Spell Check / Phrasing Check the entire document *(look for missed words, poor punctuation, etc)*
 		* Keep consistent Capitalization *(make sure all instances of an item/entity/word are the same)*
+			* *not counting the first word in a sentence*
 	* Double Check every Link to make sure it actually links something *(and make sure it leads to the correct place)*
 	* Make sure there isn't any superfluous information in the Speedrun Guide section *(move it to Tips & Tricks)*
 
