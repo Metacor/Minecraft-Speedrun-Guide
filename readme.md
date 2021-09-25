@@ -155,7 +155,7 @@
 * Hoe 7 Hay Bales → Craft Wheat (7:63) → Hoe 5-10 additional Hay Bales → Complete the Bucket of Cod Trade
 	* Find or Craft a [Composter](https://i.imgur.com/qK3yzOP.png) → Turn a Villager into a Farmer → Trade Wheat 60:3 Emeralds
 	* Find or Craft a [Barrel](https://i.imgur.com/arI5xh9.png) → Turn a Villager into a Fisherman → Trade Emeralds 3:1 Bucket of Cod
-* Craft Hay Bales → Wheat → Bread → Pickup the Crafting Table
+* Turn Hay Bales into Wheat → Craft Bread → Pickup the Crafting Table
 * Leave the Village → Search for a Lava Lake or Ruined Portal → [Create a Nether Portal](https://youtu.be/iaUF0oaegns?t=2029) → Enter the Nether
 	* [Minimum Blocks Required](https://i.imgur.com/jSspUON.png) | [Minimum Space Required](https://i.imgur.com/MvQjKXN.png)
 
