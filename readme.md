@@ -312,7 +312,7 @@
 
 **Video Guides**: [k4yfour](https://youtu.be/-Ta_1R1aXvA) | [Hashten](https://youtu.be/aGMLHXnD6Bc) | [BoomerPlayz](https://youtu.be/1daiTbj1OiE), [Boomer, Part 2](https://youtu.be/uBp8uVbW1us)
 
-* Once you arrive in The End, get to the Fountain as soon as possible
+* When you spawn in The End, get to the Fountain as soon as possible
 	* *if you spawn above ground, Ender Pearl directly to the Fountain*
 	* *if you spawn underground, Mine up in the top left corner*
 * Setup your preferred Bed Platform: [Obsidian]() | [Full Block]() | [Slab]()
@@ -325,8 +325,9 @@
 * When the Dragon begins to Perch, either Ender Pearl or run to the Fountain → One-Cycle it with Beds
 	* *if you fail the One-Cycle: hit the Dragon's Head Hitbox with your Stone Axe*
 		* *don't try to crit it, just stand normally and attack it with fully charged attacks*
-		* *you can hit the Dragon ~6 times (50+ Damage) before the Dragon will fly away, causing you to wait for another cycle*
-			* *if you haven't destroyed the End Crystals, failing to defeat the Dragon at this point will result in a Reset*
+		* *you can deal up to 50 Damage (~6 Stone Axe hits), before the Dragon will fly away*
+			* *if you haven't destroyed the End Crystals, you will have to Reset*
+* When you defeat the Dragon, stand in the lower part of the Fountain, **Timing ends as soon as the Credits appear**
 	
 <br/>
 
