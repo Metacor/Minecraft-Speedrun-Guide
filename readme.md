@@ -418,9 +418,8 @@
 		* Top Chest: Iron Ingots, Gold Ingots
 		* Bot Chest: Buried Treasure Maps
 			* Buried Treasure is always located @ 9/x/9 in the Chunk where the X is located 
-* Ocean Monuments
-	* Guardian Lazer Hits taken to Kill you, without Healing (Damage/20): Easy = 5 (4) | Normal = 4 (6) | Hard = 3 (9)
-		* *with Healing, Easy will almost always take 6 hits, and Normal will sometimes take 5*
+* In Ocean Monument, the Guardian's Lazer will kill you in [Hits (Damage/20): Easy = 5 (4) | Normal = 4 (6) | Hard = 3 (9)]
+	* *with Healing, Easy will almost always take 6 hits, and Normal will sometimes take 5*
 * [Desert Temples](https://youtu.be/gS6LxaNibWM?t=76)
 	* To quickly collect all of the Chests, aswell as any surrounding Blocks
 		* Collect all of the TnT → Place 1 TnT under you → 
