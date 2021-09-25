@@ -548,14 +548,14 @@
 
 **Nether Portal Constructions**
 * Lava Lake Nether Portal
-	* Standard
-	* Flintless
-	* Carpet Flintless
+	* [Standard]() - [1-Deep]()
+	* [Flintless]() - [1-Deep]()
+	* [Carpet Flintless]() - [1-Deep]()
 * Ocean Ravine Nether Portal
-	* Standard
-	* Cobblestone Skip
-	* 2-Wide
-* 1-Deep verions of all of the Above
+	* [Standard]() - [1-Deep]()
+	* [Cobblestone Skip]() - [1-Deep]()
+	* [2-Wide]() - [1-Deep]()
+
 
 **Bastions**  
 * [Identification and Optimal Routing](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#bastions)
