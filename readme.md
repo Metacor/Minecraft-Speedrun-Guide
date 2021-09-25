@@ -136,6 +136,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 ## **Standard** | Village Overworld 
 *Spawn with a nearby Village - Ideally a Plains, Desert, or Savanna Village (for the guaranteed Hay Bales)*  
 *if the Village is in a Desert, Gather Wood and Stone before entering - Trees don't spawn, and buildings are Sand*  
+*if high rolled, Taiga Villages have a chance to be very good, however on average they're worse than the ones above*  
 
 * Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
 * Place the Crafting Table near your Mining Destination → Craft a Wooden Pickaxe → Mine 6 Stone → 
