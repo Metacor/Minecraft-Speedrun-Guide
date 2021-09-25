@@ -152,7 +152,7 @@ Nuskapuska 1.16 RSG Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Collect Beds from the Village Houses, (and Carpets, if you plan on doing the [Carpet Flintless Portal](https://youtu.be/DVDbfKuLaWo?t=38))
 * Kill the Golem: Drops 3-5 Iron Ingots
 	* Hit the Golem from max distance, from behind if possible → Run a few Blocks away → Build up 3 Blocks
-	* Crit the Golem 8-9 times to Kill it: Jump → Fall → Attack, while Falling (with Stone Hatchet)
+	* Crit the Golem ~8 times to Kill it: Jump → Fall → Attack, while Falling (with Stone Hatchet)
 * Place the Crafting Table → Craft an Iron Pickaxe and a Boat
 	* if Bucket of Cod Trade: Place this Crafting Table near Villagers, additionally: Craft a [Composter](https://i.imgur.com/qK3yzOP.png) and a [Barrel](https://i.imgur.com/arI5xh9.png)
 	* if 4 Iron Ingots: Craft a Flint and Steel, (after getting Flint from Digging up Gravel)
