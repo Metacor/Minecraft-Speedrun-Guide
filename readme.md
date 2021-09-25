@@ -192,7 +192,8 @@
 	* loot the 8 Gold Blocks from the Monument, following one of the guides linked above → Leave the Monument
 	* Once you're a reasonable distance away from the Monument, set your Render Distance back to normal
 * Continue with the normal Pirate strats → Ravine Nether Portal → Enter the Nether
-	* The same Bed/Food limitations exist
+	* The same Bed/Food limitations exist  
+
 * While in the Nether: Find a Fortress → Trade with nearby randomly spawned Piglins → Kill Blazes for Blaze Rods
 	* *trap 2 Piglins in a Boat, or in a 2 Block deep hole → Throw them your Gold Ingots → Proceed into the Fortress*
 		* *don't forget to return to the Piglins to collect your loot - if you didn't get enough → Find a Bastion*
