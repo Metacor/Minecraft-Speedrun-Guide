@@ -562,7 +562,7 @@
 * Microlensing: Locate a Bastion from your Nether Portal
 
 **Fortress**  
-* Inside Navigation: Find your way to the outside section of the Fortress and find a Blaze Spawner
+* Inside Navigation: Quickly naviate to the Outside section of the Fortress, and locate a Blaze Spawner
 * Blazebed: Learn to execute the correct technique for both enclosed and open spawners
 * Pie-Ray: Locate the Fortress direction using the F3 Pie Chart *(also useful for finding Villages)*
 
