@@ -555,9 +555,9 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 # Practice
 *Ideally, get comfortable with each of these steps before starting runs*
 
-# @@@@@@@ ADD PIRATE STUFF TO PRACTICE @@@@@@@@@@
+# @@@@ ADD PIRATE STUFF TO PRACTICE @@@@
 
-### Crafting  
+## Crafting  
 *learn to quickly, and optimally, complete the most common early game Crafting Windows*  
 
 **Notation:**
@@ -608,7 +608,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 		* there are a few ways to do the Door Drag → Corner Drag, they're all basically the same
 		* and as always, change the Hotkey Keybinds to fit your specific setup
 
-### Tasks  
+## Tasks  
 *learn to efficiently complete these tasks*  
 
 **Villages**  
