@@ -310,18 +310,21 @@
 ## The End
 *Kill the Ender Dragon, Finishing the Game*
 
+**Video Guides**: [k4yfour](https://youtu.be/-Ta_1R1aXvA) | [Hashten](https://youtu.be/aGMLHXnD6Bc) | [BoomerPlayz](https://youtu.be/1daiTbj1OiE), [Boomer, Part 2](https://youtu.be/uBp8uVbW1us)
 
-		End Guide: https://youtu.be/-Ta_1R1aXvA
-		In-depth explainations: https://youtu.be/1daiTbj1OiE
-		One-Cycle Tips: 
-			https://www.youtube.com/watch?v=aGMLHXnD6Bc
-			https://www.youtube.com/watch?v=uBp8uVbW1us
-
-	Get to the Fountain asap → setup your perferred bed platform [Obsidian], [Full Block], [Slab] → run in your desired direction
-	if 2+ Pearls; Pearl to the highest tower in your desired direction (N/S/E/W), build up to y = 122
-		if the Dragon fireballs you, either dodge it, or get hit on purpose then jump → place a block below you
-	F3 + B to enable Hitboxes for the Dragon fight, also helps with recognizing the Perch
-	When the Dragon starts to Perch, Pearl/Run to the fountain and Kill it with beds
+* Once you arrive in The End, get to the Fountain as soon as possible, *ideally: Ender Pearl directly to the middle*
+	* *if you spawn underground, Mine up in the top left corner*
+* Setup your preferred Bed Platform [Obsidian]() | [Full Block]() [Slab]()
+	* *run away in your preferred Perch direction (N/S or E/W)*
+		* *note: your Bed Platform position will need to change, based on your chosen Perch Direction*
+* if you have 2+ Pearls, and you don't plan on doing [Half-Bow]():
+	* Pearl up to the highest Obsidian Tower in the direction you chose, build up until you reach y = 122
+* Turn on Entity Hitboxes *(F3 + B)* to help with One-Cycling the Dragon
+	* *hitboxes will also help make the Dragon's head "snap" while Perching more obvious*
+* When the Dragon begins to Perch, either Ender Pearl or run to the Fountain → One-Cycle it with Beds
+	* *if you fail the One-Cycle: hit the Dragon's Head Hitbox with your Stone Axe*
+		* *don't try to crit it, just stand normally and attack it with fully charged attacks*
+		* *you can hit the Dragon ~7 times before he will fly away, causing you to wait for another cycle*
 	
 <br/>
 
@@ -481,7 +484,6 @@
 
 ### The End
 * You always Spawn to the East, facing the Main Island
-	* *if you spawn underground, Dig up in the top left corner*
 * The Dragon Perches faster the farther away you are from the Fountain, both height and distance
 * The Dragon will Perch from the opposite side of you, in relation to the Fountain
 	* *Diagonal Perches are a lot harder to One Cycle, so it's recommended to run away N/S/E/W*
