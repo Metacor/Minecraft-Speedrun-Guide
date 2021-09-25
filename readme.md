@@ -454,6 +454,11 @@
 * if you find Nether Gold Ore while travelling to a Bastion, consider Mining it and making Gold Boots
 	* Boots only take 4 Gold Ingots (36 Gold Nuggets)
 	* Wearing any Gold Armor will make it so Piglins don't auto-aggro you
+* Bastions cannot spawn inside of a Basalt Delta Biome
+* All Bastion types (besides Treasure), can spawn a Triple Chest top section - to easily tell them apart:
+	* if there are 2 Blocks between the Double/Single Chest, then it's Stables
+	* if there are 3 Blocks, then it can be either Housing or Bridge
+		* *Housing and Bridge are very different, so it shouldn't be too hard to Identify the correct one*
 * Piglins have weird pathfinding around Lava
 	* *when building bridges across Lava - while routing bottom side Manhunt Housing for example*
 		* *build 1 block above Lava (instead of inside of it)*
@@ -461,11 +466,6 @@
 			* *piglins seem to refuse to jump up/down a block at the edges of lava*
 		* *build 3 Blocks wide, to make sure Piglins follow*
 		* *piglins can't run across corners, so make sure there is a direct path over the Lava*
-* Bastions cannot spawn inside of a Basalt Delta Biome
-* All of the Bastions (besides Treasure), can spawn a Triple Chest, top section - to easily tell them apart:
-	* if there are 2 Blocks between the Double/Single Chest, then it's Stables
-	* if there are 3 Blocks, then it can be either Housing or Bridge
-		* Housing and Bridge are very different, so it shouldn't be too hard to Identify the correct one
 * Mobs spawn more often in Soul Sand Valleys, so if a Fortress is located in one, 5RD is pretty risky
 * While trying to Pie-Ray, if you accidentally press the wrong button, press '0' to go back a page
 	
