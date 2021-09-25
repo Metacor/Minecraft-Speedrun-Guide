@@ -487,7 +487,7 @@
 	* *Diagonal Perches are a lot harder to One Cycle, so it's recommended to run away N/S/E/W*
 	* *N/S Perch is faster than E/W, however it gives the player less time to react to the Perch*
 * The Dragon's Fireball doesn't actually do damage, the AoE ground effect left behind is what damages you
-	* *an easy way to avoid the damage is to get hit on purpose, then Jump → place a Block below you*
+	* *an easy way to avoid the damage, is to get hit on purpose, then Jump → place a Block below you*
 		
 <br/>
 
