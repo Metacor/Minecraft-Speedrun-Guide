@@ -168,8 +168,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 ## **Advanced** | [Pirate](https://youtu.be/EJ4G8QbhrGM) Overworld
 *Spawn near an Ocean, with a Shipwreck nearby - with 7+ Iron inside (ideally 11+)*
 * Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
-* Place the Crafting Table near a Tree → Craft a Wooden Axe → Chop 8+ Wood →
-	* Craft Doors, and a Boat → Pickup the Crafting Table
+* Place the Crafting Table near a Tree → Craft a Wooden Axe → Chop 4+ Logs →
+	* Craft Doors, a Boat, and some Bowls → Pickup the Crafting Table
 * Place the Boat in the Ocean → Search for a Shipwreck → Collect the Boat and Dive towards the Shipwreck
 * Once you find a Shipwreck → Enter the Top Side at the Back of the Boat → Loot the Chest (Iron / Gold) →
 	* if < 7 Iron: Loot the Bottom Side Chest at the Back of the Boat → Collect the Buried Treasure Map
