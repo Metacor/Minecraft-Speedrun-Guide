@@ -455,7 +455,7 @@
 	* Boots only take 4 Gold Ingots (36 Gold Nuggets)
 	* Wearing any Gold Armor will make it so Piglins don't auto-aggro you
 * Piglins have weird pathfinding around Lava
-	* *when building bridges across Lava - while routing bottom side Housing Manhunt for example*
+	* *when building bridges across Lava - while routing bottom side Manhunt Housing for example*
 		* *build 1 block above Lava (instead of inside of it)*
 			* *if forced to build inside, use stairs at the ends of your bridge*
 			* *piglins seem to refuse to jump up/down a block at the edges of lava*
