@@ -9,7 +9,6 @@
 * Add Crafting Screenshots for each mention of Crafting an Item *(similarly to: [Barrel](https://i.imgur.com/arI5xh9.png))*
 	* *change all current Screenshots to be cropped the same as above, (show item name / materials / window)*
 * Add Links to all Video / Section / Item references, even if they have previously been linked to
-* Add Pirate Strats to the Practice Section (Crafting + Tasks)
 
 * On Completion:
 	* Check the skinny main view to make sure there isn't any unnecessary text wraps
@@ -553,9 +552,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 <br/>
 
 # Practice
-*Ideally, get comfortable with each of these steps before starting runs*
-
-# @@@@ ADD PIRATE STUFF TO PRACTICE @@@@
+*Ideally, get comfortable with each of these steps before starting runs*  
 
 ## Crafting  
 *learn to quickly, and optimally, complete the most common early game Crafting Windows*  
@@ -617,6 +614,15 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Identify which Houses have Beds in them, and which don't
 	* *also identify which houses have Carpets in them, in case you need to do a Flintless Portal*
 
+**Shipwrecks**  
+* Identify the specific Shipwreck (full, front, front + map, back, etc)
+* Consistently be able to enter through the back side windows, and loot the chest
+* Follow the Map and quickly find the Buried Treasure
+
+**Ocean Monuments**  
+* Memorize optimal Door placements when checking for the Gold Blocks
+* Avoid the Guardian's Lazer attack
+
 **Nether Portal Constructions**
 * Lava Lake Nether Portal
 	* [Standard]() | [1-Deep]()
@@ -627,7 +633,6 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 		* [Cobblestone Skip]() | [1-Deep]() | [1-Deep, Double Cobblestone Skip](https://youtu.be/FJSZIBo-SWs)
 	* [2-Wide]() | [1-Deep]()
 
-
 **Bastions**  
 * [Identification and Optimal Routing](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#bastions)
 * Microlensing: Locate a Bastion from your Nether Portal
@@ -635,6 +640,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 **Fortress**  
 * Inside Navigation: Quickly naviate to the Outside section of the Fortress, and locate a Blaze Spawner
 * Blazebed: Learn to execute the correct technique for both enclosed and open spawners
+* Be able to effectively complete the Fortress without a Fire Resistance Potion *(can use a shield)*
 * Pie-Ray: Locate the Fortress direction using the F3 Pie Chart *(also useful for finding Villages)*
 
 **Stronghold**  
