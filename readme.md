@@ -247,11 +247,12 @@ Nuskapuska 1.16 RSG Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 *Find a Bastion, Trade Gold to Piglins for Obsidian and Ender Pearls → Find a Fortress, Kill Blazes for Blaze Rods*
 
 
-	Only 1 Structure can Spawn per 432, 432 MegaChunk, for Example:
+	Only 1 Structure can Spawn per 432, 432 MegaChunk Quadrants, for Example:
 		if Bastion @ +x,+z you will have to go to any of the remaining three quadrants; +x,-z | -x,-z | -x,+z
 			aka; pos, pos | pos, neg | neg, neg | neg, pos
 		in order to find a Fortress (or another Bastion), go to whatever direction is closer to x0/y0
 		you can also go out beyond +/- 432 x or z to go into a new MegaChunk, but this may take awhile
+			structures beyond are called extra regional
 
 	Bastion: if you can, do the Bastion first - Trading has a chance to give you Fire Resistance Potions
 		Identify the Bastion Type, and run the route accordingly
