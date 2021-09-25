@@ -429,13 +429,12 @@
 		* Activate the Pressure Plate →
 		* Break the TnT below you (don't activate it) →
 		* Crouch in the hole under the active TnT, avoiding most of it's Damage
-* It takes slightly less time to Mine Stone than it does to Mine Cobblestone
+* Mining Stone takes slightly less time than Mining Cobblestone, (typically found as part of Plains Village houses)
 	* Wooden Pickaxe: Stone takes **1.15 Seconds** | Cobblestone takes **1.5 Seconds**
 	* Stone Pickaxe: Stone takes **0.6 Seconds** | Cobblestone takes **0.75 Seconds**
 * Lava Lakes tend to spawn underneath Water Lakes
 	* *if you're unable to find a Lava Lake on the surface, try digging near small surface Water Lakes*
-* Ocean Ravines
-	* *if you see floating Kelp in a Deep Ocean, there is [likely a Ravine below it](https://youtu.be/yGyMWYhHYoQ?t=471)*
+* *if you see floating Kelp in a Deep Ocean, there is [likely a Ravine below it](https://youtu.be/yGyMWYhHYoQ?t=471)*
 * [Glitchy Buckets](https://youtu.be/EjwStTX4U3A)
 	* if you're having trouble with Glitchy Buckets while making Nether Portals, watch the video posted above
 * Buckets of Water don't actually work in the Nether, so when you finish your Nether Portal, fill the Bucket with Lava
