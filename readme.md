@@ -195,7 +195,7 @@
 	* Suicide Methods: use any Method that seems convienent to you at the time
 		* [Fire](https://youtu.be/itqFlGfKvdk?t=460): Burn yourself with either a Flint and Steel, or Lava (put out the Fire, so you don't destroy Items)
 		* Ender Pearl: Throw Ender Pearls into a nearby Wall or Floor, dealing 2.5 Hearts on impact
-		* Fall Damage: 0.5 Hearts per Block above 3 Blocks
+		* Fall Damage: 1/2 Heart per Block above 3 Blocks
 			* *4 Blocks = 1/2 Heart | 7 Blocks = 2 Hearts | 15 Blocks = 6 Hearts, etc*
 			* *While in the Stronghold, you can climb up the Starter Staircase to easily get some height*
 
