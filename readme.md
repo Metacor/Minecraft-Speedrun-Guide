@@ -457,9 +457,10 @@
 * Piglins have weird pathfinding around Lava
 	* *when building bridges across Lava - while routing bottom side Housing Manhunt for example*
 		* *build 1 block above Lava (instead of inside of it)*
+			* *if forced to build inside, use stairs at the ends of your bridge*
+			* *piglins seem to refuse to jump up/down a block at the edges of lava*
 		* *build 3 Blocks wide, to make sure Piglins follow*
 		* *piglins can't run across corners, so make sure there is a direct path over the Lava*
-		* *piglins seem to refuse to jump up a block when on the edges of Lava, try to use stairs*
 * Bastions cannot spawn inside of a Basalt Delta Biome
 * All of the Bastions (besides Treasure), can spawn a Triple Chest, top section - to easily tell them apart:
 	* if there are 2 Blocks between the Double/Single Chest, then it's Stables
