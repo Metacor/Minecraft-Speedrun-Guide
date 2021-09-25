@@ -193,7 +193,7 @@
 		* Nether: Craft a [Respawn Anchor](https://i.imgur.com/mo7y0XA.png) → use a Glowstone Block on it → Suicide
 		* Overworld: Place a Bed → Right-Click the Bed → Suicide
 	* Suicide Methods: use any Method that seems convienent to you at the time
-		* [Fire](https://youtu.be/itqFlGfKvdk?t=460): Use either a Flint and Steel, or Lava *(ideally from a bucket)* 
+		* [Fire](https://youtu.be/itqFlGfKvdk?t=460): Use either a Flint and Steel or Lava to set yourself on Fire
 			* *dig down 2 Blocks before you set yourself on Fire, this way your Items wont fly everywhere*
 			* *douse the Fire before you die, so you don't accidently destroy your Items*
 		* Ender Pearl: Throw Ender Pearls into a nearby Wall or Floor, dealing 2.5 Hearts on impact
