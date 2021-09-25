@@ -191,7 +191,7 @@
 			* *optionally: if you're close to the World Spawn, Suicide without setting your Spawn*
 	* loot the 8 Gold Blocks from the Monument, following one of the guides linked above → Leave the Monument
 	* Once you're a reasonable distance away from the Monument, set your Render Distance back to normal
-* Continue with the normal Pirate Overworld strats → Ravine Nether Portal → Enter the Nether
+* Continue with the normal Pirate strats → Ravine Nether Portal → Enter the Nether
 	* The same Bed/Food limitations exist
 * While in the Nether: Find a Fortress → Trade with nearby randomly spawned Piglins → Kill Blazes for Blaze Rods
 	* *trap 2 Piglins in a Boat, or in a 2 Block deep hole → Throw them your Gold Ingots → Proceed into the Fortress*
