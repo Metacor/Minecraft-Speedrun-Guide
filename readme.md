@@ -395,7 +395,6 @@
 	* *if the Item is in your Inventory, then it will be moved to the lowest available Empty Slot*
 		* *if you're currently Selecting an Empty Slot, the Item will be Moved to that Slot instead*
 			* *even if your currently Selected Slot isn't the lowest available*
-		* *unless you are currently Selecting an Empty Slot, in that case, the Item will be moved to the Slot that you are currently Selecting, even if that particular Slot is not the lowest available*
 	* *if no Empty Slots are available, then your currently Selected Item will be Swapped into your Inventory*
 * *using Pick Block to select Beds while One Cycling the Dragon is very useful*
 
