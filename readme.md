@@ -324,7 +324,8 @@
 * When the Dragon begins to Perch, either Ender Pearl or run to the Fountain → One-Cycle it with Beds
 	* *if you fail the One-Cycle: hit the Dragon's Head Hitbox with your Stone Axe*
 		* *don't try to crit it, just stand normally and attack it with fully charged attacks*
-		* *you can hit the Dragon ~7 times before he will fly away, causing you to wait for another cycle*
+		* *you can hit the Dragon ~6 times (50+ Damage) before the Dragon will fly away, causing you to wait for another cycle*
+			* *if you haven't destroyed the End Crystals, this will result in a Reset*
 	
 <br/>
 
