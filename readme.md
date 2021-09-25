@@ -394,11 +394,17 @@ Nuskapuska 1.16 RSG Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Swaps the Hotbar Slot's Item, with the Item Slot under your Mouse's Cursor
 * *this can be used to Quickly Move Items into the Crafting Window, with minimal Mouse Movement*
 
+**Collect All**: Shift + Click *(in the Crafting Output Slot)*
+* Creates the maxiumum amount of that Item with the supplies currently in the Crafting Window
+* *sends all of the items onto your Hotbar*
+	* *sends items to the highest available Hotbar Slot (9 > 8 > 7, etc)*
+	* *if your Hotbar is full, the Items will be sent to your Inventory instead*
+
 **Pick Block**: *Middle Mouse Button*
 * Swaps your currently Selected Hotbar Slot with the Item that your Crosshair is pointed at
 	* *this is assuming that you have any of that Item Type in your Inventory already*	
 	* *if the Item is in another Hotbar Slot, you will simply switch Hotbar Selections*
-	* *if the Item is in your Inventory, then it will be moved to the lowest available Empty Slot*
+	* *if the Item is in your Inventory, then it will be swapped to the lowest available Empty Slot*
 		* *if you're currently Selecting an Empty Slot, the Item will be Moved to that Slot instead*
 			* *even if your currently Selected Slot isn't the lowest available*
 	* *if no Empty Slots are available, then your currently Selected Item will be Swapped into your Inventory*
