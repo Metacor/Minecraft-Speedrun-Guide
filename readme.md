@@ -578,27 +578,29 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Gather 3 Logs, turn them into 12 Planks, then Craft a Crafting Table and 8 Sticks
 	* Logs(1) → collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → collect: sClick x2  
 
-**Wooden Pickaxe**: *used in non-pirate strats | unless: 3+ Iron from Blacksmith, or Golden Pickaxe from Ruined Portal*  
+### Standard Crafts
+**Wooden Pickaxe**: *can skip, if 3+ Iron from Blacksmith, or Golden Pickaxe from Ruined Portal*  
 [Screenshot](https://i.imgur.com/k3vCKuq.png) | [Video](https://youtu.be/lEdAMNweD7E?t=37)
 * Place the Crafting Table, Craft a Wooden Pickaxe → *Mine 6 Cobblestone*
 	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tL → Half Split → Drag tM, tR → collect: 8
 		* *highly recommend to collect to your Pickaxe Hotbar Keybind, instead of shift + clicking*
 			* *i have my hotkey set to 8, rebound to F, just collect to whatever yours is bound to*
 
-**Stone Tools**: *used in non-pirate strats | if Hoe Skip: Mine 4 Cobblestone instead - the same movements can be used*  
+**Stone Tools**: *if Hoe Skip: Mine 4 Cobblestone instead - the same movements can be used*  
 [Screenshot](https://i.imgur.com/TCqDxat.png) | [Video](https://youtu.be/lEdAMNweD7E?t=45)
 * Craft a Stone Axe, a Stone Hoe, and a Stone Shovel → *Pickup the Crafting Table → Chop 8+ Logs*
 	* Sticks(2), bM → Half Split → lClick mM → Stone(3), tM → Half Split → rClick mL → lClick tL → collect: 7 → 4 → 5
 		* *once again, i'd recommend collecting directly to your axe/hoe/shovel slots*
 
-**Wooden Axe**: *used in pirate strats*  
+### Pirate Crafts
+**Wooden Axe**:
 [Screenshot](https://i.imgur.com/pZaExqe.png) | [Video](https://youtu.be/lEdAMNweD7E?t=53)
 * Place the Crafting Table, Craft a Wooden Axe → *Chop 4 Logs*
 	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tM → Half Split → Drag tR, mR → collect: 7
 		* *highly recommend to collect to your Axe Hotbar Keybind, instead of Shift + Clicking*
 			* *i have my hotkey set to 7, rebound to R, just collect to whatever yours is bound to*
 
-**Doors + Boat + Bowls**: *used in pirate strats*  
+**Doors + Boat + Bowls**:
 [Screenshot 1](https://i.imgur.com/Brr2zq1.png) - [Screenshot 2](https://i.imgur.com/La90qWK.png) | [Video](https://youtu.be/lEdAMNweD7E?t=60)
 * Craft Doors, a Boat, and Bowls → *Pickup the Crafting Table → Boat on the Ocean*
 	* Logs(3) → collect: sClick → Planks(1), bM → Half Split → Drag mM, tM, tR, mR, bR, bM → 
