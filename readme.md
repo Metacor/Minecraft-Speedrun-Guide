@@ -468,7 +468,7 @@ Nuskapuska 1.16 RSG Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 # Tips & Tricks
 ### The Overworld
-* Shipwrecks 
+* [Shipwrecks](https://i.imgur.com/ws384ow.png)
 	* Front Side Chest: Food 
 	* Back Side: 
 		* Top Chest: Iron Ingots, Gold Ingots
