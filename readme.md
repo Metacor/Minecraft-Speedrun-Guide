@@ -418,7 +418,7 @@
 		* Top Chest: Iron Ingots, Gold Ingots
 		* Bot Chest: Buried Treasure Maps
 			* Buried Treasure is always located @ 9/x/9 in the Chunk where the X is located 
-* In Ocean Monument, the Guardian's Lazer attacsk will kill you in: Hits Taken (Damage/20)
+* In Ocean Monuments, the Guardian's Lazer attack will kill you in: Hits Required (Damage Taken/20)
 	* Easy = 5 (4) **|** Normal = 4 (6) **|** Hard = 3 (9)
 		* *with Healing, Easy will almost always take 6 hits, and Normal will sometimes take 5*
 * [Desert Temples](https://youtu.be/gS6LxaNibWM?t=76)
