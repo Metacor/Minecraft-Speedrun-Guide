@@ -52,7 +52,7 @@
 ## Setup 
 **Setup Video Guides**: [k4yfour](https://youtu.be/4cTbSyvWNgI) | [DashPum4](https://youtu.be/km0sXurMj5s)  
 [Lenszel's Speedrunning Tools List](https://docs.google.com/document/d/1REEzqLCmOizEhY797kLCXI4I0ftm4N-u8aaD8ECzIw8/edit) | [
-Nuskapuska Slideshow Guide](https://youtu.be/0PXQvPNCxy8)
+Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Win + r → %appdata% → .minecraft → options.txt → gamma:5.0
 * Options → Music & Sounds → Show Subtitles: ON  
 * Options → Video Settings → Quality → Entity Distance (500)  
@@ -619,7 +619,7 @@ Nuskapuska Slideshow Guide](https://youtu.be/0PXQvPNCxy8)
 **Stronghold**  
 * Blind Travel: Try to remember the general Coordinates for atleast the First Ring
 * Triangulation: Quickly and accurately turn 90°, and be able to consistently travel 17.5 Blocks
-* Stronghold Navigation: Complete a lot of Stronghold trial runs, starting from random positions
+* Stronghold Navigation: Complete Stronghold [trial runs](https://i.imgur.com/veqC1GW.png), starting from random positions
 
 **The End**
 * Force a N/S Perch, and be able to tell when the Dragon is Perching
