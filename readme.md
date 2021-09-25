@@ -135,7 +135,7 @@
 	* Craft [a Stone Shovel, a Stone Axe, and a Stone Hoe](https://i.imgur.com/TCqDxat.png) → Pickup the Crafting Table → Chop 8+ Logs  
 ### Village Tasks:
 * Loot Blacksmiths, if available:
-	* if 10+ Obsidian: Skip Bucket → Mine 4 Stone, instead of 6 → Skip Hoe (slightly slower, but doesn't require a second Stick Craft)
+	* if 10+ Obsidian: Skip Bucket → Mine 4 Stone, *(instead of 6)* → Skip Hoe
 	* if 3+ Iron Ingots: Gather 2 Logs, instead of 3 → Skip Wooden Pickaxe
 	* if 7+ Total Iron Ingots (Blacksmith + Golem): Skip the Bucket of Cod Trade (can skip with 6, but requires [Flintless Portal](https://youtu.be/DVDbfKuLaWo?t=9))
 * Collect Beds from the Village Houses, (and Carpets, if you plan on doing the [Carpet Flintless Portal](https://youtu.be/DVDbfKuLaWo?t=38))
