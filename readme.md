@@ -346,6 +346,10 @@
 ## Inventory Management
 *Storage Interfaces: Chests, Crafting Tables etc*  
 
+**I would highly recommend changing your Hotbar Keybinds to something more comfortable** [Example](https://i.imgur.com/IRnM4qO.png)  
+* pressing 6-9 for Hotbar Hotkeys can be quite inconsistent, and remember: [don't scroll, kids](https://youtu.be/0mK4yq7AlvE?t=12)
+
+
 **Hotbar Swap**: *1, 2, 3, 4, 5, 6, 7, 8, 9*
 * Swaps the Hotbar Slot's Item, with the Item Slot under your Mouse's Cursor
 * *this can be used to Quickly Move Items into the Crafting Window, with minimal Mouse Movement*
