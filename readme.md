@@ -337,6 +337,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 	Enter the Stronghold
 		if Entering from above, Dig @ 4/x/4 (3,4,5/x/3,4,5 all work) in the Chunk to enter the Starter Staircase
+			to quickly locate it go ~4 blocks diagonally from the north west corner of the chunk
 		if not entering @ the Starter Staircase; Go through Backwards Doors until you find it
 		on entering the Portal Room, run up the stairs → place a block in the lava → stand on it →
 			Place Eyes of Ender into the End Portal Frames, on the final Frame, you will be teleported to The End
