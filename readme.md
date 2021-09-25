@@ -501,7 +501,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 ### The Nether
 * Falling while in a Boat will negate all Fall Damage: [Video](https://youtu.be/REas9cmjlic?t=686)
-* Killing Burning Hoglins is an easy way to get food in the Nether [Lava Bucket](https://youtu.be/iaUF0oaegns?t=3861) | [Flint and Steel](https://youtu.be/REas9cmjlic?t=694)
+* Killing Burning Hoglins is an easy way to get food in the Nether [Lava Bucket](https://youtu.be/wjbQyyHkr9M?t=110) | [Flint and Steel](https://youtu.be/REas9cmjlic?t=694)
 * if you need more Blocks while in the Nether, Mine some Netherrack
 	* Netherrack isn't flammable, and it's very fast to Mine (0.1s with an Iron Pickaxe)
 * if there is a far away Ghast attacking you, quickly lower your Render Distance to 2
