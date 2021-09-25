@@ -317,7 +317,7 @@
 			https://www.youtube.com/watch?v=aGMLHXnD6Bc
 			https://www.youtube.com/watch?v=uBp8uVbW1us
 
-	Get to the Fountain asap → setup the bed platform → run in your desired direction
+	Get to the Fountain asap → setup your perferred bed platform [Obsidian], [Full Block], [Slab] → run in your desired direction
 	if 2+ Pearls; Pearl to the highest tower in your desired direction (N/S/E/W), build up to y = 122
 		if the Dragon fireballs you, either dodge it, or get hit on purpose then jump → place a block below you
 	F3 + B to enable Hitboxes for the Dragon fight, also helps with recognizing the Perch
