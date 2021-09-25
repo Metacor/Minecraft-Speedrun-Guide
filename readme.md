@@ -500,6 +500,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * [Glitchy Buckets](https://youtu.be/EjwStTX4U3A)
 	* if you're having trouble with Glitchy Buckets while making Nether Portals, watch the video posted above
 * Buckets of Water don't actually work in the Nether, so when you finish your Nether Portal, fill the Bucket with Lava
+* if you plan on Microlensing your Bastion in the Nether, turn on the F3 Menu before you teleport to the Nether
 
 ### The Nether
 * Falling while in a Boat will negate all Fall Damage: [Video](https://youtu.be/REas9cmjlic?t=686)
@@ -626,7 +627,6 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Avoid the Guardian's Lazer attack
 
 **Nether Portal Constructions**  
-*if you plan to Microlens your Bastion in the Nether, turn on the F3 Menu before teleporting to the Nether*  
 * Lava Lake Nether Portal
 	* [Standard]() | [1-Deep]()
 		* [Flintless]() | [1-Deep]()
