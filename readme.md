@@ -310,7 +310,7 @@
 ## The End
 *Kill the Ender Dragon, Finishing the Game*
 
-**Video Guides**: [k4yfour](https://youtu.be/-Ta_1R1aXvA) | [Hashten](https://youtu.be/aGMLHXnD6Bc) | [BoomerPlayz](https://youtu.be/1daiTbj1OiE), [Boomer, Part 2](https://youtu.be/uBp8uVbW1us)
+**Video Guides**: [k4yfour](https://youtu.be/-Ta_1R1aXvA) | [Hashten](https://youtu.be/aGMLHXnD6Bc) | [BoomerPlayz](https://youtu.be/1daiTbj1OiE) - [Part 2](https://youtu.be/uBp8uVbW1us)
 
 * When you spawn in The End, get to the Fountain as soon as possible
 	* *if you spawn above ground, Ender Pearl directly to the Fountain*
