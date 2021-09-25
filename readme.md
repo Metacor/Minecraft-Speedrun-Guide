@@ -312,7 +312,8 @@
 
 **Video Guides**: [k4yfour](https://youtu.be/-Ta_1R1aXvA) | [Hashten](https://youtu.be/aGMLHXnD6Bc) | [BoomerPlayz](https://youtu.be/1daiTbj1OiE), [Boomer, Part 2](https://youtu.be/uBp8uVbW1us)
 
-* Once you arrive in The End, get to the Fountain as soon as possible, *ideally: Ender Pearl directly to the middle*
+* Once you arrive in The End, get to the Fountain as soon as possible
+	* *if you spawn above ground, Ender Pearl directly to the Fountain*
 	* *if you spawn underground, Mine up in the top left corner*
 * Setup your preferred Bed Platform [Obsidian]() | [Full Block]() [Slab]()
 	* *run away in your preferred Perch direction (N/S or E/W)*
