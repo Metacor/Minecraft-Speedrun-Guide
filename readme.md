@@ -287,6 +287,7 @@ Nuskapuska 1.16 RSG Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 	Advanced Nether Scouting Methods; saves a significant amount of time, while not being all that hard to learn
 		Microlensing; Locating Bastions based on the E value in the F3 Menu
+			[Screenshot Explaination](https://i.imgur.com/98heFGq.jpeg)
 			https://www.youtube.com/watch?v=jvTfMLPnMSw
 			https://www.youtube.com/watch?v=Ou58P7e-ZY0
 		Pie-Ray; Locating Fortresses based on Blaze Spawner Entities in the Shift+F3 Pie Chart
