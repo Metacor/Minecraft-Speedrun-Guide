@@ -98,7 +98,7 @@
 <br/>
 
 * Bridge: [Video](https://youtu.be/2pzMpX1RJGI?t=128) | [Screenshots](https://imgur.com/a/OHwW0tb)
-	* if Triple, (right side): [Dowsky]()
+	* if Triple, (right side): [Dowsky](https://youtu.be/UoG57tsvgto)
 	* if Single, (right side): [Dip by EleventyBillion]()
 * Treasure: [Video](https://youtu.be/A9GGUWwNcrY?t=132) | [Screenshots](https://imgur.com/gallery/U4FnQC5)
 	* [Ninjabrain]()
