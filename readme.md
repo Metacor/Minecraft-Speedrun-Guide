@@ -1,8 +1,8 @@
 # Minecraft: Speedrun Guide - Any%, RSG, 1.16.1
 [Discord](https://discord.com/invite/jmdFn3C) | [Minecraft Speedrunning Website](https://www.minecraftspeedrunning.com/) | [Minecraft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki) | [Speedrun.com](https://www.speedrun.com/mc#Any_Glitchless)
 
-# To Do:
-* Complete **The Nether**, and **The Overworld, Part 2** Sections
+### To Do:
+* Complete **The Nether** and **The Overworld, Part 2** Sections
 
 * Add Videos for each Bastion Route
 * Add Crafting Screenshots for each mention of an Item *(similarly to: [Composter](https://i.imgur.com/qK3yzOP.png))*
