@@ -397,6 +397,8 @@ Nuskapuska 1.16 RSG Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 **Collect All**: Shift + Click *(in the Crafting Output Slot)*
 * Creates the maxiumum amount of an Item with the supplies currently in the Crafting Window
 	* *will only Craft the Item currently shown in the Output Slot, even if the [Supplies can create multiple Items](https://i.imgur.com/TCqDxat.png)*
+		* *the Crafting Window above can Craft 1x Stone axe, 1x Stone Hoe, and 1x Stone Shovel*
+			* *however, Shift + Clicking will only create the Stone Axe (doing so again will then create the hoe)*
 * Sends all of the Crafted items onto your Hotbar
 	* *sends items to the highest available Hotbar Slot (9 > 8 > 7, etc)*
 	* *if your Hotbar is full, the Items will be sent to your Inventory instead*
