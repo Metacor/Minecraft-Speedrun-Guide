@@ -272,7 +272,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 			The Outside section will either have no roof, or a Netherrack/Soul Sand roof
 			if looking down from above, the structure without a roof entrance leads to the open area
 				if you're inside the Fortress, this room has a 1x1 pool of Lava in the middle
-			Inside Navigation:
+			[Inside Navigation](https://youtu.be/swSbv4AImzI)
 				if staircase with Netherwart at the bottom; go down the stairs
 				if staircase with no Netherwart; go up the stairs
 				if balcony room; go in the opposite direction of the balcony		
