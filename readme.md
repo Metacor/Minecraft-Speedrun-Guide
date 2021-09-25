@@ -93,7 +93,7 @@ Nuskapuska 1.16 RSG Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 
 ## Bastions
-[Routing Spreadsheet](https://bit.ly/3kv8NL1)
+[Routing Spreadsheet](https://bit.ly/3kv8NL1) | [Zolstice's Beginner Screenshot Guide](https://www.reddit.com/r/MinecraftSpeedrun/collection/a6121708-188c-43b9-8267-de61620456f1/)  
 * **Bastion Type:** Identification, **Videos** *by T_Wagz* | **Screenshots** *by ElaMeTrataDiferente*
 	* Recommend Routes
 
