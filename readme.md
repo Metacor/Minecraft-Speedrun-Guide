@@ -194,6 +194,8 @@
 * Continue with the normal Pirate strats → Ravine Nether Portal → Enter the Nether
 	* The same Bed/Food limitations exist  
 
+<br/>
+
 * While in the Nether: Find a Fortress → Trade with nearby randomly spawned Piglins → Kill Blazes for Blaze Rods
 	* *trap 2 Piglins in a Boat, or in a 2 Block deep hole → Throw them your Gold Ingots → Proceed into the Fortress*
 		* *don't forget to return to the Piglins to collect your loot - if you didn't get enough → Find a Bastion*
