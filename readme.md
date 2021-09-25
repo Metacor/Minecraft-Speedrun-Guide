@@ -183,8 +183,12 @@
 ***Ocean Monument Guides:* [T_Wagz](https://youtu.be/0dyHYkg_xIU) | [Silver](https://youtu.be/14FGC1eUHug) | [Silver, Part 2](https://youtu.be/-b7nQyXZkfw)**  
 *Same start as [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#advanced--pirate-overworld), but you also Gather the guaranteed 8 Gold Blocks from an Ocean Monument - sometimes allowing you to completely skip the Bastion while in the Nether*
 * Pirate Start → Shipwreck (Craft a Shield, since you wont have Fire Resistance for the Fortress) → Ocean Monument
-	* As soon as you see the Ocean Monument, turn your Render Distance to 2 (RD2), this will usually result in the Elder Guardians not spawning, stopping them from giving you Mining Fatigue
-	* if you get Mining Fatigue anyway, either Drink a Bucket of Milk, or set your Spawn and Suicide (or raw Suicide, near the World Spawn)
+	* As soon as you see the Ocean Monument, turn your Render Distance to 2 (RD2)
+		* *this will usually result in the Elder Guardians not spawning, allowing you to avoid Mining Fatigue*
+	* if you get Mining Fatigue anyway
+		* *Drink a Bucket of Milk (use a Bucket on a Cow)*
+		* *Set your Spawn at a Bed, and Suicide, (see Suicide Methods in [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#advanced--pirate-overworld)*
+			* *optionally: if you're close to the World Spawn, Suicide without setting your Spawn*
 	* loot the 8 Gold Blocks from the Monument, following one of the guides linked above → Leave the Monument
 	* Once you're a reasonable distance away from the Monument, set your Render Distance back to normal
 * Continue with the normal Pirate Overworld strats → Ravine Nether Portal → Enter the Nether
