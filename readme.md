@@ -322,11 +322,7 @@
 	* Pearl up to the highest Obsidian Tower in the direction you chose, build up until you reach y = 122
 * Turn on Entity Hitboxes *(F3 + B)* to help with One-Cycling the Dragon
 	* *hitboxes will also make it more obvious when the Dragon's head "snaps" to the center before Perching*
-* When the Dragon begins to Perch, either Ender Pearl or run to the Fountain → One-Cycle it with Beds
-	* *if you fail the One-Cycle: hit the Dragon's Head Hitbox with your Stone Axe*
-		* *don't try to crit it, just stand normally and attack it with fully charged attacks*
-		* *you can deal up to 50 Damage (~6 Stone Axe hits), before the Dragon will fly away*
-			* *if you haven't destroyed the End Crystals, failing to defeat the Dragon here will result in a Reset*
+* When the Dragon begins to Perch, either Ender Pearl or run to the Fountain → One-Cycle the Dragon with Beds
 * Once the Dragon is Defeated, stand inside of the Fountain - **Timing ends on the screen transition**
 	
 <br/>
@@ -493,6 +489,10 @@
 	* *N/S Perch is faster than E/W, however it gives the player less time to react to the Perch*
 * The Dragon's Fireball doesn't actually do damage, the AoE ground effect left behind is what damages you
 	* *an easy way to avoid the damage, is to get hit on purpose, then Jump → place a Block below you*
+* *if you fail the One-Cycle the Dragon: attack the Dragon's Head Hitbox*
+	* *don't try to crit, just stand normally and hit with fully charged attacks*
+	* *you can deal up to 50 Damage (~6 Stone Axe hits), before the Dragon will fly away*
+		* *if you haven't destroyed the End Crystals, failing to defeat the Dragon at this point will result in a Reset*
 		
 <br/>
 
