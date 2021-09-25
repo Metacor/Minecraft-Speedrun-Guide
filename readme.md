@@ -427,8 +427,8 @@ Nuskapuska 1.16 RSG Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * *the Keybind depends on if your Inventory is currently Opened or Closed*
 	* *Inventory Opened: Shift + Click (transfer item)*
 	* *Inventory Closed: Right Click (selected item)*
-* *both of these methods require the Equipment Slot to be currently Empty
-	* *if the Equipment Slot is currently occupied, either:
+* *both of these methods require the Equipment Slot to be currently Empty*
+	* *if the Equipment Slot is currently occupied, either:*
 		* *unequip the currently Equiped Item first*
 		* *manually Drag your new Item onto the relevant Equipment Slot*
 
