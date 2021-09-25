@@ -455,8 +455,10 @@
 	* Boots only take 4 Gold Ingots (36 Gold Nuggets)
 	* Wearing any Gold Armor will make it so Piglins don't auto-aggro you
 * Piglins have weird pathfinding around Lava
-	* *when building bridges across Lava, build them above it, 3-wide to make sure Piglins follow*
-		* *at Housing, when trying to do bottom side Manhunt for example*
+	* *when building bridges across Lava, at Housing, when trying to do bottom side Manhunt for example*
+		* *build 1 block above Lava (instead of inside of it)*
+		* *and 3 Blocks wide, to make sure Piglins follow*
+		* *piglins seem to refuse to jump up a block when on the edges of Lava, try to use stairs*
 * Bastions cannot spawn inside of a Basalt Delta Biome
 * All of the Bastions (besides Treasure), can spawn a Triple Chest, top section - to easily tell them apart:
 	* if there are 2 Blocks between the Double/Single Chest, then it's Stables
