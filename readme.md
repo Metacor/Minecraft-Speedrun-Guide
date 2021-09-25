@@ -582,7 +582,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Place the Crafting Table, Craft a Wooden Pickaxe → *Mine 6 Cobblestone*
 	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tL → Half Split → Drag tM, tR → collect: 8
 		* *highly recommend to collect to your Pickaxe Hotbar Keybind, instead of shift + clicking*
-			* *i have my hotkey set to 8, rebound to f, just collect to whatever yours is bound to*
+			* *i have my hotkey set to 8, rebound to F, just collect to whatever yours is bound to*
 
 **Stone Tools**: *used in non-pirate strats | if Hoe Skip: Mine 4 Cobblestone instead - the same movements can be used*  
 [Screenshot](https://i.imgur.com/TCqDxat.png) | [Video](https://youtu.be/lEdAMNweD7E?t=45)
@@ -592,15 +592,15 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 **Wooden Axe**: *used in pirate strats
 [Screenshot](https://i.imgur.com/pZaExqe.png) | [Video](https://youtu.be/lEdAMNweD7E?t=53)
-*
-	*
-		* **
-
+* Place the Crafting Table, Craft a Wooden Axe → *Chop 4 Logs*
+	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tM → Half Split → Drag tR, mR → collect: 7
+		* *highly recommend to collect to your Axe Hotbar Keybind, instead of Shift + Clicking*
+			* *i have my hotkey set to 7, rebound to R, just collect to whatever yours is bound to*
 **Doors + Boat + Bowls**: *used in pirate strats*
 [Screenshot 1](https://i.imgur.com/Brr2zq1.png) [Screenshot 2](https://i.imgur.com/La90qWK.png)| [Video](https://youtu.be/lEdAMNweD7E?t=60)
-*
-	*
-		* **
+* Craft Doors, a Boat, and Bowls → *Pickup the Crafting Table → Boat on the Ocean*
+	* Logs(3) → collect: sClick → Planks(1), bM → Half Split → Drag mM, tM, tR, mR, bR, bM → rClick bR → lClick mR → collect: 3
+	* Half Split, bM → rClick bL → lClick mL → collect: 4 → sClick
 
 ### Tasks  
 *learn to efficiently complete these tasks*  
