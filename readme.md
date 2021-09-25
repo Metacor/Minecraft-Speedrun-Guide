@@ -12,7 +12,8 @@
 * On Completion:
 	* Check the skinny main view to make sure there isn't any unnecessary text wraps
 	* Spell Check / Phrasing Check the entire document *(look for missed words, poor punctuation, etc)*
-	* Make sure there is no superfluous information in the Speedrun Guide section *(move it to Tips & Tricks)*
+	* Double Check every Link to make sure it leads to somewhere *(and make sure it leads to the correct place)*
+	* Make sure there isn't any superfluous information in the Speedrun Guide section *(move it to Tips & Tricks)*
 
 ## Table of Contents
 * [Setup](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#setup)
