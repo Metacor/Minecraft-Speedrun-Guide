@@ -7,7 +7,7 @@
 * Add Videos for each Bastion Route
 * Create and Add Videos for each Crafting Window, and for each Nether Portal Construction
 * Add Crafting Screenshots for each mention of an Item *(similarly to: [Barrel](https://i.imgur.com/arI5xh9.png))*
-	* *update all current Screenshots to have similar cropping to the image above, (show item name / materials / window)*
+	* *update all current Screenshots to have cropping similar to the img above, (show item name / materials / window)*
 * Add Links to all Video / Section / Item references, even if they have previously been linked to
 * Add Pirate Strats to the Practice Section (Crafting + Tasks)
 
