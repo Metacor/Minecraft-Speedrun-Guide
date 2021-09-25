@@ -50,7 +50,8 @@
 * [Speedrun Cheatsheet](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#speedrun-cheatsheet)
 
 ## Setup 
-**Video Guides:** [k4yfour](https://youtu.be/4cTbSyvWNgI) | [DashPum4](https://youtu.be/km0sXurMj5s)
+**Video Guides:** [k4yfour](https://youtu.be/4cTbSyvWNgI) | [DashPum4](https://youtu.be/km0sXurMj5s)  
+**[Lenszel's Speedrunning Tools List](https://docs.google.com/document/d/1REEzqLCmOizEhY797kLCXI4I0ftm4N-u8aaD8ECzIw8/edit)**  
 * Win + r → %appdata% → .minecraft → options.txt (gamma:5.0, syncChunkWrites:false)  
 * Options → Music & Sounds → Show Subtitles: ON  
 * Options → Video Settings → Quality → Entity Distance (500)  
@@ -82,7 +83,7 @@
 
 
 ## Practice Maps
-[Website](https://www.minecraftspeedrunning.com/public-resources/maps)  | [Lenszel's Speedrunning Tools List](https://docs.google.com/document/d/1REEzqLCmOizEhY797kLCXI4I0ftm4N-u8aaD8ECzIw8/edit)  
+[Website](https://www.minecraftspeedrunning.com/public-resources/maps)  
 * Sethbling's Speedrun: [Video](https://youtu.be/UihtGJhK_-w) | [Download](https://sethbling.s3-us-west-2.amazonaws.com/Downloads/DataPacks/speedrun_practice.zip)
 * Semper's Nether Portal: [Video](https://youtu.be/K233ih6nSCU) | [Download](https://www.mediafire.com/file/1oanxrh14db4u7g/Portal_Practice.zip/file)
 * Llama's Bastion: [Video](https://youtu.be/jlA-jW7VGqw) | [Download](https://www.dropbox.com/s/9e103bjzroi85aa/Llama%27s%20Bastion%20Practice%20v2.6.1.zip?dl=0) | [Loadout Guide](https://youtu.be/uTn9LwB5WAE)
