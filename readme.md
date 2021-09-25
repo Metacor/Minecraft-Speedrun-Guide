@@ -352,7 +352,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 * When you spawn in The End, get to the Fountain as soon as possible
 	* *if you spawn above ground, Ender Pearl directly to the Fountain*
-	* *if you spawn underground, Mine up in the top left corner*
+	* *if you spawn underground, Mine up along the West wall, ideally in a corner*
 * Setup your preferred Bed Platform: [Obsidian]() | [Full Block]() | [Slab]()
 	* *run away in your preferred Perch direction (N/S or E/W)*
 		* *your Bed Platform position might need to change, based on your chosen Perch direction*
