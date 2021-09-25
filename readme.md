@@ -194,9 +194,10 @@
 		* Overworld: Place a Bed → Right-Click the Bed → Suicide
 	* Suicide Methods: use any Method that seems convienent to you at the time
 		* [Fire](https://youtu.be/itqFlGfKvdk?t=460): Burn yourself with either a Flint and Steel, or Lava (put out the Fire, so you don't destroy Items)
-		* Ender Pearl: if you have excess Pearls, throw them into a nearby Wall or Floor, taking 2.5 Hearts of Damage on impact
-		* Fall Damage: 1/2 Heart per Block above 3 Blocks (4 Blocks = 1/2 Heart | 7 Blocks = 2 Hearts | 15 Blocks = 6 Hearts, etc)
-			* While in the Stronghold, you can climb up the Starter Staircase to easily get some height
+		* Ender Pearl: Throw Ender Pearls into a nearby Wall or Floor, dealing 2.5 Hearts on impact
+		* Fall Damage: 0.5 Hearts per Block above 3 Blocks
+			* *4 Blocks = 1/2 Heart | 7 Blocks = 2 Hearts | 15 Blocks = 6 Hearts, etc*
+			* *While in the Stronghold, you can climb up the Starter Staircase to easily get some height*
 
 ## **Advanced+** | Pirate → Ocean Monument
 ***Ocean Monument Guides:* [T_Wagz](https://youtu.be/0dyHYkg_xIU) | [Silver](https://youtu.be/14FGC1eUHug) | [Silver, Part 2](https://youtu.be/-b7nQyXZkfw)**  
