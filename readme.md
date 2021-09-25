@@ -186,7 +186,7 @@
 	* As soon as you see the Ocean Monument, turn your Render Distance to 2 (RD2)
 		* *this will usually result in the Elder Guardians not spawning, allowing you to avoid Mining Fatigue*
 	* if you get Mining Fatigue anyway
-		* *Drink a Bucket of Milk (use a Bucket on a Cow)*
+		* *Drink a Milk Bucket (use an Empty Bucket on a cow, mooshroom, or goat)*
 		* *Set your Spawn at a Bed, and Suicide, (see Suicide Methods in [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#advanced--pirate-overworld)*
 			* *optionally: if you're close to the World Spawn, Suicide without setting your Spawn*
 	* loot the 8 Gold Blocks from the Monument, following one of the guides linked above → Leave the Monument
