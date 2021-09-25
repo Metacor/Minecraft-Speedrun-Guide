@@ -322,7 +322,7 @@
 	* if you have a *(cross)* Bow and Arrows → [Half-Bow]()
 	* if you have 2+ Pearls, and you don't plan on doing Half-Bow:
 		* [Pearl up to the highest Obsidian Tower](https://youtu.be/-Ta_1R1aXvA?t=116) in the direction you chose, [build up until you reach y = 122](https://youtu.be/-Ta_1R1aXvA?t=128)
-	* if you don't 2+ Pearls, and you also don't plan on doing Half-Bow:
+	* if you don't have 2+ Pearls, and you also don't plan on doing Half-Bow:
 		* [Run as far away from the Fountain as possible](https://youtu.be/-Ta_1R1aXvA?t=519), while still being able to see if the Dragon is Perching
 * Turn on Entity Hitboxes *(F3 + B)* to help with One-Cycling the Dragon
 	* *hitboxes will also make it more obvious when the Dragon's head "snaps" to the center before Perching*
