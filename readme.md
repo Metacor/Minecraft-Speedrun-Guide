@@ -148,7 +148,7 @@
 	* Hit the Golem from max distance, from behind if possible → Run a few Blocks away → Build up 3 Blocks
 	* Crit the Golem 8-9 times to Kill it: Jump → Fall → Attack, while Falling (with Stone Hatchet)
 * Place the Crafting Table → Craft an Iron Pickaxe and a Boat
-	* if Bucket of Code Trade: Place this Crafting Table near Villagers, additionally: Craft a [Composter](https://i.imgur.com/qK3yzOP.png) and a [Barrel](https://i.imgur.com/arI5xh9.png)
+	* if Bucket of Cod Trade: Place this Crafting Table near Villagers, additionally: Craft a [Composter](https://i.imgur.com/qK3yzOP.png) and a [Barrel](https://i.imgur.com/arI5xh9.png)
 	* if 4 Iron Ingots: Craft a Flint and Steel, (after getting Flint from Digging up Gravel)
 		* if you only get 3 Iron Ingots: [Flintless Portal](https://youtu.be/axHdNQtPOf8?t=66), or Search for a Shipwreck/Ruined Portal
 	* if 5 Iron Ingots: Save for a Shield, in case you get a Fortress before a Bastion in the Nether
