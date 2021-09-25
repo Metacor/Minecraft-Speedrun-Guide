@@ -315,7 +315,7 @@
 * Once you arrive in The End, get to the Fountain as soon as possible
 	* *if you spawn above ground, Ender Pearl directly to the Fountain*
 	* *if you spawn underground, Mine up in the top left corner*
-* Setup your preferred Bed Platform [Obsidian]() | [Full Block]() | [Slab]()
+* Setup your preferred Bed Platform: [Obsidian]() | [Full Block]() | [Slab]()
 	* *run away in your preferred Perch direction (N/S or E/W)*
 		* *note: your Bed Platform position will need to change, based on your chosen Perch Direction*
 * if you have 2+ Pearls, and you don't plan on doing [Half-Bow]():
