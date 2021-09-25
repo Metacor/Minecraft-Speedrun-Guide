@@ -596,6 +596,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tM → Half Split → Drag tR, mR → collect: 7
 		* *highly recommend to collect to your Axe Hotbar Keybind, instead of Shift + Clicking*
 			* *i have my hotkey set to 7, rebound to R, just collect to whatever yours is bound to*
+			* 
 **Doors + Boat + Bowls**: *used in pirate strats*
 [Screenshot 1](https://i.imgur.com/Brr2zq1.png) [Screenshot 2](https://i.imgur.com/La90qWK.png)| [Video](https://youtu.be/lEdAMNweD7E?t=60)
 * Craft Doors, a Boat, and Bowls → *Pickup the Crafting Table → Boat on the Ocean*
