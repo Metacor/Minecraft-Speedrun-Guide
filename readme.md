@@ -615,7 +615,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* *also identify which houses have Carpets in them, in case you need to do a Flintless Portal*
 
 **Shipwrecks**  
-* Identify the specific Shipwreck (full, front, front + map, back, etc)
+* Be able to identify each Shipwreck type from a distance *(full, front, front+map, back)*
 * Consistently be able to enter through the back side windows, and loot the chest
 * Follow the Map and quickly find the Buried Treasure
 
