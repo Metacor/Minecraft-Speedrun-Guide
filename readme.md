@@ -451,7 +451,7 @@
 * if there is a far away Ghast attacking you, quickly lower your Render Distance to 2
 	* [This will usually despawn the Ghast](https://youtu.be/tWVrxt0G6r0?t=696)
 	* You can turn your Render Distance back up after it disappears
-* if you find Nether Gold Ore while travelling to a Bastion, consider Mining it and making Gold Boots
+* if you find Nether Gold Ore while travelling to a Bastion, consider Mining it and making [Gold Boots](https://i.imgur.com/7k7LTAL.png)
 	* Boots only take 4 Gold Ingots (36 Gold Nuggets)
 	* Wearing any Gold Armor will make it so Piglins don't auto-aggro you
 * Bastions cannot spawn inside of a Basalt Delta Biome
