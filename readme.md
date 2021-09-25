@@ -548,13 +548,13 @@
 
 **Nether Portal Constructions**
 * Lava Lake Nether Portal
-	* [Standard]() - [1-Deep]()
-	* [Flintless]() - [1-Deep]()
-	* [Carpet Flintless]() - [1-Deep]()
+	* [Standard]() | [1-Deep]()
+	* [Flintless]() | [1-Deep]()
+	* [Carpet Flintless]() | [1-Deep]()
 * Ocean Ravine Nether Portal
-	* [Standard]() - [1-Deep]()
-	* [Cobblestone Skip]() - [1-Deep]()
-	* [2-Wide]() - [1-Deep]()
+	* [Standard]() | [1-Deep]()
+	* [Cobblestone Skip]() | [1-Deep]()
+	* [2-Wide]() | [1-Deep]()
 
 
 **Bastions**  
