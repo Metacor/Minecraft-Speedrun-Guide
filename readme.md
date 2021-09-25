@@ -619,7 +619,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 **Stronghold**  
 * Blind Travel: Try to remember the general Coordinates for atleast the First Ring
 * Triangulation: Quickly and accurately turn 90°, and be able to consistently travel 17.5 Blocks
-* Stronghold Navigation: Complete Stronghold [trial runs](https://i.imgur.com/veqC1GW.png), starting from random positions
+* Stronghold Navigation: Complete [Stronghold Trial Runs](https://pastebin.com/raw/aMGheVgQ), starting from random positions
 
 **The End**
 * Force a N/S Perch, and be able to tell when the Dragon is Perching
