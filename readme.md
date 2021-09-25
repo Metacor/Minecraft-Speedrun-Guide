@@ -421,7 +421,7 @@
 			* Buried Treasure is always located @ 9/x/9 in the Chunk where the X is located 
 * Ocean Monuments
 	* Guardian Lazer Hits taken to Kill you, without Healing (Damage/20): Easy = 5 (4) | Normal = 4 (6) | Hard = 3 (9)
-		* with Healing, Easy will almost always take 6 hits, and Normal will sometimes take 5 
+		* *with Healing, Easy will almost always take 6 hits, and Normal will sometimes take 5*
 * [Desert Temples](https://youtu.be/gS6LxaNibWM?t=76)
 	* To quickly collect all of the Chests, aswell as any surrounding Blocks
 		* Collect all of the TnT → Place 1 TnT under you → 
@@ -435,10 +435,10 @@
 	* Stone Pickaxe: Stone takes **0.6 Seconds** | Cobblestone takes **0.75 Seconds**
 * Lava Lakes
 	* if you're unable to find a Lava Lake on the surface, try digging near small surface Water Lakes
-		* Lava Lakes tend to spawn underneath Water Lakes
+		* *Lava Lakes tend to spawn underneath Water Lakes*
 * [Ocean Ravines](https://youtu.be/yGyMWYhHYoQ?t=471)
 	* While searching for Ocean Ravines, look out for Kelp - it tends to spawn above Ravines
-	* if you see floating Kelp in a Deep Ocean, there is likely a Ravine below it
+	* *if you see floating Kelp in a Deep Ocean, there is likely a Ravine below it*
 * [Glitchy Buckets](https://youtu.be/EjwStTX4U3A)
 	* if you're having trouble with Glitchy Buckets while making Nether Portals, watch the video posted above
 * Buckets of Water don't actually work in the Nether, so when you finish your Nether Portal, fill the Bucket with Lava
@@ -447,13 +447,13 @@
 * Falling while in a Boat will negate all Fall Damage: [Video](https://youtu.be/REas9cmjlic?t=686)
 * Killing Burning Hoglins is an easy way to get food in the Nether [Lava Bucket](https://youtu.be/iaUF0oaegns?t=3861) | [Flint and Steel](https://youtu.be/REas9cmjlic?t=694)
 * if you need more Blocks while in the Nether, Mine some Netherrack
-	* Netherrack isn't flammable, and it's fast to Mine (0.1s with an Iron Pickaxe)
+	* Netherrack isn't flammable, and it's very fast to Mine (0.1s with an Iron Pickaxe)
 * if there is a far away Ghast attacking you, quickly lower your Render Distance to 2
 	* [This will usually despawn the Ghast](https://youtu.be/tWVrxt0G6r0?t=696)
-	* You can turn your Render Distance back up after it disappears
+	* *You can turn your Render Distance back up after it disappears*
 * if you find Nether Gold Ore while travelling to a Bastion, consider Mining it and making [Gold Boots](https://i.imgur.com/7k7LTAL.png)
-	* Boots only take 4 Gold Ingots (36 Gold Nuggets)
-	* Wearing any Gold Armor will make it so Piglins don't auto-aggro you
+	* *Boots only take 4 Gold Ingots (36 Gold Nuggets)*
+	* *Wearing any Gold Armor will make it so Piglins don't auto-aggro you*
 * Bastions cannot spawn inside of a Basalt Delta Biome
 * All Bastion types (besides Treasure), can spawn a Triple Chest top section - to easily tell them apart:
 	* if there are 2 Blocks between the Double/Single Chest, then it's Stables
@@ -476,8 +476,8 @@
 * The Portal Room is usually within 5-7 Rooms of the Starter Staircase
 * In the Stronghold, Spiral Staircases always lead up, towards the Starter Staircase
 * Libraries lead nowhere, if you enter a Library from the Starter Staircase, turn around
-	* if you need more Beds, you can Gather string from Library Cobwebs 
-		* make sure to use either a Sword or Shears, (decreasing the Gather Time from 20s → 0.4s)
+	* *if you need more Beds, you can Gather string from Library Cobwebs*
+		* *use either a Sword or Shears, (decreasing the Gather Time from 20s → 0.4s)*
 
 ### The End
 * You always Spawn to the East, facing the Main Island
@@ -486,8 +486,8 @@
 * The Dragon will Perch from the opposite side of you, in relation to the Fountain
 	* *Diagonal Perches are a lot harder to One Cycle, so it's recommended to run away N/S/E/W*
 	* *N/S Perch is faster than E/W, however it gives the player less time to react to the Perch*
-* The Dragon's Fireball doesn't actually do damage, the AoE ground effect it leaves behind does
-	* an easy way to avoid the damage is to get hit on purpose, then Jump → place a Block below you
+* The Dragon's Fireball doesn't actually do damage, the AoE ground effect left behind is what damages you
+	* *an easy way to avoid the damage is to get hit on purpose, then Jump → place a Block below you*
 		
 <br/>
 
