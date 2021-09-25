@@ -572,23 +572,35 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 *the Item(num) positions will assume that you have completed the previous methods as listed*  
 
 **Crafting Table + Sticks**: *used in practically every run*  
-[Screenshot](https://i.imgur.com/pzABDu2.png) | Videos: **[Half Split (8c)]()** | [Kuee (8c)]() | [Split 2 (10c)]() | [Double Split, Throw (9)]() | [Double Split, Bad (10)]()  
+[Screenshot](https://i.imgur.com/pzABDu2.png) | Videos: **[Half Split (8c)](https://youtu.be/lEdAMNweD7E?t=2)** | [Kuee (8c)](https://youtu.be/lEdAMNweD7E?t=8) | [Split 2 (10c)](https://youtu.be/lEdAMNweD7E?t=13) | [Double Split, Move (10)](https://youtu.be/lEdAMNweD7E?t=20) | [Double Split, Throw (9)](https://youtu.be/lEdAMNweD7E?t=28)  
 *while Kuee's Method also only takes 8 Clicks, I personally feel that it doesn't flow as nicely as the Half Split Method*  
 * Gather 3 Logs, turn them into 12 Planks, then Craft a Crafting Table and 8 Sticks
 	* Logs(1) → collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → collect: sClick x2  
 
 **Wooden Pickaxe**: *used in non-pirate strats | unless: 3+ Iron from Blacksmith, or Golden Pickaxe from Ruined Portal*  
-[Screenshot](https://i.imgur.com/k3vCKuq.png) | [Video]()
+[Screenshot](https://i.imgur.com/k3vCKuq.png) | [Video](https://youtu.be/lEdAMNweD7E?t=37)
 * Place the Crafting Table, Craft a Wooden Pickaxe → *Mine 6 Cobblestone*
 	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tL → Half Split → Drag tM, tR → collect: 8
 		* *highly recommend to collect to your Pickaxe Hotbar Keybind, instead of shift + clicking*
 			* *i have my hotkey set to 8, rebound to f, just collect to whatever yours is bound to*
 
 **Stone Tools**: *used in non-pirate strats | if Hoe Skip: Mine 4 Cobblestone instead - the same movements can be used*  
-[Screenshot](https://i.imgur.com/TCqDxat.png) | [Video]()
+[Screenshot](https://i.imgur.com/TCqDxat.png) | [Video](https://youtu.be/lEdAMNweD7E?t=45)
 * Craft a Stone Axe, a Stone Hoe, and a Stone Shovel → *Pickup the Crafting Table → Chop 8+ Logs*
 	* Sticks(2), bM → Half Split → lClick mM → Stone(3), tM → Half Split → rClick mL → lClick tL → collect: 7 → 4 → 5
 		* *once again, i'd recommend collecting directly to your axe/hoe/shovel slots*
+
+**Wooden Axe**: *used in pirate strats
+[Screenshot](https://i.imgur.com/pZaExqe.png) | [Video](https://youtu.be/lEdAMNweD7E?t=53)
+*
+	*
+		* **
+
+**Doors + Boat + Bowls**: *used in pirate strats*
+[Screenshot 1](https://i.imgur.com/Brr2zq1.png) [Screenshot 2](https://i.imgur.com/La90qWK.png)| [Video](https://youtu.be/lEdAMNweD7E?t=60)
+*
+	*
+		* **
 
 ### Tasks  
 *learn to efficiently complete these tasks*  
