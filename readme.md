@@ -565,6 +565,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 *this is by far the most common Craft you'll execute when speedrunning, so be sure to pick the one that feels best to you*  
 * Gather 3 Logs, turn them into 12 Planks, then Craft a Crafting Table and 8 Sticks
 	* Logs(1) → collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → collect: sClick x2  
+	
+<br/>
 
 ### **Standard Crafts** - *used in structureless and village overworlds*
 **Wooden Pickaxe**: *can skip, if 3+ Iron from Blacksmith, or Golden Pickaxe from Ruined Portal*  
@@ -579,6 +581,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Craft a Stone Axe, a Stone Hoe, and a Stone Shovel → *Pickup the Crafting Table → Chop 8+ Logs*
 	* Sticks(2), bM → Half Split → lClick mM → Stone(3), tM → Half Split → rClick mL → lClick tL → collect: 7 → 4 → 5
 		* *once again, i'd recommend collecting directly to your axe/hoe/shovel slots*
+	
+<br/>
 
 ### **Pirate Crafts** - *used in pirate overworlds*
 **Wooden Axe**:  
