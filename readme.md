@@ -103,7 +103,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 **Hotbar Swap**: *1, 2, 3, 4, 5, 6, 7, 8, 9*
 * Swaps the Hotbar Slot's Item, with the Item Slot under your Mouse's Cursor
-* *this can be used to Quickly Move Items into the Crafting Window, with minimal Mouse Movement*
+* *this can be used to quickly Move Items into the Crafting Window, with minimal Mouse Movement*
 
 **Collect All**: Shift + Click *(in the Crafting Output Slot)*
 * Creates the maxiumum amount of an Item with the supplies currently in the Crafting Window
@@ -610,7 +610,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 **Shipwrecks**  
 * Identify each Shipwreck type from a distance *(full, front, front+map, back)*
 * Practice entering through the back side windows → loot the Chest → get out
-* Quickly follow the Map and find the Buried Treasure
+* Follow the Map and find the Buried Treasure
 
 **Ocean Monuments**  
 * Memorize optimal Door placements when checking for the Gold Blocks
@@ -631,14 +631,14 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Microlensing: Locate a Bastion from your Nether Portal
 
 **Fortress**  
-* Inside Navigation: Quickly naviate to the Outside section of the Fortress, and locate a Blaze Spawner
+* Inside Navigation: Naviate to the Outside section of the Fortress, and locate a Blaze Spawner
 * Blazebed: Learn to execute the correct technique for both enclosed and open spawners
 * Consistently complete the Fortress without a Fire Resistance Potion *(can use a shield)*
 * Pie-Ray: Locate the Fortress direction using the F3 Pie Chart *(also useful for finding Villages)*
 
 **Stronghold**  
 * Blind Travel: Try to remember the general Coordinates for atleast the First Ring
-* Triangulation: Quickly and accurately turn 90°, and be able to consistently travel 17.5 Blocks
+* Triangulation: Accurately turn 90°, and be able to consistently travel 17.5 Blocks
 * Stronghold Navigation: Complete [Stronghold Trial Runs](https://pastebin.com/raw/aMGheVgQ), starting from random positions
 
 **The End**
