@@ -302,7 +302,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 		* *this will usually result in the Elder Guardians not spawning, allowing you to avoid Mining Fatigue*
 	* if you get Mining Fatigue
 		* *Drink a Milk Bucket (use an Empty Bucket on a cow, mooshroom, or goat)*
-		* *Set your Spawn at a Bed, and Suicide, (see Suicide Methods in [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#advanced--pirate-overworld)*
+		* *Set your Spawn at a Bed, and Suicide, (see Suicide Methods in [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#advanced--pirate-overworld))*
 			* *optionally: if you're close to the World Spawn, Suicide without setting your Spawn*
 	* loot the 8 Gold Blocks from the Monument, following one of the guides linked above → Leave the Monument
 	* Once you're a reasonable distance away from the Monument, set your Render Distance back to normal
