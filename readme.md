@@ -646,7 +646,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 <br/>
 
 # Speedrun Cheatsheet:
-## [Blind Travel](https://imgur.com/gallery/i3fIanf)
+### [Blind Travel](https://imgur.com/gallery/i3fIanf)
 **First Ring**
 
 
@@ -662,7 +662,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 0 , 1010 | 200 , 900 | 300 , 965 | 400 , 930 | 500 , 880 | 600 , 815 | 715 , 715
 
-## [Triangulation](https://i.imgur.com/6rvw5Bb.png)
+### [Triangulation](https://i.imgur.com/6rvw5Bb.png)
 **1° = 1000 Blocks (Math = 1000 / x)**
 
 | x | x.0 | x.1 | x.2 | x.3 | x.4 | x.5 | x.6 | x.7 | x.8 | x.9 |
