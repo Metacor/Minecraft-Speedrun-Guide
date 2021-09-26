@@ -24,8 +24,7 @@
 * [Setup](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#setup)
 	* [Mods](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#mods)
 	* [Practice Maps](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#practice-maps)
-* [Keybinds & Shortcuts](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#keybinds--shortcuts)
-	* [F3](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#f3-keybinds)
+	* [F3 Keybinds](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#f3-keybinds)
 	* [Inventory Management](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#inventory-management)
 * [Bastions](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#bastions)
 * [Speedrun Guide](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#speedrun-guide)
@@ -92,7 +91,6 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 <br/>
 
-# Keybinds & Shortcuts
 ## F3 Keybinds
 **F3**: Standard F3 Menu
 
