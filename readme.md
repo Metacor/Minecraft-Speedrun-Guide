@@ -33,7 +33,7 @@
 		* [Village](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#standard--village-overworld)
 		* [Pirate](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#advanced--pirate-overworld)
 			* [Pirate → Ocean Monument](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#advanced--pirate--ocean-monument)
-		* [Hypermodern](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#expert--hypermodern)
+		* [Hypermodern](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#expert--hypermodern-overworld)
 	* [The Nether](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#the-nether)
 	* [The Overworld, Part 2](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#the-overworld-part-2)
 	* [The End](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#the-end)
