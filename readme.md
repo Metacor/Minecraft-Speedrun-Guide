@@ -315,7 +315,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* *trap 2 Piglins in a Boat, or in a 2 Block deep hole → Throw them your Gold Ingots → Proceed into the Fortress*
 		* *don't forget to return to the Piglins to collect your loot - if you didn't get enough → Find a Bastion*
 
-## **Expert** | [Hypermodern](https://youtu.be/gAHMJfsrHe4)
+## **Expert** | [Hypermodern](https://youtu.be/gAHMJfsrHe4) Overworld
 *Combination of the most optimal strats, Resets are frequent, so having a very high Reset Efficiency is recommended*
 * [Pirate](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate-overworld) → [Ravine Nether Entry](https://youtu.be/H2fHDidyfJo?t=63) → [Microlensing](https://youtu.be/jvTfMLPnMSw) → [Bastion](https://github.com/Metacor/Minecraft_Speedrun_Guide#bastions) → [Pie-Ray](https://youtu.be/Aq9qfHNEOHM) → Fortress, [Blazebed](https://www.youtube.com/watch?v=3TD4jkuT8QA) → [Blind](https://i.imgur.com/96KhbT2.png) / [Divine](https://youtu.be/SXem01c44-I) Travel
 	* if 20+ Obsidian: [Axis Calculated Travel](https://youtu.be/0LDj48fsRT8)
