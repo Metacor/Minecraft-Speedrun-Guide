@@ -200,6 +200,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* if no Triple, w/ Good Gap: [Good Gap Stables]()
 	* if no Triple, w/ Double Bad Gap: [Better Lucky Next Time](https://i.imgur.com/YxRxdhI.png)
 
+<br/>
+
 # Speedrun Guide
 **Video Guides:** [Haroon Shah, Jun 2021](https://youtu.be/iaUF0oaegns) | [Couriway, Dec 2020](https://youtu.be/REas9cmjlic) | [LiquidCandy, Dec 2020](https://youtu.be/14XeowuYgV0) | [Cuffep, Oct 2020](https://youtu.be/GQodZBfdL3g)
 
