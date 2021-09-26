@@ -88,26 +88,22 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Emma's End: [Video](https://youtu.be/fV5B7xJmiZU) | [Download](https://sites.google.com/view/emma-practice-map/home)
 
 ## F3 Keybinds
-**F3**: Standard F3 Menu
-
-**F3 + F4**: Game Mode Selection | Open to LAN → Allow Cheats: ON → Start LAN World → F3 + F4 *(after a Failed Run)*
-
-**F3 + Q**: Shows most of the F3 Commands in-game   
+**F3**: Standard F3 Menu  
+**F3 + F4**: Game Mode Selection | Open to LAN → Allow Cheats: ON → Start LAN World → F3 + F4 *(after a Failed Run)*  
+**F3 + Q**: Shows most of the F3 Commands in-game  
 **F3 + G**: Chunk Borders  
-**F3 + B**: Entity Hitboxes    
+**F3 + B**: Entity Hitboxes  
 
-**Useful for [Pie-ray](https://www.youtube.com/watch?v=Aq9qfHNEOHM) scouting:**
+**Useful for [Pie-ray](https://www.youtube.com/watch?v=Aq9qfHNEOHM) scouting:**  
 * **Shift + F3**: Pie Chart F3 Menu | Tick → Level → Entites → Block Entites
 * **F3 + F**: Increases Render Distance by 1
 * **F3 + Shift + F**: Decreases Render Distance by 1
 
-	
 ## Inventory Management
 *Storage Interfaces: Chests, Crafting Tables etc*  
 
 **I would highly recommend changing your Hotbar Keybinds to something more comfortable** [Example](https://i.imgur.com/IRnM4qO.png)  
 * pressing 6-9 for Hotbar Hotkeys can be quite inconsistent, and remember: [don't scroll, kids](https://youtu.be/0mK4yq7AlvE?t=12)
-
 
 **Hotbar Swap**: *1, 2, 3, 4, 5, 6, 7, 8, 9*
 * Swaps the Hotbar Slot's Item, with the Item Slot under your Mouse's Cursor
@@ -183,8 +179,6 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* *your current Selected Item Stack will not be Transferred*
 	* *to easily send ALL of an item type, have an unrelated Item Selected*
 
-<br/>
-
 ## Bastions
 [pncakespoon's Bastion Spreadsheet](https://docs.google.com/spreadsheets/d/1qLgp5uhMOKuerNZaec1dpoECpJI0-6YhztMqa_wZ8W0/edit#gid=1811348189) | [Bastion Resources](https://docs.google.com/document/d/1yuruZF575xvwOCB5t6ftfRY9OEtLDRQsWFJRD6YetU0/edit) | [Zolstice's Beginner Screenshot Guide](https://www.reddit.com/r/MinecraftSpeedrun/collection/a6121708-188c-43b9-8267-de61620456f1/)  
 * **Bastion Type:** Identification, **Videos** *by T_Wagz* | **Screenshots** *by ElaMeTrataDiferente*
@@ -205,9 +199,6 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* if Triple: [Triple Chest Stables]()
 	* if no Triple, w/ Good Gap: [Good Gap Stables]()
 	* if no Triple, w/ Double Bad Gap: [Better Lucky Next Time](https://i.imgur.com/YxRxdhI.png)
-
-
-<br/>
 
 # Speedrun Guide
 **Video Guides:** [Haroon Shah, Jun 2021](https://youtu.be/iaUF0oaegns) | [Couriway, Dec 2020](https://youtu.be/REas9cmjlic) | [LiquidCandy, Dec 2020](https://youtu.be/14XeowuYgV0) | [Cuffep, Oct 2020](https://youtu.be/GQodZBfdL3g)
