@@ -566,7 +566,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Gather 3 Logs, turn them into 12 Planks, then Craft a Crafting Table and 8 Sticks
 	* Logs(1) → collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → collect: sClick x2  
 
-### Standard Crafts
+### **Standard Crafts** - *crafts used in structureless and village overworlds*
 **Wooden Pickaxe**: *can skip, if 3+ Iron from Blacksmith, or Golden Pickaxe from Ruined Portal*  
 [Screenshot](https://i.imgur.com/k3vCKuq.png) | [Video](https://youtu.be/lEdAMNweD7E?t=37)
 * Place the Crafting Table, Craft a Wooden Pickaxe → *Mine 6 Cobblestone*
@@ -580,7 +580,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* Sticks(2), bM → Half Split → lClick mM → Stone(3), tM → Half Split → rClick mL → lClick tL → collect: 7 → 4 → 5
 		* *once again, i'd recommend collecting directly to your axe/hoe/shovel slots*
 
-### Pirate Crafts
+### **Pirate Crafts** - *crafts used in pirate overworlds*
 **Wooden Axe**:  
 [Screenshot](https://i.imgur.com/pZaExqe.png) | [Video](https://youtu.be/lEdAMNweD7E?t=53)
 * Place the Crafting Table, Craft a Wooden Axe → *Chop 4+ Logs*
