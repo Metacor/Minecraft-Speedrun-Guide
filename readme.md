@@ -73,13 +73,11 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Lithium: [Website](https://github.com/mrmangohands/lithium-fabric) | [Download](https://github.com/mrmangohands/lithium-fabric/releases/download/mc1.16.1-0.6.6/lithium-1.16.1-backport-fabric-0.6.6.jar)
 	* Optimizes Game Areas  
 
-
 **Starlight is incompatible with Phosphor, only use Phosphor if Starlight doesn't work for you**
 * Starlight: [Website](https://github.com/PaperMC/Starlight) | [Download](https://github.com/PaperMC/Starlight/releases/download/1.0.0-RC2/starlight-fabric-1.0.0-RC2-1.16.x.jar)
 	* Completely rewrites the Lighting Engine, greatly reducing World Creation times
 * Phosphor: [Website](https://github.com/mrmangohands/phosphor-fabric) | [Download](https://github.com/mrmangohands/phosphor-fabric/releases/download/mc1.16.1-0.7.2/phosphor-1.16.1-backport-fabric-0.7.2.jar)
 	* Optimizes the Lighting Engine, causing general improvements and faster World Generation  
-
 
 ## Practice Maps
 [Website](https://www.minecraftspeedrunning.com/public-resources/maps)  
@@ -89,25 +87,21 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Semper's Blaze: [Video](https://youtu.be/CNqrnlgCRXk) | [Download](https://www.mediafire.com/file/2c6vo3qt9hv3qp5/Blaze_Practice.zip/file)
 * Emma's End: [Video](https://youtu.be/fV5B7xJmiZU) | [Download](https://sites.google.com/view/emma-practice-map/home)
 
-<br/>
-
 ## F3 Keybinds
 **F3**: Standard F3 Menu
 
 **F3 + F4**: Game Mode Selection | Open to LAN → Allow Cheats: ON → Start LAN World → F3 + F4 *(after a Failed Run)*
 
-**F3 + Q**: Shows most of the F3 Commands in-game 
-
-**F3 + G**: Chunk Borders
-
-**F3 + B**: Entity Hitboxes  
+**F3 + Q**: Shows most of the F3 Commands in-game   
+**F3 + G**: Chunk Borders  
+**F3 + B**: Entity Hitboxes    
 
 **Useful for [Pie-ray](https://www.youtube.com/watch?v=Aq9qfHNEOHM) scouting:**
 * **Shift + F3**: Pie Chart F3 Menu | Tick → Level → Entites → Block Entites
 * **F3 + F**: Increases Render Distance by 1
 * **F3 + Shift + F**: Decreases Render Distance by 1
 
-		
+	
 ## Inventory Management
 *Storage Interfaces: Chests, Crafting Tables etc*  
 
