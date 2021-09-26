@@ -512,7 +512,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 		* *piglins can't run across corners, so make sure there is a direct path over the Lava*
 * Mobs spawn more often in Soul Sand Valleys, so if a Fortress is located in one, 5RD is pretty risky
 * While trying to Pie-Ray, if you accidentally press the wrong button, press '0' to go back a page  
-* Blazes will Target a Player in its Line of Sight, if the Player is within 48 Blocks of the Blaze
+* Blazes will Target a Player if they have Line of Sight, and are within 48 Blocks
 	* *once acquiring a Target, the Blaze will set itself... **ablaze**, for 3 seconds*
 	* *at the end of this 3 second period, the Blaze will begin to shoot a Volley of 3 Fireballs*
 		* *if the Blaze loses Line of Sight with its Target, the Volley will be paused*
