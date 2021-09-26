@@ -23,9 +23,9 @@
 ## Table of Contents
 * [Setup](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#setup)
 	* [Mods](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#mods)
-	* [Practice Maps](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#practice-maps)
-	* [F3 Keybinds](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#f3-keybinds)
-	* [Inventory Management](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#inventory-management)
+* [Practice Maps](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#practice-maps)
+* [F3 Keybinds](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#f3-keybinds)
+* [Inventory Management](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#inventory-management)
 * [Bastions](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#bastions)
 * [Speedrun Guide](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#speedrun-guide)
 	* [The Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#beginner--structureless-overworld)
