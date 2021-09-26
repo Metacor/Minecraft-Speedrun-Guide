@@ -511,7 +511,14 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 		* *build 3 Blocks wide, to make sure Piglins follow*
 		* *piglins can't run across corners, so make sure there is a direct path over the Lava*
 * Mobs spawn more often in Soul Sand Valleys, so if a Fortress is located in one, 5RD is pretty risky
-* While trying to Pie-Ray, if you accidentally press the wrong button, press '0' to go back a page
+* While trying to Pie-Ray, if you accidentally press the wrong button, press '0' to go back a page  
+
+**Blazes Attacks**
+* Targets a Player in its Line of Sight, within 48 Blocks
+	* *after targeting, the Blaze will set itself on Fire for 3 Seconds*
+	* *at the end of this 3 second period, the Blaze will attack with a volley of 3 fireballs over 0.9 seconds*
+		* *if LoS is broken, the Blaze will pause its volley, and resume once LoS is regained*
+	* *after shooting the final shot in its volley, the Fire will burn out, and be on cooldown for 5 seconds*
 	
 ### The Overworld, Part 2
 * When travelling across Water, it is faster to use a Dolphin's Boost, than it would be to use a Boat
