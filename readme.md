@@ -516,7 +516,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* *once acquiring a Target, the Blaze will set itself... **ablaze**, for 3 seconds*
 	* *at the end of this 3 second period, the Blaze will begin to shoot a Volley of 3 Fireballs*
 		* *if the Blaze loses Line of Sight with its Target, the Volley will be paused*
-		* *upon regaining Line of Sight, the Volley will be resumed, firing any remaining Fireballs*
+		* *upon regaining Line of Sight, the Volley will be resumed, shooting any remaining Fireballs*
 	* *after the final Fireball is shot, the Blaze will be unable to Target for 5 seconds*
 	
 ### The Overworld, Part 2
