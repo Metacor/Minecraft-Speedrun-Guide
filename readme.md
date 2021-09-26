@@ -90,6 +90,108 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Semper's Blaze: [Video](https://youtu.be/CNqrnlgCRXk) | [Download](https://www.mediafire.com/file/2c6vo3qt9hv3qp5/Blaze_Practice.zip/file)
 * Emma's End: [Video](https://youtu.be/fV5B7xJmiZU) | [Download](https://sites.google.com/view/emma-practice-map/home)
 
+<br/>
+
+# Keybinds & Shortcuts
+## F3 Keybinds
+**F3**: Standard F3 Menu
+
+**F3 + F4**: Game Mode Selection | Open to LAN → Allow Cheats: ON → Start LAN World → F3 + F4 *(after a Failed Run)*
+
+**F3 + Q**: Shows most of the F3 Commands in-game 
+
+**F3 + G**: Chunk Borders
+
+**F3 + B**: Entity Hitboxes  
+
+**Useful for [Pie-ray](https://www.youtube.com/watch?v=Aq9qfHNEOHM) scouting:**
+* **Shift + F3**: Pie Chart F3 Menu | Tick → Level → Entites → Block Entites
+* **F3 + F**: Increases Render Distance by 1
+* **F3 + Shift + F**: Decreases Render Distance by 1
+
+		
+## Inventory Management
+*Storage Interfaces: Chests, Crafting Tables etc*  
+
+**I would highly recommend changing your Hotbar Keybinds to something more comfortable** [Example](https://i.imgur.com/IRnM4qO.png)  
+* pressing 6-9 for Hotbar Hotkeys can be quite inconsistent, and remember: [don't scroll, kids](https://youtu.be/0mK4yq7AlvE?t=12)
+
+
+**Hotbar Swap**: *1, 2, 3, 4, 5, 6, 7, 8, 9*
+* Swaps the Hotbar Slot's Item, with the Item Slot under your Mouse's Cursor
+* *this can be used to Quickly Move Items into the Crafting Window, with minimal Mouse Movement*
+
+**Collect All**: Shift + Click *(in the Crafting Output Slot)*
+* Creates the maxiumum amount of an Item with the supplies currently in the Crafting Window
+	* *will only Craft the Item currently shown in the Output Slot, even if the [Supplies can create multiple Items](https://i.imgur.com/TCqDxat.png)*
+		* *the Crafting Window above can Craft 1x Stone axe, 1x Stone Hoe, and 1x Stone Shovel*
+			* *however, Shift + Clicking will only create the Stone Axe (doing so again will then create the hoe)*
+* Sends all of the Crafted items onto your Hotbar
+	* *sends items to the highest available Hotbar Slot (9 > 8 > 7, etc)*
+	* *if your Hotbar is full, the Items will be sent to your Inventory instead*
+
+**Pick Block**: *Middle Mouse Button*
+* Swaps your currently Selected Hotbar Slot with the Item that your Crosshair is pointed at
+	* *this is assuming that you have any of that Item Type in your Inventory already*	
+	* *if the Item is in another Hotbar Slot, you will simply switch Hotbar Selections*
+	* *if the Item is in your Inventory, then it will be swapped to the lowest available Empty Slot*
+		* *if you're currently Selecting an Empty Slot, the Item will be Moved to that Slot instead*
+			* *even if your currently Selected Slot isn't the lowest available*
+	* *if no Empty Slots are available, then your currently Selected Item will be Swapped into your Inventory*
+* *using Pick Block to select Beds while One Cycling the Dragon is very useful*
+
+**Drop Item**: *Q*
+* Drops an Item
+* *which Item you will drop depends on if your Inventory is Currently Opened or Closed
+	* *Inventory Opened: Drops Currently Hovered Item*
+	* *Inventory Closed: Drop Currently Selected Item*
+* *holding the Control key while pressing Q will drop the entire Stack of Items in that Item Slot*
+
+**Transfer Item**: *Shift + Click (left **or** right, both work)*
+* Sends the Item that your Cursor is currently Hovering over To/From your Hotbar/Inventory
+* *if a Storage Interface is currently Open, then the Item will Transfer between that and your Inventory instead*
+
+**Equip Item**: *Right Click **or** Shift + Click (transfer item)*
+* Puts an Equipable Item onto your Character's corresponding Equipment Slot
+* *the Keybind depends on if your Inventory is currently Opened or Closed*
+	* *Inventory Opened: Shift + Click (transfer item)*
+	* *Inventory Closed: Right Click (selected item)*
+* *both of these methods require the Equipment Slot to be currently Empty*
+	* *if the Equipment Slot is currently occupied, either:*
+		* *unequip the currently Equiped Item first*
+		* *manually Drag your new Item onto the relevant Equipment Slot*
+
+**Half Split**: *Right Click*
+* Selects half a Stack of an Item, leaving the other half in the Slot that you Selected it from
+* *requires your Inventory to be Opened*
+* *requires you to currently not have anything Selected*
+
+**Drag Split, 1**: *Select an Item → Hold Right Click → Drag*
+* Splits off 1 Item into each Slot that you Drag a Stack of Items over
+* *press Left Click to undo the current Split Selection, (before releasing Right Click)*
+
+**Drag Split, x**: *Select an Item → Hold Left Click → Drag*
+* Equally Splits a Stack of Items between all Slots that you drag a Stack of Items over
+	* *stack of 30: 2 Slots x 15 Items | 3 Slots x 10 Items | 4 Slots x 7 Items (+2), etc*
+* *press Right Click to undo the current Split Selection, (before releasing Left Click)*
+
+**Select All of an Item Type**: *Double Left Click | Triple Left Click*
+* Combines All Stacks of an Item Type into 1 Stack *(Max Stack Limits still apply)*
+* *the Keybind depends on if you currently have an Item Selected or not*
+	* *if nothing is Selected, Double Click the Item*
+	* *if the SAME Item Type is Selected, Triple Left Click the Item*
+	* *if an unrelated Item is Selected, you CANNOT Select All*
+		* *trying to do so would just Select the Items back and forth*
+
+**Transfer All of an Item Type**: *Shift + Double Left Click*
+* Sends All Items of the same Type between Storage Interfaces and your Inventory
+	* *the Chest Interface will prioritize your Hotbar, before putting items into your Inventory*
+	* *the Inventory and Crafting Interfaces will prioritize putting items into your Inventory first*
+* *requires an Item to be currently Selected, otherwise you will just instantly send over a single Stack*
+	* *your current Selected Item Stack will not be Transferred*
+	* *to easily send ALL of an item type, have an unrelated Item Selected*
+
+<br/>
 
 ## Bastions
 [pncakespoon's Bastion Spreadsheet](https://docs.google.com/spreadsheets/d/1qLgp5uhMOKuerNZaec1dpoECpJI0-6YhztMqa_wZ8W0/edit#gid=1811348189) | [Bastion Resources](https://docs.google.com/document/d/1yuruZF575xvwOCB5t6ftfRY9OEtLDRQsWFJRD6YetU0/edit) | [Zolstice's Beginner Screenshot Guide](https://www.reddit.com/r/MinecraftSpeedrun/collection/a6121708-188c-43b9-8267-de61620456f1/)  
@@ -366,107 +468,6 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* *hitboxes will also make it more obvious when the Dragon's head "snaps" to the center before Perching*
 * When the Dragon begins to Perch, either Ender Pearl or run to the Fountain → One-Cycle the Dragon with Beds
 * Once the Dragon is Defeated, stand inside of the Fountain - **Timing ends on the screen transition**
-	
-<br/>
-
-# Keybinds & Shortcuts
-## F3 Keybinds
-**F3**: Standard F3 Menu
-
-**F3 + F4**: Game Mode Selection | Open to LAN → Allow Cheats: ON → Start LAN World → F3 + F4 *(after a Failed Run)*
-
-**F3 + Q**: Shows most of the F3 Commands in-game 
-
-**F3 + G**: Chunk Borders
-
-**F3 + B**: Entity Hitboxes  
-
-**Useful for [Pie-ray](https://www.youtube.com/watch?v=Aq9qfHNEOHM) scouting:**
-* **Shift + F3**: Pie Chart F3 Menu | Tick → Level → Entites → Block Entites
-* **F3 + F**: Increases Render Distance by 1
-* **F3 + Shift + F**: Decreases Render Distance by 1
-
-		
-## Inventory Management
-*Storage Interfaces: Chests, Crafting Tables etc*  
-
-**I would highly recommend changing your Hotbar Keybinds to something more comfortable** [Example](https://i.imgur.com/IRnM4qO.png)  
-* pressing 6-9 for Hotbar Hotkeys can be quite inconsistent, and remember: [don't scroll, kids](https://youtu.be/0mK4yq7AlvE?t=12)
-
-
-**Hotbar Swap**: *1, 2, 3, 4, 5, 6, 7, 8, 9*
-* Swaps the Hotbar Slot's Item, with the Item Slot under your Mouse's Cursor
-* *this can be used to Quickly Move Items into the Crafting Window, with minimal Mouse Movement*
-
-**Collect All**: Shift + Click *(in the Crafting Output Slot)*
-* Creates the maxiumum amount of an Item with the supplies currently in the Crafting Window
-	* *will only Craft the Item currently shown in the Output Slot, even if the [Supplies can create multiple Items](https://i.imgur.com/TCqDxat.png)*
-		* *the Crafting Window above can Craft 1x Stone axe, 1x Stone Hoe, and 1x Stone Shovel*
-			* *however, Shift + Clicking will only create the Stone Axe (doing so again will then create the hoe)*
-* Sends all of the Crafted items onto your Hotbar
-	* *sends items to the highest available Hotbar Slot (9 > 8 > 7, etc)*
-	* *if your Hotbar is full, the Items will be sent to your Inventory instead*
-
-**Pick Block**: *Middle Mouse Button*
-* Swaps your currently Selected Hotbar Slot with the Item that your Crosshair is pointed at
-	* *this is assuming that you have any of that Item Type in your Inventory already*	
-	* *if the Item is in another Hotbar Slot, you will simply switch Hotbar Selections*
-	* *if the Item is in your Inventory, then it will be swapped to the lowest available Empty Slot*
-		* *if you're currently Selecting an Empty Slot, the Item will be Moved to that Slot instead*
-			* *even if your currently Selected Slot isn't the lowest available*
-	* *if no Empty Slots are available, then your currently Selected Item will be Swapped into your Inventory*
-* *using Pick Block to select Beds while One Cycling the Dragon is very useful*
-
-**Drop Item**: *Q*
-* Drops an Item
-* *which Item you will drop depends on if your Inventory is Currently Opened or Closed
-	* *Inventory Opened: Drops Currently Hovered Item*
-	* *Inventory Closed: Drop Currently Selected Item*
-* *holding the Control key while pressing Q will drop the entire Stack of Items in that Item Slot*
-
-**Transfer Item**: *Shift + Click (left **or** right, both work)*
-* Sends the Item that your Cursor is currently Hovering over To/From your Hotbar/Inventory
-* *if a Storage Interface is currently Open, then the Item will Transfer between that and your Inventory instead*
-
-**Equip Item**: *Right Click **or** Shift + Click (transfer item)*
-* Puts an Equipable Item onto your Character's corresponding Equipment Slot
-* *the Keybind depends on if your Inventory is currently Opened or Closed*
-	* *Inventory Opened: Shift + Click (transfer item)*
-	* *Inventory Closed: Right Click (selected item)*
-* *both of these methods require the Equipment Slot to be currently Empty*
-	* *if the Equipment Slot is currently occupied, either:*
-		* *unequip the currently Equiped Item first*
-		* *manually Drag your new Item onto the relevant Equipment Slot*
-
-**Half Split**: *Right Click*
-* Selects half a Stack of an Item, leaving the other half in the Slot that you Selected it from
-* *requires your Inventory to be Opened*
-* *requires you to currently not have anything Selected*
-
-**Drag Split, 1**: *Select an Item → Hold Right Click → Drag*
-* Splits off 1 Item into each Slot that you Drag a Stack of Items over
-* *press Left Click to undo the current Split Selection, (before releasing Right Click)*
-
-**Drag Split, x**: *Select an Item → Hold Left Click → Drag*
-* Equally Splits a Stack of Items between all Slots that you drag a Stack of Items over
-	* *stack of 30: 2 Slots x 15 Items | 3 Slots x 10 Items | 4 Slots x 7 Items (+2), etc*
-* *press Right Click to undo the current Split Selection, (before releasing Left Click)*
-
-**Select All of an Item Type**: *Double Left Click | Triple Left Click*
-* Combines All Stacks of an Item Type into 1 Stack *(Max Stack Limits still apply)*
-* *the Keybind depends on if you currently have an Item Selected or not*
-	* *if nothing is Selected, Double Click the Item*
-	* *if the SAME Item Type is Selected, Triple Left Click the Item*
-	* *if an unrelated Item is Selected, you CANNOT Select All*
-		* *trying to do so would just Select the Items back and forth*
-
-**Transfer All of an Item Type**: *Shift + Double Left Click*
-* Sends All Items of the same Type between Storage Interfaces and your Inventory
-	* *the Chest Interface will prioritize your Hotbar, before putting items into your Inventory*
-	* *the Inventory and Crafting Interfaces will prioritize putting items into your Inventory first*
-* *requires an Item to be currently Selected, otherwise you will just instantly send over a single Stack*
-	* *your current Selected Item Stack will not be Transferred*
-	* *to easily send ALL of an item type, have an unrelated Item Selected*
 		
 <br/>
 
