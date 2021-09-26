@@ -517,7 +517,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* *at the end of this 3 second period, the Blaze will begin to shoot a Volley of 3 Fireballs*
 		* *if the Blaze loses Line of Sight with its Target, the Volley will be paused*
 		* *upon regaining Line of Sight, the Volley will be resumed, firing any remaining Fireballs*
-	* *after the final Fireball is shot, the Blaze will not be able to Target for 5 seconds*
+	* *after the final Fireball is shot, the Blaze will be unable to Target for 5 seconds*
 	
 ### The Overworld, Part 2
 * When travelling across Water, it is faster to use a Dolphin's Boost, than it would be to use a Boat
