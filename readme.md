@@ -558,6 +558,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 *the given intructions/screenshots will only be for the most optimal version, even if multiple videos are provided*  
 *the Item(num) positions will assume that you have completed the previous methods as listed*  
+	
+<br/>
 
 **Crafting Table + Sticks**: *used in practically every run*  
 [Screenshot](https://i.imgur.com/pzABDu2.png) | [Videos](https://youtu.be/lEdAMNweD7E): **[Half Split (8c)](https://youtu.be/lEdAMNweD7E?t=2)** - [Kuee (8c)](https://youtu.be/lEdAMNweD7E?t=8) - [Split 2 (10c)](https://youtu.be/lEdAMNweD7E?t=13) - [Double Split, Move (10c)](https://youtu.be/lEdAMNweD7E?t=20) - [Double Split, Throw (9c)](https://youtu.be/lEdAMNweD7E?t=28)  
