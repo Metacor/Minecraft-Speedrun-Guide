@@ -99,8 +99,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 <br/>
 
 * Bridge: [Video](https://youtu.be/2pzMpX1RJGI?t=128) | [Screenshots](https://imgur.com/a/OHwW0tb)
-	* if Triple, (right side): [Dowsky](https://youtu.be/UoG57tsvgto)
-	* if Single, (right side): [Dip by EleventyBillion]()
+	* if Triple, (right shoulder): [Dowsky](https://youtu.be/UoG57tsvgto)
+	* if Single, (right shoulder): [Dip by EleventyBillion]()
 * Treasure: [Video](https://youtu.be/A9GGUWwNcrY?t=132) | [Screenshots](https://imgur.com/gallery/U4FnQC5)
 	* [Ninjabrain]()
 * Housing: [Video](https://youtu.be/BoNr-pbEITM?t=132) | [Screenshots](https://imgur.com/gallery/wyjWcli)
