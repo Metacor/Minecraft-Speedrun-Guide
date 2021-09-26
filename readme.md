@@ -205,7 +205,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 # Speedrun Guide
 **Video Guides:** [Haroon Shah, Jun 2021](https://youtu.be/iaUF0oaegns) | [Couriway, Dec 2020](https://youtu.be/REas9cmjlic) | [LiquidCandy, Dec 2020](https://youtu.be/14XeowuYgV0) | [Cuffep, Oct 2020](https://youtu.be/GQodZBfdL3g)
 
-## **Beginner** | [Structureless Overworld](https://youtu.be/7dOca1LHefk)
+## **Beginner** | [Structureless](https://youtu.be/7dOca1LHefk) Overworld
 *Lower speed potential, but more consistent, resulting in far fewer resets - great for new runners*
 * Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
 * Find a nearby Cave → Decend into the Cave until you find Iron Ore
