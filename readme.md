@@ -565,7 +565,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 <br/>
 
 ### **Standard Crafts** - *used in structureless and village overworlds*
-**Wooden Pickaxe**: *can skip, if 3+ Iron from Blacksmith, or Golden Pickaxe from Ruined Portal*  
+**Wooden Pickaxe**:  
 [Screenshot](https://i.imgur.com/k3vCKuq.png) | [Video](https://youtu.be/lEdAMNweD7E?t=37)
 * Place the Crafting Table, Craft a Wooden Pickaxe → *Mine 6 Cobblestone*
 	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tL → Half Split → Drag tM, tR → collect: 8
