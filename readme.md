@@ -39,8 +39,6 @@
 	* [The End](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#the-end)
 * [Tips & Tricks](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#tips--tricks)
 * [Practice](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#practice)
-	* [Crafting](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#crafting)
-	* [Tasks](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#tasks)
 * [Speedrun Cheatsheet](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#speedrun-cheatsheet)
 
 ## Setup 
