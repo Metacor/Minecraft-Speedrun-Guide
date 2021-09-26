@@ -173,7 +173,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* *your current Selected Item Stack will not be Transferred*
 	* *to easily send ALL of an item type, have an unrelated Item Selected*
 
-## Bastions
+# Bastions
 [pncakespoon's Bastion Spreadsheet](https://docs.google.com/spreadsheets/d/1qLgp5uhMOKuerNZaec1dpoECpJI0-6YhztMqa_wZ8W0/edit#gid=1811348189) | [Bastion Resources](https://docs.google.com/document/d/1yuruZF575xvwOCB5t6ftfRY9OEtLDRQsWFJRD6YetU0/edit) | [Zolstice's Beginner Screenshot Guide](https://www.reddit.com/r/MinecraftSpeedrun/collection/a6121708-188c-43b9-8267-de61620456f1/)  
 * **Bastion Type:** Identification, **Videos** *by T_Wagz* | **Screenshots** *by ElaMeTrataDiferente*
 	* Recommend Routes
@@ -646,7 +646,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 <br/>
 
 # Speedrun Cheatsheet:
-### [Blind Travel](https://imgur.com/gallery/i3fIanf)
+## [Blind Travel](https://imgur.com/gallery/i3fIanf)
 **First Ring**
 
 
@@ -662,7 +662,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 0 , 1010 | 200 , 900 | 300 , 965 | 400 , 930 | 500 , 880 | 600 , 815 | 715 , 715
 
-### [Triangulation](https://i.imgur.com/6rvw5Bb.png)
+## [Triangulation](https://i.imgur.com/6rvw5Bb.png)
 **1° = 1000 Blocks (Math = 1000 / x)**
 
 | x | x.0 | x.1 | x.2 | x.3 | x.4 | x.5 | x.6 | x.7 | x.8 | x.9 |
