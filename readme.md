@@ -320,7 +320,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* *if you can see a Shipwreck from your spawn location, skip checking for Mapless Treasure*
 * [Microlensing](https://youtu.be/jvTfMLPnMSw) → [Bastion](https://github.com/Metacor/Minecraft_Speedrun_Guide#bastions) → [Pie-Ray](https://youtu.be/Aq9qfHNEOHM) → Fortress, [Blazebed](https://www.youtube.com/watch?v=3TD4jkuT8QA) → [Blind](https://i.imgur.com/96KhbT2.png) / [Divine](https://youtu.be/SXem01c44-I) Travel
 	* if 20+ Obsidian: [Axis Calculated Travel](https://youtu.be/0LDj48fsRT8)
-* [Triangulation](https://youtu.be/8c29j0We2VQ) → Stronghold Entry *(if Ocean exposed: Portal Room | else: Starter Staircase) → End Entry →
+* [Triangulation](https://youtu.be/8c29j0We2VQ) → Stronghold Entry *(if Ocean exposed: Portal Room | else: Starter Staircase)* → End Entry →
 	* [Half-Bow](https://youtu.be/whwjNbIni58) + North / South Ground + [One-Cycle Dragon](https://youtu.be/aGMLHXnD6Bc) (~[4 Bed](https://youtu.be/R-9PGkSJU7g))  
 
 
