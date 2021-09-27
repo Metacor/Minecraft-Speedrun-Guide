@@ -200,8 +200,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* if Top: [Top Down Manhunt](https://youtu.be/55sRL0xsWe8)
 		* Advanced: [Kuee Top Down](https://youtu.be/H2xy6q5Wp4Q)
 * Stables: [Video](https://youtu.be/TioQsF5ygOg?t=149) | [Screenshots](https://imgur.com/gallery/u91rHC4)
-	* if Triple: [Triple Chest Stables]()
-	* if no Triple, w/ Good Gap: [Good Gap Stables]()
+	* if Triple: [Triple Chest Stables](https://youtu.be/AJxgbRma25Q)
+	* if no Triple, w/ Good Gap: [Good Gap Stables](https://www.youtube.com/watch?v=ukyIkZMnw-w&t=357s)
 	* if no Triple, w/ Double Bad Gap: [Better Lucky Next Time](https://i.imgur.com/YxRxdhI.png)
 
 <br/>
