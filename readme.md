@@ -327,9 +327,9 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 *Optionally*   
 * Village Start: if there is a close Lava Lake | Ruined Portal | Blacksmith, with 10+ Obsidian
 	* if >= 7 Iron (Blacksmith + Golem): Iron Pickaxe + Bucket + Flint and Steel
-		* *optionally: if 4+ Iron from the Blacksmith, skip the Golem and Iron Pickaxe, like 4-6 Iron below*
-	* if 4-6 Iron: Skip Iron Pickaxe, get lucky with Bastion Chests
-	* if 3 Iron: Reset (or Flintless Portal, if you REALLY want to force the seed)
+		* *optionally, if 4+ Iron from the Blacksmith: skip the Golem → skip the Iron Pickaxe, like 4-6 Iron below*
+	* if 4-6 Iron: Skip the Iron Pickaxe, hopefully get lucky with Iron from Bastion Chests
+	* if 3 Iron: Reset *(or Flintless Portal, if you REALLY want to force the seed)*
 
 <br/>
 
