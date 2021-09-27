@@ -126,7 +126,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 **Drop Item**: *Q*
 * Drops an Item
-* *which Item you will drop depends on if your Inventory is currently Opened or Closed
+* *which Item you will drop depends on if your Inventory is currently Opened or Closed*
 	* *Inventory Opened: Drops currently Hovered Item*
 	* *Inventory Closed: Drop currently Selected Item*
 * *holding the Control key while pressing Q will drop the entire Stack of Items in that Item Slot*
