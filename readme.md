@@ -86,11 +86,11 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Emma's End: [Video](https://youtu.be/fV5B7xJmiZU) | [Download](https://sites.google.com/view/emma-practice-map/home)
 
 ## F3 Keybinds
-**F3**: Standard F3 Menu  
-**F3 + F4**: Game Mode Selection | Open to LAN → Allow Cheats: ON → Start LAN World → F3 + F4 *(after a Failed Run)*  
-**F3 + Q**: Shows most of the F3 Commands in-game  
-**F3 + G**: Chunk Borders  
-**F3 + B**: Entity Hitboxes  
+* **F3**: Standard F3 Menu  
+* **F3 + F4**: Game Mode Selection | Open to LAN → Allow Cheats: ON → Start LAN World → F3 + F4 *(after a Failed Run)*  
+* **F3 + Q**: Shows most of the F3 Commands in-game  
+* **F3 + G**: Chunk Borders  
+* **F3 + B**: Entity Hitboxes  
 
 **Useful for [Pie-ray](https://www.youtube.com/watch?v=Aq9qfHNEOHM) scouting:** *villages and fortresses*
 * **Shift + F3**: Pie Chart F3 Menu | Tick → Level → Entites → Block Entites
