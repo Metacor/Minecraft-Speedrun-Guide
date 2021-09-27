@@ -284,7 +284,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* In the Overworld: Kill Burning Animals to get Pre-Cooked Meat
 	* Optionally: Suicide to Reset Hitpoints / Hunger
 		* Nether: Craft a [Respawn Anchor](https://i.imgur.com/mo7y0XA.png) → use a Glowstone Block on it → Suicide
-		* Overworld: Place a Bed → Right-Click the Bed → Suicide
+		* Overworld: Craft and Place a Bed → Right-Click the Bed → Suicide
 	* Suicide Methods: *make sure to dig down 2 Blocks and kill yourself in a hole so your Items don't fly everywhere*
 		* [Fire](https://youtu.be/itqFlGfKvdk?t=460): Use either a Flint and Steel or Lava to set yourself on Fire
 			* *douse the Fire before you die, so you don't accidently destroy your Items*
