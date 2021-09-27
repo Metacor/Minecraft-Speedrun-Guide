@@ -637,14 +637,14 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Optimal Door placements when checking for the Gold Blocks
 * Avoid the Guardian's Lazer attack
 
-**Nether Portal Constructions** *[portals spreadsheet](https://docs.google.com/spreadsheets/d/1VU6IZpyhr-3tMXC5GG4ryuqrbmQkvCKE_1nJm2eym4c/edit#gid=0)*   
+**Nether Portal Constructions** *[spreadsheet](https://docs.google.com/spreadsheets/d/1VU6IZpyhr-3tMXC5GG4ryuqrbmQkvCKE_1nJm2eym4c/edit#gid=0)*  
+*also learn the 1-Wide Versions of each Portal*  
 * Lava Lake Nether Portal
-	* [Standard]() | [1-Deep]()
-	* [Flintless]() | [1-Deep]()
-		* [Carpet Flintless]() | [1-Deep]()
+	* [Standard]()
+	* [Flintless]()
+		* [Carpet Flintless]()
 * Ocean Ravine Nether Portal
-	* [Standard]() | [1-Deep]()
-		* [Cobblestone Skip]() | [1-Deep]() | [1-Deep, Double Cobblestone Skip](https://youtu.be/FJSZIBo-SWs)
+	* [Cobblestone Skip]()
 	* [2-Wide]() | [1-Deep]()
 
 **Bastions**  
