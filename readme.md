@@ -641,11 +641,10 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 *also learn the 1-Wide Versions of each Portal*  
 * Lava Lake Nether Portal
 	* [Standard]()
-	* [Flintless]()
-		* [Carpet Flintless]()
+	* [Flintless]() | [Carpet Flintless]()
 * Ocean Ravine Nether Portal
 	* [Cobblestone Skip]()
-	* [2-Wide]() | [1-Deep]()
+	* [2-Wide]()
 
 **Bastions**  
 * [Identification and Optimal Routing](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#bastions)
