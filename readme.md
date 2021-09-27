@@ -279,7 +279,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* You can also use Iron Nuggets 9:1 Iron Ingots → Shears →
 		* Shear Sheep in the Overworld or Collect Cobwebs in a Stronghold Library
 * You wont have much Food (if any):
-	* In the Nether: Craft [Mushroom Stews](https://i.imgur.com/FUo9nfP.png)
+	* In the Nether: Craft [Mushroom Stews](https://i.imgur.com/FUo9nfP.png) or Kill Burning Hoglins to get Pre-Cooked Meat
 	* In the Overworld: Kill Burning Animals to get Pre-Cooked Meat
 	* Optionally: Suicide to Reset Hitpoints / Hunger
 		* Nether: Craft a [Respawn Anchor](https://i.imgur.com/mo7y0XA.png) → use a Glowstone Block on it → Suicide
