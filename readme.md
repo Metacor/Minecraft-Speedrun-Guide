@@ -3,7 +3,6 @@
 
 ### To Do:
 * Complete **The Nether** and **The Overworld, Part 2** Sections
-* Add Image/Video resources for Identifying aspects of Bastions, in Tips & Tricks, examples: [1](https://i.imgur.com/k0VMRTd.jpeg), [2](https://youtu.be/BoNr-pbEITM?t=853), [3](https://youtu.be/AczOTF5QpZ4?t=164) etc
 * Add Crafting Screenshots for each mention of Crafting an Item *(similarly to: [Barrel](https://i.imgur.com/arI5xh9.png))*
 	* *change all current Screenshots to be cropped the same as above, (show item name / materials / window)*
 	* *take screenshots @ 250% zoom level, post imgur links as direct link (i.imgur)*
