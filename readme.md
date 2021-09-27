@@ -269,6 +269,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* Craft an Iron Pickaxe, a Bucket, a Shovel 
 		* if 8+ Iron: Iron Shovel, otherwise Wood/Stone Shovel
 		* if 11+ iron: Craft an Iron Axe
+			* *if you don't get an Iron Axe, try to Gather 3 Cobblestone while teleporting to the Nether [Video](https://youtu.be/So076O4FrU0)*
 		* if any remaining Iron Ingots, Craft Iron Armor (can also save 1 for a Shield, if Fortress before Bastion)
 	* Dig up Gravel until you find some Flint → Craft a Flint and Steel → Pickup the Crafting Table (and Door)
 * Resurface → Place the Boat → Search for an Ocean Ravine
