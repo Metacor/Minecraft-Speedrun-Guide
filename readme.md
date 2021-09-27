@@ -628,7 +628,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Follow the Map and find the Buried Treasure
 
 **Ocean Monuments**  
-* Memorize optimal Door placements when checking for the Gold Blocks
+* Optimal Door placements when checking for the Gold Blocks
 * Avoid the Guardian's Lazer attack
 
 **Nether Portal Constructions**  
