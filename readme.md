@@ -396,6 +396,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	Blind Travel: Optimal Nether Coordinates, y = 64+
 		First Ring; https://i.imgur.com/96KhbT2.png
 		1st/2nd/3rd; https://imgur.com/gallery/i3fIanf
+		
+		fast blind portals: https://youtu.be/ZE5VEYWC_9s
 	Educated/Calculated Travel: Requires 20+ Obsidian, https://www.youtube.com/watch?v=0N8Wj8hOVKM
 		Educated = Throw 1 Eye, then Blind at ~normal Coordinates in the correct direction
 		Calculated = Throw 2 Eyes, Triangulate the Stronghold's distance for a better Blind
