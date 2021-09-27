@@ -187,9 +187,10 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 <br/>
 
 * Bridge: [Video](https://youtu.be/2pzMpX1RJGI?t=128) | [Screenshots](https://imgur.com/a/OHwW0tb)
-	* [Dip by EleventyBillion]()
+	* [Dip, *EleventyBillion*]()
 	* Reignex [Open](https://youtu.be/n5HDxqNFe4s?t=358) | [Buried](https://www.twitch.tv/videos/1056189431)
-	* if Triple, (right shoulder): [Dowsky](https://youtu.be/UoG57tsvgto)
+	* if Left Should Spawn: [Manhunt, *EleventyBillion*](https://youtu.be/n5HDxqNFe4s?t=593)
+	* if Triple, *(right shoulder)*: [Dowsky](https://youtu.be/UoG57tsvgto)
 * Treasure: [Video](https://youtu.be/A9GGUWwNcrY?t=132) | [Screenshots](https://imgur.com/gallery/U4FnQC5)
 	* [Ninjabrain]()
 * Housing: [Video](https://youtu.be/BoNr-pbEITM?t=132) | [Screenshots](https://imgur.com/gallery/wyjWcli)
