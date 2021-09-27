@@ -660,7 +660,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	
 <br/>
 
-# Speedrun Cheatsheet:
+# Speedrun Cheatsheet: 
+*pebetedesame's [Cheatsheet](https://cdn.discordapp.com/attachments/405839885509984256/891800745760948224/finished3mdpi.jpg)*  
 ### [Blind Travel](https://imgur.com/gallery/i3fIanf)
 **First Ring**
 
