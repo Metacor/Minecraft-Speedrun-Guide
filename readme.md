@@ -272,10 +272,11 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 		* if any remaining Iron Ingots, Craft Iron Armor (can also save 1 for a Shield, if Fortress before Bastion)
 	* Dig up Gravel until you find some Flint → Craft a Flint and Steel → Pickup the Crafting Table (and Door)
 * Resurface → Place the Boat → Search for an Ocean Ravine
-* Create a Ravine Nether Portal:
-	* [Standard](https://youtu.be/yGyMWYhHYoQ) | [1-Deep]()
-	* [Cobblestone Skip](https://youtu.be/H2fHDidyfJo?t=63) | [1-Deep]()
-	* [2-Wide](https://youtu.be/K233ih6nSCU?t=94) | [1-Deep]()
+* Create a Ravine Nether Portal: [Spreadsheet](https://docs.google.com/spreadsheets/d/1VU6IZpyhr-3tMXC5GG4ryuqrbmQkvCKE_1nJm2eym4c/edit#gid=1186267001)
+	* [Standard]() | [1-Deep]() 
+		* *Cobblestone Skip is faster, and not really any harder, so optionally: skip learning Standard*
+	* [Cobblestone Skip]() - [Safe]() | [1-Deep]()
+	* [2-Wide, Doors]() | [1-Deep]()
 
 <br/>
 
