@@ -362,6 +362,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 					Iron (nuggets/ingots) Craft Iron Axe (if Flintless Portal, Craft Flint and Steel first)
 					String; Beds (not really optional), Fishing Rod (grab roaming Blazes), Bow (see below)
 					(Cross)Bow + Arrows; Half-Bow Dragon Fight, https://youtu.be/whwjNbIni58
+					Fire Charge; if Flintless Portal Entry, can substitute for a Flint and Steel
 
 	Fortress: https://youtu.be/iaUF0oaegns?t=3624
 		Fortress Navigation: Blaze Spawners only generate in the Outside portion of the Fortress
