@@ -638,7 +638,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Avoid the Guardian's Lazer attack
 
 **Nether Portal Constructions** *[spreadsheet](https://docs.google.com/spreadsheets/d/1VU6IZpyhr-3tMXC5GG4ryuqrbmQkvCKE_1nJm2eym4c/edit#gid=0)*  
-*also learn the 1-Wide Versions of each Portal*  
+*also learn the 1-Deep Versions of each Portal*  
 * Lava Lake Nether Portal
 	* [Standard]()
 	* [Flintless]() | [Carpet Flintless]()
