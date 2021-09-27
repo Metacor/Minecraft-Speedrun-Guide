@@ -631,7 +631,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Optimal Door placements when checking for the Gold Blocks
 * Avoid the Guardian's Lazer attack
 
-**Nether Portal Constructions** *[portals spreadsheet](https://docs.google.com/spreadsheets/d/1VU6IZpyhr-3tMXC5GG4ryuqrbmQkvCKE_1nJm2eym4c/edit#gid=0)  
+**Nether Portal Constructions** *[portals spreadsheet](https://docs.google.com/spreadsheets/d/1VU6IZpyhr-3tMXC5GG4ryuqrbmQkvCKE_1nJm2eym4c/edit#gid=0)*   
 * Lava Lake Nether Portal
 	* [Standard]() | [1-Deep]()
 	* [Flintless]() | [1-Deep]()
