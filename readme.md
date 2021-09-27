@@ -616,7 +616,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Craft Doors, a Boat, and Bowls → *Pickup the Crafting Table → Boat on the Ocean*
 	* Logs(3) → collect: sClick → Planks(1), bM → Half Split → Drag mM, tM, tR, mR, bR, bM → 
 	* rClick bR → lClick mR → collect: 3 → Half Split, bM → rClick bL → lClick mL → collect: 4 → sClick
-		* there are a few ways to do the Door Drag → Corner Drag, they're all basically the same
+		* there are a few ways to do the Door Drag → Corner Drag, [they're all basically the same](https://i.imgur.com/ngH7DoB.png)
 		* and as always, change the Hotkey Keybinds to fit your specific setup
 
 ## Tasks  
