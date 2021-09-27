@@ -280,7 +280,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 <br/>
 
-* You wont have any Beds, so make sure you get enough String from Piglin Trades: 7 Beds = 84 String (+21 Planks)
+* You wont have any Beds, so make sure you get enough String from Piglin Trades: 6 Beds = 72 String (+18 Planks)
 	* You can also use Iron Nuggets 9:1 Iron Ingots → Shears →
 		* Shear Sheep in the Overworld or Collect Cobwebs in a Stronghold Library
 * You wont have much Food (if any):
@@ -663,7 +663,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 **The End**
 * Force a N/S Perch, and be able to tell when the Dragon is Perching
-* One Cycle with <= 7 Beds - with both Obsidian, and either Full or Slab Block Setups *(no obby backup)*
+* One Cycle with <= 6 Beds - with both Obsidian, and either Full or Slab Block Setups *(no obby backup)*
 	
 <br/>
 
