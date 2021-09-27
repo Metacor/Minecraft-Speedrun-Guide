@@ -186,11 +186,11 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 <br/>
 
-* Bridge: [Video](https://youtu.be/2pzMpX1RJGI?t=128) | [Screenshots](https://imgur.com/a/OHwW0tb)
-	* [Dip, *EleventyBillion*]()
-	* Reignex [Open](https://youtu.be/n5HDxqNFe4s?t=358) | [Buried](https://www.twitch.tv/videos/1056189431)
-	* if Top Entry: [Manhunt, *EleventyBillion*](https://youtu.be/n5HDxqNFe4s?t=593)
-	* if Triple, *(Right Shoulder)*: [Dowsky](https://youtu.be/UoG57tsvgto)
+* Bridge: [Video](https://youtu.be/2pzMpX1RJGI?t=128) | [Screenshots](https://imgur.com/a/OHwW0tb) | [Strat Flowchart](https://i.imgur.com/S7Uqb6C.png)
+	* if Double Single [Ela's Hole](https://youtu.be/3SHj_nm8mC0)
+	* if Triple, *(Left Shoulder)*: [Reignex/Gus](https://youtu.be/aKxDbLTZ2f0) | [Buried](https://www.twitch.tv/videos/1056189431)
+	* if Triple, *(Right Shoulder)*: [Dowsky](https://youtu.be/RAgYDi23Dww)
+	* if Top Entry: [Lodestone Manhunt, *EleventyBillion](https://youtu.be/n5HDxqNFe4s?t=593)
 * Treasure: [Video](https://youtu.be/A9GGUWwNcrY?t=132) | [Screenshots](https://imgur.com/gallery/U4FnQC5)
 	* [Ninjabrain]()
 * Housing: [Video](https://youtu.be/BoNr-pbEITM?t=132) | [Screenshots](https://imgur.com/gallery/wyjWcli)
