@@ -189,7 +189,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* if Triple, *(Left Shoulder)*: [Reignex/Gus](https://youtu.be/aKxDbLTZ2f0) | [Buried](https://www.twitch.tv/videos/1056189431)
 	* if Double Single: [Ela's Hole](https://youtu.be/3SHj_nm8mC0)
 	* if Top Entry: [Lodestone Manhunt](https://youtu.be/n5HDxqNFe4s?t=593)
-* Treasure: [Video](https://youtu.be/A9GGUWwNcrY?t=132) | [Screenshots](https://imgur.com/gallery/U4FnQC5) | [Bottom Placements](https://i.imgur.com/k0VMRTd.jpeg)  
+* Treasure: [Video](https://youtu.be/A9GGUWwNcrY?t=132) | [Screenshots](https://imgur.com/gallery/U4FnQC5) | [Bottom Placements](https://i.imgur.com/bDQjaBL.jpeg)  
 *highly recommended to Craft a Gold Pickaxe with the [Gold Blocks on the bridge](https://youtu.be/Y0DCoD6yhIc?t=9)*
 	* [Ninjabrain](https://youtu.be/0YvGkSOJVmU)
 * Housing: [Video](https://youtu.be/BoNr-pbEITM?t=132) | [Screenshots](https://imgur.com/gallery/wyjWcli) | [Correct Direction](https://youtu.be/BoNr-pbEITM?t=853)
