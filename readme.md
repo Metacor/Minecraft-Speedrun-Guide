@@ -471,9 +471,10 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 ### The Overworld
 * [Shipwrecks](https://i.imgur.com/ws384ow.png)
 	* Front Side Chest: Food 
+		* *if the Shipwreck is right-side up, you can loot this chest [from above](https://youtu.be/EUiU5MZt_7g?t=72)*
 	* Back Side: *the back side is wider, and has a window on all 3 outer sides*
 		* Top Chest: Iron Ingots, Gold Ingots
-			* *if the Shipwreck is right side up, you can loot this chest [from above](https://youtu.be/dX83N4q4YWU?t=57)*
+			* *if the Shipwreck is right-side up, you can loot this chest [from above](https://youtu.be/dX83N4q4YWU?t=57)*
 		* Bot Chest: Buried Treasure Maps
 			* Buried Treasure is always located @ 9/x/9 in the Chunk where the X is located 
 * In Ocean Monuments, the Guardian's Lazer attack will kill you in: Hits Required (Damage Taken/20)
