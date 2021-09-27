@@ -542,6 +542,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Strongholds are extremely unlikely to spawn in Swamps ([supposedly](https://youtu.be/_rbWryJVEmw?t=1011))
 * The Portal Room is usually within [5 = 7](https://youtu.be/u42bjqtq5-s) Rooms of the Starter Staircase
 * In the Stronghold, Spiral Staircases always lead up, towards the Starter Staircase
+* [Hidden Rooms Identification](https://www.youtube.com/watch?v=vztJNmUdyBY)
 * Libraries lead nowhere, if you enter a Library from the Starter Staircase, turn around
 	* if you need more Beds, you can Gather string from Library Cobwebs
 		* *use either a Sword or Shears, (decreasing the Gather Time from 20s → 0.4s)*
