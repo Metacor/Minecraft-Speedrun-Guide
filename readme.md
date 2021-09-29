@@ -5,7 +5,7 @@
 * Complete **The Nether** and **The Overworld, Part 2** Sections
 * Add Crafting Screenshots for each mention of Crafting an Item *(similarly to: [Composter](https://i.imgur.com/TJY2LCv.webp))*
 	* *change all current Screenshots to be cropped the same as above, 2 gray lines (1 inside, on the second)*
-	* *take screenshots @ 250% zoom level, post imgur links as direct link (i.imgur)*
+	* *take screenshots @ 250% zoom level, post imgur links as direct link (i.imgur/x.webp)*
 * Add Links to all Video / Section / Item references, even if they have previously been linked to
 
 * On Completion:
