@@ -33,6 +33,7 @@
 			* [Pirate → Ocean Monument](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#advanced--pirate--ocean-monument)
 		* [Hypermodern](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#expert--hypermodern-overworld)
 	* [The Nether](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#the-nether)
+		* [Bastions](https://github.com/Metacor/Minecraft-Speedrun-Guide/blob/main/readme.md#bastions-1)
 	* [The Overworld, Part 2](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#the-overworld-part-2)
 	* [The End](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#the-end)
 * [Tips & Tricks](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#tips--tricks)
@@ -356,7 +357,32 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* *as opposed to the previous example, in the image linked above, E: **32**/122, you should be looking at 32 this time*
 	* *Highly dense spawning Biomes can sometimes give false positives for Bastions, using E > M + C, will usually help with this*
 
-### **Bastions**
+### **Bastions**  
+[pncakespoon's Bastion Spreadsheet](https://docs.google.com/spreadsheets/d/1qLgp5uhMOKuerNZaec1dpoECpJI0-6YhztMqa_wZ8W0/edit#gid=1811348189) | [Bastion Resources](https://docs.google.com/document/d/1yuruZF575xvwOCB5t6ftfRY9OEtLDRQsWFJRD6YetU0/edit) | [Zolstice's Beginner Screenshot Guide](https://www.reddit.com/r/MinecraftSpeedrun/collection/a6121708-188c-43b9-8267-de61620456f1/)  
+* **Bastion Type:** Identification, **Videos** *by T_Wagz* | **Screenshots** *by ElaMeTrataDiferente*
+	* Recommend Routes *(if there is no clarification, the Route should be Universal)*
+
+<br/>
+
+* Bridge: [Video](https://youtu.be/2pzMpX1RJGI?t=128) | [Screenshots](https://imgur.com/a/OHwW0tb) | [Strat Flowchart](https://i.imgur.com/S7Uqb6C.webp)  
+*if buried left/right Triple, Craft a Gold Pickaxe*  
+	* if Triple, *(Right Shoulder)*: [Dowsky](https://youtu.be/RAgYDi23Dww)
+	* if Triple, *(Left Shoulder)*: [Reignex/Gus](https://youtu.be/aKxDbLTZ2f0) | [Buried](https://www.twitch.tv/videos/1056189431)
+	* if Double Single: [Ela's Hole](https://youtu.be/3SHj_nm8mC0)
+	* if Top Entry: [Lodestone Manhunt](https://youtu.be/n5HDxqNFe4s?t=593)
+* Treasure: [Video](https://youtu.be/A9GGUWwNcrY?t=132) | [Screenshots](https://imgur.com/gallery/U4FnQC5) | [Bottom Placements](https://i.imgur.com/bDQjaBL.webp)  
+*highly recommended to Craft a Gold Pickaxe with the [Gold Blocks on the bridge](https://youtu.be/Y0DCoD6yhIc?t=9)*
+	* [Ninjabrain](https://youtu.be/0YvGkSOJVmU)
+* Housing: [Video](https://youtu.be/BoNr-pbEITM?t=132) | [Screenshots](https://imgur.com/gallery/wyjWcli) | [Correct Direction](https://youtu.be/BoNr-pbEITM?t=853)
+	* if Bot: [Manhunt]()
+	* if Top: [Top Down Manhunt](https://youtu.be/55sRL0xsWe8)
+		* Advanced: [Kuee Top Down](https://youtu.be/H2xy6q5Wp4Q)
+* Stables: [Video](https://youtu.be/TioQsF5ygOg?t=149) | [Screenshots](https://imgur.com/gallery/u91rHC4) | [Gap Identification](https://www.youtube.com/watch?v=AczOTF5QpZ4&t=164s)
+	* if Triple: [Triple Chest Stables](https://youtu.be/AJxgbRma25Q)
+	* if no Triple, w/ Good Gap: [Good Gap Stables](https://www.youtube.com/watch?v=ukyIkZMnw-w&t=357s)
+	* if no Triple, w/ Double Bad Gap: [Better Luck Next Time](https://i.imgur.com/YxRxdhI.webp)
+
+<br/>
 
 ### **Pie-Ray** *aka. Piedar*
 
