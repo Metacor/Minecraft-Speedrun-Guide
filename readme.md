@@ -377,6 +377,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* if Triple: [Triple Chest Stables](https://youtu.be/AJxgbRma25Q)
 	* if no Triple, w/ Good Gap: [Good Gap Stables](https://www.youtube.com/watch?v=ukyIkZMnw-w&t=357s)
 	* if no Triple, w/ Double Bad Gap: [Better Luck Next Time](https://i.imgur.com/YxRxdhI.webp)
+	* 
+<br/>
 
 * Identify the Bastion Type, and run the Route accordingly
 * Required Items
