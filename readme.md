@@ -386,7 +386,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 <br/>
 
 ## The Overworld, Part 2
-*Find the Location of a Stronghold → Enter it and Navigate to the Portal Room → Enter The End*
+*Find the Location of a Stronghold → Enter the Stronghold, and Navigate to the Portal Room → Enter The End*
 
 **Triangulation**
 * Axis Calculated for Triangulation
