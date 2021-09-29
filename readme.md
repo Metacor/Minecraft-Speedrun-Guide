@@ -618,14 +618,14 @@ Enter the End
 	* [2-Wide]()
 
 **Bastions**  
-* [Identification and Optimal Routing](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#bastions)
 * Microlensing: Locate a Bastion from your Nether Portal
+* [Identification and Optimal Routing](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#bastions)
 
 **Fortress**  
-* Inside Navigation: Naviate to the Outside section of the Fortress, and locate a Blaze Spawner
+* Pie-Ray: Locate the Fortress direction using the F3 Pie Chart *(also useful for finding Villages)*
+* Inside Navigation: Navigate to the Outside section of the Fortress, and locate a Blaze Spawner
 * Blazebed: Learn to execute the correct technique for both enclosed and open spawners
 * Consistently complete the Fortress without a Fire Resistance Potion *(can use a shield)*
-* Pie-Ray: Locate the Fortress direction using the F3 Pie Chart *(also useful for finding Villages)*
 
 **Stronghold**  
 * Blind Travel: Try to remember the general Coordinates for atleast the First Ring
