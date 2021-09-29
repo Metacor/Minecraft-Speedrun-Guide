@@ -471,11 +471,11 @@ Enter the End
 	* *Boots only take 4 Gold Ingots (36 Gold Nuggets)*
 	* *Wearing any Gold Armor will make it so Piglins don't auto-aggro you*
 * Bastions cannot spawn inside of a Basalt Delta Biome
-* Only 1 Structure *(Bastions and Fortresses)*, can spawn per 432, 432 MegaChunk, for example:
-	* *if a Bastion spawns at +x, +z, this will be the only Structure in that MegaChunk*
+* Only 1 Structure *(Bastions and Fortresses)*, can spawn per *(432, 432)* MegaChunk, for example:
+	* *if a Bastion spawns at (+x, +z), this will be the only Structure in that MegaChunk*
 	* *in order to find a new Structure, you will need to go to a new MegaChunk*
-	* *the remaining 3 inner Quadrants being: +x,-z | -x,-z | -x,+z || where x & z are < 432 (neg or pos)*
-		* *directions can also be called: pos, pos | pos, neg | neg, neg | neg, pos*
+	* *the remaining 3 inner Quadrants being: (+x,-z), (-x,-z), (-x,+z) | where x & z are < 432 (neg or pos)*
+		* *directions can also be called: (pos, pos), (pos, neg), (neg, neg), (neg, pos)*
 	* *Structures in MegaChunk beyond the inner 4 Quadrants are known as Extra-Regional Structures*
 * All Bastion types (besides Treasure), can spawn a Triple Chest top section - to easily tell them apart:
 	* if there are 2 Blocks between the Double/Single Chest, then it's Stables
