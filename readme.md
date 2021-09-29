@@ -267,7 +267,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* Suicide Methods: *make sure to dig down 2 Blocks and kill yourself in a hole so your Items don't fly everywhere*
 		* [Fire](https://youtu.be/itqFlGfKvdk?t=460): Use either a Flint and Steel or Lava to set yourself on Fire
 			* *douse the Fire before you die, so you don't accidently destroy your Items*
-		* Ender Pearl: Throw Ender Pearls into a nearby Block, dealing 2.5 Hearts of Damage on impact
+		* Ender Pearl: Throw Ender Pearls [at the ground](https://youtu.be/IH47hXfRFl0), dealing 2.5 Hearts of Damage on impact
 		* Fall Damage: 1/2 Heart per Block above 3 Blocks
 			* *4 Blocks = 1/2 Heart | 7 Blocks = 2 Hearts | 15 Blocks = 6 Hearts, etc*
 			* *While in the Stronghold, you can climb up the Starter Staircase to easily get some height*
