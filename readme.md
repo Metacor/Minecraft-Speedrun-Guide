@@ -5,7 +5,7 @@
 * Complete **The Nether** and **The Overworld, Part 2** Sections
 * Add Crafting Screenshots for each mention of Crafting an Item *(similarly to: [Composter](https://i.imgur.com/xRd6xYT.webp))*
 	* *change all current Screenshots to be cropped the same as above, name/mats/window (2 gray lines)*
-		* *use the [Crafting](https://minecraft.fandom.com/wiki/Crafting) wiki page
+		* *use the [Crafting](https://minecraft.fandom.com/wiki/Crafting) wiki page to get the correct windows*
 	* *take screenshots @ 250% zoom level, post imgur links as direct link (i.imgur.com/image.webp)*
 * Add Links to all Video / Section / Item references, even if they have previously been linked to
 
