@@ -179,10 +179,18 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 # Bastions
 [pncakespoon's Bastion Spreadsheet](https://docs.google.com/spreadsheets/d/1qLgp5uhMOKuerNZaec1dpoECpJI0-6YhztMqa_wZ8W0/edit#gid=1811348189) | [Bastion Resources](https://docs.google.com/document/d/1yuruZF575xvwOCB5t6ftfRY9OEtLDRQsWFJRD6YetU0/edit) | [Zolstice's Beginner Screenshot Guide](https://www.reddit.com/r/MinecraftSpeedrun/collection/a6121708-188c-43b9-8267-de61620456f1/)  
-* **Bastion Type:** Identification, **Videos** *by T_Wagz* | **Screenshots** *by ElaMeTrataDiferente*
-	* Recommend Routes *(if there is no clarification, the Route should be Universal)*
 
-<br/>
+* Identify the Bastion Type, and run the Route accordingly
+* Required Items:
+	* 10+ Obsidian, required to Blind Travel out of the Nether
+		* *ideally, 20+ for Educated/Calculated Travel*
+	* 12+ Ender Pearls, required to fill the 12 [End Portal Frames](https://minecraft.fandom.com/wiki/End_Portal_Frame) in the Stronghold
+		* *ideally, 16+, 2 for movement during the Ender Dragon fight, and ~2 incase your Eyes of Ender break while searching for the Stronghold*
+	* 
+		* **
+	* 
+		* **
+
 
 * Bridge: [Video](https://youtu.be/2pzMpX1RJGI?t=128) | [Screenshots](https://imgur.com/a/OHwW0tb) | [Strat Flowchart](https://i.imgur.com/S7Uqb6C.webp)  
 *if buried left/right Triple, Craft a Gold Pickaxe*  
