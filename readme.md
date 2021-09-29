@@ -345,15 +345,14 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 ### **Microlensing**, *a.k.a. E-Ray*  
 **Video Guides**: [k4yfour](https://youtu.be/jvTfMLPnMSw) - [k4yfour, Part 2](https://youtu.be/Ou58P7e-ZY0) | [Nuskapuska's Slide](https://i.imgur.com/98heFGq.webp)
-* When you enter The Nether, open your F3 Menu *(if not already opened)*, and look at the right [E: Value](https://i.imgur.com/w6WZlqf.webp)
+* When you enter The Nether, open your F3 Menu *(if not already opened)*, and look at the **Right** [E: Value](https://i.imgur.com/w6WZlqf.webp)
 	* *for example, in the image linked above, E: 32/**122**, you should be looking at 122*
 	* *ideally, open your F3 Menu before entering your Nether Portal in the Overworld*
 * if you notice the E: Value quickly raises, you likely just loaded a Bastion into your Render Distance
 	* *if the sum of the M: & C: Values is ~30 higher than the E: Value, there is likely a Bastion*
 		* *if [M + C = 113, while E = 122](https://i.imgur.com/w6WZlqf.webp), then there likely isn't a Bastion nearby*
 		* *example above: Starting at (-77, 59, 58), the closest Bastion is at [(-128, ~, -288)](https://i.imgur.com/EVScDGC.webp), ~350 Blocks away*
-* if there is likely a Bastion in your Render Distance, change your FoV to 30 and slowly turn 360°
-* Find the direction with the highest left E: Value, then travel in that direction until you find a Bastion
+* To find the Bastion direction, change your Fov to 30 then slowly turn 360°, and look at the **Left** E: Value
 	* *as opposed to the previous example, in the [image linked above](https://i.imgur.com/w6WZlqf.webp), E: **32**/122, you should be looking at 32 this time*
 	* *High density Biomes can sometimes give false positives for Bastions, use (E + 30 ≈ M + C), for a better idea*
 
