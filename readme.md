@@ -360,7 +360,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 ### **Bastions**  
 [pncakespoon's Route Spreadsheet](https://docs.google.com/spreadsheets/d/1qLgp5uhMOKuerNZaec1dpoECpJI0-6YhztMqa_wZ8W0/edit#gid=1811348189) | [Bastion Resources](https://docs.google.com/document/d/1yuruZF575xvwOCB5t6ftfRY9OEtLDRQsWFJRD6YetU0/edit) | [Zolstice's Beginner Screenshot Guide](https://www.reddit.com/r/MinecraftSpeedrun/collection/a6121708-188c-43b9-8267-de61620456f1/)  
 
-* Identify the Bastion Type, and run the Route accordingly
+**Identify the Bastion Type, and run the Route accordingly**  
 
 * Bridge: [Structure Video](https://youtu.be/2pzMpX1RJGI?t=128) | [Screenshots](https://imgur.com/a/OHwW0tb) | [Strat Flowchart](https://i.imgur.com/S7Uqb6C.webp)  
 *if buried left/right Triple, Craft a Gold Pickaxe*  
