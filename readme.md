@@ -3,7 +3,7 @@
 
 ### To Do:
 * Complete **The Nether** and **The Overworld, Part 2** Sections
-* Add Crafting Screenshots for each mention of Crafting an Item *(similarly to: [Barrel](https://i.imgur.com/arI5xh9.png))*
+* Add Crafting Screenshots for each mention of Crafting an Item *(similarly to: [Barrel](https://i.imgur.com/arI5xh9.webp))*
 	* *change all current Screenshots to be cropped the same as above, (show item name / materials / window)*
 	* *take screenshots @ 250% zoom level, post imgur links as direct link (i.imgur)*
 * Add Links to all Video / Section / Item references, even if they have previously been linked to
