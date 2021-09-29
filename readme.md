@@ -273,7 +273,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 			* *While in the Stronghold, you can climb up the Starter Staircase to easily get some height*
 
 ## **Advanced+** | Pirate → Ocean Monument
-**Ocean Monument Guides:* [T_Wagz](https://youtu.be/0dyHYkg_xIU) | [Silver](https://youtu.be/14FGC1eUHug) - [Silver, Part 2](https://youtu.be/-b7nQyXZkfw)**  
+**Ocean Monument Guides:** [T_Wagz](https://youtu.be/0dyHYkg_xIU) | [Silver](https://youtu.be/14FGC1eUHug) - [Silver, Part 2](https://youtu.be/-b7nQyXZkfw)   
 *Same start as [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#advanced--pirate-overworld), but you also Gather the guaranteed 8 Gold Blocks from an Ocean Monument*  
 *sometimes allowing you to completely skip the Bastion while in the Nether*  
 * Pirate Start → Shipwreck (Craft a Shield, since you wont have Fire Resistance for the Fortress) → Ocean Monument
