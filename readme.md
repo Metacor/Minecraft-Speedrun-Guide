@@ -342,13 +342,23 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 ## The Nether
 *Find a Bastion, Trade Gold to Piglins for Obsidian and Ender Pearls → Find a Fortress, Kill Blazes for Blaze Rods*
 
-**Microlensing** *aka. E-Ray*
-**Bastion**
+### **Microlensing** *aka. E-Ray* | Video Guides: 
+* When you enter The Nether, open your F3 Menu *(if not already opened)*, and look at the right [E: Value](https://i.imgur.com/aeyVNli.webp)
+	* *for example, 32/**122**, look at 122*
+	* *ideally, open your F3 Menu before entering your Nether Portal in the Overworld*
+* if you notice the E: Value quickly raises, you likely just loaded a Bastion into your Render Distance
+	* *additionally, you can add the M: & C: Values together, if they are ~30 higher than your E Value, that also indicates a Bastion*
+* if you Believe there to be a Bastion in your Render Distance, change your FoV to 30 and slowly turn 360°
+* Locate the direction with the highest E: Value, reset your FoV to normal, then travel in that direction until you find a Bastion
+	* *Highly dense spawning Biomes can sometimes give false positives for Bastions, using E > M + C, will usually help with this*
 
-**Pie-Ray** *aka. Piedar*
-**Fortress**
+### **Bastions**
 
-**Travel**
+### **Pie-Ray** *aka. Piedar*
+
+### **Fortress**
+
+### **Travel**
 * Blind
 * Divine
 * Educated
