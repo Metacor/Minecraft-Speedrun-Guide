@@ -342,106 +342,31 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 ## The Nether
 *Find a Bastion, Trade Gold to Piglins for Obsidian and Ender Pearls → Find a Fortress, Kill Blazes for Blaze Rods*
 
+**Microlensing** *aka. E-Ray*
+**Bastion**
 
-	Only 1 Structure can Spawn per 432, 432 MegaChunk Quadrants, for Example:
-		if Bastion @ +x,+z you will have to go to any of the remaining three quadrants; +x,-z | -x,-z | -x,+z
-			aka; pos, pos | pos, neg | neg, neg | neg, pos
-		in order to find a Fortress (or another Bastion), go to whatever direction is closer to x0/y0
-		you can also go out beyond +/- 432 x or z to go into a new MegaChunk, but this may take awhile
-			structures beyond are called extra regional
+**Pie-Ray** *aka. Piedar*
+**Fortress**
 
-	Bastion: if you can, do the Bastion first - Trading has a chance to give you Fire Resistance Potions
-		Identify the Bastion Type, and run the route accordingly
-		Mine Gold Blocks → Turn into Gold Ingots → Trap Piglins in a hole → Trade with Piglins;
-			While the Piglins Trade; Loot Chests | Pie-Ray for Fortress Location, if Bastion first
-			@10+ Obsidian, @16+ Ender Pearls; Leave for Fortress (if close to 20 Obsidian, you should wait)
-				Optional Items; Not necessary for the run, but can make it easier
-					Fire Resistance Potion; Makes you Immune to Lava / Blaze Fire damage (Not Melee)
-						if multiple Potions; use one now, to avoid accidental Lava damage
-					Iron (nuggets/ingots) Craft Iron Axe (if Flintless Portal, Craft Flint and Steel first)
-					String; Beds (not really optional), Fishing Rod (grab roaming Blazes), Bow (see below)
-					(Cross)Bow + Arrows; Half-Bow Dragon Fight, https://youtu.be/whwjNbIni58
-					Fire Charge; if Flintless Portal Entry, can substitute for a Flint and Steel
-
-	Fortress: https://youtu.be/iaUF0oaegns?t=3624
-		Fortress Navigation: Blaze Spawners only generate in the Outside portion of the Fortress
-			The Inside section will have a Netherbrick roof
-			The Outside section will either have no roof, or a Netherrack/Soul Sand roof
-			if looking down from above, the structure without a roof entrance leads to the open area
-				if you're inside the Fortress, this room has a 1x1 pool of Lava in the middle
-			[Inside Navigation](https://youtu.be/swSbv4AImzI)
-				if staircase with Netherwart at the bottom; go down the stairs
-				if staircase with no Netherwart; go up the stairs
-				if balcony room; go in the opposite direction of the balcony		
-
-		When entering a Fortress, change your Render Distance to 5 (RD5), increasing nearby enemy spawns rates
-			this wont change the spawn rate from Blaze Spawners, but will increase naturally spawning blazes
-		Locate a Blaze Spawner → Drink/Throw Fire Resistance Potion (if acquired) → Kill Blazes;
-			Loot atleast 7/8 Blaze Rods, you can Mine out around the Blaze Spawner to increase spawn rates
-				Learn how to efficiently Blazebed; (put out Fires ASAP, Blazes only spawn @ Light level <= 11)
-					Blazebed; https://www.youtube.com/watch?v=3TD4jkuT8QA
-						sidebed: https://youtu.be/1spSd0Ussy0
-						variations: https://www.youtube.com/watch?v=1spSd0Ussy0
-					BlazeTnT; https://www.youtube.com/watch?v=X3kHn0PaZW0 (suboptimal?)
-
-	Advanced Nether Scouting Methods; saves a significant amount of time, while not being all that hard to learn
-		Microlensing; Locating Bastions based on the E value in the F3 Menu
-			[Screenshot Explaination](https://i.imgur.com/98heFGq.jpeg)
-			https://www.youtube.com/watch?v=jvTfMLPnMSw
-			https://www.youtube.com/watch?v=Ou58P7e-ZY0
-		Pie-Ray; Locating Fortresses based on Blaze Spawner Entities in the Shift+F3 Pie Chart
-			keep in mind, Treasure Bastions also have a Spawner, sometimes causing a false positive
-			to quickly update the pie chart, find RD, -RD4, +RD3 (use keybinds; Shift + F3 + f, F3 + f)
-			https://youtu.be/Ou58P7e-ZY0?t=109 (same video as above)
-			https://www.youtube.com/watch?v=Aq9qfHNEOHM
-
-	Blind Travel: Optimal Nether Coordinates, y = 64+
-		First Ring; https://i.imgur.com/96KhbT2.webp
-		1st/2nd/3rd; https://imgur.com/gallery/i3fIanf
-		
-		fast blind portals: https://youtu.be/ZE5VEYWC_9s
-	Educated/Calculated Travel: Requires 20+ Obsidian, https://www.youtube.com/watch?v=0N8Wj8hOVKM
-		Educated = Throw 1 Eye, then Blind at ~normal Coordinates in the correct direction
-		Calculated = Throw 2 Eyes, Triangulate the Stronghold's distance for a better Blind
-			Axis Calculated Guide (very precise calculated travel); https://youtu.be/0LDj48fsRT8
+**Travel**
+* Blind
+* Divine
+* Educated
+	* Calculated
+		* Axis Calculated
 
 <br/>
 
 ## The Overworld, Part 2
 *Find the Location of a Stronghold → Enter it and Navigate to the Portal Room → Enter The End*
 
+**Triangulation**
+* Axis Calculated for Triangulation
 
-	Stronghold Navigation: Minimum 1400 Blocks away from 0,0 (~175 in the Nether, since Distance is 8:1)
-		This is calculated Triangularly not linearly, so a²+b²=c², not a+b=c | 150x,150z = 212, not 300
-			Generally if you're just adding x+z, 2000-2400 for The Overworld, 250-300 for the Nether
+**Stronghold Navigation**
+* 4/x/4 (3-5/x/3-5)
 
-	Triangulation: Throwing multiple Eyes and calculating their angle differences to find the Stronghold
-		Simple Methods; 
-			17.5 Block Method - Makes ° calc very simple (1000 / x° = distance)
-				https://i.imgur.com/6rvw5Bb.webp
-				https://i.imgur.com/uutGOSx.webp
-				https://www.youtube.com/watch?v=8c29j0We2VQ
-			20 Block Method - Easier to move 20 blocks instead of 17.5, but makes the math harder
-				https://i.imgur.com/vZAaWp8.webp
-				https://www.youtube.com/watch?v=LgRTgPTzoXU
-		Indepth Explainations;
-			https://www.youtube.com/watch?v=Zy7XEr-zl_A
-			https://www.youtube.com/watch?v=tkv2Jb-8Oqo
-		NinjaBrain Axis Calculated, (can be used for general Triangulation); https://youtu.be/0LDj48fsRT8
-		Change FoV to 30 when Recording the Angle for a more precise Triangulation;
-			Either go to 30 FoV at the start, and back to your normal FoV after Triangulation, or
-			Throw Eye → Look @ Eye → FoV: 30 → Record ° → FoV: Reset → Move → Repeat for Second Eye
-				It could also be useful to go into Third Person View when throwing the Eye (default F5)
-				to make sure you know which direction it flew, (still look at the Eye in First Person View)
-				if you don't want to use F5, you could also just look at the ground when you throw
-		Locate the Stronghold; when close, do another Triangulation near the Stronghold to find the exact Chunk
-
-	Enter the Stronghold
-		if Entering from above, Dig @ 4/x/4 (3,4,5/x/3,4,5 all work) in the Chunk to enter the Starter Staircase
-			to quickly locate it go ~4 blocks diagonally from the north west corner of the chunk
-		if not entering @ the Starter Staircase; Go through Backwards Doors until you find it
-		on entering the Portal Room, run up the stairs → place a block in the lava → stand on it →
-			Place Eyes of Ender into the End Portal Frames, on the final Frame, you will be teleported to The End
+Enter the End
 			
 <br/>
 
