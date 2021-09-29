@@ -394,7 +394,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 		* *if you got Flint while in the Overworld, but not extra Iron, you can also Craft Iron Nuggets 9:1 Ingots to Craft a Flint and Steel*
 <br/>
 
-### **Pie-Ray**, *aka Piedar*
+### **Pie-Ray**, *a.k.a. Piedar*
 
 ### **Fortress**
 
