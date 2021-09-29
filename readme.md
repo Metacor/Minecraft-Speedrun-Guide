@@ -513,8 +513,8 @@ Enter the End
 	* *for example, if there is an indentation in the top left, the bottom left wall will be a Hidden Room*
 * Libraries lead nowhere, if you enter a Library from the Starter Staircase, turn around
 	* if you need more Beds, you can Gather string from Library Cobwebs
-		* *use either a Sword or Shears, (decreasing the Gather Time from 20s → 0.4s)*
-		* *alternatively, use a [Bucket of Water](https://youtu.be/D714cio_nv4?t=673)*
+		* *when Gathering, use either a Sword or Shears (decreasing the Gather Time from 20s → 0.4s)*
+		* *alternatively, you can use a [Bucket of Water](https://youtu.be/D714cio_nv4?t=673)*
 
 ### The End
 * You will always be spawned in to the East, looking at the Main Island *(facing West)*
