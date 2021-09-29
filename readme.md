@@ -471,12 +471,12 @@ Enter the End
 	* *Boots only take 4 Gold Ingots (36 Gold Nuggets)*
 	* *Wearing any Gold Armor will make it so Piglins don't auto-aggro you*
 * Bastions cannot spawn inside of a Basalt Delta Biome
-* Only 1 Structure *(Bastions and Fortresses)*, can spawn per 432, 432 MegaChunk Quadrant, for example:
-	* *if a Bastion spawns at +x, +z, this will be the only Structure in that Quadrant*
-	* *in order to find a new Structure, you will need to go to a new Quadrant*
+* Only 1 Structure *(Bastions and Fortresses)*, can spawn per 432, 432 MegaChunk, for example:
+	* *if a Bastion spawns at +x, +z, this will be the only Structure in that MegaChunk*
+	* *in order to find a new Structure, you will need to go to a new MegaChunk*
 	* *the remaining 3 inner Quadrants being: +x,-z | -x,-z | -x,+z || where x & z are < 432 (neg or pos)*
 		* *directions can also be called: pos, pos | pos, neg | neg, neg | neg, pos*
-	* *Structures in Quadrants beyond these inner 4 are known as Extra-Regional Structures*
+	* *Structures in MegaChunk beyond the inner 4 Quadrants are known as Extra-Regional Structures*
 * All Bastion types (besides Treasure), can spawn a Triple Chest top section - to easily tell them apart:
 	* if there are 2 Blocks between the Double/Single Chest, then it's Stables
 	* if there are 3 Blocks, then it can be either Housing or Bridge
@@ -498,6 +498,10 @@ Enter the End
 	* *after the final Fireball is shot, the Blaze will be unable to Target for 5 seconds*
 	
 ### The Overworld, Part 2
+* The Stronghold will spawn a minimum of 1400 Blocks from *(0, 0)*
+	* *this distance is calculated triangularly, not linearly, (so a²+b²=c²), not (a+b=c)*
+		* *(150x, 150z) would be ~212 Blocks away from (0, 0) -- not ~300*
+	* *if you're just adding x + z: Stronghold ≈ 2000 - 2400 (Overworld), 250 - 300 (Nether)
 * When travelling across Water, it is faster to use a Dolphin's Boost, than it would be to use a Boat
 * if you find an underwater Stronghold, make sure to look around for the Portal Room before blindly entering
 * Strongholds are extremely unlikely to spawn in Swamps ([supposedly](https://youtu.be/_rbWryJVEmw?t=1011))
