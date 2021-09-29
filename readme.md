@@ -349,13 +349,13 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* *for example, in the image linked above, E: 32/**122**, you should be looking at 122*
 	* *ideally, open your F3 Menu before entering your Nether Portal in the Overworld*
 * if you notice the E: Value quickly raises, you likely just loaded a Bastion into your Render Distance
-	* *additionally, you can add the M: & C: Values together, if they are ~30 higher than your E Value, that also indicates a Bastion*
-		* *the example shows M + C = 113, while E = 122, this means that there likely isn't a nearby Bastion*
-		* *from our starting position of (-77, 59, 58), the closest Bastion is at [(-128, ~, -288)](https://i.imgur.com/EVScDGC.webp), ~350 Blocks away*
-* if you Believe there to be a Bastion in your Render Distance, change your FoV to 30 and slowly turn 360°
-* Locate the direction with the highest left E: Value, reset your FoV to normal, then travel in that direction until you find a Bastion
-	* *as opposed to the previous example, in the image linked above, E: **32**/122, you should be looking at 32 this time*
-	* *Highly dense spawning Biomes can sometimes give false positives for Bastions, using E > M + C, will usually help with this*
+	* *if the sum of the M: & C: Values is ~30 higher than the E: Value, there is likely a Bastion*
+		* *if [M + C = 113, while E = 122](https://i.imgur.com/w6WZlqf.webp), then there likely isn't a Bastion nearby*
+		* *example above: Starting at (-77, 59, 58), the closest Bastion is at [(-128, ~, -288)](https://i.imgur.com/EVScDGC.webp), ~350 Blocks away*
+* if there is likely a Bastion in your Render Distance, change your FoV to 30 and slowly turn 360°
+* Find the direction with the highest left E: Value, then travel in that direction until you find a Bastion
+	* *as opposed to the previous example, in the [image linked above](https://i.imgur.com/w6WZlqf.webp), E: **32**/122, you should be looking at 32 this time*
+	* *High density Biomes can sometimes give false positives for Bastions, use E + 30 ~ M + C for a better idea *
 
 ### **Bastions**  
 [pncakespoon's Route Spreadsheet](https://docs.google.com/spreadsheets/d/1qLgp5uhMOKuerNZaec1dpoECpJI0-6YhztMqa_wZ8W0/edit#gid=1811348189) | [Bastion Resources](https://docs.google.com/document/d/1yuruZF575xvwOCB5t6ftfRY9OEtLDRQsWFJRD6YetU0/edit) | [Zolstice's Beginner Screenshot Guide](https://www.reddit.com/r/MinecraftSpeedrun/collection/a6121708-188c-43b9-8267-de61620456f1/)  
