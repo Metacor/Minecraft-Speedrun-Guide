@@ -349,6 +349,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * if you notice the E: Value quickly raises, you likely just loaded a Bastion into your Render Distance
 	* *additionally, you can add the M: & C: Values together, if they are ~30 higher than your E Value, that also indicates a Bastion*
 		* *the example shows M + C = 113, while E = 122, this means that there likely isn't a nearby Bastion*
+			* *from our starting position of (-77, 59, 58), the closest Bastion is [(-128, ~, -288)](https://i.imgur.com/EVScDGC.webp), ~350 Blocks away*
 * if you Believe there to be a Bastion in your Render Distance, change your FoV to 30 and slowly turn 360°
 * Locate the direction with the highest left E: Value, reset your FoV to normal, then travel in that direction until you find a Bastion
 	* *as opposed to the previous example, in the image linked above, E: **32**/122, you should be looking at 32 this time*
