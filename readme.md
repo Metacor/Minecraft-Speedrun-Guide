@@ -344,12 +344,13 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 ### **Microlensing** *aka. E-Ray* | Video Guides: 
 * When you enter The Nether, open your F3 Menu *(if not already opened)*, and look at the right [E: Value](https://i.imgur.com/aeyVNli.webp)
-	* *for example, 32/**122**, look at 122*
+	* *for example, in the image linked above, E: 32/**122**, you should be looking at 122*
 	* *ideally, open your F3 Menu before entering your Nether Portal in the Overworld*
 * if you notice the E: Value quickly raises, you likely just loaded a Bastion into your Render Distance
 	* *additionally, you can add the M: & C: Values together, if they are ~30 higher than your E Value, that also indicates a Bastion*
 * if you Believe there to be a Bastion in your Render Distance, change your FoV to 30 and slowly turn 360°
-* Locate the direction with the highest E: Value, reset your FoV to normal, then travel in that direction until you find a Bastion
+* Locate the direction with the highest left E: Value, reset your FoV to normal, then travel in that direction until you find a Bastion
+	* *as opposed to the previous example, in the image linked above, E: **32**/122, you should be looking at 32 this time*
 	* *Highly dense spawning Biomes can sometimes give false positives for Bastions, using E > M + C, will usually help with this*
 
 ### **Bastions**
