@@ -97,7 +97,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 ## Inventory Management
 *Storage Interfaces: Chests, Crafting Tables etc*  
 
-**I would highly recommend changing your Hotbar Keybinds to something more comfortable** [Example](https://i.imgur.com/IRnM4qO.png)  
+**I would highly recommend changing your Hotbar Keybinds to something more comfortable** [Example](https://i.imgur.com/IRnM4qO.webp)  
 * pressing 6-9 for Hotbar Hotkeys can be quite inconsistent, and remember: [don't scroll, kids](https://youtu.be/0mK4yq7AlvE?t=12)
 
 **Hotbar Swap**: *1, 2, 3, 4, 5, 6, 7, 8, 9*
@@ -106,7 +106,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 **Collect All**: Shift + Click *(in the Crafting Output Slot)*
 * Creates the maxiumum amount of an Item with the supplies currently in the Crafting Window
-	* *will only Craft the Item currently shown in the Output Slot, even if the [Supplies can create multiple Items](https://i.imgur.com/TCqDxat.png)*
+	* *will only Craft the Item currently shown in the Output Slot, even if the [Supplies can create multiple Items](https://i.imgur.com/TCqDxat.webp)*
 		* *the Crafting Window above can Craft 1x Stone axe, 1x Stone Hoe, and 1x Stone Shovel*
 			* *however, Shift + Clicking will only create the Stone Axe (doing so again will then create the hoe)*
 * Sends all of the Crafted items onto your Hotbar
@@ -183,13 +183,13 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 <br/>
 
-* Bridge: [Video](https://youtu.be/2pzMpX1RJGI?t=128) | [Screenshots](https://imgur.com/a/OHwW0tb) | [Strat Flowchart](https://i.imgur.com/S7Uqb6C.png)  
+* Bridge: [Video](https://youtu.be/2pzMpX1RJGI?t=128) | [Screenshots](https://imgur.com/a/OHwW0tb) | [Strat Flowchart](https://i.imgur.com/S7Uqb6C.webp)  
 *if buried left/right Triple, Craft a Gold Pickaxe*  
 	* if Triple, *(Right Shoulder)*: [Dowsky](https://youtu.be/RAgYDi23Dww)
 	* if Triple, *(Left Shoulder)*: [Reignex/Gus](https://youtu.be/aKxDbLTZ2f0) | [Buried](https://www.twitch.tv/videos/1056189431)
 	* if Double Single: [Ela's Hole](https://youtu.be/3SHj_nm8mC0)
 	* if Top Entry: [Lodestone Manhunt](https://youtu.be/n5HDxqNFe4s?t=593)
-* Treasure: [Video](https://youtu.be/A9GGUWwNcrY?t=132) | [Screenshots](https://imgur.com/gallery/U4FnQC5) | [Bottom Placements](https://i.imgur.com/bDQjaBL.jpeg)  
+* Treasure: [Video](https://youtu.be/A9GGUWwNcrY?t=132) | [Screenshots](https://imgur.com/gallery/U4FnQC5) | [Bottom Placements](https://i.imgur.com/bDQjaBL.webp)  
 *highly recommended to Craft a Gold Pickaxe with the [Gold Blocks on the bridge](https://youtu.be/Y0DCoD6yhIc?t=9)*
 	* [Ninjabrain](https://youtu.be/0YvGkSOJVmU)
 * Housing: [Video](https://youtu.be/BoNr-pbEITM?t=132) | [Screenshots](https://imgur.com/gallery/wyjWcli) | [Correct Direction](https://youtu.be/BoNr-pbEITM?t=853)
@@ -199,7 +199,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Stables: [Video](https://youtu.be/TioQsF5ygOg?t=149) | [Screenshots](https://imgur.com/gallery/u91rHC4) | [Gap Identification](https://www.youtube.com/watch?v=AczOTF5QpZ4&t=164s)
 	* if Triple: [Triple Chest Stables](https://youtu.be/AJxgbRma25Q)
 	* if no Triple, w/ Good Gap: [Good Gap Stables](https://www.youtube.com/watch?v=ukyIkZMnw-w&t=357s)
-	* if no Triple, w/ Double Bad Gap: [Better Luck Next Time](https://i.imgur.com/YxRxdhI.png)
+	* if no Triple, w/ Double Bad Gap: [Better Luck Next Time](https://i.imgur.com/YxRxdhI.webp)
 
 <br/>
 
@@ -208,27 +208,27 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 ## **Beginner** | [Structureless](https://youtu.be/7dOca1LHefk) Overworld
 *Lower speed potential, but more consistent, resulting in far fewer resets - great for new runners*
-* Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
+* Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.webp)
 * Find a nearby Cave → Decend into the Cave until you find Iron Ore
 * Place the Crafting Table → Craft a Wooden Pickaxe → Mine 3 Cobblestone → Craft a Stone Pickaxe → 
 	* Mine 7 Iron *(8 - if you want a Shield)*, 12 Cobblestone, and 1-2 Coal
-* Craft [a Furnace, a Stone Axe, and a Stone Shovel](https://i.imgur.com/4kdtS6b.png) → Pickup the Crafting Table
+* Craft [a Furnace, a Stone Axe, and a Stone Shovel](https://i.imgur.com/4kdtS6b.webp) → Pickup the Crafting Table
 * Resurface → Place the Furnace near a Tree → Smelt the Iron Ore → Chop 8+ Logs
 	* Collect the first Iron Ingot → Search for Gravel → Dig for Flint → Craft a Flint and Steel
 	* Kill Burning Animals to get Pre-Cooked Meat
-		* While Searching for Gravel / Animals: Collect [Dandelions or Blue Orchids](https://i.imgur.com/iMwY9Wo.png) (for Suspicious Stews)
-* Collect the Iron once it's done → Place the Crafting Table → Craft an Iron Pickaxe, a Bucket, [a Boat, and Bowls](https://i.imgur.com/ROB8bsI.png)
+		* While Searching for Gravel / Animals: Collect [Dandelions or Blue Orchids](https://i.imgur.com/iMwY9Wo.webp) (for Suspicious Stews)
+* Collect the Iron once it's done → Place the Crafting Table → Craft an Iron Pickaxe, a Bucket, [a Boat, and Bowls](https://i.imgur.com/ROB8bsI.webp)
 * Find a nearby Lava Lake, or Dig deeper in the Cave to find Lava → [Create a Nether Portal](https://youtu.be/iaUF0oaegns?t=2029) → Enter the Nether
-	* While in the Nether, Collect Mushrooms in order to Craft [Suspicious Stews](https://i.imgur.com/9ckpeB6.png)
+	* While in the Nether, Collect Mushrooms in order to Craft [Suspicious Stews](https://i.imgur.com/9ckpeB6.webp)
 
 ## **Standard** | Village Overworld 
 *Spawn with a nearby Village - Ideally a Plains, Desert, or Savanna Village (for the guaranteed Hay Bales)*  
 *if the Village is in a Desert, Gather Wood and Stone before entering - Trees don't spawn, and buildings are Sand*  
 *if high rolled, Taiga Villages have a chance to be very good, however on average they're worse than the ones above*  
 
-* Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
+* Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.webp)
 * Place the Crafting Table near your Mining Destination → Craft a Wooden Pickaxe → Mine 6 Stone → 
-	* Craft [a Stone Shovel, a Stone Axe, and a Stone Hoe](https://i.imgur.com/TCqDxat.png) → Pickup the Crafting Table → Chop 8+ Logs  
+	* Craft [a Stone Shovel, a Stone Axe, and a Stone Hoe](https://i.imgur.com/TCqDxat.webp) → Pickup the Crafting Table → Chop 8+ Logs  
 ### Village Tasks:
 * Loot Blacksmiths, if available:
 	* if 10+ Obsidian: Skip Bucket → Mine 4 Stone, *(instead of 6)* → Skip the Stone Hoe Craft
@@ -242,21 +242,21 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* Hit the Golem from max distance, from behind if possible → Run a few Blocks away → Build up 3 Blocks
 	* Crit the Golem ~8 times to Kill it: Jump → Fall → Attack, while Falling *(with Stone Hatchet)*
 * Place the Crafting Table → Craft an Iron Pickaxe and a Boat
-	* if Bucket of Cod Trade: Place this Crafting Table near Villagers, additionally: Craft a [Composter](https://i.imgur.com/qK3yzOP.png) and a [Barrel](https://i.imgur.com/arI5xh9.png)
+	* if Bucket of Cod Trade: Place this Crafting Table near Villagers, additionally: Craft a [Composter](https://i.imgur.com/qK3yzOP.webp) and a [Barrel](https://i.imgur.com/arI5xh9.webp)
 	* if 4 Iron Ingots: Craft a Flint and Steel, *(after getting Flint from Digging up Gravel)*
 		* *if you only get 3 Iron Ingots: [Flintless Portal](https://youtu.be/axHdNQtPOf8?t=66), or Search for a Shipwreck/Ruined Portal*
 	* if 5 Iron Ingots: Save 1 Iron for a Shield, in case you get a Fortress before a Bastion in the Nether
 * Hoe 7 Hay Bales → Craft Wheat (7:63) → Hoe 5-10 additional Hay Bales → Complete the Bucket of Cod Trade
-	* Find or Craft a [Composter](https://i.imgur.com/qK3yzOP.png) → Turn a Villager into a Farmer → Trade Wheat 60:3 Emeralds
-	* Find or Craft a [Barrel](https://i.imgur.com/arI5xh9.png) → Turn a Villager into a Fisherman → Trade Emeralds 3:1 Bucket of Cod
+	* Find or Craft a [Composter](https://i.imgur.com/qK3yzOP.webp) → Turn a Villager into a Farmer → Trade Wheat 60:3 Emeralds
+	* Find or Craft a [Barrel](https://i.imgur.com/arI5xh9.webp) → Turn a Villager into a Fisherman → Trade Emeralds 3:1 Bucket of Cod
 * Craft the Hay Bales into Wheat → Craft Bread → Pickup the Crafting Table
 * Leave the Village → Search for a Lava Lake or Ruined Portal → [Create a Nether Portal](https://youtu.be/iaUF0oaegns?t=2029) → Enter the Nether
-	* [Minimum Blocks Required](https://i.imgur.com/jSspUON.png) | [Minimum Space Required](https://i.imgur.com/MvQjKXN.png)
+	* [Minimum Blocks Required](https://i.imgur.com/jSspUON.webp) | [Minimum Space Required](https://i.imgur.com/MvQjKXN.webp)
 		* *for minimum space, the bottom 2 spaces aren't required if doing [Cave Portal](https://youtu.be/6Lw2Mng_q4U) | [1-Deep](https://youtu.be/IHnBUAgQwsc)*
 		
 ## **Advanced** | [Pirate](https://youtu.be/EJ4G8QbhrGM) Overworld
 *Spawn near an Ocean, with a Shipwreck nearby - with 7+ Iron inside (ideally 11+)*
-* Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.png)
+* Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.webp)
 * Place the Crafting Table near a Tree → Craft a Wooden Axe → Chop 4+ Logs →
 	* Craft Doors, a Boat, and some Bowls → Pickup the Crafting Table
 * Place the Boat in the Ocean → Search for a Shipwreck → Collect the Boat and Dive towards the Shipwreck
@@ -284,11 +284,11 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* You can also use Iron Nuggets 9:1 Iron Ingots → Shears →
 		* Shear Sheep in the Overworld or Collect Cobwebs in a Stronghold Library
 * You wont have much Food (if any):
-	* In the Nether: Craft [Mushroom Stews](https://i.imgur.com/FUo9nfP.png) or Kill Burning Hoglins to get Pre-Cooked Meat
-		* *if you looted carrots from the Shipwreck, you can Craft some [Golden Carrots](https://i.imgur.com/bWyYsaC.png)*
+	* In the Nether: Craft [Mushroom Stews](https://i.imgur.com/FUo9nfP.webp) or Kill Burning Hoglins to get Pre-Cooked Meat
+		* *if you looted carrots from the Shipwreck, you can Craft some [Golden Carrots](https://i.imgur.com/bWyYsaC.webp)*
 	* In the Overworld: Kill Burning Animals to get Pre-Cooked Meat
 	* Optionally: Suicide to Reset Hitpoints / Hunger
-		* Nether: Craft a [Respawn Anchor](https://i.imgur.com/mo7y0XA.png) → use a Glowstone Block on it → Suicide
+		* Nether: Craft a [Respawn Anchor](https://i.imgur.com/mo7y0XA.webp) → use a Glowstone Block on it → Suicide
 		* Overworld: Craft and Place a Bed → Right-Click the Bed → Suicide
 	* Suicide Methods: *make sure to dig down 2 Blocks and kill yourself in a hole so your Items don't fly everywhere*
 		* [Fire](https://youtu.be/itqFlGfKvdk?t=460): Use either a Flint and Steel or Lava to set yourself on Fire
@@ -324,7 +324,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 *Combination of the most optimal strats, Resets are frequent, so having a very high Reset Efficiency is recommended*
 * [Mapless Treasure](https://youtu.be/_dyD8ZwagDg), *if available* → [Pirate](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate-overworld) → [Ravine Nether Entry](https://youtu.be/H2fHDidyfJo?t=63) → 
 	* *if you spot a Shipwreck from your spawn location, [prioritize that](https://youtu.be/CEG8oXyz9zc?t=257) over of Mapless Treasure*
-* [Microlensing](https://youtu.be/jvTfMLPnMSw) → [Bastion](https://github.com/Metacor/Minecraft_Speedrun_Guide#bastions) → [Pie-Ray](https://youtu.be/Aq9qfHNEOHM) → Fortress, [Blazebed](https://www.youtube.com/watch?v=3TD4jkuT8QA) → [Blind](https://i.imgur.com/96KhbT2.png) / [Divine](https://youtu.be/SXem01c44-I) Travel
+* [Microlensing](https://youtu.be/jvTfMLPnMSw) → [Bastion](https://github.com/Metacor/Minecraft_Speedrun_Guide#bastions) → [Pie-Ray](https://youtu.be/Aq9qfHNEOHM) → Fortress, [Blazebed](https://www.youtube.com/watch?v=3TD4jkuT8QA) → [Blind](https://i.imgur.com/96KhbT2.webp) / [Divine](https://youtu.be/SXem01c44-I) Travel
 	* if 20+ Obsidian: [Axis Calculated Travel](https://youtu.be/0LDj48fsRT8)
 * [Triangulation](https://youtu.be/8c29j0We2VQ) → Stronghold Entry *(if Ocean exposed: Portal Room Entry,  else: Starter Staircase Entry)* → End Entry →
 	* [Half-Bow](https://youtu.be/whwjNbIni58) + North / South Ground + [One-Cycle Dragon](https://youtu.be/aGMLHXnD6Bc) (~[4 Bed](https://youtu.be/R-9PGkSJU7g))  
@@ -396,7 +396,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 			https://www.youtube.com/watch?v=Aq9qfHNEOHM
 
 	Blind Travel: Optimal Nether Coordinates, y = 64+
-		First Ring; https://i.imgur.com/96KhbT2.png
+		First Ring; https://i.imgur.com/96KhbT2.webp
 		1st/2nd/3rd; https://imgur.com/gallery/i3fIanf
 		
 		fast blind portals: https://youtu.be/ZE5VEYWC_9s
@@ -418,11 +418,11 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	Triangulation: Throwing multiple Eyes and calculating their angle differences to find the Stronghold
 		Simple Methods; 
 			17.5 Block Method - Makes ° calc very simple (1000 / x° = distance)
-				https://i.imgur.com/6rvw5Bb.png
-				https://i.imgur.com/uutGOSx.png
+				https://i.imgur.com/6rvw5Bb.webp
+				https://i.imgur.com/uutGOSx.webp
 				https://www.youtube.com/watch?v=8c29j0We2VQ
 			20 Block Method - Easier to move 20 blocks instead of 17.5, but makes the math harder
-				https://i.imgur.com/vZAaWp8.png
+				https://i.imgur.com/vZAaWp8.webp
 				https://www.youtube.com/watch?v=LgRTgPTzoXU
 		Indepth Explainations;
 			https://www.youtube.com/watch?v=Zy7XEr-zl_A
@@ -471,7 +471,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 # Tips & Tricks
 ### The Overworld
-* [Shipwrecks](https://i.imgur.com/ws384ow.png)
+* [Shipwrecks](https://i.imgur.com/ws384ow.webp)
 	* Front Side Chest: Food 
 		* *if the Shipwreck is right-side up, you can loot this chest [from above](https://youtu.be/EUiU5MZt_7g?t=72)*
 	* Back Side: *the back side is wider, and has a window on all 3 outer sides*
@@ -513,7 +513,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* [This will usually despawn the Ghast](https://youtu.be/tWVrxt0G6r0?t=696)
 	* *You can turn your Render Distance back up after it disappears*
 	* *if the Ghast is close, just reflect its attack back at it*
-* if you find Nether Gold Ore while travelling to a Bastion, consider Mining it and making [Gold Boots](https://i.imgur.com/7k7LTAL.png)
+* if you find Nether Gold Ore while travelling to a Bastion, consider Mining it and making [Gold Boots](https://i.imgur.com/7k7LTAL.webp)
 	* *Boots only take 4 Gold Ingots (36 Gold Nuggets)*
 	* *Wearing any Gold Armor will make it so Piglins don't auto-aggro you*
 * Bastions cannot spawn inside of a Basalt Delta Biome
@@ -585,7 +585,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 <br/>
 
 **Crafting Table + Sticks**: *used in practically every run*  
-[Screenshot](https://i.imgur.com/pzABDu2.png) | [Videos](https://youtu.be/lEdAMNweD7E): **[Half Split (8c)](https://youtu.be/lEdAMNweD7E?t=2)** - [Kuee (8c)](https://youtu.be/lEdAMNweD7E?t=8) - [Split 2 (10c)](https://youtu.be/lEdAMNweD7E?t=13) - [Double Split, Move (10c)](https://youtu.be/lEdAMNweD7E?t=20) - [Double Split, Throw (9c)](https://youtu.be/lEdAMNweD7E?t=28)  
+[Screenshot](https://i.imgur.com/pzABDu2.webp) | [Videos](https://youtu.be/lEdAMNweD7E): **[Half Split (8c)](https://youtu.be/lEdAMNweD7E?t=2)** - [Kuee (8c)](https://youtu.be/lEdAMNweD7E?t=8) - [Split 2 (10c)](https://youtu.be/lEdAMNweD7E?t=13) - [Double Split, Move (10c)](https://youtu.be/lEdAMNweD7E?t=20) - [Double Split, Throw (9c)](https://youtu.be/lEdAMNweD7E?t=28)  
 *while Kuee's Method also only takes 8 Clicks, I personally feel that it doesn't flow as nicely as the Half Split Method*  
 *this is by far the most common Craft you'll execute when speedrunning, so be sure to pick the one that feels best to you*  
 * Gather 3 Logs, turn them into 12 Planks, then Craft a Crafting Table and 8 Sticks
@@ -595,14 +595,14 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 ### **Standard Crafts** - *used in structureless and village overworlds*
 **Wooden Pickaxe**:  
-[Screenshot](https://i.imgur.com/k3vCKuq.png) | [Video](https://youtu.be/lEdAMNweD7E?t=37)
+[Screenshot](https://i.imgur.com/k3vCKuq.webp) | [Video](https://youtu.be/lEdAMNweD7E?t=37)
 * Place the Crafting Table, Craft a Wooden Pickaxe → *Mine 6 Cobblestone*
 	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tL → Half Split → Drag tM, tR → collect: 8
 		* *highly recommend to collect to your Pickaxe Hotbar Keybind, instead of shift + clicking*
 			* *i have my hotkey set to 8, rebound to F, just collect to whatever yours is bound to*
 
 **Stone Tools**: *if Hoe Skip: Mine 4 Cobblestone instead - the same movements can be used*  
-[Screenshot](https://i.imgur.com/TCqDxat.png) | [Video](https://youtu.be/lEdAMNweD7E?t=45)
+[Screenshot](https://i.imgur.com/TCqDxat.webp) | [Video](https://youtu.be/lEdAMNweD7E?t=45)
 * Craft a Stone Axe, a Stone Hoe, and a Stone Shovel → *Pickup the Crafting Table → Chop 8+ Logs*
 	* Sticks(2), bM → Half Split → lClick mM → Stone(3), tM → Half Split → rClick mL → lClick tL → collect: 7 → 4 → 5
 		* *once again, i'd recommend collecting directly to your axe/hoe/shovel slots*
@@ -611,18 +611,18 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 ### **Pirate Crafts** - *used in pirate overworlds*
 **Wooden Axe**:  
-[Screenshot](https://i.imgur.com/pZaExqe.png) | [Video](https://youtu.be/lEdAMNweD7E?t=53)
+[Screenshot](https://i.imgur.com/pZaExqe.webp) | [Video](https://youtu.be/lEdAMNweD7E?t=53)
 * Place the Crafting Table, Craft a Wooden Axe → *Chop 4+ Logs*
 	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tM → Half Split → Drag tR, mR → collect: 7
 		* *highly recommend to collect to your Axe Hotbar Keybind, instead of Shift + Clicking*
 			* *i have my hotkey set to 7, rebound to R, just collect to whatever yours is bound to*
 
 **Doors + Boat + Bowls**:  
-[Screenshot 1](https://i.imgur.com/Brr2zq1.png) - [Screenshot 2](https://i.imgur.com/La90qWK.png) | [Video](https://youtu.be/lEdAMNweD7E?t=60)
+[Screenshot 1](https://i.imgur.com/Brr2zq1.webp) - [Screenshot 2](https://i.imgur.com/La90qWK.webp) | [Video](https://youtu.be/lEdAMNweD7E?t=60)
 * Craft Doors, a Boat, and Bowls → *Pickup the Crafting Table → Boat on the Ocean*
 	* Logs(3) → collect: sClick → Planks(1), bM → Half Split → Drag mM, tM, tR, mR, bR, bM → 
 	* rClick bR → lClick mR → collect: 3 → Half Split, bM → rClick bL → lClick mL → collect: 4 → sClick
-		* there are a few ways to do the Door Drag → Corner Drag, [they're all basically the same](https://i.imgur.com/ngH7DoB.png)
+		* there are a few ways to do the Door Drag → Corner Drag, [they're all basically the same](https://i.imgur.com/ngH7DoB.webp)
 		* and as always, change the Hotkey Keybinds to fit your specific setup
 
 ## Tasks  
@@ -691,7 +691,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 0 , 1010 | 200 , 900 | 300 , 965 | 400 , 930 | 500 , 880 | 600 , 815 | 715 , 715
 
-### [Triangulation](https://i.imgur.com/6rvw5Bb.png)
+### [Triangulation](https://i.imgur.com/6rvw5Bb.webp)
 **1° = 1000 Blocks (Math = 1000 / x)**
 
 | x | x.0 | x.1 | x.2 | x.3 | x.4 | x.5 | x.6 | x.7 | x.8 | x.9 |
