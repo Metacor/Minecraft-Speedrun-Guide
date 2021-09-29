@@ -516,7 +516,7 @@ Enter the End
 		* *use either a Sword or Shears, (decreasing the Gather Time from 20s → 0.4s)*
 
 ### The End
-* You always Spawn to the East, facing the Main Island
+* You will always be spawned in to the East, looking at the Main Island *(facing West)*
 * The Dragon Perches faster the farther away you are from the Fountain, both height and distance
 * The Dragon will Perch from the opposite side of you, in relation to the Fountain
 	* *Diagonal Perches are a lot harder to One Cycle, so it's recommended to run away N/S/E/W*
