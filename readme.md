@@ -273,7 +273,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 			* *While in the Stronghold, you can climb up the Starter Staircase to easily get some height*
 
 ## **Advanced+** | Pirate → Ocean Monument
-**Ocean Monument Guides:** [T_Wagz](https://youtu.be/0dyHYkg_xIU) | [Silver](https://youtu.be/14FGC1eUHug) - [Silver, Part 2](https://youtu.be/-b7nQyXZkfw)   
+**Ocean Monument Guides:** [T_Wagz](https://youtu.be/0dyHYkg_xIU) | [Silver](https://youtu.be/14FGC1eUHug) - [Part 2](https://youtu.be/-b7nQyXZkfw)   
 *Same start as [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#advanced--pirate-overworld), but you also Gather the guaranteed 8 Gold Blocks from an Ocean Monument*  
 *sometimes allowing you to completely skip the Bastion while in the Nether*  
 * Pirate Start → Shipwreck (Craft a Shield, since you wont have Fire Resistance for the Fortress) → Ocean Monument
@@ -317,7 +317,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 *Find a Bastion, Trade Gold to Piglins for Obsidian and Ender Pearls → Find a Fortress, Kill Blazes for Blaze Rods*
 
 ### **Microlensing**, *a.k.a. E-Ray*  
-**Video Guides**: [k4yfour](https://youtu.be/jvTfMLPnMSw) - [k4yfour, Part 2](https://youtu.be/Ou58P7e-ZY0) | [Nuskapuska's Slide](https://i.imgur.com/98heFGq.webp)
+**Video Guides**: [k4yfour](https://youtu.be/jvTfMLPnMSw) - [Part 2](https://youtu.be/Ou58P7e-ZY0) | [Nuskapuska's Slide](https://i.imgur.com/98heFGq.webp)
 * When you enter The Nether, open your F3 Menu *(if not already opened)*, and look at the **Right** [E: Value](https://i.imgur.com/w6WZlqf.webp)
 	* *for example, in the image linked above, E: 32/**122**, you should be looking at 122*
 	* *ideally, open your F3 Menu before entering your Nether Portal in the Overworld*
