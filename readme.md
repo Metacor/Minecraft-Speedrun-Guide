@@ -355,7 +355,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * if there is likely a Bastion in your Render Distance, change your FoV to 30 and slowly turn 360°
 * Find the direction with the highest left E: Value, then travel in that direction until you find a Bastion
 	* *as opposed to the previous example, in the [image linked above](https://i.imgur.com/w6WZlqf.webp), E: **32**/122, you should be looking at 32 this time*
-	* *High density Biomes can sometimes give false positives for Bastions, use E + 30 ~ M + C for a better idea *
+	* *High density Biomes can sometimes give false positives for Bastions, use (E + 30 ≈ M + C), for a better idea*
 
 ### **Bastions**  
 [pncakespoon's Route Spreadsheet](https://docs.google.com/spreadsheets/d/1qLgp5uhMOKuerNZaec1dpoECpJI0-6YhztMqa_wZ8W0/edit#gid=1811348189) | [Bastion Resources](https://docs.google.com/document/d/1yuruZF575xvwOCB5t6ftfRY9OEtLDRQsWFJRD6YetU0/edit) | [Zolstice's Beginner Screenshot Guide](https://www.reddit.com/r/MinecraftSpeedrun/collection/a6121708-188c-43b9-8267-de61620456f1/)  
@@ -385,13 +385,15 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* 10+ Obsidian, required to Blind Travel out of the Nether
 		* *ideally, 20+ for Educated/Calculated Travel*
 	* 12+ Ender Pearls, required to fill the 12 [End Portal Frames](https://minecraft.fandom.com/wiki/End_Portal_Frame) in the Stronghold
-		* *ideally, 16+, 2 for movement during the Ender Dragon fight, and ~2 incase your Eyes of Ender break while searching for the Stronghold*
+		* *ideally, 16+, 2 for the Ender Dragon fight, 2+ for broken Eyes of Ender*
 * Optional Items
-	* Fire Resistance Potions: Makes you immune to Lava / Fire Damage *(makes you immune to blaze's fireballs, but not their melee attackas)*
-	* String: Allows you to Craft 4:1 Wool in order to Craft 3:1 Beds *(if you don't have enough Beds from the Overworld, this isn't optional)*
+	* Fire Resistance Potions: Makes you immune to Lava / Fire Damage 
+		* *makes you immune to blaze's fireballs, but not their melee attacks*
+	* String: Allows you to Craft 4:1 Wool in order to Craft 3:1 Beds 
+		* *if you don't have enough Beds from the Overworld, this isn't optional*
 	* *Cross*Bow + Arrows: Allows you to [Half-Bow](https://youtu.be/whwjNbIni58) while in the Ender Dragon fight
 	* Fire Charges: if you entered the Nether with a Flintless Portal method, this can substitute for a Flint and Steel
-		* *if you got Flint while in the Overworld, but not extra Iron, you can also Craft Iron Nuggets 9:1 Ingots to Craft a Flint and Steel*
+		* *if you gathered Flint while in the Overworld, you can also use Iron Nuggets to Craft a Flint and Steel*
 <br/>
 
 ### **Pie-Ray**, *a.k.a. Piedar*
