@@ -500,7 +500,7 @@ Enter the End
 * The Stronghold will spawn a minimum of 1400 Blocks from *(0, 0)*
 	* *this distance is calculated triangularly not linearly, so (a²+b²=c²), not (a+b=c)*
 		* *(150x, 150z) would be ~212 Blocks away from (0, 0), not ~300*
-	* *if you're just adding x + z: Stronghold ≈ 2000 - 2400 (Overworld) | 250 - 300 (Nether)*
+	* *if you're just adding x + z, then the Stronghold ≈ 2000 - 2400 (Overworld) | 250 - 300 (Nether)*
 * When travelling across Water, it is faster to use a Dolphin's Boost, than it would be to use a Boat
 * if you find an underwater Stronghold, make sure to look around for the Portal Room before blindly entering
 * Strongholds are extremely unlikely to spawn in Swamps ([supposedly](https://youtu.be/_rbWryJVEmw?t=1011))
