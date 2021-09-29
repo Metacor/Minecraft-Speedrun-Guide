@@ -177,33 +177,6 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 <br/>
 
-# Bastions
-[pncakespoon's Bastion Spreadsheet](https://docs.google.com/spreadsheets/d/1qLgp5uhMOKuerNZaec1dpoECpJI0-6YhztMqa_wZ8W0/edit#gid=1811348189) | [Bastion Resources](https://docs.google.com/document/d/1yuruZF575xvwOCB5t6ftfRY9OEtLDRQsWFJRD6YetU0/edit) | [Zolstice's Beginner Screenshot Guide](https://www.reddit.com/r/MinecraftSpeedrun/collection/a6121708-188c-43b9-8267-de61620456f1/)  
-* **Bastion Type:** Identification, **Videos** *by T_Wagz* | **Screenshots** *by ElaMeTrataDiferente*
-	* Recommend Routes *(if there is no clarification, the Route should be Universal)*
-
-<br/>
-
-* Bridge: [Video](https://youtu.be/2pzMpX1RJGI?t=128) | [Screenshots](https://imgur.com/a/OHwW0tb) | [Strat Flowchart](https://i.imgur.com/S7Uqb6C.webp)  
-*if buried left/right Triple, Craft a Gold Pickaxe*  
-	* if Triple, *(Right Shoulder)*: [Dowsky](https://youtu.be/RAgYDi23Dww)
-	* if Triple, *(Left Shoulder)*: [Reignex/Gus](https://youtu.be/aKxDbLTZ2f0) | [Buried](https://www.twitch.tv/videos/1056189431)
-	* if Double Single: [Ela's Hole](https://youtu.be/3SHj_nm8mC0)
-	* if Top Entry: [Lodestone Manhunt](https://youtu.be/n5HDxqNFe4s?t=593)
-* Treasure: [Video](https://youtu.be/A9GGUWwNcrY?t=132) | [Screenshots](https://imgur.com/gallery/U4FnQC5) | [Bottom Placements](https://i.imgur.com/bDQjaBL.webp)  
-*highly recommended to Craft a Gold Pickaxe with the [Gold Blocks on the bridge](https://youtu.be/Y0DCoD6yhIc?t=9)*
-	* [Ninjabrain](https://youtu.be/0YvGkSOJVmU)
-* Housing: [Video](https://youtu.be/BoNr-pbEITM?t=132) | [Screenshots](https://imgur.com/gallery/wyjWcli) | [Correct Direction](https://youtu.be/BoNr-pbEITM?t=853)
-	* if Bot: [Manhunt]()
-	* if Top: [Top Down Manhunt](https://youtu.be/55sRL0xsWe8)
-		* Advanced: [Kuee Top Down](https://youtu.be/H2xy6q5Wp4Q)
-* Stables: [Video](https://youtu.be/TioQsF5ygOg?t=149) | [Screenshots](https://imgur.com/gallery/u91rHC4) | [Gap Identification](https://www.youtube.com/watch?v=AczOTF5QpZ4&t=164s)
-	* if Triple: [Triple Chest Stables](https://youtu.be/AJxgbRma25Q)
-	* if no Triple, w/ Good Gap: [Good Gap Stables](https://www.youtube.com/watch?v=ukyIkZMnw-w&t=357s)
-	* if no Triple, w/ Double Bad Gap: [Better Luck Next Time](https://i.imgur.com/YxRxdhI.webp)
-
-<br/>
-
 # Speedrun Guide
 **Video Guides:** [Haroon Shah, Jun 2021](https://youtu.be/iaUF0oaegns) | [Couriway, Dec 2020](https://youtu.be/REas9cmjlic) | [LiquidCandy, Dec 2020](https://youtu.be/14XeowuYgV0) | [Cuffep, Oct 2020](https://youtu.be/GQodZBfdL3g)
 
@@ -385,7 +358,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* 10+ Obsidian, required to Blind Travel out of the Nether
 		* *ideally, 20+ for Educated/Calculated Travel*
 	* 12+ Ender Pearls, required to fill the 12 [End Portal Frames](https://minecraft.fandom.com/wiki/End_Portal_Frame) in the Stronghold
-		* *ideally, 16+, 2 for the Ender Dragon fight, 2+ for broken Eyes of Ender*
+		* *ideally, 16+, 2 for the Ender Dragon fight, 2+ for broken Eye of Enders*
 * Optional Items
 	* Fire Resistance Potions: Makes you immune to Lava / Fire Damage 
 		* *makes you immune to blaze's fireballs, but not their melee attacks*
