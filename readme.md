@@ -354,19 +354,20 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 <br/>
 
-* Required Items
-	* 10+ **Obsidian**, required to Blind Travel out of the Nether
-		* *ideally, 20+ for Educated/Calculated Travel*
-	* 12+ **Ender Pearls**, required to fill the 12 [End Portal Frames](https://minecraft.fandom.com/wiki/End_Portal_Frame) in the Stronghold
-		* *ideally, 16+, 2 for the Ender Dragon fight, 2+ for broken Eye of Enders*
-* Optional Items
-	* **Fire Resistance Potion**: Makes you immune to Lava / Fire Damage 
-		* *makes you immune to blaze's fireballs, but not their melee attacks*
-	* **String**: Allows you to Craft 4:1 Wool in order to Craft 3:1 Beds 
-		* *if you don't have enough Beds from the Overworld, this isn't optional*
-	* *Cross***Bow + Arrows**: Allows you to [Half-Bow](https://youtu.be/whwjNbIni58) while in the Ender Dragon fight
-	* **Fire Charge**: if you entered the Nether with a Flintless Portal method, this can substitute for a Flint and Steel
-		* *if you gathered Flint while in the Overworld, you can also use Iron Nuggets to Craft a Flint and Steel*
+**Required Items**  
+* 10+ **Obsidian**, required to Blind Travel out of the Nether
+	* *ideally, 20+ for Educated/Calculated Travel*
+* 12+ **Ender Pearls**, required to fill the 12 [End Portal Frames](https://minecraft.fandom.com/wiki/End_Portal_Frame) in the Stronghold
+	* *ideally, 16+, 2 for the Ender Dragon fight, 2+ for broken Eye of Enders*  
+
+**Optional Items**  
+* **Fire Resistance Potion**: Makes you immune to Lava / Fire Damage 
+	* *makes you immune to blaze's fireballs, but not their melee attacks*
+* **String**: Allows you to Craft 4:1 Wool in order to Craft 3:1 Beds 
+	* *if you don't have enough Beds from the Overworld, this isn't optional*
+* *Cross***Bow + Arrows**: Allows you to [Half-Bow](https://youtu.be/whwjNbIni58) while in the Ender Dragon fight
+* **Fire Charge**: if you entered the Nether with a Flintless Portal method, this can substitute for a Flint and Steel
+	* *if you gathered Flint while in the Overworld, you can also use Iron Nuggets to Craft a Flint and Steel*
 
 <br/>
 
