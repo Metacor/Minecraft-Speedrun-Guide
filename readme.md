@@ -342,7 +342,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 ## The Nether
 *Find a Bastion, Trade Gold to Piglins for Obsidian and Ender Pearls → Find a Fortress, Kill Blazes for Blaze Rods*
 
-### **Microlensing** *aka. E-Ray* | Guides: [k4yfour)(https://youtu.be/jvTfMLPnMSw) - [k4yfour, Part 2](https://youtu.be/Ou58P7e-ZY0) | [Nuskapuska's Slide](https://i.imgur.com/98heFGq.webp)
+### **Microlensing** *aka. E-Ray*  
+**Video Guides**: [k4yfour)(https://youtu.be/jvTfMLPnMSw) - [k4yfour, Part 2](https://youtu.be/Ou58P7e-ZY0) | [Nuskapuska's Slide](https://i.imgur.com/98heFGq.webp)
 * When you enter The Nether, open your F3 Menu *(if not already opened)*, and look at the right [E: Value](https://i.imgur.com/w6WZlqf.webp)
 	* *for example, in the image linked above, E: 32/**122**, you should be looking at 122*
 	* *ideally, open your F3 Menu before entering your Nether Portal in the Overworld*
