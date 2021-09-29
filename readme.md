@@ -333,6 +333,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 [pncakespoon's Route Spreadsheet](https://docs.google.com/spreadsheets/d/1qLgp5uhMOKuerNZaec1dpoECpJI0-6YhztMqa_wZ8W0/edit#gid=1811348189) | [Bastion Resources](https://docs.google.com/document/d/1yuruZF575xvwOCB5t6ftfRY9OEtLDRQsWFJRD6YetU0/edit) | [Zolstice's Beginner Screenshot Guide](https://www.reddit.com/r/MinecraftSpeedrun/collection/a6121708-188c-43b9-8267-de61620456f1/)  
 
 **Identify the Bastion Type, and run the Route accordingly**  
+*ideally, locate and finish the Bastion before the Fortress, for the chance to get Fire Resistance Potions*
 
 * Bridge: [Structure Video](https://youtu.be/2pzMpX1RJGI?t=128) | [Screenshots](https://imgur.com/a/OHwW0tb) | [Strat Flowchart](https://i.imgur.com/S7Uqb6C.webp)  
 *if buried left/right Triple, Craft a Gold Pickaxe*  
@@ -470,6 +471,12 @@ Enter the End
 	* *Boots only take 4 Gold Ingots (36 Gold Nuggets)*
 	* *Wearing any Gold Armor will make it so Piglins don't auto-aggro you*
 * Bastions cannot spawn inside of a Basalt Delta Biome
+* Only 1 Structure *(Bastions and Fortresses)*, can spawn per 432, 432 MegaChunk Quadrant, for example:
+	* *if a Bastion spawns at +x, +z, this will be the only Structure in that Quadrant*
+	* *in order to find a new Structure, you will need to go to a new Quadrant*
+	* *the remaining 3 inner Quadrants being: +x,-z | -x,-z | -x,+z || where x & z are < 432 (neg or pos)*
+		* *directions can also be called: pos, pos | pos, neg | neg, neg | neg, pos*
+	* *Structures in Quadrants beyond these inner 4 are known as Extra-Regional Structures*
 * All Bastion types (besides Treasure), can spawn a Triple Chest top section - to easily tell them apart:
 	* if there are 2 Blocks between the Double/Single Chest, then it's Stables
 	* if there are 3 Blocks, then it can be either Housing or Bridge
