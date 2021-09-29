@@ -348,7 +348,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* if Bot: [Manhunt]()
 	* if Top: [Top Down Manhunt](https://youtu.be/55sRL0xsWe8)
 		* Advanced: [Kuee Top Down](https://youtu.be/H2xy6q5Wp4Q)
-			* *Pick-Block the Chest to easily get it in your Hotbar*
+			* *Pick-Block the Chest to easily get it into your Hotbar*
+			* *the Chest method can also be used for the normal Top Down strat*
 * Stables: [Structure Video](https://youtu.be/TioQsF5ygOg?t=149) | [Screenshots](https://imgur.com/gallery/u91rHC4) | [Gap Identification](https://www.youtube.com/watch?v=AczOTF5QpZ4&t=164s)
 	* if Triple: [Triple Chest Stables](https://youtu.be/AJxgbRma25Q)
 	* if no Triple, w/ Good Gap: [Good Gap Stables](https://www.youtube.com/watch?v=ukyIkZMnw-w&t=357s)
