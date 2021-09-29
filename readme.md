@@ -360,6 +360,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 ### **Bastions**  
 [pncakespoon's Route Spreadsheet](https://docs.google.com/spreadsheets/d/1qLgp5uhMOKuerNZaec1dpoECpJI0-6YhztMqa_wZ8W0/edit#gid=1811348189) | [Bastion Resources](https://docs.google.com/document/d/1yuruZF575xvwOCB5t6ftfRY9OEtLDRQsWFJRD6YetU0/edit) | [Zolstice's Beginner Screenshot Guide](https://www.reddit.com/r/MinecraftSpeedrun/collection/a6121708-188c-43b9-8267-de61620456f1/)  
 
+* Identify the Bastion Type, and run the Route accordingly
+
 * Bridge: [Structure Video](https://youtu.be/2pzMpX1RJGI?t=128) | [Screenshots](https://imgur.com/a/OHwW0tb) | [Strat Flowchart](https://i.imgur.com/S7Uqb6C.webp)  
 *if buried left/right Triple, Craft a Gold Pickaxe*  
 	* if Triple, *(Right Shoulder)*: [Dowsky](https://youtu.be/RAgYDi23Dww)
@@ -380,7 +382,6 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 <br/>
 
-* Identify the Bastion Type, and run the Route accordingly
 * Required Items
 	* 10+ Obsidian, required to Blind Travel out of the Nether
 		* *ideally, 20+ for Educated/Calculated Travel*
@@ -394,6 +395,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* *Cross*Bow + Arrows: Allows you to [Half-Bow](https://youtu.be/whwjNbIni58) while in the Ender Dragon fight
 	* Fire Charges: if you entered the Nether with a Flintless Portal method, this can substitute for a Flint and Steel
 		* *if you gathered Flint while in the Overworld, you can also use Iron Nuggets to Craft a Flint and Steel*
+
 <br/>
 
 ### **Pie-Ray**, *a.k.a. Piedar*
