@@ -511,8 +511,11 @@ Enter the End
 * The Portal Room is usually within [5 = 7](https://youtu.be/u42bjqtq5-s) Rooms of the Starter Staircase
 * In the Stronghold, Spiral Staircases always lead up, towards the Starter Staircase
 * [Hidden Rooms Identification](https://www.youtube.com/watch?v=vztJNmUdyBY)
-	* *generally, in 5-way rooms, if you see an indentation in the wall, there will be a hidden room on that side*
-	* *for example, if there is an indentation in the top left, the bottom left wall will be a Hidden Room*
+	* *Hidden Rooms can only occur in "5-way" room types*
+	* *if you're facing +x/+z (South/East) from the main entrance, there will be no Hidden Rooms*
+	* *if you see an indentation in the wall, there will be a hidden room on that side*
+		* ***only** if you're facing -x/-z (North/West) when facing the 5-way from the main entrance*
+		* *for example, if there is an indentation in the top left, the bottom left wall will be a Hidden Room*
 * Libraries lead nowhere, if you enter a Library from the Starter Staircase, turn around
 	* if you need more Beds, you can Gather string from Library Cobwebs
 		* *when Gathering, use either a Sword or Shears (decreasing the Gather Time from 20s → 0.4s)*
