@@ -305,7 +305,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 
 *Optionally*   
-* Village Start, if: Lava Lake *(very close)* | Ruined Portal *(completable)* | Blacksmith *(with 10+ Obsidian)*
+if you see: Lava Lake *(very close)* | Ruined Portal *(completable)* | Blacksmith *(with 10+ Obsidian)*  
+* Village Start
 	* if >= 7 Iron (Blacksmith + Golem): Iron Pickaxe + Bucket + Flint and Steel
 		* *optionally, if 4+ Iron from the Blacksmith: skip the Golem → skip the Iron Pickaxe → get lucky*
 	* if 4-6 Iron: Skip the Iron Pickaxe, hopefully get lucky with Iron from Bastion Chests
