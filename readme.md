@@ -192,7 +192,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* Mine 7 Iron *(8 - if you want to Craft a [Shield](https://i.imgur.com/nyxJaf0.webp))*, 12 Cobblestone, and 1-2 Coal
 * Craft a [Furnace, a Stone Axe, and a Stone Shovel](https://i.imgur.com/aAeeqXo.webp) → Pickup the Crafting Table
 * Resurface → Place the Furnace near a Tree → Smelt the Iron Ore → Chop 8+ Logs
-	* Collect the first Iron Ingot → Search for Gravel → Dig for Flint → Craft a Flint and Steel
+	* Collect the first Iron Ingot → Search for Gravel → Dig for Flint → Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp)
 	* Kill Burning Animals to get Pre-Cooked Meat
 		* While Searching for Gravel / Animals: Collect [Dandelions or Blue Orchids](https://i.imgur.com/ma3RZTB.webp) (for Suspicious Stews)
 * Collect the Iron once it's done → Place the Crafting Table → Craft an [Iron Pickaxe](https://i.imgur.com/lDMvU7r.webp), a [Bucket](https://i.imgur.com/eA21HpJ.webp), a [Boat, and Bowls](https://i.imgur.com/6OhCaRt.webp)
