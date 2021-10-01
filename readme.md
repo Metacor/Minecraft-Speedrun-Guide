@@ -22,25 +22,25 @@
 <br/>
 
 ## Table of Contents
-* [Setup](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#setup)
-	* [Mods](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#mods)
-	* [Practice Maps](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#practice-maps)
-	* [F3 Keybinds](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#f3-keybinds)
-	* [Inventory Management](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#inventory-management)
-* [Speedrun Guide](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#speedrun-guide)
-	* [The Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#beginner--structureless-overworld)
-		* [Structureless](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#beginner--structureless-overworld)
-		* [Village](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#standard--village-overworld)
-		* [Pirate](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#advanced--pirate-overworld)
-			* [Pirate → Ocean Monument](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#advanced--pirate--ocean-monument)
-		* [Hypermodern](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#expert--hypermodern-overworld)
-	* [The Nether](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#the-nether)
-		* [Bastions](https://github.com/Metacor/Minecraft-Speedrun-Guide/blob/main/readme.md#bastions)
-	* [The Overworld, Part 2](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#the-overworld-part-2)
-	* [The End](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#the-end)
-* [Tips & Tricks](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#tips--tricks)
-* [Practice](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#practice)
-* [Speedrun Cheatsheet](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#speedrun-cheatsheet)
+* [Setup](https://github.com/Metacor/Minecraft_Speedrun_Guide#setup)
+	* [Mods](https://github.com/Metacor/Minecraft_Speedrun_Guide#mods)
+	* [Practice Maps](https://github.com/Metacor/Minecraft_Speedrun_Guide#practice-maps)
+	* [F3 Keybinds](https://github.com/Metacor/Minecraft_Speedrun_Guide#f3-keybinds)
+	* [Inventory Management](https://github.com/Metacor/Minecraft_Speedrun_Guide#inventory-management)
+* [Speedrun Guide](https://github.com/Metacor/Minecraft_Speedrun_Guide#speedrun-guide)
+	* [The Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide#beginner--structureless-overworld)
+		* [Structureless](https://github.com/Metacor/Minecraft_Speedrun_Guide#beginner--structureless-overworld)
+		* [Village](https://github.com/Metacor/Minecraft_Speedrun_Guide#standard--village-overworld)
+		* [Pirate](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate-overworld)
+			* [Pirate → Ocean Monument](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate--ocean-monument)
+		* [Hypermodern](https://github.com/Metacor/Minecraft_Speedrun_Guide#expert--hypermodern-overworld)
+	* [The Nether](https://github.com/Metacor/Minecraft_Speedrun_Guide#the-nether)
+		* [Bastions](https://github.com/Metacor/Minecraft-Speedrun-Guide#bastions)
+	* [The Overworld, Part 2](https://github.com/Metacor/Minecraft_Speedrun_Guide#the-overworld-part-2)
+	* [The End](https://github.com/Metacor/Minecraft_Speedrun_Guide#the-end)
+* [Tips & Tricks](https://github.com/Metacor/Minecraft_Speedrun_Guide#tips--tricks)
+* [Practice](https://github.com/Metacor/Minecraft_Speedrun_Guide#practice)
+* [Speedrun Cheatsheet](https://github.com/Metacor/Minecraft_Speedrun_Guide#speedrun-cheatsheet)
 
 # Setup 
 **Setup Video Guides**: [k4yfour](https://youtu.be/4cTbSyvWNgI) | [DashPum4](https://youtu.be/km0sXurMj5s)  
@@ -276,14 +276,14 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 ## **Advanced+** | Pirate → Ocean Monument
 **Ocean Monument Guides:** [T_Wagz](https://youtu.be/0dyHYkg_xIU) | [Silver](https://youtu.be/14FGC1eUHug) - [Part 2](https://youtu.be/-b7nQyXZkfw)   
-*Same start as [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#advanced--pirate-overworld), but you also Gather the guaranteed 8 Gold Blocks from an Ocean Monument*  
+*Same start as [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate-overworld), but you also Gather the guaranteed 8 Gold Blocks from an Ocean Monument*  
 *sometimes allowing you to completely skip the Bastion while in the Nether*  
 * Pirate Start → Shipwreck (Craft a Shield, since you wont have Fire Resistance for the Fortress) → Ocean Monument
 	* As soon as you see an Ocean Monument, turn your Render Distance to 2 (RD2)
 		* *this will usually result in the Elder Guardians not spawning, allowing you to avoid Mining Fatigue*
 	* if you get Mining Fatigue
 		* *Drink a Milk Bucket (use an Empty Bucket on a cow, mooshroom, or goat)*
-		* *Set your Spawn at a Bed, and Suicide, (see Suicide Methods in [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#advanced--pirate-overworld))*
+		* *Set your Spawn at a Bed, and Suicide, (see Suicide Methods in [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate-overworld))*
 			* *optionally: if you're close to the World Spawn, Suicide without setting your Spawn*
 	* loot the 8 Gold Blocks from the Monument, following one of the guides linked above → Leave the Monument
 	* Once you're a reasonable distance away from the Monument, set your Render Distance back to normal
@@ -628,7 +628,7 @@ Enter the End
 
 **Bastions**  
 * Microlensing: Locate a Bastion from your Nether Portal
-* [Identification and Optimal Routing](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#bastions)
+* [Identification and Optimal Routing](https://github.com/Metacor/Minecraft_Speedrun_Guide#bastions)
 
 **Fortress**  
 * Pie-Ray: Locate the Fortress direction using the F3 Pie Chart *(also useful for finding Villages)*
