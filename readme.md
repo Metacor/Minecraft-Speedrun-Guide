@@ -47,14 +47,14 @@
 [Lenszel's Speedrunning Tools List](https://docs.google.com/document/d/1REEzqLCmOizEhY797kLCXI4I0ftm4N-u8aaD8ECzIw8/edit) | [
 Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
-* Win + r → %appdata% → .minecraft → options.txt → gamma:5.0
-* Options → Music & Sounds → Show Subtitles: ON
-* Options → Video Settings → Quality → Entity Distance (500)
+* Win + r → %appdata% → .minecraft → options.txt → **gamma:5.0**
+* Options → Music & Sounds → **Show Subtitles: ON**
+* Options → Video Settings → Quality → **Entity Distance (500)**
 
 **With Sodium Mod** (*Disabling Entity Culling isn't required for Sodium v0.2.0+*)
-* Options → Video Settings → Advanced → Disable Entity Culling
-* Options → Video Settings → Unofficial → Enable Planar Fog  
-
+* Options → Video Settings → Advanced → **Disable Entity Culling**
+* Options → Video Settings → Unofficial → **Enable Planar Fog**  
+**
 **Timers**: [Livesplit](https://livesplit.org/downloads/) | [NinjaSnail1080's Minecraft Universal Timer](https://github.com/NinjaSnail1080/mc-universal-in-game-timer) - [Video](https://youtu.be/fPESBmKYi0Q)
 
 ## Mods
@@ -98,8 +98,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 **Useful for [Pie-Ray](https://www.youtube.com/watch?v=Aq9qfHNEOHM) and [Mapless Treasure](https://youtu.be/_dyD8ZwagDg):**
 * **Shift + F3**: Pie Chart F3 Menu
-	* Pie-Ray: *Tick → Level → Entites → Block Entites*
-	* Mapless Treasure: *gameRenderer → Level → Entites*
+	* **Pie-Ray**: *Tick → Level → Entites → Block Entites*
+	* **Mapless Treasure**: *gameRenderer → Level → Entites*
 * **F3 + F**: Increases Render Distance by 1
 * **F3 + Shift + F**: Decreases Render Distance by 1
 
