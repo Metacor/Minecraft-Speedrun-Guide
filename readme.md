@@ -299,7 +299,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* *trap 2 Piglins in a Boat → Throw them your Gold Ingots → Proceed into the Fortress*
 		* *don't forget to return to the Piglins to collect your loot - if you didn't get enough → Find a Bastion*
 
-## **Expert** | [Hypermodern](https://youtu.be/gAHMJfsrHe4) Overworld
+## **Expert** | [Hypermodern](https://youtu.be/gAHMJfsrHe4)  
 *Combination of the most optimal strats, Resets are frequent, so having a very high Reset Efficiency is recommended*
 * [Mapless Treasure](https://youtu.be/_dyD8ZwagDg), *if available* → [Pirate](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate-overworld) → [Ravine Nether Entry](https://youtu.be/H2fHDidyfJo?t=63) → 
 	* *if you spot a Shipwreck from your spawn location, [prioritize that](https://youtu.be/CEG8oXyz9zc?t=257) over of Mapless Treasure*
