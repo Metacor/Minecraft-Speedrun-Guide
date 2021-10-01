@@ -53,9 +53,9 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 **With Sodium Mod** (*Disabling Entity Culling isn't required for Sodium v0.2.0+*)
 * Options → Video Settings → Advanced → Disable Entity Culling
-* Options → Video Settings → Unofficial → Enable Planar Fog
+* Options → Video Settings → Unofficial → Enable Planar Fog  
 
-* **Timers**: [Livesplit](https://livesplit.org/downloads/) | [NinjaSnail1080's Minecraft Universal Timer](https://github.com/NinjaSnail1080/mc-universal-in-game-timer) - [Video](https://youtu.be/fPESBmKYi0Q)
+**Timers**: [Livesplit](https://livesplit.org/downloads/) | [NinjaSnail1080's Minecraft Universal Timer](https://github.com/NinjaSnail1080/mc-universal-in-game-timer) - [Video](https://youtu.be/fPESBmKYi0Q)
 
 ## Mods
 [Website](https://www.minecraftspeedrunning.com/public-resources/mods ) | [Explainations](https://youtu.be/km0sXurMj5s?t=126)  
