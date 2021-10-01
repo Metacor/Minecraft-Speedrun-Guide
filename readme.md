@@ -153,7 +153,6 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 **Half Split**: *Right Click*
 * Selects half a Stack of an Item, leaving the other half in the Slot that you Selected it from
-* *requires your Inventory to be Opened*
 * *requires you to currently not have anything Selected*
 
 **Drag Split, 1**: *Select an Item → Hold Right Click → Drag*
