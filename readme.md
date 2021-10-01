@@ -516,6 +516,7 @@ Enter the End
 	* *if you're facing -x/-z (North/West) from the main entrance, there **CAN** be Hidden Rooms*
 		* *if you see an indentation in the wall, there will be a hidden room on that side*
 		* *for example, if there is an indentation in the top left, the bottom left wall will be a Hidden Room*
+			* *assuming you're in a 5-way that faces North or West*
 * Libraries lead nowhere, if you enter a Library from the Starter Staircase, turn around
 	* if you need more Beds, you can Gather string from Library Cobwebs
 		* *when Gathering, use either a Sword or Shears (decreasing the Gather Time from 20s → 0.4s)*
