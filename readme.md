@@ -127,7 +127,6 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 		* *if you're currently Selecting an Empty Slot, the Item will be Moved to that Slot instead*
 			* *even if your currently Selected Slot isn't the lowest available*
 	* *if no Empty Slots are available, then your currently Selected Item will be Swapped into your Inventory*
-* *using Pick Block to select Beds while One Cycling the Dragon is very useful*
 
 **Drop Item**: *Q*
 * Drops an Item
@@ -535,6 +534,7 @@ Enter the End
 	* *N/S Perch is faster than E/W, however it gives the player less time to react to the Perch*
 * The Dragon's Fireball doesn't actually do damage, the AoE ground effect left behind is what damages you
 	* *an easy way to avoid the damage, is to get hit on purpose, then Jump → place a Block below you*
+* Using Pick-Block to select Beds while One-Cycling the Dragon makes it a lot more simple
 * if you failed to One-Cycle the Dragon: attack the Dragon's Head Hitbox
 	* *don't try to crit, just stand normally and hit with fully charged attacks*
 	* *you can deal up to 50 Damage (~6 Stone Axe hits), before the Dragon will fly away*
