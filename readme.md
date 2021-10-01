@@ -367,7 +367,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 **Optional Items**  
 * **Fire Resistance Potion**: Makes you immune to Lava / Fire Damage 
 	* *makes you immune to blaze's fireballs, but not their melee attacks*
-* **String**: Allows you to Craft 4:1 Wool in order to Craft 3:1 Beds 
+* **String**: Allows you to Craft 12:1 Bed *(4:1 Wool → 3:1 Bed)*
 	* *if you don't have enough Beds from the Overworld, this isn't optional*
 * *Cross***Bow + Arrows**: Allows you to [Half-Bow](https://youtu.be/whwjNbIni58) while in the Ender Dragon fight
 * **Fire Charge**: if you entered the Nether with a Flintless Portal method, this can substitute for a Flint and Steel
