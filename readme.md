@@ -194,10 +194,10 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Resurface → Place the Furnace near a Tree → Smelt the Iron Ore → Chop 8+ Logs
 	* Collect the first Iron Ingot → Search for Gravel → Dig for Flint → Craft a Flint and Steel
 	* Kill Burning Animals to get Pre-Cooked Meat
-		* While Searching for Gravel / Animals: Collect [Dandelions or Blue Orchids](https://i.imgur.com/iMwY9Wo.webp) (for Suspicious Stews)
+		* While Searching for Gravel / Animals: Collect [Dandelions or Blue Orchids](https://i.imgur.com/ma3RZTB.webp) (for Suspicious Stews)
 * Collect the Iron once it's done → Place the Crafting Table → Craft an [Iron Pickaxe](https://i.imgur.com/lDMvU7r.webp), a [Bucket](https://i.imgur.com/eA21HpJ.webp), a [Boat, and Bowls](https://i.imgur.com/6OhCaRt.webp)
 * Find a nearby Lava Lake, or Dig deeper in the Cave to find Lava → [Create a Nether Portal](https://youtu.be/iaUF0oaegns?t=2029) → Enter the Nether
-	* While in the Nether, Collect Mushrooms in order to Craft [Suspicious Stews](https://i.imgur.com/9ckpeB6.webp)
+	* While in the Nether, Collect Mushrooms in order to Craft [Suspicious Stews](https://i.imgur.com/zl00UZT.webp)
 
 ## **Standard** | Village Overworld 
 *Spawn with a nearby Village - Ideally a Plains, Desert, or Savanna Village (for the guaranteed Hay Bales)*  
@@ -247,8 +247,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* Craft an [Iron Pickaxe](https://i.imgur.com/lDMvU7r.webp), a [Bucket](https://i.imgur.com/eA21HpJ.webp), a [Shovel](https://i.imgur.com/mEOj9eM.webp) 
 		* if 8+ Iron: Iron Shovel, otherwise Wood/Stone Shovel
 		* if 11+ iron: Craft an [Iron Axe](https://i.imgur.com/nhL9TfF.webp)
-			* *if you don't get an Iron Axe, try to Gather 3 Cobblestone while teleporting to the Nether [Video](https://youtu.be/So076O4FrU0)*
-		* if any remaining Iron Ingots, Craft [Iron Armor](https://i.imgur.com/USYD3CZ.webp) (can also save 1 to Craft a [Shield](https://i.imgur.com/nyxJaf0.webp), if Fortress before Bastion)
+			* *if you don't get an Iron Axe, try to Gather 3 Cobblestone [while teleporting to the Nether](https://youtu.be/So076O4FrU0)*
+		* if any extra Iron Ingots, Craft [Iron Armor](https://i.imgur.com/USYD3CZ.webp) (can also save 1 to Craft a [Shield](https://i.imgur.com/nyxJaf0.webp), if Fortress before Bastion)
 	* Dig up Gravel until you find some Flint → Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp) → Pickup the Crafting Table (and Door)
 * Resurface → Place the Boat → Search for an Ocean Ravine
 * Create a Ravine Nether Portal: [Spreadsheet](https://docs.google.com/spreadsheets/d/1VU6IZpyhr-3tMXC5GG4ryuqrbmQkvCKE_1nJm2eym4c/edit#gid=1186267001)
