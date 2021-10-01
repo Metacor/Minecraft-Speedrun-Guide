@@ -49,7 +49,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Win + r → %appdata% → .minecraft → options.txt → gamma:5.0
 * Options → Music & Sounds → Show Subtitles: ON  
 * Options → Video Settings → Quality → Entity Distance (500)  
-* with Sodium Mod: (Disabling Entity Culling isn't required for Sodium v0.2.0+)
+* with Sodium Mod: *Disabling Entity Culling isn't required for Sodium v0.2.0+*
 	* Options → Video Settings → Advanced → Disable Entity Culling   
 	* Options → Video Settings → Unofficial → Enable Planar Fog  
 
