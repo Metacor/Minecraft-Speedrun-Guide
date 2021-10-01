@@ -89,7 +89,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 ## F3 Keybinds
 * **F3**: Standard F3 Menu  
-* **F3 + F4**: Game Mode Selection | Open to LAN → Allow Cheats: ON → Start LAN World → F3 + F4
+* **F3 + F4**: Game Mode Selection
+	* *Open to LAN → Allow Cheats: ON → Start LAN World → F3 + F4*
 	* *enabling cheats will invalidate the run, only do this after an already failed attempt* 
 * **F3 + Q**: Shows most of the F3 Commands in-game  
 * **F3 + G**: Chunk Borders  
