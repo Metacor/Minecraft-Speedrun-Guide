@@ -11,7 +11,7 @@
 
 * On Completion:
 	* Check the skinny main view to make sure there isn't any unnecessary text wraps
-	* Spell Check / Phrasing Check the entire document *(look for missed words, poor punctuation, unclosed italics, etc)*
+	* Spell Check / Phrasing Check the entire document *(missed words, poor punctuation, unclosed italics, etc)*
 	* Keep consistent Capitalization *(make sure all instances of an item/entity/word are the same)*
 		* *not counting the first word of a sentence*
 		* *italicized side comments, such as this, should be lower case*
