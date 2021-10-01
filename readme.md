@@ -189,7 +189,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Gather 3 Logs → Craft 12 Planks → Craft a [Crafting Table + 8 Sticks](https://i.imgur.com/3Is7R0F.webp)
 * Find a nearby Cave → Decend into the Cave until you find Iron Ore
 * Place the Crafting Table → Craft a [Wooden Pickaxe](https://i.imgur.com/AgRcfOf.webp) → Mine 3 Cobblestone → Craft a [Stone Pickaxe](https://i.imgur.com/YdNn79N.webp) → 
-	* Mine 7 Iron *(8 - if you want a [Shield](https://i.imgur.com/nyxJaf0.webp))*, 12 Cobblestone, and 1-2 Coal
+	* Mine 7 Iron *(8 - if you want to Craft a [Shield](https://i.imgur.com/nyxJaf0.webp))*, 12 Cobblestone, and 1-2 Coal
 * Craft a [Furnace, a Stone Axe, and a Stone Shovel](https://i.imgur.com/aAeeqXo.webp) → Pickup the Crafting Table
 * Resurface → Place the Furnace near a Tree → Smelt the Iron Ore → Chop 8+ Logs
 	* Collect the first Iron Ingot → Search for Gravel → Dig for Flint → Craft a Flint and Steel
