@@ -352,7 +352,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* if Bot: [Manhunt]()
 	* if Top: [Top Down Manhunt](https://youtu.be/55sRL0xsWe8)
 		* Alternative: [Kuee Top Down](https://youtu.be/H2xy6q5Wp4Q)
-			* *Pick-Block the Chest to easily get it into your Hotbar*
+			* *Pick Block the Chest to easily get it into your Hotbar*
 			* *the Chest method can also be used for the normal Top Down strat*
 * Stables: [Structure Video](https://youtu.be/TioQsF5ygOg?t=149) | [Screenshots](https://imgur.com/gallery/u91rHC4) | [Gap Identification](https://www.youtube.com/watch?v=AczOTF5QpZ4&t=164s)
 	* if Triple: [Triple Chest Stables](https://youtu.be/AJxgbRma25Q)
@@ -536,7 +536,7 @@ Enter the End
 	* *N/S Perch is faster than E/W, however it gives the player less time to react to the Perch*
 * The Dragon's Fireball doesn't actually do damage, the AoE ground effect left behind is what damages you
 	* *an easy way to avoid the damage, is to get hit on purpose, then Jump → place a Block below you*
-* Using Pick-Block to select Beds while One-Cycling the Dragon makes it a lot more simple
+* Using Pick Block to select Beds while One-Cycling the Dragon makes it a lot more simple
 * if you failed to One-Cycle the Dragon: attack the Dragon's Head Hitbox
 	* *don't try to crit, just stand normally and hit with fully charged attacks*
 	* *you can deal up to 50 Damage (~6 Stone Axe hits), before the Dragon will fly away*
