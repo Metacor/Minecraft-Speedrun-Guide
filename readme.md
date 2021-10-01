@@ -204,9 +204,10 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 *if the Village is in a Desert, Gather Wood and Stone before entering - Trees don't spawn, and buildings are Sand*  
 *if high rolled, Taiga Villages have a chance to be very good, however on average they're worse than the ones above*  
 
-* Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.webp)
-* Place the Crafting Table near your Mining Destination → Craft a Wooden Pickaxe → Mine 6 Stone → 
-	* Craft [a Stone Shovel, a Stone Axe, and a Stone Hoe](https://i.imgur.com/TCqDxat.webp) → Pickup the Crafting Table → Chop 8+ Logs  
+* Gather 3 Logs → Craft 12 Planks → Craft a [Crafting Table + 8 Sticks](https://i.imgur.com/3Is7R0F.webp)
+* Place the Crafting Table near your Mining Destination → Craft a [Wooden Pickaxe](https://i.imgur.com/AgRcfOf.webp) → Mine 6 Stone → 
+	* Craft a [Stone Axe, a Stone Hoe, and a Stone Shovel](https://i.imgur.com/UDSN7Uc.webp) → Pickup the Crafting Table → Chop 8+ Logs 
+ 
 ### Village Tasks:
 * Loot Blacksmiths, if available:
 	* if 10+ Obsidian: Skip Bucket → Mine 4 Stone, *(instead of 6)* → Skip the Stone Hoe Craft
@@ -219,15 +220,15 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Kill the Golem: Drops 3-5 Iron Ingots
 	* Hit the Golem from max distance, from behind if possible → Run a few Blocks away → Build up 3 Blocks
 	* Crit the Golem ~8 times to Kill it: Jump → Fall → Attack, while Falling *(with Stone Hatchet)*
-* Place the Crafting Table → Craft an Iron Pickaxe and a Boat
-	* if Bucket of Cod Trade: Place this Crafting Table near Villagers, additionally: Craft a [Composter](https://i.imgur.com/qK3yzOP.webp) and a [Barrel](https://i.imgur.com/arI5xh9.webp)
-	* if 4 Iron Ingots: Craft a Flint and Steel, *(after getting Flint from Digging up Gravel)*
+* Place the Crafting Table → Craft an [Iron Pickaxe](https://i.imgur.com/lDMvU7r.webp) and a [Boat](https://i.imgur.com/DVab0D2.webp)
+	* if Bucket of Cod Trade: Place this Crafting Table near Villagers, additionally: Craft a [Composter](https://i.imgur.com/i0LLq5Q.webp) and a [Barrel](https://i.imgur.com/Mbx8xyo.webp)
+	* if 4 Iron Ingots: Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp), *(after getting Flint from Digging up Gravel)*
 		* *if you only get 3 Iron Ingots: [Flintless Portal](https://youtu.be/axHdNQtPOf8?t=66), or Search for a Shipwreck/Ruined Portal*
 	* if 5 Iron Ingots: Save 1 Iron for a Shield, in case you get a Fortress before a Bastion in the Nether
 * Hoe 7 Hay Bales → Craft Wheat (7:63) → Hoe 5-10 additional Hay Bales → Complete the Bucket of Cod Trade
 	* Find or Craft a [Composter](https://i.imgur.com/qK3yzOP.webp) → Turn a Villager into a Farmer → Trade Wheat 60:3 Emeralds
 	* Find or Craft a [Barrel](https://i.imgur.com/arI5xh9.webp) → Turn a Villager into a Fisherman → Trade Emeralds 3:1 Bucket of Cod
-* Craft the Hay Bales into Wheat → Craft Bread → Pickup the Crafting Table
+* Craft the [Hay Bales into Wheat](https://i.imgur.com/X89zMQi.webp) → Craft [Bread](https://i.imgur.com/zq8lZ3M.webp) → Pickup the Crafting Table
 * Leave the Village → Search for a Lava Lake or Ruined Portal → [Create a Nether Portal](https://youtu.be/iaUF0oaegns?t=2029) → Enter the Nether
 	* [Minimum Blocks Required](https://i.imgur.com/jSspUON.webp) | [Minimum Space Required](https://i.imgur.com/MvQjKXN.webp)
 		* *for minimum space, the bottom 2 spaces aren't required if doing [Cave Portal](https://youtu.be/6Lw2Mng_q4U) | [1-Deep](https://youtu.be/IHnBUAgQwsc)*
