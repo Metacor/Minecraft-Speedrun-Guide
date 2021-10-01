@@ -103,8 +103,6 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * **F3 + Shift + F**: Decreases Render Distance by 1
 
 ## Inventory Management
-*Storage Interfaces: Chests, Crafting Tables etc*  
-
 **I would highly recommend changing your Hotbar Keybinds to something more comfortable** [Example](https://i.imgur.com/IRnM4qO.webp)  
 * pressing 6-9 for Hotbar Hotkeys can be quite inconsistent, and remember: [don't scroll, kids](https://youtu.be/0mK4yq7AlvE?t=12)
 
