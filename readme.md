@@ -235,21 +235,21 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 		
 ## **Advanced** | [Pirate](https://youtu.be/EJ4G8QbhrGM) Overworld
 *Spawn near an Ocean, with a Shipwreck nearby - with 7+ Iron inside (ideally 11+)*
-* Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.webp)
-* Place the Crafting Table near a Tree → Craft a Wooden Axe → Chop 4+ Logs →
-	* Craft Doors, a Boat, and some Bowls → Pickup the Crafting Table
+* Gather 3 Logs → Craft 12 Planks → Craft a [Crafting Table + 8 Sticks](https://i.imgur.com/3Is7R0F.webp)
+* Place the Crafting Table near a Tree → Craft a [Wooden Axe](https://i.imgur.com/qdy0r1s.webp) → Chop 4+ Logs →
+	* Craft [Doors, a Boat, and some Bowls](https://i.imgur.com/D7S3XDW.webp) → Pickup the Crafting Table
 * Place the Boat in the Ocean → Search for a Shipwreck → Collect the Boat and Dive towards the Shipwreck
 * Once you find a Shipwreck → Enter the Top Side at the Back of the Boat → Loot the Chest (Iron / Gold) →
 	* if < 7 Iron: Loot the Bottom Side Chest at the Back of the Boat → Collect the Buried Treasure Map
 		* You can use the opened Door in the Bottom Cabin to refresh your Breath Meter 
 		* Locate the Buried Treasure, if the Loot is bad → Reset
 * Swim to the nearest Gravel → Place the Crafting Table, on the Ocean Floor → Place a Door on top of the Table →
-	* Craft an Iron Pickaxe, a Bucket, a Shovel 
+	* Craft an [Iron Pickaxe](https://i.imgur.com/lDMvU7r.webp), a [Bucket](https://i.imgur.com/eA21HpJ.webp), a [Shovel](https://i.imgur.com/mEOj9eM.webp) 
 		* if 8+ Iron: Iron Shovel, otherwise Wood/Stone Shovel
-		* if 11+ iron: Craft an Iron Axe
+		* if 11+ iron: Craft an [Iron Axe](https://i.imgur.com/nhL9TfF.webp)
 			* *if you don't get an Iron Axe, try to Gather 3 Cobblestone while teleporting to the Nether [Video](https://youtu.be/So076O4FrU0)*
-		* if any remaining Iron Ingots, Craft Iron Armor (can also save 1 for a Shield, if Fortress before Bastion)
-	* Dig up Gravel until you find some Flint → Craft a Flint and Steel → Pickup the Crafting Table (and Door)
+		* if any remaining Iron Ingots, Craft [Iron Armor](https://i.imgur.com/USYD3CZ.webp) (can also save 1 to Craft a [Shield](https://i.imgur.com/nyxJaf0.webp), if Fortress before Bastion)
+	* Dig up Gravel until you find some Flint → Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp) → Pickup the Crafting Table (and Door)
 * Resurface → Place the Boat → Search for an Ocean Ravine
 * Create a Ravine Nether Portal: [Spreadsheet](https://docs.google.com/spreadsheets/d/1VU6IZpyhr-3tMXC5GG4ryuqrbmQkvCKE_1nJm2eym4c/edit#gid=1186267001)
 	* [Standard]() | [1-Deep]() 
@@ -589,7 +589,7 @@ Enter the End
 
 ### **Pirate Crafts** - *used in pirate overworlds*
 **Wooden Axe**:  
-[Screenshot](https://i.imgur.com/qdy0r1s.png) | [Video](https://youtu.be/lEdAMNweD7E?t=53)
+[Screenshot](https://i.imgur.com/qdy0r1s.webp) | [Video](https://youtu.be/lEdAMNweD7E?t=53)
 * Place the Crafting Table, Craft a Wooden Axe → *Chop 4+ Logs*
 	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tM → Half Split → Drag tR, mR → collect: 7
 		* *highly recommend to collect to your Axe Hotbar Keybind, instead of Shift + Clicking*
