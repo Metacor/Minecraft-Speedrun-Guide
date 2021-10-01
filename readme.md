@@ -259,15 +259,15 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 <br/>
 
-* You wont have any Beds, so make sure you get enough String from Piglin Trades: 6 Beds = 72 String (+18 Planks)
-	* You can also use Iron Nuggets 9:1 Iron Ingots → Shears →
+* You wont have any Beds, so make sure you get enough String from Piglin Trades: [6 Beds = 72 String (+18 Planks)](https://i.imgur.com/PFGJa4f.webp)
+	* You can also Craft [Iron Nuggets 18:2 Iron Ingots](https://i.imgur.com/jrxLEur.webp) → [Shears](https://i.imgur.com/T8iU2V6.webp) →
 		* Shear Sheep in the Overworld or Collect Cobwebs in a Stronghold Library
 * You wont have much Food (if any):
-	* In the Nether: Craft [Mushroom Stews](https://i.imgur.com/FUo9nfP.webp) or Kill Burning Hoglins to get Pre-Cooked Meat
-		* *if you looted carrots from the Shipwreck, you can Craft some [Golden Carrots](https://i.imgur.com/bWyYsaC.webp)*
+	* In the Nether: Craft [Mushroom Stews](https://i.imgur.com/5fLy4j5.webp) or Kill Burning Hoglins to get Pre-Cooked Meat
+		* *if you looted carrots from the Shipwreck, you can Craft some [Golden Carrots](https://i.imgur.com/U5GaNsx.webp)*
 	* In the Overworld: Kill Burning Animals to get Pre-Cooked Meat
 	* Optionally: Suicide to Reset Hitpoints / Hunger
-		* Nether: Craft a [Respawn Anchor](https://i.imgur.com/mo7y0XA.webp) → use a Glowstone Block on it → Suicide
+		* Nether: Craft a [Respawn Anchor](https://i.imgur.com/n7sZDd9.webp) → use a Glowstone Block on it → Suicide
 		* Overworld: Craft and Place a Bed → Right-Click the Bed → Suicide
 	* Suicide Methods: *make sure to dig down 2 Blocks and kill yourself in a hole so your Items don't fly everywhere*
 		* [Fire](https://youtu.be/itqFlGfKvdk?t=460): Use either a Flint and Steel or Lava to set yourself on Fire
