@@ -399,7 +399,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 ### **Triangulation**
 *
 * Axis Calculated for Triangulation
-	* *even if you're not doing Axis Calculated Travel, you can still use that Triangulation Method*
+	* *even if you're not doing Axis Calculated Travel, you can still use Ninjabrain's Triangulation Method*
 
 ### **Stronghold Navigation**
 * 4/x/4 (3-5/x/3-5)
