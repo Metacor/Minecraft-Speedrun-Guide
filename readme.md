@@ -19,13 +19,7 @@
 	* Double Check every Link to make sure it actually links something *(and make sure it leads to the correct place)*
 	* Make sure there isn't any superfluous information in the Speedrun Guide section *(move it to Tips & Tricks)*
 
-## Post to the Minecraft Speedrunning Discord *(resources-public)*  
-**Any% RSG 1.16.1 Written Guide**  
-I've been collecting any strategies or information that seems useful for my runs. I figured it could help others, so I structured it in a more readable way and decided to publish what I've collected.
-
-If you have any additional Information or corrections to what is currently in the Guide, feel free to message me on Discord, or submit an Issue on Github.  
-<https://github.com/Metacor/Minecraft-Speedrun-Guide>  
-*tags: guide, rsg, 1.16+, collection*
+<br/>
 
 ## Table of Contents
 * [Setup](https://github.com/Metacor/Minecraft_Speedrun_Guide/blob/main/readme.md#setup)
