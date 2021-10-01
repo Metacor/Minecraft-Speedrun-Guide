@@ -462,7 +462,7 @@ Enter the End
 * if you plan on Microlensing your Bastion in the Nether, turn on the F3 Menu before you teleport to the Nether
 
 ### The Nether
-* Falling while in a Boat will negate all Fall Damage: [Video](https://youtu.be/REas9cmjlic?t=686)
+* Falling while in a Boat will [negate all Fall Damage](https://youtu.be/REas9cmjlic?t=686)
 * Killing Burning Hoglins is an easy way to get food in the Nether [Lava Bucket](https://youtu.be/wjbQyyHkr9M?t=110) | [Flint and Steel](https://youtu.be/REas9cmjlic?t=694)
 * if you need more Blocks while in the Nether, Mine some Netherrack
 	* Netherrack isn't flammable, and it's very fast to Mine (0.1s with an Iron Pickaxe)
