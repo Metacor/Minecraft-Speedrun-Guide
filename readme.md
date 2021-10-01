@@ -384,7 +384,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 ### **Fortress**
 
 ### **Travel**  
-*Build a Nether Portal in specific locations in the Nether to try and get close to the Stronghold*  
+*Build a Nether Portal at specific locations in the Nether to try and get close to the Stronghold*  
 * Blind
 * Divine
 * Educated
