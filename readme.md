@@ -147,10 +147,9 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * *the Keybind depends on if your Inventory is currently Opened or Closed*
 	* *Inventory Opened: Shift + Click (transfer item)*
 	* *Inventory Closed: Right Click (selected item)*
-* *both of these methods require the Equipment Slot to be currently Empty*
-	* *if the Equipment Slot is currently occupied, either:*
-		* *unequip the currently Equiped Item first*
-		* *manually Drag your new Item onto the relevant Equipment Slot*
+* *if the Equipment Slot is currently occupies, open your Inventory and either:*
+	* *unequip the currently Equiped Item → Equip Item*
+	* *Drag your new Item onto the relevant Equipment Slot*
 
 **Half Split**: *Right Click*
 * Selects half a Stack of an Item, leaving the other half in the Slot that you Selected it from
