@@ -186,16 +186,16 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 ## **Beginner** | [Structureless](https://youtu.be/7dOca1LHefk) Overworld
 *Lower speed potential, but more consistent, resulting in far fewer resets - great for new runners*
-* Gather 3 Logs → Craft 12 Planks → Craft [a Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.webp)
+* Gather 3 Logs → Craft 12 Planks → Craft a [Crafting Table + 8 Sticks](https://i.imgur.com/pzABDu2.webp)
 * Find a nearby Cave → Decend into the Cave until you find Iron Ore
-* Place the Crafting Table → Craft a Wooden Pickaxe → Mine 3 Cobblestone → Craft a Stone Pickaxe → 
-	* Mine 7 Iron *(8 - if you want a Shield)*, 12 Cobblestone, and 1-2 Coal
-* Craft [a Furnace, a Stone Axe, and a Stone Shovel](https://i.imgur.com/4kdtS6b.webp) → Pickup the Crafting Table
+* Place the Crafting Table → Craft a [Wooden Pickaxe](https://i.imgur.com/AgRcfOf.webp) → Mine 3 Cobblestone → Craft a [Stone Pickaxe](https://i.imgur.com/YdNn79N.webp) → 
+	* Mine 7 Iron *(8 - if you want a [Shield](https://i.imgur.com/nyxJaf0.webp))*, 12 Cobblestone, and 1-2 Coal
+* Craft a [Furnace, a Stone Axe, and a Stone Shovel](https://i.imgur.com/aAeeqXo.webp) → Pickup the Crafting Table
 * Resurface → Place the Furnace near a Tree → Smelt the Iron Ore → Chop 8+ Logs
 	* Collect the first Iron Ingot → Search for Gravel → Dig for Flint → Craft a Flint and Steel
 	* Kill Burning Animals to get Pre-Cooked Meat
 		* While Searching for Gravel / Animals: Collect [Dandelions or Blue Orchids](https://i.imgur.com/iMwY9Wo.webp) (for Suspicious Stews)
-* Collect the Iron once it's done → Place the Crafting Table → Craft an Iron Pickaxe, a Bucket, [a Boat, and Bowls](https://i.imgur.com/ROB8bsI.webp)
+* Collect the Iron once it's done → Place the Crafting Table → Craft an [Iron Pickaxe](https://i.imgur.com/lDMvU7r.webp), a [Bucket](https://i.imgur.com/eA21HpJ.webp), a [Boat, and Bowls](https://i.imgur.com/6OhCaRt.webp)
 * Find a nearby Lava Lake, or Dig deeper in the Cave to find Lava → [Create a Nether Portal](https://youtu.be/iaUF0oaegns?t=2029) → Enter the Nether
 	* While in the Nether, Collect Mushrooms in order to Craft [Suspicious Stews](https://i.imgur.com/9ckpeB6.webp)
 
@@ -562,7 +562,7 @@ Enter the End
 <br/>
 
 **Crafting Table + Sticks**: *used in practically every run*  
-[Screenshot](https://i.imgur.com/pzABDu2.webp) | [Videos](https://youtu.be/lEdAMNweD7E): **[Half Split (8c)](https://youtu.be/lEdAMNweD7E?t=2)** - [Kuee (8c)](https://youtu.be/lEdAMNweD7E?t=8) - [Split 2 (10c)](https://youtu.be/lEdAMNweD7E?t=13) - [Double Split, Move (10c)](https://youtu.be/lEdAMNweD7E?t=20) - [Double Split, Throw (9c)](https://youtu.be/lEdAMNweD7E?t=28)  
+[Screenshot](https://i.imgur.com/3Is7R0F.webp) | [Videos](https://youtu.be/lEdAMNweD7E): **[Half Split (8c)](https://youtu.be/lEdAMNweD7E?t=2)** - [Kuee (8c)](https://youtu.be/lEdAMNweD7E?t=8) - [Split 2 (10c)](https://youtu.be/lEdAMNweD7E?t=13) - [Double Split, Move (10c)](https://youtu.be/lEdAMNweD7E?t=20) - [Double Split, Throw (9c)](https://youtu.be/lEdAMNweD7E?t=28)  
 *while Kuee's Method also only takes 8 Clicks, I personally feel that it doesn't flow as nicely as the Half Split Method*  
 *this is by far the most common Craft you'll execute when speedrunning, so be sure to pick the one that feels best to you*  
 * Gather 3 Logs, turn them into 12 Planks, then Craft a Crafting Table and 8 Sticks
@@ -572,14 +572,14 @@ Enter the End
 
 ### **Standard Crafts** - *used in structureless and village overworlds*
 **Wooden Pickaxe**:  
-[Screenshot](https://i.imgur.com/k3vCKuq.webp) | [Video](https://youtu.be/lEdAMNweD7E?t=37)
+[Screenshot](https://i.imgur.com/AgRcfOf.webp) | [Video](https://youtu.be/lEdAMNweD7E?t=37)
 * Place the Crafting Table, Craft a Wooden Pickaxe → *Mine 6 Cobblestone*
 	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tL → Half Split → Drag tM, tR → collect: 8
 		* *highly recommend to collect to your Pickaxe Hotbar Keybind, instead of shift + clicking*
 			* *i have my hotkey set to 8, rebound to F, just collect to whatever yours is bound to*
 
 **Stone Tools**: *if Hoe Skip: Mine 4 Cobblestone instead - the same movements can be used*  
-[Screenshot](https://i.imgur.com/TCqDxat.webp) | [Video](https://youtu.be/lEdAMNweD7E?t=45)
+[Screenshot](https://i.imgur.com/UDSN7Uc.webp) | [Video](https://youtu.be/lEdAMNweD7E?t=45)
 * Craft a Stone Axe, a Stone Hoe, and a Stone Shovel → *Pickup the Crafting Table → Chop 8+ Logs*
 	* Sticks(2), bM → Half Split → lClick mM → Stone(3), tM → Half Split → rClick mL → lClick tL → collect: 7 → 4 → 5
 		* *once again, i'd recommend collecting directly to your axe/hoe/shovel slots*
@@ -588,14 +588,14 @@ Enter the End
 
 ### **Pirate Crafts** - *used in pirate overworlds*
 **Wooden Axe**:  
-[Screenshot](https://i.imgur.com/pZaExqe.webp) | [Video](https://youtu.be/lEdAMNweD7E?t=53)
+[Screenshot](https://i.imgur.com/qdy0r1s.png) | [Video](https://youtu.be/lEdAMNweD7E?t=53)
 * Place the Crafting Table, Craft a Wooden Axe → *Chop 4+ Logs*
 	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tM → Half Split → Drag tR, mR → collect: 7
 		* *highly recommend to collect to your Axe Hotbar Keybind, instead of Shift + Clicking*
 			* *i have my hotkey set to 7, rebound to R, just collect to whatever yours is bound to*
 
 **Doors + Boat + Bowls**:  
-[Screenshot 1](https://i.imgur.com/Brr2zq1.webp) - [Screenshot 2](https://i.imgur.com/La90qWK.webp) | [Video](https://youtu.be/lEdAMNweD7E?t=60)
+[Screenshot](https://i.imgur.com/D7S3XDW.webp) | [Video](https://youtu.be/lEdAMNweD7E?t=60)
 * Craft Doors, a Boat, and Bowls → *Pickup the Crafting Table → Boat on the Ocean*
 	* Logs(3) → collect: sClick → Planks(1), bM → Half Split → Drag mM, tM, tR, mR, bR, bM → 
 	* rClick bR → lClick mR → collect: 3 → Half Split, bM → rClick bL → lClick mL → collect: 4 → sClick
