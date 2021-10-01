@@ -323,9 +323,9 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* *ideally, open your F3 Menu before entering your Nether Portal in the Overworld*
 * if you notice the E: Value quickly raises, you likely just loaded a Bastion into your Render Distance
 	* *if the sum of the M: & C: Values is ~30 higher than the E: Value, there is likely a Bastion*
-		* *for [M + C = 113, while E = 122](https://i.imgur.com/w6WZlqf.webp), then there likely isn't a Bastion nearby*
+		* *for [M + C = 113, while E = 122, @16 RD](https://i.imgur.com/w6WZlqf.webp), if there is a Bastion, it's likely not fully rendered in*
 		* *Starting at (-77, 59, 58), the closest Bastion is at [(-128, ~, -288)](https://i.imgur.com/EVScDGC.webp), being ~350 Blocks away*
-			* *16 Render Distance has a Max Viewing Distance of ~362 Blocks (256√2)*
+			* *16 Render Distance renders 256 Blocks in all directions, ~362 Diagonally (256√2)*
 * To find the Bastion direction, change your Fov to 30 then slowly turn 360°, and look at the **Left** E: Value
 	* *as opposed to the previous example, in the [image linked above](https://i.imgur.com/w6WZlqf.webp), E: **32**/122, you should be looking at 32 this time*
 	* *High density Biomes can sometimes give false positives for Bastions, use (E + 30 ≈ M + C), for a better idea*
