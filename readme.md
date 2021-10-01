@@ -281,7 +281,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 **Ocean Monument Guides:** [T_Wagz](https://youtu.be/0dyHYkg_xIU) | [Silver](https://youtu.be/14FGC1eUHug) - [Part 2](https://youtu.be/-b7nQyXZkfw)   
 *Same start as [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate-overworld), but you also Gather the guaranteed 8 Gold Blocks from an Ocean Monument*  
 *sometimes allowing you to completely skip the Bastion while in the Nether*  
-* Pirate Start → Shipwreck (Craft a Shield, since you wont have Fire Resistance for the Fortress) → Ocean Monument
+* Pirate Start → Shipwreck (Craft a [Shield](https://i.imgur.com/nyxJaf0.webp), since you wont have Fire Resistance for the Fortress) → Ocean Monument
 	* As soon as you see an Ocean Monument, turn your Render Distance to 2 (RD2)
 		* *this will usually result in the Elder Guardians not spawning, allowing you to avoid Mining Fatigue*
 	* if you get Mining Fatigue
@@ -312,7 +312,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 *Optionally*   
 *if Village with nearby: Lava Lake *(very close)* | Ruined Portal *(completable)* | Blacksmith *(with 10+ Obsidian)**  
 * Village Start
-	* if >= 7 Iron (Blacksmith + Golem): Iron Pickaxe + Bucket + Flint and Steel
+	* if >= 7 Iron (Blacksmith + Golem): Craft an [Iron Pickaxe](https://i.imgur.com/lDMvU7r.webp) + [Bucket](https://i.imgur.com/eA21HpJ.webp) + [Flint and Steel](https://i.imgur.com/XzZEIrF.webp)
 		* *optionally, if 4+ Iron from the Blacksmith: skip the Golem → skip the Iron Pickaxe → get lucky*
 	* if 4-6 Iron: Skip the Iron Pickaxe, hopefully get lucky with Iron from Bastion Chests
 	* if 3 Iron: Reset *(or Flintless Portal, if you REALLY want to force the seed)*
@@ -475,7 +475,7 @@ Enter the End
 	* [This will usually despawn the Ghast](https://youtu.be/tWVrxt0G6r0?t=696)
 	* *You can turn your Render Distance back up after it disappears*
 	* *if the Ghast is close, just reflect its attack back at it*
-* if you find Nether Gold Ore while travelling to a Bastion, consider Mining it and making [Gold Boots](https://i.imgur.com/7k7LTAL.webp)
+* if you find Nether Gold Ore while travelling to a Bastion, consider Mining it and making [Gold Boots](https://i.imgur.com/QrAbJ35.webp)
 	* *Boots only take 4 Gold Ingots (36 Gold Nuggets), ~9 Ore on average*
 	* *Wearing any Gold Armor will make it so Piglins don't auto-aggro you*
 * Bastions cannot spawn inside of a Basalt Delta Biome
