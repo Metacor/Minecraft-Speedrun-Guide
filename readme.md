@@ -138,7 +138,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 **Transfer Item**: *Shift + Click (left **or** right, both work)*
 * Sends the Item that your Cursor is currently Hovering over To/From your Hotbar/Inventory
-* *if a Storage Interface is currently Open, then the Item will Transfer between that and your Inventory instead*
+* *if a Storage Interface is currently Open, then the Item will Transfer between that and your Hotbar*
+	* *if your Hotbar is full, then the Item will be sent to your Inventory instead*
 
 **Equip Item**: *Right Click **or** Shift + Click (transfer item)*
 * Puts an Equipable Item onto your Character's corresponding Equipment Slot
