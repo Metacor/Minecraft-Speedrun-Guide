@@ -174,10 +174,10 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 **Transfer All of an Item Type**: *Shift + Double Left Click*
 * Sends All Items of the same Type between Storage Interfaces and your Character
+	* *the Transfer Item Interface priorities apply here aswell*
 * *requires an Item to be currently Selected, otherwise you will just instantly send over a single Stack*
 	* *your current Selected Item Stack will not be Transferred*
 	* *to easily send ALL of an item type, have an unrelated Item Selected*
-* *the Transfer Item Interface priorities apply here aswell*
 
 <br/>
 
