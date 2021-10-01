@@ -328,10 +328,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* *for example, in the image linked above, E: 32/**122**, you should be looking at 122*
 	* *ideally, open your F3 Menu before entering your Nether Portal in the Overworld*
 * if you notice the E: Value quickly raises, you likely just loaded a Bastion into your Render Distance
-* if the sum of the M: & C: Values is ~30 higher than the E: Value, there is a nearby Bastion
-	* *for [M + C = 113, while E = 122, @16 RD](https://i.imgur.com/w6WZlqf.webp), if there is a Bastion, it's likely not fully rendered in*
-		* *Starting at (-77, 59, 58), the closest Bastion is at [(-128, ~, -288)](https://i.imgur.com/EVScDGC.webp), being ~350 Blocks away*
-		* *16 Render Distance renders ~256 Blocks in cardinal directions, ~362 Diagonally (256√2)*
+* if the sum of the M: & C: Values is ~30 higher than the E: Value, there is a Bastion within your Render Distance
 * To find the Bastion direction, change your Fov to 30 then slowly turn 360°, and look at the **Left** E: Value
 	* *as opposed to the previous example, in the [image linked above](https://i.imgur.com/w6WZlqf.webp), E: **32**/122, you should be looking at 32 this time*
 	* *High density Biomes can sometimes give false positives for Bastions, use (E + 30 ≈ M + C), for a better idea*
@@ -478,6 +475,10 @@ Enter the End
 * if you find Nether Gold Ore while travelling to a Bastion, consider Mining it and making [Gold Boots](https://i.imgur.com/QrAbJ35.webp)
 	* *Boots only take 4 Gold Ingots (36 Gold Nuggets), ~9 Ore on average*
 	* *Wearing any Gold Armor will make it so Piglins don't auto-aggro you*
+* Bastion Microlensing examples *(using m+c=e)
+	* *for [M + C = 113, while E = 122, @16 RD](https://i.imgur.com/w6WZlqf.webp), if there is a Bastion, it's likely not fully rendered in*
+		* *Starting at (-77, 59, 58), the closest Bastion is at [(-128, ~, -288)](https://i.imgur.com/EVScDGC.webp), being ~350 Blocks away*
+		* *16 Render Distance renders ~256 Blocks in cardinal directions, ~362 Diagonally (256√2)*
 * Bastions cannot spawn inside of a Basalt Delta Biome
 * Only 1 Structure *(Bastions and Fortresses)*, can spawn per *(432, 432)* MegaChunk, for example:
 	* *if a Bastion spawns at (+x, +z), this will be the only Structure in that MegaChunk*
