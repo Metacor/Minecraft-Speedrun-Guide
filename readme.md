@@ -374,7 +374,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* *if you don't have enough Beds from the Overworld, this isn't optional*
 * *Cross***Bow + Arrows**: Allows you to [Half-Bow](https://youtu.be/whwjNbIni58) while in the Ender Dragon fight
 * **Fire Charge**: if you entered the Nether with a Flintless Portal method, this can substitute for a Flint and Steel
-	* *if you gathered Flint while in the Overworld, you can also use Iron Nuggets to Craft a Flint and Steel*
+	* *if you gathered Flint while in the Overworld, you can also use Iron Nuggets to Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp)*
 		* *Piglins also Trade Gravel, so you can collect Flint in the Nether if you'd like*
 
 <br/>
