@@ -397,7 +397,9 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 *Find the Location of a Stronghold → Enter the Stronghold, and Navigate to the Portal Room → Enter The End*
 
 ### **Triangulation**
+*
 * Axis Calculated for Triangulation
+	* *even if you're not doing Axis Calculated Travel, you can still use that Triangulation Method*
 
 ### **Stronghold Navigation**
 * 4/x/4 (3-5/x/3-5)
