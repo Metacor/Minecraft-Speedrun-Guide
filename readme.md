@@ -96,9 +96,10 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * **F3 + G**: Chunk Borders  
 * **F3 + B**: Entity Hitboxes  
 
-**Useful for [Pie-ray](https://www.youtube.com/watch?v=Aq9qfHNEOHM) scouting:** *villages and fortresses*
+**Useful for [Pie-Ray](https://www.youtube.com/watch?v=Aq9qfHNEOHM) and [Mapless Treasure](https://youtu.be/_dyD8ZwagDg):**
 * **Shift + F3**: Pie Chart F3 Menu
-	* *Tick → Level → Entites → Block Entites*
+	* Pie-Ray: *Tick → Level → Entites → Block Entites*
+	* Mapless Treasure: *gameRenderer → Level → Entites*
 * **F3 + F**: Increases Render Distance by 1
 * **F3 + Shift + F**: Decreases Render Distance by 1
 
