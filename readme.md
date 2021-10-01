@@ -138,8 +138,9 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 **Transfer Item**: *Shift + Click (left **or** right, both work)*
 * Sends the Item that your Cursor is currently Hovering over To/From your Hotbar/Inventory
-* *if a Storage Interface is currently Open, then the Item will Transfer between that and your Hotbar*
-	* *if your Hotbar is full, then the Item will be sent to your Inventory instead*
+* *if an Interface is currently Open, then the Item will Transfer between that and your Character instead*
+	* *the Chest Interface will prioritize your Hotbar, before putting items into your Inventory*
+	* *the Crafting Interface will prioritize putting items into your Inventory first*
 
 **Equip Item**: *Right Click **or** Shift + Click (transfer item)*
 * Puts an Equipable Item onto your Character's corresponding Equipment Slot
@@ -174,12 +175,11 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 		* *trying to do so would just Select the Items back and forth*
 
 **Transfer All of an Item Type**: *Shift + Double Left Click*
-* Sends All Items of the same Type between Storage Interfaces and your Inventory
-	* *the Chest Interface will prioritize your Hotbar, before putting items into your Inventory*
-	* *the Inventory and Crafting Interfaces will prioritize putting items into your Inventory first*
+* Sends All Items of the same Type between Storage Interfaces and your Character
 * *requires an Item to be currently Selected, otherwise you will just instantly send over a single Stack*
 	* *your current Selected Item Stack will not be Transferred*
 	* *to easily send ALL of an item type, have an unrelated Item Selected*
+* *the Transfer Item Interface priorities apply here aswell*
 
 <br/>
 
