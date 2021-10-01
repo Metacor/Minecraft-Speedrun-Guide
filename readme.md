@@ -211,8 +211,6 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 ### Village Tasks:
 * Loot Blacksmiths, if available:
 	* if 10+ Obsidian: Skip Bucket → Mine 4 Stone, *(instead of 6)* → Skip the Stone Hoe Craft
-		* *skipping the Stone Hoe Craft makes gathering hay bales take slightly longer*
-			* *but it allows you to skip a second Sticks Craft when making your Iron Pickaxe*
 	* if 3+ Iron Ingots: Gather 2 Logs, instead of 3 → Skip Wooden Pickaxe
 	* if 7+ Total Iron Ingots *(Blacksmith + Golem)*: Skip the Bucket of Cod Trade 
 		* *you can skip with 6 Iron, but that will require a [Flintless Portal](https://youtu.be/DVDbfKuLaWo?t=9)*
