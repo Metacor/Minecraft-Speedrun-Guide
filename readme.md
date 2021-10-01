@@ -475,7 +475,7 @@ Enter the End
 * if you find Nether Gold Ore while travelling to a Bastion, consider Mining it and making [Gold Boots](https://i.imgur.com/QrAbJ35.webp)
 	* *Boots only take 4 Gold Ingots (36 Gold Nuggets), ~9 Ore on average*
 	* *Wearing any Gold Armor will make it so Piglins don't auto-aggro you*
-* Bastion Microlensing examples *(using m+c=e)
+* Bastion Microlensing example *(using m+c=e)*
 	* *for [M + C = 113, while E = 122, @16 RD](https://i.imgur.com/w6WZlqf.webp), if there is a Bastion, it's likely not fully rendered in*
 		* *Starting at (-77, 59, 58), the closest Bastion is at [(-128, ~, -288)](https://i.imgur.com/EVScDGC.webp), being ~350 Blocks away*
 		* *16 Render Distance renders ~256 Blocks in cardinal directions, ~362 Diagonally (256√2)*
