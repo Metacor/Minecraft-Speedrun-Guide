@@ -481,8 +481,8 @@ Enter the End
 		* *directions can also be called: (pos, pos), (pos, neg), (neg, neg), (neg, pos)*
 	* *Structures in MegaChunks beyond the inner 4 Quadrants are known as Extra-Regional Structures*
 * All Bastion types (besides Treasure), can spawn a Triple Chest top section - to easily tell them apart:
-	* if there are 2 Blocks between the Double/Single Chest, then it's Stables
-	* if there are 3 Blocks, then it can be either Housing or Bridge
+	* if there are [2 Blocks](https://i.imgur.com/SzHSK3A.webp) between the Double/Single Chest, then it's Stables
+	* if there are [3 Blocks](https://i.imgur.com/wosezlF.webp), then it can be either Housing or Bridge
 		* *Housing and Bridge are very different, so it shouldn't be too hard to Identify the correct one*
 * Piglins have weird pathfinding around Lava
 	* *when building bridges across Lava - while routing bottom side Manhunt Housing for example*
