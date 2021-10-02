@@ -501,7 +501,8 @@ Enter the End
 			* *piglins seem to refuse to jump up/down a block at the edges of lava*
 		* *build 3 Blocks wide, to make sure Piglins follow*
 		* *piglins can't run across corners, so make sure there is a direct path over the Lava*
-* Mobs spawn more often in Soul Sand Valleys, so if a Fortress is located in one, 5RD is pretty risky
+* When entering a Fortress, you can lower your Render Distance to 5 (5RD), increasing random Blaze spawns
+	* *Mobs spawn more often in Soul Sand Valleys, so if a Fortress is located in one, 5RD is pretty risky*
 * While trying to Pie-Ray, if you accidentally press the wrong button, press '0' to go back a page  
 * Blazes will Target a Player if they have Line of Sight, and are within 48 Blocks
 	* *once acquiring a Target, the Blaze will set itself... **ablaze**, for 3 seconds*
