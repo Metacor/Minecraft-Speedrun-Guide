@@ -502,6 +502,7 @@ Enter the End
 		* *build 3 Blocks wide, to make sure Piglins follow*
 		* *piglins can't run across corners, so make sure there is a direct path over the Lava*
 * When entering a Fortress, you can lower your Render Distance to 5 (5RD), increasing random Blaze spawns
+	* *this increases the spawn rates of all enemies, not just Blazes (doesn't affect spawners)*
 	* *Mobs spawn more often in Soul Sand Valleys, so if a Fortress is located in one, 5RD is pretty risky*
 * While trying to Pie-Ray, if you accidentally press the wrong button, press '0' to go back a page  
 * Blazes will Target a Player if they have Line of Sight, and are within 48 Blocks
