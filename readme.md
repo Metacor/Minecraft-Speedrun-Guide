@@ -28,7 +28,7 @@
 	* [F3 Keybinds](https://github.com/Metacor/Minecraft_Speedrun_Guide#f3-keybinds)
 	* [Inventory Management](https://github.com/Metacor/Minecraft_Speedrun_Guide#inventory-management)
 * [Speedrun Guide](https://github.com/Metacor/Minecraft_Speedrun_Guide#speedrun-guide)
-	* [The Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide#beginner--structureless-overworld)
+	* [The Overworld](https://github.com/Metacor/Minecraft-Speedrun-Guide#the-overworld)
 		* [Structureless](https://github.com/Metacor/Minecraft_Speedrun_Guide#beginner--structureless-overworld)
 		* [Village](https://github.com/Metacor/Minecraft_Speedrun_Guide#standard--village-overworld)
 		* [Pirate](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate-overworld)
