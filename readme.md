@@ -506,7 +506,7 @@ Enter the End
 	* *this increases nearby spawns of all enemies, not just Blazes (doesn't affect spawners)*
 	* *Mobs spawn more often in Soul Sand Valleys, so if a Fortress is located in one, 5RD is pretty risky*
 * if your Axe breaks while fighting Blazes, [Shovels do slightly more Damage than Pickaxes](https://i.imgur.com/gpxqtCg.webp) of the same Quality
-	* *while Pickaxe has more DPS, it also requires an extra hit on average*
+	* *while Pickaxes above Gold have very marginally more DPS, they also require an extra hit below Diamond*
 	* *assuming Crits @ 100% Power, hits needed to kill a Blaze:*
 		* *Shovel: Wood/Gold = 6, Stone = 4, Iron = 3, Diamond = 3*
 		* *Pickaxe: Wood/Gold = 7, Stone = 5, Iron = 4, Diamond = 3*
