@@ -506,6 +506,10 @@ Enter the End
 	* *this increases nearby spawns of all enemies, not just Blazes (doesn't affect spawners)*
 	* *Mobs spawn more often in Soul Sand Valleys, so if a Fortress is located in one, 5RD is pretty risky*
 * if your Axe breaks while fighting Blazes, [Shovels do slightly more Damage than Pickaxes](https://i.imgur.com/gpxqtCg.webp) of the same Quality
+	* *while Pickaxe has more DPS, it also requires an extra hit on average*
+	* *assuming Crits @ 100% Power, hits needed to kill a Blaze:*
+		* *Shovel: Wood/Gold = 6, Stone = 4, Iron = 3, Diamond = 3*
+		* *Pickaxe: Wood/Gold = 7, Stone = 5, Iron = 4, Diamond = 3*
 * Blazes will Target a Player if they have Line of Sight, and are within 48 Blocks
 	* *once acquiring a Target, the Blaze will set itself... **ablaze**, for 3 seconds*
 	* *at the end of this 3 second period, the Blaze will begin to shoot a Volley of 3 Fireballs*
