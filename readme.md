@@ -186,7 +186,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 **Video Guides:** [Haroon Shah, Jun 2021](https://youtu.be/iaUF0oaegns) | [Couriway, Dec 2020](https://youtu.be/REas9cmjlic) | [LiquidCandy, Dec 2020](https://youtu.be/14XeowuYgV0) | [Cuffep, Oct 2020](https://youtu.be/GQodZBfdL3g)
 
 ## **Beginner** | [Structureless](https://youtu.be/7dOca1LHefk) Overworld
-*Lower speed potential, but more consistent, resulting in far fewer resets - great for new runners*
+*Lower speed potential, but more consistent, resulting in far fewer resets*
 * Gather 3 Logs → Craft 12 Planks → Craft a [Crafting Table + 8 Sticks](https://i.imgur.com/3Is7R0F.webp)
 * Find a nearby Cave → Decend into the Cave until you find Iron Ore
 * Place the Crafting Table → Craft a [Wooden Pickaxe](https://i.imgur.com/AgRcfOf.webp) → Mine 3 Cobblestone → Craft a [Stone Pickaxe](https://i.imgur.com/YdNn79N.webp) → 
