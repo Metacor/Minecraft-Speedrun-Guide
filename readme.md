@@ -185,7 +185,9 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 # Speedrun Guide
 **Video Guides:** [Haroon Shah, Jun 2021](https://youtu.be/iaUF0oaegns) | [Couriway, Dec 2020](https://youtu.be/REas9cmjlic) | [LiquidCandy, Dec 2020](https://youtu.be/14XeowuYgV0) | [Cuffep, Oct 2020](https://youtu.be/GQodZBfdL3g)
 
-## **Beginner** | [Structureless](https://youtu.be/7dOca1LHefk) Overworld
+## The Overworld
+
+### **Beginner** | [Structureless](https://youtu.be/7dOca1LHefk) Overworld
 *Lower speed potential, but more consistent, resulting in far fewer resets*
 * Gather 3 Logs → Craft 12 Planks → Craft a [Crafting Table + 8 Sticks](https://i.imgur.com/3Is7R0F.webp)
 * Find a nearby Cave → Decend into the Cave until you find Iron Ore
@@ -200,7 +202,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Find a nearby Lava Lake, or Dig deeper in the Cave to find Lava → [Create a Nether Portal](https://youtu.be/iaUF0oaegns?t=2029) → Enter the Nether
 	* While in the Nether, Collect Mushrooms in order to Craft [Suspicious Stews](https://i.imgur.com/zl00UZT.webp)
 
-## **Standard** | Village Overworld 
+### **Standard** | Village Overworld 
 *Spawn with a nearby Village - Ideally a Plains, Desert, or Savanna Village (for the guaranteed Hay Bales)*  
 *if the Village is in a Desert, Gather Wood and Stone before entering - Trees don't spawn, and buildings are Sand*  
 *if high rolled, Taiga Villages have a chance to be very good, however on average they're worse than the ones above*  
@@ -209,7 +211,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Place the Crafting Table near your Mining Destination → Craft a [Wooden Pickaxe](https://i.imgur.com/AgRcfOf.webp) → Mine 6 Stone → 
 	* Craft a [Stone Axe, a Stone Hoe, and a Stone Shovel](https://i.imgur.com/UDSN7Uc.webp) → Pickup the Crafting Table → Chop 8+ Logs 
  
-### Village Tasks:
+**Village Tasks:**  
 * Loot Blacksmiths, if available:
 	* if 10+ Obsidian: Skip Bucket → Mine 4 Stone, *(instead of 6)* → Skip the Stone Hoe Craft
 	* if 3+ Iron Ingots: Gather 2 Logs, instead of 3 → Skip Wooden Pickaxe
@@ -232,7 +234,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* [Minimum Blocks Required](https://i.imgur.com/jSspUON.webp) | [Minimum Space Required](https://i.imgur.com/MvQjKXN.webp)
 		* *for minimum space, the bottom 2 spaces aren't required if doing [Cave Portal](https://youtu.be/6Lw2Mng_q4U) | [1-Deep](https://youtu.be/IHnBUAgQwsc)*
 		
-## **Advanced** | [Pirate](https://youtu.be/EJ4G8QbhrGM) Overworld
+### **Advanced** | [Pirate](https://youtu.be/EJ4G8QbhrGM) Overworld
 *Spawn near an Ocean, with a Shipwreck nearby - with 7+ Iron inside (ideally 11+)*
 * Gather 3 Logs → Craft 12 Planks → Craft a [Crafting Table + 8 Sticks](https://i.imgur.com/3Is7R0F.webp)
 * Place the Crafting Table near a Tree → Craft a [Wooden Axe](https://i.imgur.com/qdy0r1s.webp) → Chop 4+ Logs →
@@ -276,7 +278,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 			* *4 Blocks = 1/2 Heart | 7 Blocks = 2 Hearts | 15 Blocks = 6 Hearts, etc*
 			* *While in the Stronghold, you can climb up the Starter Staircase to easily get some height*
 
-## **Advanced+** | Pirate → Ocean Monument
+### **Advanced+** | Pirate → Ocean Monument
 **Ocean Monument Guides:** [T_Wagz](https://youtu.be/0dyHYkg_xIU) | [Silver](https://youtu.be/14FGC1eUHug) - [Part 2](https://youtu.be/-b7nQyXZkfw)   
 *Same start as [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate-overworld), but you also Gather the guaranteed 8 Gold Blocks from an Ocean Monument*  
 *sometimes allowing you to completely skip the Bastion while in the Nether*  
@@ -298,7 +300,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* *trap 2 Piglins in a Boat → Throw them your Gold Ingots → Proceed into the Fortress*
 		* *don't forget to return to the Piglins to collect your loot - if you didn't get enough → Find a Bastion*
 
-## **Expert** | [Hypermodern](https://youtu.be/gAHMJfsrHe4)  
+### **Expert** | [Hypermodern](https://youtu.be/gAHMJfsrHe4)  
 *Combination of the most optimal strats, Resets are frequent, so having a very high Reset Efficiency is recommended*
 * [Mapless Treasure](https://youtu.be/_dyD8ZwagDg), *if available* → [Pirate](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate-overworld) → [Ravine Nether Entry](https://youtu.be/H2fHDidyfJo?t=63) → 
 	* *if you spot a Shipwreck from your spawn location, [prioritize that](https://youtu.be/CEG8oXyz9zc?t=257) over Mapless Treasure*
