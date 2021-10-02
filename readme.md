@@ -461,6 +461,8 @@ Enter the End
 	* Stone Pickaxe: Stone takes **0.6 Seconds** | Cobblestone takes **0.75 Seconds**
 * Lava Lakes tend to spawn underneath Water Lakes
 	* *if you're unable to find a Lava Lake on the surface, try digging near small surface Water Lakes*
+* [Lava Dousing](https://youtu.be/SzNbVxDj-do)
+	* *more advanced and precise way to find subsurface Lava Lakes*
 * When Searching for an Ocean Ravine, turn on Entity Hitboxes (F3 + B), and look out for Floating Kelp
 	* *if you see floating Kelp in a Deep Ocean, there is [likely a Ravine below it](https://youtu.be/yGyMWYhHYoQ?t=471)*
 * to avoid Glitchy Buckets while making Nether Portals, [don't move while grabbing Lava](https://youtu.be/EjwStTX4U3A)
