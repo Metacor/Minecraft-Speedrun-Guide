@@ -370,7 +370,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 **Optional Items**  
 * **Fire Resistance Potion**: Makes you immune to Lava / Fire Damage 
-	* *makes you immune to blaze's fireballs, but not their melee attacks*
+	* *makes you immune to Blaze's fireballs, but not their melee attacks*
 * **String**: Allows you to Craft Beds *([4:1 Wool → 3:1 Bed](https://i.imgur.com/PFGJa4f.webp))*
 	* *if you don't have enough Beds from the Overworld, this isn't optional*
 * *Cross***Bow + Arrows**: Allows you to [Half-Bow](https://youtu.be/whwjNbIni58) while in the Ender Dragon fight
