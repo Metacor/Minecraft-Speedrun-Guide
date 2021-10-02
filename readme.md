@@ -505,7 +505,7 @@ Enter the End
 * When entering a Fortress, you can lower your Render Distance to 5 (5RD), increasing nearby random Blazes
 	* *this increases nearby spawns of all enemies, not just Blazes (doesn't affect spawners)*
 	* *Mobs spawn more often in Soul Sand Valleys, so if a Fortress is located in one, 5RD is pretty risky*
-* if your Axe breaks while fighting Blazes, [Shovels do slightly more Damage than Pickaxes](https://i.imgur.com/gpxqtCg.webp) of the same Quality
+* if your Axe breaks while fighting Blazes, [Shovels do slightly more Damage than Pickaxes](https://i.imgur.com/gpxqtCg.webp) of the same Type
 	* *while Pickaxes above Gold have very marginally more DPS, they also require an extra hit below Diamond*
 	* *assuming Crits @ 100% Power, hits needed to kill a Blaze:*
 		* *Shovel: Wood/Gold = 6, Stone = 4, Iron = 3, Diamond = 3*
