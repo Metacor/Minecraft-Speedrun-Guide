@@ -465,6 +465,9 @@ Enter the End
 	* Wooden Pickaxe: Stone takes **1.15 Seconds** | Cobblestone takes **1.5 Seconds**
 	* Stone Pickaxe: Stone takes **0.6 Seconds** | Cobblestone takes **0.75 Seconds**
 * if the Iron Golem is already in a good spot, you can build up next to it before you attack
+* if you need to climb something, but don't have many Blocks, you can use a [Bucket of Water](https://youtu.be/PkrCPuS6IZ8?t=380)
+	* *this is also useful in the End, after you break the final block, when digging out of a buried spawn*
+	* *doing this wouldn't work in the Nether, as Buckets of Water don't work in the Nether*
 * Lava Lakes tend to spawn underneath Water Lakes
 	* *if you're unable to find a Lava Lake on the surface, try digging near small surface Water Lakes*
 * [Lava Dousing](https://youtu.be/SzNbVxDj-do)
@@ -472,7 +475,7 @@ Enter the End
 * When Searching for an Ocean Ravine, turn on Entity Hitboxes (F3 + B), and look out for Floating Kelp
 	* *if you see floating Kelp in a Deep Ocean, there is [likely a Ravine below it](https://youtu.be/yGyMWYhHYoQ?t=471)*
 * to avoid Glitchy Buckets while making Nether Portals, [don't move while grabbing Lava](https://youtu.be/EjwStTX4U3A)
-* Buckets of Water don't actually work in the Nether, so when you finish your Nether Portal, fill the Bucket with Lava
+* Since Buckets of Water don't work in the Nether, when you finish your Nether Portal, fill the Bucket with Lava
 * if you plan on Microlensing your Bastion in the Nether, turn on the F3 Menu before you teleport to the Nether
 
 ### The Nether
