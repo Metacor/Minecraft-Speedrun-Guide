@@ -265,7 +265,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 		* Shear Sheep in the Overworld or Collect Cobwebs in a Stronghold Library
 * You wont have much Food (if any):
 	* In the Nether: Craft [Mushroom Stews](https://i.imgur.com/5fLy4j5.webp) or Kill Burning Hoglins to get Pre-Cooked Meat
-		* *if you looted carrots from the Shipwreck, you can Craft some [Golden Carrots](https://i.imgur.com/U5GaNsx.webp)*
+		* *if you Looted carrots from the Shipwreck, you can Craft some [Golden Carrots](https://i.imgur.com/U5GaNsx.webp)*
 	* In the Overworld: Kill Burning Animals to get Pre-Cooked Meat
 	* Optionally: Suicide to Reset Hitpoints / Hunger
 		* Nether: Craft a [Respawn Anchor](https://i.imgur.com/n7sZDd9.webp) → use a Glowstone Block on it to Set Spawn→ Suicide
@@ -289,7 +289,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 		* *Drink a Milk Bucket (use an Empty Bucket on a cow, mooshroom, or goat)*
 		* *Set your Spawn at a Bed, and Suicide, (see Suicide Methods in [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate-overworld))*
 			* *optionally: if you're close to the World Spawn, Suicide without setting your Spawn*
-	* loot the 8 Gold Blocks from the Monument, following one of the guides linked above → Leave the Monument
+	* Loot the 8 Gold Blocks from the Monument, following one of the guides linked above → Leave the Monument
 	* Once you're a reasonable distance away from the Monument, set your Render Distance back to normal
 * Continue with the normal Pirate strats → Ravine Nether Portal → Enter the Nether
 	* The same Bed/Food limitations exist  
@@ -298,7 +298,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 
 * While in the Nether: Find a Fortress → Trade with nearby randomly spawned Piglins → Kill Blazes for Blaze Rods
 	* *trap 2 Piglins in a Boat → Throw them your Gold Ingots → Proceed into the Fortress*
-		* *don't forget to return to the Piglins to collect your loot - if you didn't get enough → Find a Bastion*
+		* *don't forget to return to the Piglins to collect your Loot - if you didn't get enough → Find a Bastion*
 
 ### **Expert** | [Hypermodern](https://youtu.be/gAHMJfsrHe4)  
 *Combination of the most optimal strats, Resets are frequent, so having a very high Reset Efficiency is recommended*
@@ -442,7 +442,7 @@ Enter the End
 		* *if the Shipwreck is right-side up, you can loot this chest [from above](https://youtu.be/EUiU5MZt_7g?t=72)*
 	* Back Side: *the back side is wider, and has a window on all 3 outer sides*
 		* Top Chest: Iron Ingots, Gold Ingots
-			* *if the Shipwreck is right-side up, you can loot this chest [from above](https://youtu.be/dX83N4q4YWU?t=57)*
+			* *if the Shipwreck is right-side up, you can Loot this chest [from above](https://youtu.be/dX83N4q4YWU?t=57)*
 		* Bot Chest: Buried Treasure Maps
 			* Buried Treasure is always located @ 9/x/9 in the Chunk where the X is located 
 * In Ocean Monuments, the Guardian's Lazer attack will kill you in: Hits Required (Damage Taken/20)
@@ -451,7 +451,7 @@ Enter the End
 	* *their lazer attack requires 2 seconds of uninterrupted line of sight, simply break LoS to take 0 Damage*
 		* *proper Door placement will usually negate all potential Damage when searching for the Gold Blocks*
 * [Desert Temples](https://youtu.be/gS6LxaNibWM?t=76)
-	* To quickly collect all of the Chests, aswell as any surrounding Blocks
+	* To quickly collect all of the Chest Loot, aswell as any surrounding Blocks
 		* Start by breaking the Block under the Pressure Plate, then jump into the hole
 		* Collect the TnT → Place 1 TnT under your → Place 1 TnT in a corner on top → 
 			* Place the Preasure Plate next to the TnT → Activate the Pressure Plate →
@@ -631,7 +631,7 @@ Enter the End
 
 **Shipwrecks**  
 * Identify each Shipwreck type from a distance *(full, front, front+map, back)*
-* Practice entering through the back side windows → loot the Chest → get out
+* Practice entering through the back side windows → Loot the Chest → get out
 * Follow the Map and find the Buried Treasure
 
 **Ocean Monuments**  
