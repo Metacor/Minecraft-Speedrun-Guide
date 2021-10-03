@@ -456,13 +456,8 @@ Enter the End
 		* *with Healing, Easy will almost always take 6 hits, and Normal will sometimes take 5*
 	* *their lazer attack requires 2 seconds of uninterrupted line of sight, simply break LoS to take 0 Damage*
 		* *proper Door placement will usually negate all potential Damage when searching for the Gold Blocks*
-* [Desert Temples](https://youtu.be/gS6LxaNibWM?t=76)
-	* To quickly collect all of the Chest Loot, aswell as any surrounding Blocks
-		* Start by breaking the Block under the Pressure Plate, then jump into the hole
-		* Collect the TnT → Place 1 TnT under your → Place 1 TnT in a corner on top → 
-			* Place the Preasure Plate next to the TnT → Activate the Pressure Plate →
-				* Break the TnT Below you *(don't activate it)* → Hide in the hole →
-	* [Alternative Method](https://youtu.be/CdoYoYrOyjU?t=5) where you place the TnT below, instead of above
+* Desert Temples - *explode a single TnT to collect all of the Chest Loot and any surrounding Blocks*
+	* [Top TnT](https://youtu.be/gS6LxaNibWM?t=76) | [Bot TnT](https://youtu.be/CdoYoYrOyjU?t=5)
 * Mining Stone takes slightly less time than Mining Cobblestone, (typically found as part of Plains Village houses)
 	* Wooden Pickaxe: Stone takes **1.15 Seconds** | Cobblestone takes **1.5 Seconds**
 	* Stone Pickaxe: Stone takes **0.6 Seconds** | Cobblestone takes **0.75 Seconds**
