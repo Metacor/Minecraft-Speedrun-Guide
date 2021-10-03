@@ -563,6 +563,8 @@ Enter the End
 	* *N/S Perch is faster than E/W, however it gives the player less time to react to the Perch*
 * The Dragon's Fireball doesn't actually do Damage, the AoE ground Effect left behind is what Damages you
 	* *an easy way to avoid the Damage, is to get hit on purpose, then Jump → place a Block below you*
+* if you aggro an Enderman, try to trap it in a Boat so you can easily Kill it without taking damage
+	* *this can also be used in the Overworld / Nether to collect Ender Pearls*
 * Using Pick Block to select Beds while One-Cycling the Dragon makes inventory management a lot more simple
 * if you failed to One-Cycle the Dragon: attack the Dragon's Head Hitbox
 	* *don't try to crit, just stand normally and hit with fully charged attacks*
