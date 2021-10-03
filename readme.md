@@ -47,9 +47,7 @@
 * [Speedrun Cheatsheet](https://github.com/Metacor/Minecraft_Speedrun_Guide#speedrun-cheatsheet)
 
 # Setup 
-**Setup Video Guides**: [k4yfour](https://youtu.be/4cTbSyvWNgI) | [DashPum4](https://youtu.be/km0sXurMj5s)  
-[Lenszel's Speedrunning Tools List](https://docs.google.com/document/d/1REEzqLCmOizEhY797kLCXI4I0ftm4N-u8aaD8ECzIw8/edit) | [
-Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
+**Setup Guides**: [k4yfour](https://youtu.be/4cTbSyvWNgI) | [DashPum4](https://youtu.be/km0sXurMj5s) | [Lenszel's Speedrunning Tools List](https://docs.google.com/document/d/1REEzqLCmOizEhY797kLCXI4I0ftm4N-u8aaD8ECzIw8/edit)
 
 * Win + r → %appdata% → .minecraft → options.txt → **gamma:5.0**
 * Options → Music & Sounds → **Show Subtitles: ON**
@@ -187,7 +185,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 <br/>
 
 # Speedrun Guide
-**Video Guides:** [Haroon Shah, Jun 2021](https://youtu.be/iaUF0oaegns) | [Couriway, Dec 2020](https://youtu.be/REas9cmjlic) | [LiquidCandy, Dec 2020](https://youtu.be/14XeowuYgV0) | [Cuffep, Oct 2020](https://youtu.be/GQodZBfdL3g)
+**Video Guides:** [Nuskapuska, Mar 2021](https://youtu.be/0PXQvPNCxy8) | [Haroon Shah, Jun 2021](https://youtu.be/iaUF0oaegns) | [Couriway, Dec 2020](https://youtu.be/REas9cmjlic) | [LiquidCandy, Dec 2020](https://youtu.be/14XeowuYgV0) | [Cuffep, Oct 2020](https://youtu.be/GQodZBfdL3g)
 
 ## The Overworld
 
