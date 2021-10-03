@@ -224,7 +224,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 		* *you can skip with 6 Iron, but that will require a [Flintless Portal](https://youtu.be/DVDbfKuLaWo?t=9)*
 * Collect Beds from the Village Houses, *(and Carpets, if you plan on doing the [Carpet Flintless Portal](https://youtu.be/DVDbfKuLaWo?t=38))*
 * Kill the Golem: Drops 3-5 Iron Ingots
-	* Hit the Golem from max distance, from behind if possible → Run a few Blocks away → Build up 3 Blocks
+	* Hit the Golem from max Distance, from behind if possible → Run a few Blocks away → Build up 3 Blocks
 	* Crit the Golem ~8 times to Kill it: Jump → Fall → Attack, while Falling *(with Stone Hatchet)*
 * Place the Crafting Table → Craft an [Iron Pickaxe](https://i.imgur.com/lDMvU7r.webp) and a [Boat](https://i.imgur.com/DVab0D2.webp)
 	* if Bucket of Cod Trade: Place this Crafting Table near Villagers, additionally: Craft a [Composter](https://i.imgur.com/i0LLq5Q.webp) and a [Barrel](https://i.imgur.com/Mbx8xyo.webp)
@@ -281,7 +281,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 		* Ender Pearl: Throw Ender Pearls [at the ground](https://youtu.be/IH47hXfRFl0), dealing 2.5 Hearts of Damage on impact
 		* Fall Damage: 1/2 Heart per Block above 3 Blocks
 			* *4 Blocks = 1/2 Heart | 7 Blocks = 2 Hearts | 15 Blocks = 6 Hearts, etc*
-			* *While in the Stronghold, you can climb up the Starter Staircase to easily get some height*
+			* *While in the Stronghold, you can climb up the Starter Staircase to easily get some Height*
 
 ### **Advanced+** | Pirate → Ocean Monument  
 **Ocean Monument Guides:** [T_Wagz](https://youtu.be/0dyHYkg_xIU) | [Silver](https://youtu.be/14FGC1eUHug) - [Part 2](https://youtu.be/-b7nQyXZkfw)   
@@ -295,7 +295,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 		* *Set your Spawn at a Bed, and Suicide, (see Suicide Methods in [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate-overworld))*
 			* *optionally: if you're close to the World Spawn, Suicide without setting your Spawn*
 	* Loot the 8 Gold Blocks from the Monument, following one of the guides linked above → Leave the Monument
-	* Once you're a reasonable distance away from the Monument, set your Render Distance back to normal
+	* Once you're a reasonable Distance away from the Monument, set your Render Distance back to normal
 * Continue with the normal Pirate strats → Ravine Nether Portal → Enter the Nether
 	* The same Bed/Food limitations exist  
 
@@ -374,7 +374,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* *ideally, 16+, 2 for the Ender Dragon fight, 2+ for broken Eye of Enders*  
 
 **Optional Items**  
-* **Fire Resistance Potion**: Makes you immune to Lava / Fire Damage 
+* **Potion of Fire Resistance**: Makes you immune to Lava / Fire Damage 
 	* *makes you immune to Blaze's fireballs, but not their melee attacks*
 * **String**: Allows you to Craft Beds *([4:1 Wool → 3:1 Bed](https://i.imgur.com/PFGJa4f.webp))*
 	* *if you don't have enough Beds from the Overworld, this isn't optional*
@@ -511,10 +511,10 @@ Enter the End
 			* *if forced to build inside, use stairs at the ends of your bridge*
 		* *build 3 Blocks wide, to make sure Piglins follow*
 		* *piglins can't run across corners, so make sure there is a direct path over the Lava*
-* Splash Potions have a [longer Duration if the directly impact an Entity](https://minecraft.fandom.com/wiki/Splash_Potion#Using)
-	* *when using Fire Protection Splash Potions, throw them directly upwards and let them hit you*
+* Splash Potions have a [longer Duration if they directly impact an Entity](https://minecraft.fandom.com/wiki/Splash_Potion#Using)
+	* *when using a Splash Potion of Fire Resistance, throw it directly upwards and let it fall on you*
 		* *if you throw it directly at your feet, you lose ~20 seconds of Effect Duration*
-	* *if you [throw the Splash Potion while Falling](https://youtu.be/NVb0EMzorw4) (either from jumping, or normally), you can get near the max Duration*
+	* *if a [Splash Potion is thrown while Falling](https://youtu.be/NVb0EMzorw4), you can recieve nearly the max Duration*
 * While trying to Pie-Ray, if you accidentally press the wrong button, press '0' to go back a page  
 * When entering a Fortress, you can lower your Render Distance to 5 (5RD), increasing nearby random Blazes
 	* *this increases nearby spawns of all enemies, not just Blazes (doesn't affect spawners)*
@@ -533,7 +533,7 @@ Enter the End
 	
 ### The Overworld, Part 2
 * The Stronghold will spawn a [minimum of 1280 Blocks](https://minecraft.fandom.com/wiki/Stronghold#Java_Edition) from *(0, 0)*
-	* *this distance is calculated triangularly not linearly, so (a²+b²=c²), not (a+b=c)*
+	* *this Distance is calculated triangularly not linearly, so (a²+b²=c²), not (a+b=c)*
 		* *(150x, 150z) would be ~212 Blocks away from (0, 0), not ~300*
 	* *if you're just adding x + z, then the Stronghold ≈ 2000 - 2400 (Overworld) | 250 - 300 (Nether)*
 * When travelling across Water, it is faster to use a [Dolphin's Boost](https://minecraft.fandom.com/wiki/Dolphin%27s_Grace), than it would be to use a Boat
@@ -555,11 +555,11 @@ Enter the End
 
 ### The End
 * You will **always** spawn East of the Island, facing West, towards the Exit Portal
-* The Dragon Perches faster the farther away you are from the Exit Portal, both height and distance
+* The Dragon Perches faster the farther away you are from the Exit Portal, both Height and Distance
 * The Dragon will Perch from the opposite side of you, in relation to the Exit Portal
 	* *Diagonal Perches are a lot harder to One Cycle, so it's recommended to run away N/S/E/W*
 	* *N/S Perch is faster than E/W, however it gives the player less time to react to the Perch*
-* The Dragon's Fireball doesn't actually do Damage, the AoE ground effect left behind is what Damages you
+* The Dragon's Fireball doesn't actually do Damage, the AoE ground Effect left behind is what Damages you
 	* *an easy way to avoid the Damage, is to get hit on purpose, then Jump → place a Block below you*
 * Using Pick Block to select Beds while One-Cycling the Dragon makes inventory management a lot more simple
 * if you failed to One-Cycle the Dragon: attack the Dragon's Head Hitbox
@@ -639,7 +639,7 @@ Enter the End
 	* *also identify which houses have Carpets in them, in case you need to do a Flintless Portal*
 
 **Shipwrecks**  
-* Identify each Shipwreck type from a distance *(full, front, front+map, back)*
+* Identify each Shipwreck type from a Distance *(full, front, front+map, back)*
 * Practice entering through the back side windows → Loot the Chest → get out
 * Follow the Map and find the Buried Treasure
 
