@@ -422,7 +422,7 @@ Enter the End
 * When you spawn in The End, get to the Exit Portal as soon as possible
 	* *if you spawn above ground, Ender Pearl directly to the Exit Portal*
 	* *if you spawn underground, Mine up along the West wall, ideally in a corner*
-		* *[place a Block in the corner → Jump onto it → Mine up 5 Blocks → Place Blocks below you → Repeat until you're on top](https://youtu.be/b96APrsfm6s?t=750)*
+		* *[Place a Block → Jump onto it → Mine up 5 Blocks → Place Blocks below you → Repeat](https://youtu.be/b96APrsfm6s?t=750)*
 * Setup your preferred Bed Platform: [Obsidian]() | [Full Block]() | [Slab]()
 	* *run away in your preferred Perch direction (N/S or E/W)*
 		* *your Bed Platform position might need to change, based on your chosen Perch direction*
