@@ -433,7 +433,9 @@ Enter the End
 		
 <br/>
 
-# Tips & Tricks
+# Tips & Tricks  
+*this section is roughly listed in the order each situation would appear in a run*  
+
 ### The Overworld
 * [Shipwrecks](https://i.imgur.com/ws384ow.webp)
 	* Front Side Chest: Food 
