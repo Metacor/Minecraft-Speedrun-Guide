@@ -327,7 +327,7 @@
 *Find a Bastion, Trade Gold to Piglins for Obsidian and Ender Pearls → Find a Fortress, Kill Blazes for Blaze Rods*
 
 ### **Microlensing**, *a.k.a. E-Ray*  
-**Video Guides**: [k4yfour](https://youtu.be/jvTfMLPnMSw) - [Part 2](https://youtu.be/Ou58P7e-ZY0) | [Nuskapuska's Slide](https://i.imgur.com/98heFGq.webp)
+[k4yfour](https://youtu.be/jvTfMLPnMSw) - [Part 2](https://youtu.be/Ou58P7e-ZY0) | [Nuskapuska's Slide](https://i.imgur.com/98heFGq.webp)
 * When you enter The Nether, open your F3 Menu *(if not already opened)*, and look at the **Right** [E: Value](https://i.imgur.com/w6WZlqf.webp)
 	* *for example, in the image linked above, E: 32/**122**, you should be looking at 122*
 	* *ideally, open your F3 Menu before entering your Nether Portal in the Overworld*
@@ -414,7 +414,7 @@ Enter the End
 <br/>
 
 ## The End  
-**Video Guides**: [k4yfour](https://youtu.be/-Ta_1R1aXvA) | [Hashten](https://youtu.be/aGMLHXnD6Bc) | [BoomerPlayz](https://youtu.be/1daiTbj1OiE) - [Part 2](https://youtu.be/uBp8uVbW1us)  
+[k4yfour](https://youtu.be/-Ta_1R1aXvA) | [Hashten](https://youtu.be/aGMLHXnD6Bc) | [BoomerPlayz](https://youtu.be/1daiTbj1OiE) - [Part 2](https://youtu.be/uBp8uVbW1us)  
 *Kill the Ender Dragon, Finishing the Game*  
 
 * When you spawn in The End, get to the Exit Portal as soon as possible
@@ -438,7 +438,7 @@ Enter the End
 <br/>
 
 # Tips & Tricks  
-**Videos:** [Cuffep](https://youtu.be/CdoYoYrOyjU) - [Part 2](https://youtu.be/IhrK0AuMkBg) | [Couriway](https://youtu.be/fIeVOFqGwOM) | [Penney](https://youtu.be/TvvApbI6fis)  
+[Cuffep](https://youtu.be/CdoYoYrOyjU) - [Part 2](https://youtu.be/IhrK0AuMkBg) | [Couriway](https://youtu.be/fIeVOFqGwOM) | [Penney](https://youtu.be/TvvApbI6fis)  
 *this section is roughly listed in the order each situation would appear in a run*  
 
 ### The Overworld
