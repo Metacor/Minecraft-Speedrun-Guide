@@ -451,12 +451,9 @@ Enter the End
 	* *their lazer attack requires 2 seconds of uninterrupted line of sight, simply break LoS to take 0 Damage*
 * [Desert Temples](https://youtu.be/gS6LxaNibWM?t=76)
 	* To quickly collect all of the Chests, aswell as any surrounding Blocks
-		* Collect all of the TnT → Place 1 TnT under you → 
-		* Place 1 TnT in a Corner on the Top → 
-		* Place a Pressure Plate next to it → 
-		* Activate the Pressure Plate →
-		* Break the TnT below you (don't activate it) →
-		* Crouch in the hole under the active TnT, avoiding most of it's Damage
+		* Collect the TnT → Place 1 TnT under your → Place 1 TnT in a corner on top → 
+			* Place the Preasure Plate next to the TnT → Activate the Pressure Plate →
+				* Break the TnT Below you *(don't activate it)* → Hide in the Hole →
 * Mining Stone takes slightly less time than Mining Cobblestone, (typically found as part of Plains Village houses)
 	* Wooden Pickaxe: Stone takes **1.15 Seconds** | Cobblestone takes **1.5 Seconds**
 	* Stone Pickaxe: Stone takes **0.6 Seconds** | Cobblestone takes **0.75 Seconds**
