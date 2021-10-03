@@ -457,10 +457,10 @@ Enter the End
 		* Activate the Pressure Plate →
 		* Break the TnT below you (don't activate it) →
 		* Crouch in the hole under the active TnT, avoiding most of it's Damage
-* if the Iron Golem is already in a good spot, you can build up next to it before you attack
 * Mining Stone takes slightly less time than Mining Cobblestone, (typically found as part of Plains Village houses)
 	* Wooden Pickaxe: Stone takes **1.15 Seconds** | Cobblestone takes **1.5 Seconds**
 	* Stone Pickaxe: Stone takes **0.6 Seconds** | Cobblestone takes **0.75 Seconds**
+* if the Iron Golem is already in a good spot, you can build up next to it before you attack
 * Lava Lakes tend to spawn underneath Water Lakes
 	* *if you're unable to find a Lava Lake on the surface, try digging near small surface Water Lakes*
 * [Lava Dousing](https://youtu.be/SzNbVxDj-do)
