@@ -455,7 +455,7 @@ Enter the End
 		* Start by breaking the Block under the Pressure Plate, then jump into the hole
 		* Collect the TnT → Place 1 TnT under your → Place 1 TnT in a corner on top → 
 			* Place the Preasure Plate next to the TnT → Activate the Pressure Plate →
-				* Break the TnT Below you *(don't activate it)* → Hide in the Hole →
+				* Break the TnT Below you *(don't activate it)* → Hide in the hole →
 * Mining Stone takes slightly less time than Mining Cobblestone, (typically found as part of Plains Village houses)
 	* Wooden Pickaxe: Stone takes **1.15 Seconds** | Cobblestone takes **1.5 Seconds**
 	* Stone Pickaxe: Stone takes **0.6 Seconds** | Cobblestone takes **0.75 Seconds**
