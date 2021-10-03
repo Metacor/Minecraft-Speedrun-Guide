@@ -478,6 +478,8 @@ Enter the End
 	* [This will usually despawn the Ghast](https://youtu.be/tWVrxt0G6r0?t=696)
 	* *You can turn your Render Distance back up after it disappears*
 	* *if the Ghast is close, just reflect its attack back at it*
+* When running across Soul Sand, either bridge with Blocks, or [run along the edges](https://youtu.be/7mRh3TWajn0)
+	* *this will also work on other non-normal Blocks, such as Magma, Ice, Honey, etc*
 * if you find Nether Gold Ore while travelling to a Bastion, consider Mining it and making [Gold Boots](https://i.imgur.com/QrAbJ35.webp)
 	* *Boots only take 4 Gold Ingots (36 Gold Nuggets), ~9 Ore on average*
 	* *Wearing any Gold Armor will make it so Piglins don't auto-aggro you*
