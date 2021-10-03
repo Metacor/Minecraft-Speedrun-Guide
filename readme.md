@@ -186,7 +186,7 @@
 
 # Speedrun Guide
 **Video Guides:** [Haroon Shah, Jun 2021](https://youtu.be/iaUF0oaegns) | [Couriway, Dec 2020](https://youtu.be/REas9cmjlic) | [LiquidCandy, Dec 2020](https://youtu.be/14XeowuYgV0) | [Cuffep, Oct 2020](https://youtu.be/GQodZBfdL3g)  
-*[Nuskapuska's Slideshow Speedrun Guide, Mar 2021](https://youtu.be/0PXQvPNCxy8)*
+* *[Nuskapuska's Slideshow Speedrun Guide, Mar 2021](https://youtu.be/0PXQvPNCxy8)*
 
 ## The Overworld
 
