@@ -13,6 +13,7 @@
 	* Check the skinny main view to make sure there isn't any unnecessary text wraps
 	* Spell Check / Phrasing Check the entire document *(missed words, poor punctuation, unclosed italics, etc)*
 	* Keep consistent Capitalization *(make sure all instances of an item/entity/word are the same)*
+		* *words after a : or → should be treated as a new sentence*
 		* *The first word of each sentence should be Capitalized*
 			* *unless it's an italicized clarifying statement, such as this*
 				* *Special Capitalized words should still be Capitalized in these comments*
@@ -216,10 +217,10 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
  
 **Village Tasks:**  
 * Loot Blacksmiths, if available:
-	* if 10+ Obsidian: Skip Bucket → Mine 4 Stone, *(instead of 6)* → Skip the Stone Hoe Craft
+	* if 10+ Obsidian: Skip Bucket → Mine 4 Stone, *(instead of 6)* → Skip Crafting a Stone Hoe
 		* *still collect 5-10 Hay Bales by hand in order to Craft [Bread](https://i.imgur.com/zq8lZ3M.webp)*
-	* if 3+ Iron Ingots: Gather 2 Logs, instead of 3 → Skip Wooden Pickaxe
-	* if 7+ Total Iron Ingots *(Blacksmith + Golem)*: Skip the Bucket of Cod Trade 
+	* if 3+ Iron Ingots: Gather 2 Logs, instead of 3 → Skip Crafting a Wooden Pickaxe
+	* if 7+ Total Iron Ingots *(Blacksmith + Golem)*: Skip Trading for a Bucket of Cod 
 		* *you can skip with 6 Iron, but that will require a [Flintless Portal](https://youtu.be/DVDbfKuLaWo?t=9)*
 * Collect Beds from the Village Houses, *(and Carpets, if you plan on doing the [Carpet Flintless Portal](https://youtu.be/DVDbfKuLaWo?t=38))*
 * Kill the Golem: Drops 3-5 Iron Ingots
@@ -258,7 +259,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * Resurface → Place the Boat → Search for an Ocean Ravine
 * Create a Ravine Nether Portal: [Spreadsheet](https://docs.google.com/spreadsheets/d/1VU6IZpyhr-3tMXC5GG4ryuqrbmQkvCKE_1nJm2eym4c/edit#gid=1186267001) → Enter the Nether
 	* [Standard]() | [1-Deep]() 
-		* *Cobblestone Skip is faster, and not really any harder, so optionally: skip learning Standard*
+		* *Cobblestone Skip is faster, and not really any harder, so optionally: Skip learning the Standard Method*
 	* [Cobblestone Skip]() - [Safe]() | [1-Deep]()
 	* [2-Wide, Doors]() | [1-Deep]()
 
@@ -272,9 +273,9 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 		* *if you Looted carrots from the Shipwreck, you can Craft some [Golden Carrots](https://i.imgur.com/U5GaNsx.webp)*
 	* In the Overworld: Kill Burning Animals to get Pre-Cooked Meat
 	* Optionally: Suicide to Reset Hitpoints / Hunger
-		* Nether: Craft a [Respawn Anchor](https://i.imgur.com/n7sZDd9.webp) → use a Glowstone Block on it to Set Spawn→ Suicide
+		* Nether: Craft a [Respawn Anchor](https://i.imgur.com/n7sZDd9.webp) → use a Glowstone Block on it to Set Spawn → Suicide
 		* Overworld: Craft a [Bed](https://i.imgur.com/oioKEXE.webp) → Place the Bed → Right Click it to Set Spawn → Suicide
-	* Suicide Methods: *make sure to dig down 2 Blocks and kill yourself in a hole so your Items don't fly everywhere*
+	* Suicide Methods: *make sure to dig down 2 Blocks and Suicide in a hole so your Items don't fly everywhere*
 		* [Fire](https://youtu.be/itqFlGfKvdk?t=460): Use either a Flint and Steel or Lava to set yourself on Fire
 			* *douse the Fire before you die, so you don't accidently destroy your Items*
 		* Ender Pearl: Throw Ender Pearls [at the ground](https://youtu.be/IH47hXfRFl0), dealing 2.5 Hearts of Damage on impact
@@ -318,8 +319,8 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 *if Village with nearby: Lava Lake *(very close)* | Ruined Portal *(completable)* | Blacksmith *(with 10+ Obsidian)**  
 * Village Start
 	* if >= 7 Iron (Blacksmith + Golem): Craft an [Iron Pickaxe](https://i.imgur.com/lDMvU7r.webp) + [Bucket](https://i.imgur.com/eA21HpJ.webp) + [Flint and Steel](https://i.imgur.com/XzZEIrF.webp)
-		* *optionally, if 4+ Iron from the Blacksmith: skip the Golem → skip the Iron Pickaxe → get lucky*
-	* if 4-6 Iron: Skip the Iron Pickaxe, hopefully get lucky with Iron from Bastion Chests
+		* *optionally, if 4+ Iron from the Blacksmith: Skip Killing the Golem → Skip Crafting an Iron Pickaxe → get lucky*
+	* if 4-6 Iron: Skip Crafting an Iron Pickaxe, hopefully get lucky with Iron from Bastion Chests
 	* if 3 Iron: Reset *(or Flintless Portal, if you REALLY want to force the seed)*
 
 <br/>
@@ -357,7 +358,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 	* if Bot: [Manhunt]()
 	* if Top: [Top Down Manhunt](https://youtu.be/55sRL0xsWe8)
 		* Alternative: [Kuee Top Down](https://youtu.be/H2xy6q5Wp4Q)
-			* *the Chest method can also be used for the normal Top Down strat*
+			* *the Chest Method can also be used for the normal Top Down strat*
 				* *Pick Block the Chest to easily get it into your Hotbar*
 * **Stables**: [Structure Video](https://youtu.be/TioQsF5ygOg?t=149) | [Screenshots](https://imgur.com/gallery/u91rHC4) | [Gap Identification](https://www.youtube.com/watch?v=AczOTF5QpZ4&t=164s)
 	* if Triple: [Triple Chest Stables](https://youtu.be/AJxgbRma25Q)
@@ -378,7 +379,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * **String**: Allows you to Craft Beds *([4:1 Wool → 3:1 Bed](https://i.imgur.com/PFGJa4f.webp))*
 	* *if you don't have enough Beds from the Overworld, this isn't optional*
 * *Cross***Bow + Arrows**: Allows you to [Half-Bow](https://youtu.be/whwjNbIni58) while in the Ender Dragon fight
-* **Fire Charge**: if you entered the Nether with a Flintless Portal method, this can substitute for a Flint and Steel
+* **Fire Charge**: if you entered the Nether with a Flintless Portal Method, this can substitute for a Flint and Steel
 	* *if you gathered Flint while in the Overworld, you can also use Iron Nuggets to Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp)*
 		* *Piglins also Trade Gravel, so you can collect Flint in the Nether if you'd like*
 
@@ -424,7 +425,7 @@ Enter the End
 * Setup your preferred Bed Platform: [Obsidian]() | [Full Block]() | [Slab]()
 	* *run away in your preferred Perch direction (N/S or E/W)*
 		* *your Bed Platform position might need to change, based on your chosen Perch direction*
-* Execute your preferred End Island method:
+* Execute your preferred End Island Method:
 	* if you have a *cross*Bow and Arrows → [Half-Bow]()
 	* if you have 2+ Pearls, and you don't plan on doing Half-Bow:
 		* [Pearl up to the highest Obsidian Tower](https://youtu.be/-Ta_1R1aXvA?t=116) in the direction you chose, [build up until you reach y = 122](https://youtu.be/-Ta_1R1aXvA?t=128)
@@ -449,7 +450,7 @@ Enter the End
 			* *if the Shipwreck is right-side up, you can Loot this chest [from above](https://youtu.be/dX83N4q4YWU?t=57)*
 		* Bot Chest: Buried Treasure Maps
 			* Buried Treasure is always located @ 9/x/9 in the Chunk where the X is located 
-* In Ocean Monuments, the Guardian's Lazer attack will kill you in: Hits Required (Damage Taken/20)
+* In Ocean Monuments, the Guardian's Lazer attack will Kill you in: Hits Required (Damage Taken/20)
 	* Easy = 5 (4) **|** Normal = 4 (6) **|** Hard = 3 (9)
 		* *with Healing, Easy will almost always take 6 hits, and Normal will sometimes take 5*
 	* *their lazer attack requires 2 seconds of uninterrupted line of sight, simply break LoS to take 0 Damage*
@@ -516,7 +517,7 @@ Enter the End
 	* *Mobs spawn more often in Soul Sand Valleys, so if a Fortress is located in one, 5RD is pretty risky*
 * if your Axe breaks while fighting Blazes, [Shovels do slightly more Damage than Pickaxes](https://i.imgur.com/gpxqtCg.webp) of the same Type
 	* *while Pickaxes above Gold have very marginally more DPS, they also require an extra hit below Diamond*
-	* *assuming Crits @ 100% Power, hits needed to kill a Blaze:*
+	* *assuming Crits @ 100% Power, hits needed to Kill a Blaze:*
 		* *Shovel: Wood/Gold = 6, Stone = 4, Iron = 3, Diamond = 3*
 		* *Pickaxe: Wood/Gold = 7, Stone = 5, Iron = 4, Diamond = 3*
 * Blazes will Target a Player if they have Line of Sight, and are within 48 Blocks
@@ -579,7 +580,7 @@ Enter the End
 	* *second, Big letter is Left/Middle/Right (column)*  
 
 *the given intructions/screenshots will only be for the most optimal version, even if multiple videos are provided*  
-*the Item(num) positions will assume that you have completed the previous methods as listed*  
+*the Item(num) positions will assume that you have completed the previous Methods as listed*  
 	
 <br/>
 
