@@ -553,7 +553,7 @@ Enter the End
 	* *N/S Perch is faster than E/W, however it gives the player less time to react to the Perch*
 * The Dragon's Fireball doesn't actually do damage, the AoE ground effect left behind is what damages you
 	* *an easy way to avoid the damage, is to get hit on purpose, then Jump → place a Block below you*
-* Using Pick Block to select Beds while One-Cycling the Dragon makes it a lot more simple
+* Using Pick Block to select Beds while One-Cycling the Dragon makes inventory management a lot more simple
 * if you failed to One-Cycle the Dragon: attack the Dragon's Head Hitbox
 	* *don't try to crit, just stand normally and hit with fully charged attacks*
 	* *you can deal up to 50 Damage (~6 Stone Axe hits), before the Dragon will fly away*
