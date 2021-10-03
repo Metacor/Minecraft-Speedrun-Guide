@@ -1,4 +1,4 @@
-# Minecraft: Speedrun Guide - Any%, RSG, 1.16.1
+# Minecraft: Speedrun Guide - Any%, RSG, 1.16
 [Discord](https://discord.com/invite/jmdFn3C) | [Website](https://www.minecraftspeedrunning.com/) | [Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki) | [Leaderboard](https://www.speedrun.com/mc#Any_Glitchless)
 
 ### To Do:
