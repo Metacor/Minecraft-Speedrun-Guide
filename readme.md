@@ -530,7 +530,7 @@ Enter the End
 	* *if you're just adding x + z, then the Stronghold ≈ 2000 - 2400 (Overworld) | 250 - 300 (Nether)*
 * When travelling across Water, it is faster to use a Dolphin's Boost, than it would be to use a Boat
 * if you find an underwater Stronghold, make sure to look around for the Portal Room before blindly entering
-* Strongholds are [extremely unlikely to spawn in Swamps](https://youtu.be/_rbWryJVEmw?t=1011) ([supposedly impossible](https://bugs.mojang.com/browse/MC-136288))
+* Strongholds are [extremely unlikely](https://youtu.be/_rbWryJVEmw?t=1011) to spawn in Swamps ([supposedly impossible](https://bugs.mojang.com/browse/MC-136288))
 * The Portal Room is usually within [5 = 7](https://youtu.be/u42bjqtq5-s) Rooms of the Starter Staircase
 * In the Stronghold, Spiral Staircases always lead up, towards the Starter Staircase
 * [Hidden Rooms Identification](https://www.youtube.com/watch?v=vztJNmUdyBY)
