@@ -13,6 +13,12 @@
 	* Check the skinny main view to make sure there isn't any unnecessary text wraps
 	* Spell Check / Phrasing Check the entire document *(missed words, poor punctuation, unclosed italics, etc)*
 	* Keep consistent Capitalization *(make sure all instances of an item/entity/word are the same)*
+		* *The first word of each sentence should be Capitalized*
+			* *unless it's an italicized clarifying statement, such as this*
+				* *Special Capitalized words should still be Capitalized in these comments*
+					* *such as Item, Damage, Block, Nether*
+						* *the "the" in "the Nether" should only be Capitalized if it's the first word in the sentence*
+			* *all cases of "if" should be lower-case, even if it's the start of a sentence*
 		* *not counting the first word of a sentence*
 		* *italicized side comments, such as this, should be lower case*
 			* *unless referencing an otherwise Capitalized Item/Video/Section/Entity*
