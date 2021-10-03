@@ -414,8 +414,8 @@ Enter the End
 
 **Video Guides**: [k4yfour](https://youtu.be/-Ta_1R1aXvA) | [Hashten](https://youtu.be/aGMLHXnD6Bc) | [BoomerPlayz](https://youtu.be/1daiTbj1OiE) - [Part 2](https://youtu.be/uBp8uVbW1us)
 
-* When you spawn in The End, get to the Fountain as soon as possible
-	* *if you spawn above ground, Ender Pearl directly to the Fountain*
+* When you spawn in The End, get to the Exit Portal as soon as possible
+	* *if you spawn above ground, Ender Pearl directly to the Exit Portal*
 	* *if you spawn underground, Mine up along the West wall, ideally in a corner*
 * Setup your preferred Bed Platform: [Obsidian]() | [Full Block]() | [Slab]()
 	* *run away in your preferred Perch direction (N/S or E/W)*
@@ -425,11 +425,11 @@ Enter the End
 	* if you have 2+ Pearls, and you don't plan on doing Half-Bow:
 		* [Pearl up to the highest Obsidian Tower](https://youtu.be/-Ta_1R1aXvA?t=116) in the direction you chose, [build up until you reach y = 122](https://youtu.be/-Ta_1R1aXvA?t=128)
 	* if you don't have 2+ Pearls, and you also don't plan on doing Half-Bow:
-		* [Run as far away from the Fountain as possible](https://youtu.be/-Ta_1R1aXvA?t=519), while still being able to see if the Dragon is Perching
+		* [Run as far away from the Exit Portal as possible](https://youtu.be/-Ta_1R1aXvA?t=519), while still being able to see if the Dragon is Perching
 * Turn on Entity Hitboxes *(F3 + B)* to help with One-Cycling the Dragon
 	* *hitboxes will also make it more obvious when the Dragon's head "snaps" to the center before Perching*
-* When the Dragon begins to Perch, either Ender Pearl or run to the Fountain → One-Cycle the Dragon with Beds
-* Once the Dragon is Defeated, stand inside of the Fountain - **Timing ends on the screen transition**
+* When the Dragon begins to Perch, either Ender Pearl or run to the Exit Portal → One-Cycle the Dragon with Beds
+* Once the Dragon is Defeated, stand inside of the Exit Portal - **Timing ends on the screen transition**
 		
 <br/>
 
@@ -544,9 +544,9 @@ Enter the End
 		* *alternatively, you can use a [Bucket of Water](https://youtu.be/D714cio_nv4?t=673)*
 
 ### The End
-* You will always be spawned in to the East, looking at the Main Island *(facing West)*
-* The Dragon Perches faster the farther away you are from the Fountain, both height and distance
-* The Dragon will Perch from the opposite side of you, in relation to the Fountain
+* You will **always** spawn East of the Island, facing West, towards the Exit Portal
+* The Dragon Perches faster the farther away you are from the Exit Portal, both height and distance
+* The Dragon will Perch from the opposite side of you, in relation to the Exit Portal
 	* *Diagonal Perches are a lot harder to One Cycle, so it's recommended to run away N/S/E/W*
 	* *N/S Perch is faster than E/W, however it gives the player less time to react to the Perch*
 * The Dragon's Fireball doesn't actually do Damage, the AoE ground effect left behind is what Damages you
