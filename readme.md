@@ -503,8 +503,8 @@ Enter the End
 * Piglins have weird pathfinding around Lava
 	* *when building bridges across Lava - while routing bottom side Manhunt Housing for example*
 		* *build 1 block above Lava (instead of inside of it)*
-			* *if forced to build inside, use stairs at the ends of your bridge*
 			* *piglins seem to refuse to jump up/down a block at the edges of lava*
+			* *if forced to build inside, use stairs at the ends of your bridge*
 		* *build 3 Blocks wide, to make sure Piglins follow*
 		* *piglins can't run across corners, so make sure there is a direct path over the Lava*
 * While trying to Pie-Ray, if you accidentally press the wrong button, press '0' to go back a page  
