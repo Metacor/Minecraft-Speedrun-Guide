@@ -462,13 +462,14 @@ Enter the End
 		* Collect the TnT → Place 1 TnT under your → Place 1 TnT in a corner on top → 
 			* Place the Preasure Plate next to the TnT → Activate the Pressure Plate →
 				* Break the TnT Below you *(don't activate it)* → Hide in the hole →
+	* [Alternative Method](https://youtu.be/CdoYoYrOyjU?t=5) where you place the TnT below, instead of above
 * Mining Stone takes slightly less time than Mining Cobblestone, (typically found as part of Plains Village houses)
 	* Wooden Pickaxe: Stone takes **1.15 Seconds** | Cobblestone takes **1.5 Seconds**
 	* Stone Pickaxe: Stone takes **0.6 Seconds** | Cobblestone takes **0.75 Seconds**
 * if the Iron Golem is already in a good spot, you can build up next to it before you attack
 * if you need to climb something, but don't have many Blocks, you can use a [Bucket of Water](https://youtu.be/PkrCPuS6IZ8?t=380)
-	* *this is also somewhat useful in the End, after you break the final block when digging out of a buried spawn*
-		* *although, [just building up](https://youtu.be/b96APrsfm6s?t=749) with Blocks is likely faster than using a Bucket of Water*
+	* *this can also be used in the End, if you run out of Blocks while building up out of a buried spawn*
+		* *although if you have Blocks, [just building up](https://youtu.be/b96APrsfm6s?t=749) is faster than using a Bucket of Water*
 	* *doing this wouldn't work in the Nether, as Buckets of Water don't work in the Nether*
 * Lava Lakes tend to spawn underneath Water Lakes
 	* *if you're unable to find a Lava Lake on the surface, try digging near small surface Water Lakes*
