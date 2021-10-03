@@ -524,7 +524,7 @@ Enter the End
 	* *after the final Fireball is shot, the Blaze will be unable to Target for 5 seconds*
 	
 ### The Overworld, Part 2
-* The Stronghold will spawn a minimum of 1280 Blocks from *(0, 0)*
+* The Stronghold will spawn a [minimum of 1280 Blocks](https://minecraft.fandom.com/wiki/Stronghold#Java_Edition) from *(0, 0)*
 	* *this distance is calculated triangularly not linearly, so (a²+b²=c²), not (a+b=c)*
 		* *(150x, 150z) would be ~212 Blocks away from (0, 0), not ~300*
 	* *if you're just adding x + z, then the Stronghold ≈ 2000 - 2400 (Overworld) | 250 - 300 (Nether)*
