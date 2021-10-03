@@ -415,10 +415,9 @@ Enter the End
 			
 <br/>
 
-## The End
-*Kill the Ender Dragon, Finishing the Game*
-
-**Video Guides**: [k4yfour](https://youtu.be/-Ta_1R1aXvA) | [Hashten](https://youtu.be/aGMLHXnD6Bc) | [BoomerPlayz](https://youtu.be/1daiTbj1OiE) - [Part 2](https://youtu.be/uBp8uVbW1us)
+## The End  
+**Video Guides**: [k4yfour](https://youtu.be/-Ta_1R1aXvA) | [Hashten](https://youtu.be/aGMLHXnD6Bc) | [BoomerPlayz](https://youtu.be/1daiTbj1OiE) - [Part 2](https://youtu.be/uBp8uVbW1us)  
+*Kill the Ender Dragon, Finishing the Game*  
 
 * When you spawn in The End, get to the Exit Portal as soon as possible
 	* *if you spawn above ground, Ender Pearl directly to the Exit Portal*
@@ -441,6 +440,7 @@ Enter the End
 <br/>
 
 # Tips & Tricks  
+**Videos:** [Cuffep](https://youtu.be/CdoYoYrOyjU) - [Part 2](https://youtu.be/IhrK0AuMkBg) | [Couriway](https://youtu.be/fIeVOFqGwOM) | [Penney](https://youtu.be/TvvApbI6fis)  
 *this section is roughly listed in the order each situation would appear in a run*  
 
 ### The Overworld
