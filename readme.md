@@ -451,6 +451,7 @@ Enter the End
 	* *their lazer attack requires 2 seconds of uninterrupted line of sight, simply break LoS to take 0 Damage*
 * [Desert Temples](https://youtu.be/gS6LxaNibWM?t=76)
 	* To quickly collect all of the Chests, aswell as any surrounding Blocks
+		* Start by breaking the Block under the Pressure Plate, then jump into the hole
 		* Collect the TnT → Place 1 TnT under your → Place 1 TnT in a corner on top → 
 			* Place the Preasure Plate next to the TnT → Activate the Pressure Plate →
 				* Break the TnT Below you *(don't activate it)* → Hide in the Hole →
