@@ -382,6 +382,7 @@ Nuskapuska Slideshow Speedrun Guide](https://youtu.be/0PXQvPNCxy8)
 * **Fire Charge**: if you entered the Nether with a Flintless Portal Method, this can substitute for a Flint and Steel
 	* *if you gathered Flint while in the Overworld, you can also use Iron Nuggets to Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp)*
 		* *Piglins also Trade Gravel, so you can collect Flint in the Nether if you'd like*
+			* *if doing this, put the Gravel in your off-hand, so you can Place and Dig at the same time*
 
 <br/>
 
