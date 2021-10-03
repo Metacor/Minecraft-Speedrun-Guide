@@ -511,6 +511,10 @@ Enter the End
 			* *if forced to build inside, use stairs at the ends of your bridge*
 		* *build 3 Blocks wide, to make sure Piglins follow*
 		* *piglins can't run across corners, so make sure there is a direct path over the Lava*
+* Splash Potions have a [longer Duration if the directly impact an Entity](https://minecraft.fandom.com/wiki/Splash_Potion#Using)
+	* *when using Fire Protection Splash Potions, throw them directly upwards and let them hit you*
+		* *if you throw it directly at your feet, you lose ~20 seconds of Effect Duration*
+	* *if you [throw the Splash Potion while Falling](https://youtu.be/NVb0EMzorw4) (either from jumping, or normally), you can get near the max Duration*
 * While trying to Pie-Ray, if you accidentally press the wrong button, press '0' to go back a page  
 * When entering a Fortress, you can lower your Render Distance to 5 (5RD), increasing nearby random Blazes
 	* *this increases nearby spawns of all enemies, not just Blazes (doesn't affect spawners)*
