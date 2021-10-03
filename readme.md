@@ -449,7 +449,7 @@ Enter the End
 	* Easy = 5 (4) **|** Normal = 4 (6) **|** Hard = 3 (9)
 		* *with Healing, Easy will almost always take 6 hits, and Normal will sometimes take 5*
 	* *their lazer attack requires 2 seconds of uninterrupted line of sight, simply break LoS to take 0 Damage*
-		* *proper Door placement will usually negate all potential damage when searching for the Gold Blocks*
+		* *proper Door placement will usually negate all potential Damage when searching for the Gold Blocks*
 * [Desert Temples](https://youtu.be/gS6LxaNibWM?t=76)
 	* To quickly collect all of the Chests, aswell as any surrounding Blocks
 		* Start by breaking the Block under the Pressure Plate, then jump into the hole
