@@ -557,7 +557,7 @@ Enter the End
 
 ### The End
 * You will **always** spawn East of the Island, facing West, towards the Exit Portal
-* The Dragon has a [higher chance to Perch the farther away you are from the Exit Portal](https://i.imgur.com/4KPEMZj.webp)
+* The Dragon has a [higher chance to Perch the farther away you are from the Exit Portal](https://i.imgur.com/e3JyPex.webp)
 * The Dragon will Perch from the opposite side of you, in relation to the Exit Portal
 	* *Diagonal Perches are a lot harder to One Cycle, so it's recommended to run away N/S/E/W*
 	* *N/S Perch is faster than E/W, however it gives the player less time to react to the Perch*
