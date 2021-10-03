@@ -473,7 +473,7 @@ Enter the End
 	* *more advanced and precise way to find subsurface Lava Lakes*
 * When Searching for an Ocean Ravine, turn on Entity Hitboxes (F3 + B), and look out for Floating Kelp
 	* *if you see floating Kelp in a Deep Ocean, there is [likely a Ravine below it](https://youtu.be/yGyMWYhHYoQ?t=471)*
-* to avoid Glitchy Buckets while making Nether Portals, [don't move while grabbing Lava](https://youtu.be/EjwStTX4U3A)
+* To avoid Glitchy Buckets while making Nether Portals, [don't move while grabbing Lava](https://youtu.be/EjwStTX4U3A)
 * Since Buckets of Water don't work in the Nether, when you finish your Nether Portal, fill the Bucket with Lava
 * if you plan on Microlensing your Bastion in the Nether, turn on the F3 Menu before you teleport to the Nether
 
