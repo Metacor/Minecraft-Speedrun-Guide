@@ -184,8 +184,8 @@
 
 <br/>
 
-# Speedrun Guide
-**Videos:** [Nuskapuska, Mar 2021](https://youtu.be/0PXQvPNCxy8) | [Haroon Shah, Jun 2021](https://youtu.be/iaUF0oaegns) | [Couriway, Dec 2020](https://youtu.be/REas9cmjlic) | [LiquidCandy, Dec 2020](https://youtu.be/14XeowuYgV0) | [Cuffep, Oct 2020](https://youtu.be/GQodZBfdL3g)  
+# Speedrun Guide  
+[Nuskapuska, Mar 2021](https://youtu.be/0PXQvPNCxy8) | [Haroon Shah, Jun 2021](https://youtu.be/iaUF0oaegns) | [Couriway, Dec 2020](https://youtu.be/REas9cmjlic) | [LiquidCandy, Dec 2020](https://youtu.be/14XeowuYgV0) | [Cuffep, Oct 2020](https://youtu.be/GQodZBfdL3g)  
 
 ## The Overworld
 
