@@ -680,7 +680,7 @@ Enter the End
 <br/>
 
 # Speedrun Cheatsheet  
-*pebetedesame's [Cheatsheet](https://cdn.discordapp.com/attachments/405839885509984256/891800745760948224/finished3mdpi.jpg)*  
+[pebetedesame's Slide](https://cdn.discordapp.com/attachments/405839885509984256/891800745760948224/finished3mdpi.jpg)
 ### [Blind Travel](https://imgur.com/gallery/i3fIanf)
 **First Ring**
 
