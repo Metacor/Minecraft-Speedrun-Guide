@@ -422,6 +422,7 @@ Enter the End
 * When you spawn in The End, get to the Exit Portal as soon as possible
 	* *if you spawn above ground, Ender Pearl directly to the Exit Portal*
 	* *if you spawn underground, Mine up along the West wall, ideally in a corner*
+		* *[place a Block in the corner → Jump onto it → Mine up 5 Blocks → Place Blocks below you → Repeat until you're on top](https://youtu.be/b96APrsfm6s?t=750)*
 * Setup your preferred Bed Platform: [Obsidian]() | [Full Block]() | [Slab]()
 	* *run away in your preferred Perch direction (N/S or E/W)*
 		* *your Bed Platform position might need to change, based on your chosen Perch direction*
@@ -466,7 +467,8 @@ Enter the End
 	* Stone Pickaxe: Stone takes **0.6 Seconds** | Cobblestone takes **0.75 Seconds**
 * if the Iron Golem is already in a good spot, you can build up next to it before you attack
 * if you need to climb something, but don't have many Blocks, you can use a [Bucket of Water](https://youtu.be/PkrCPuS6IZ8?t=380)
-	* *this is also useful in the End, after you break the final block, when digging out of a buried spawn*
+	* *this is also somewhat useful in the End, after you break the final block when digging out of a buried spawn*
+		* *although, [just building up](https://youtu.be/b96APrsfm6s?t=749) with Blocks is likely faster than using a Bucket of Water*
 	* *doing this wouldn't work in the Nether, as Buckets of Water don't work in the Nether*
 * Lava Lakes tend to spawn underneath Water Lakes
 	* *if you're unable to find a Lava Lake on the surface, try digging near small surface Water Lakes*
