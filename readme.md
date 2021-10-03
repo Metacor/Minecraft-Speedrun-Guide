@@ -19,9 +19,6 @@
 					* *such as Item, Damage, Block, Nether*
 						* *the "the" in "the Nether" should only be Capitalized if it's the first word in the sentence*
 			* *all cases of "if" should be lower-case, even if it's the start of a sentence*
-		* *not counting the first word of a sentence*
-		* *italicized side comments, such as this, should be lower case*
-			* *unless referencing an otherwise Capitalized Item/Video/Section/Entity*
 	* Double Check every Link to make sure it actually links something *(and make sure it leads to the correct place)*
 	* Make sure there isn't any superfluous information in the Speedrun Guide section *(move it to Tips & Tricks)*
 
