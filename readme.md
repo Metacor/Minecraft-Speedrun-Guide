@@ -414,9 +414,9 @@
 	* *alternatively, use this [chart](https://i.imgur.com/6rvw5Bb.webp), or go to the [Speedrun Cheatsheet](https://github.com/Metacor/Minecraft-Speedrun-Guide#speedrun-cheatsheet) section of this Guide*
 	* *in the case above, a 0.9° difference will be ~1111 Blocks away from you*
 		* *this is, of course, assuming you recorded the correct Angles, and travelled 17.5 Blocks*
-* Follow the Angle for your Eye throws, until you travel the amount of Blocks needed to reach the Stronghold
-* Use the [8,8 Method](https://youtu.be/w8Lqa2B01lo) to locate the exact Chunk that your Stronghold's Starter Staircase is in
-	* *the Eye of Ender **always** points to the direct middle of the Chunk *(8/x/8)* where the Start Staircase is located*
+* Follow the Angle for your Eye throws until you travel the rough Distance needed to reach the Stronghold
+* Use the [8, 8 Method](https://youtu.be/w8Lqa2B01lo) to locate the exact Chunk that your Stronghold's Starter Staircase is in
+	* *the Eye of Ender **always** points to the direct middle of the Chunk *(8/x/8)* where the Starter Staircase is located*
 * Dig into the Starter Staircase, and begin your Stronghold Navigation
 	* *The Starter Staircase will **always** be located @ 4/x/4 in the Chunk that 8,8 points to*
 		* *digging down in any block between 3,3 and 5,5 will work for this, 4,4 is just the center*
