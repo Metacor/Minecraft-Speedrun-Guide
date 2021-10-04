@@ -333,7 +333,7 @@
 	* *ideally, open your F3 Menu before entering your Nether Portal in the Overworld*
 * if you notice the E: Value quickly raises, you likely just loaded a Bastion into your Render Distance
 * if the sum of the M: & C: Values is ~30 higher than the E: Value, there is a Bastion within your Render Distance
-* To find the Bastion direction, change your Fov to 30 then slowly turn 360°, and look at the **Left** E: Value
+* To find the Bastion Direction, change your Fov to 30 then slowly turn 360°, and look at the **Left** E: Value
 	* *as opposed to the previous example, in the [image linked above](https://i.imgur.com/w6WZlqf.webp), E: **32**/122, you should be looking at 32 this time*
 	* *High density Biomes can sometimes give false positives for Bastions, use (E + 30 ≈ M + C), for a better idea*
 
@@ -420,7 +420,7 @@
 * While in the Overworld, throw an Eye of Ender → View the Eye in the center of your screen → Record the Angle°
 	* *changing your FoV to 30 while looking at the Eye will make the Angle more precise*
 	* *if you have trouble following the Eye, try throwing it while either [looking down](https://youtu.be/8c29j0We2VQ?t=200), or using [F5](https://youtu.be/0LDj48fsRT8?t=24)*
-* Turn 90° *(either direction)* → Travel 17.5 Blocks *(~4 Sprint Jumps)* → Throw another Eye → Record the Angle
+* Turn 90° *(either Direction)* → Travel 17.5 Blocks *(~4 Sprint Jumps)* → Throw another Eye → Record the Angle
 * Calculate the difference in the Angles between your first and second Eyes
 	* *for example: 56.3° *(first eye)*, and 57.2° *(second eye)* = 0.9° difference*
 * The Distance will be *(1000/x°)* Blocks away, where x is the difference calculated
@@ -455,12 +455,12 @@
 	* *if you spawn underground, Mine up along the West wall, ideally in a corner*
 		* *[Place a Block → Jump onto it → Mine up 5 Blocks → Place Blocks below you → Repeat](https://youtu.be/b96APrsfm6s?t=750)*
 * Setup your preferred Bed Platform: [Obsidian]() | [Full Block]() | [Slab]()
-	* *run away in your preferred Perch direction (N/S or E/W)*
-		* *your Bed Platform position might need to change, based on your chosen Perch direction*
+	* *run away in your preferred Perch Direction (N/S or E/W)*
+		* *your Bed Platform position might need to change, based on your chosen Perch Direction*
 * Execute your preferred End Island Method:
 	* if you have a *cross*Bow and Arrows → [Half-Bow]()
 	* if you have 2+ Pearls, and you don't plan on doing Half-Bow:
-		* [Pearl up to the highest Obsidian Tower](https://youtu.be/-Ta_1R1aXvA?t=116) in the direction you chose, [build up until you reach y = 122](https://youtu.be/-Ta_1R1aXvA?t=128)
+		* [Pearl up to the highest Obsidian Tower](https://youtu.be/-Ta_1R1aXvA?t=116) in the Direction you chose, [build up until you reach y = 122](https://youtu.be/-Ta_1R1aXvA?t=128)
 	* if you don't have 2+ Pearls, and you also don't plan on doing Half-Bow:
 		* [Run as far away from the Exit Portal as possible](https://youtu.be/-Ta_1R1aXvA?t=519), while still being able to see if the Dragon is Perching
 * Turn on Entity Hitboxes *(F3 + B)* to help with One-Cycling the Dragon
@@ -525,13 +525,13 @@
 * Bastion Microlensing example *(using m+c=e)*
 	* *for [M + C = 113, while E = 122, @16 RD](https://i.imgur.com/w6WZlqf.webp), if there is a Bastion, it's likely not fully rendered in*
 		* *Starting at (-77, 59, 58), the closest Bastion is at [(-128, ~, -288)](https://i.imgur.com/EVScDGC.webp), being ~350 Blocks away*
-		* *16 Render Distance renders ~256 Blocks in cardinal directions, ~362 Diagonally (256√2)*
+		* *16 Render Distance renders ~256 Blocks in cardinal Directions, ~362 Diagonally (256√2)*
 * Bastions cannot spawn inside of a Basalt Delta Biome
 * Only 1 Structure *(Bastions and Fortresses)*, can spawn per *(432, 432)* MegaChunk, for example:
 	* *if a Bastion spawns at (+x, +z), this will be the only Structure in that MegaChunk*
 	* *in order to find a new Structure, you will need to go to a new MegaChunk*
 	* *the remaining 3 inner Quadrants being: (+x,-z), (-x,-z), (-x,+z) | where x & z are < 432 (neg or pos)*
-		* *directions can also be called: (pos, pos), (pos, neg), (neg, neg), (neg, pos)*
+		* *Directions can also be called: (pos, pos), (pos, neg), (neg, neg), (neg, pos)*
 	* *Structures in MegaChunks beyond the inner 4 Quadrants are known as Extra-Regional Structures*
 * All Bastion types (besides Treasure), can spawn a Triple Chest top section - to easily tell them apart:
 	* if there are [2 Blocks](https://i.imgur.com/SzHSK3A.webp) between the Double/Single Chest, then it's Stables
@@ -698,7 +698,7 @@
 * [Identification and Optimal Routing](https://github.com/Metacor/Minecraft_Speedrun_Guide#bastions)
 
 **Fortress**  
-* Pie-Ray: Locate the Fortress direction using the F3 Pie Chart *(also useful for finding Villages)*
+* Pie-Ray: Locate the Fortress Direction using the F3 Pie Chart *(also useful for finding Villages)*
 * Inside Navigation: Navigate to the Outside section of the Fortress, and locate a Blaze Spawner
 * Blazebed: Learn to execute the correct technique for both enclosed and open spawners
 * Consistently complete the Fortress without a Fire Resistance Potion *(can use a shield)*
