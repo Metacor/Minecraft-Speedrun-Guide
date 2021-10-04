@@ -575,6 +575,7 @@
 	* if you need more Beds, you can Gather string from Library Cobwebs
 		* *when Gathering, use either a Sword or Shears (decreasing the Gather Time from 20s → 0.4s)*
 		* *alternatively, you can use a [Bucket of Water](https://youtu.be/D714cio_nv4?t=673)*
+* Be sure to pay attention to the Subtitles, look for popping Lava and Silverfish noises
 
 ### The End
 * You will **always** spawn East of the Island, facing West, towards the Exit Portal
