@@ -389,12 +389,24 @@
 ### **Fortress**
 
 ### **Travel**  
-*Build a Nether Portal at specific locations in the Nether to try and get close to the Stronghold*  
-* Blind
-* Divine
-* Educated
-	* Calculated
-		* Axis Calculated
+*[Build a Nether Portal](https://youtu.be/ZE5VEYWC_9s) at [specific locations](https://imgur.com/gallery/i3fIanf) in the Nether to teleport close to the Stronghold*  
+* **[Blind](https://youtu.be/0N8Wj8hOVKM)**
+	* Build your Nether Portal at the closest of any of [these locations](https://imgur.com/gallery/i3fIanf)
+* **[Divine](https://youtu.be/SXem01c44-I)**
+	* if there is a Fossil in the 0,x,0 Chunk, build your Nether Portal at the [corresponding location](https://cdn.discordapp.com/attachments/405839885509984256/891800745760948224/finished3mdpi.jpg)
+* **[Educated](https://youtu.be/0N8Wj8hOVKM)**
+	* if you have 20+ Obsidian, build a Nether Portal anywhere → Throw an Eye of Ender in the Overworld → Record the Angle →
+		* *if your last Nether Structure is very close to your first Nether Portal, you can use that instead*
+	* Follow that Angle in the Nether, and build a Nether Portal at the closest [Blind location](https://imgur.com/gallery/i3fIanf)
+		* *if you follow the Angle perfectly, you can just build once you enter a [Stronghold Ring](https://i.imgur.com/geurgrO.webp)*
+			* *normally just the first 3 Rings matter, also remember to divide by 8, since those are Overworld Distances*
+* **Calculated**
+	* Similarly to Educated Travel, requires the use of 20+ Obsidian and a random Nether Portal
+	* For Calculated, instead of throwing 1 Eye of Ender, fully use Triangulation *(read the section below)*
+	* Build your Nether Portal *(in the Nether)*, at the general location of the Stronghold
+		* *using both the Direction of the Eye of Ender *(like Educated)*, but also the rough Distance*
+* **[Axis Calculated](https://www.youtube.com/watch?v=0LDj48fsRT8)**
+	* A more precise version of Calculated Travel, if you're interested, watch the Video linked above
 
 <br/>
 
