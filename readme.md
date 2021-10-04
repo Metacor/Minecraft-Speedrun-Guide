@@ -406,13 +406,14 @@
 
 * While in the Overworld, throw an Eye of Ender → Place the Eye in the center of your screen → Record the Angle°
 	* *changing your FoV to 30 while looking at the Eye will make the Angle more precise*
-	* *if you have trouble following the Eye, try throwing it while either [looking down](), or using [F5]()*
+	* *if you have trouble following the Eye, try throwing it while either [looking down](https://youtu.be/8c29j0We2VQ?t=200), or using [F5](https://youtu.be/0LDj48fsRT8?t=24)*
 * Turn 90° *(either direction)* → Travel 17.5 Blocks *(~4 Sprint Jumps)* → Throw another Eye → Record the Angle
 * Calculate the difference in the angles between your first and second Eyes
 	* *for example: 56.3° *(first eye)*, and 57.2 *(second eye)* = 0.9° difference*
 * The Distance will be *(1000/x°)* Blocks away, where x is the difference calculated
 	* *alternatively, use this [chart](https://i.imgur.com/6rvw5Bb.webp), or go to the [Speedrun Cheatsheet](https://github.com/Metacor/Minecraft-Speedrun-Guide#speedrun-cheatsheet) section of this Guide*
-	* *in the case of a 0.9° difference, assuming you did everything correct, the Stronghold should be ~1111 Blocks away*
+	* *in this case, a 0.9° difference will be ~1111 Blocks away from you*
+		* *this is, of course, assuming you recorded the correct angles, and travelled 17.5 Blocks*
 * Follow the angle of your Eye of Ender throws until you travel roughly the amount of Blocks needed to reach that Stronghold
 * Use the [8,8 Method](https://youtu.be/w8Lqa2B01lo) to locate the exact Chunk that your Stronghold's Starter Staircase is in
 	* *the Eye of Ender **always** points to the direct middle of the Chunk *(8/x/8)* where the Start Staircase is located*
