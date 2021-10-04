@@ -426,9 +426,12 @@
 * Dig into the Starter Staircase, and begin your Stronghold Navigation
 
 ### **Stronghold Navigation**
-* 4/x/4 (3-5/x/3-5)
-
-Enter the End
+*see the Overworld, Part 2 [Tips & Tricks](https://github.com/Metacor/Minecraft-Speedrun-Guide#the-overworld-part-2-1) section for more Navigation Techniques*  
+* Start at the Starter Staircase and Navigate through the Stronghold until you reach the Portal Room
+	* *if you entered from somewhere else, go through [backwards Doors](https://i.imgur.com/ZZP3PuP.webp) until you find the Starter Staircase*
+	* *all staircases lead **up** to the Starter Staircase, so if you find one always go up*
+* When you find the Portal Room, Enter it → Run up the Stairs → Place a Block in the Lava → Stand on it → Complete the End Portal
+	* *when you place the final Eye of Ender into the End Portal Frames, you will be instantly teleported to the End*
 			
 <br/>
 
@@ -561,7 +564,6 @@ Enter the End
 * if you find an underwater Stronghold, make sure to look around for the Portal Room before blindly entering
 * Strongholds are [extremely unlikely](https://youtu.be/_rbWryJVEmw?t=1011) to spawn in Swamps ([supposedly impossible](https://bugs.mojang.com/browse/MC-136288))
 * The Portal Room is usually within [5 = 7](https://youtu.be/u42bjqtq5-s) Rooms of the Starter Staircase
-* In the Stronghold, Spiral Staircases always lead up, towards the Starter Staircase
 * [Hidden Rooms Identification](https://www.youtube.com/watch?v=vztJNmUdyBY)
 	* *Hidden Rooms can only occur in "5-way" room types*
 	* *if you're facing +x/+z (South/East) from the main entrance, there **CANNOT** be Hidden Rooms*
