@@ -2,7 +2,9 @@
 [Discord](https://discord.com/invite/jmdFn3C) | [Website](https://www.minecraftspeedrunning.com/) | [Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki) | [Leaderboard](https://www.speedrun.com/mc#Any_Glitchless)
 
 ### To Do:
-* Complete **The Nether** and **The Overworld, Part 2** Sections
+* Complete **The Nether** Section
+	* Pie-Ray
+	* Fortresses *(and Blazebeds)*
 * Add Crafting Screenshots for each mention of Crafting an Item *(similarly to: Craft a [Composter](https://i.imgur.com/xRd6xYT.webp))*
 	* *change all current Screenshots to be cropped the same as above, name/mats/window (2 gray lines)*
 		* *use the [Crafting](https://minecraft.fandom.com/wiki/Crafting) wiki page to get the correct windows*
