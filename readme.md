@@ -402,6 +402,7 @@
 *Find the Location of a Stronghold → Enter the Stronghold, and Navigate to the Portal Room → Enter The End*
 
 ### **Triangulation**  
+[BoomerPlayz](https://youtu.be/8c29j0We2VQ) | [Distance Chart](https://i.imgur.com/6rvw5Bb.webp)
 *use the differing Angles from throwing multiple Eyes of Ender to find the location of the closest Stronghold*  
 *even if you're not doing [Axis Calculated Travel](https://youtu.be/0LDj48fsRT8), you can still use Ninjabrain's Triangulation Method if you prefer*  
 
