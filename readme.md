@@ -401,7 +401,7 @@
 	* Similarly to Educated Travel, requires the use of 20+ Obsidian and a random Nether Portal
 	* For Calculated, instead of throwing 1 Eye of Ender, fully use Triangulation *(read the section below)*
 	* Build your Nether Portal *(in the Nether)*, at the general location of the Stronghold
-		* *using both the Direction of the Eye of Ender *(like Educated)*, but also the rough Distance*
+		* *using both the Direction of the Eye of Ender *(like Educated)*, but also the rough Distance/8*
 * **[Axis Calculated](https://www.youtube.com/watch?v=0LDj48fsRT8)**
 	* A more precise version of Calculated Travel, if you're interested, watch the Video linked above
 * **[Divine](https://youtu.be/SXem01c44-I)**
