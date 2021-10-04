@@ -421,7 +421,7 @@
 	* *the Eye of Ender **always** points to the direct middle of the Chunk *(8/x/8)* where the Starter Staircase is located*
 	* *The Starter Staircase will **always** be located @ 4/x/4 in the Chunk that 8,8 points to*
 		* *digging down in any block between 3,3 and 5,5 will work for this, 4,4 is just the center*
-		* *4/x/4 is in 4 Blocks diagonally from the North-West corner*
+		* *4/x/4 will be 4 Blocks diagonally from the North-West corner*
 			* *using the [F3 Axis Cursor](https://youtu.be/w8Lqa2B01lo?t=187) is an easy way to quickly find North-West*
 * Dig into the Starter Staircase, and begin your Stronghold Navigation
 
