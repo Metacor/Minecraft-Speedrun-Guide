@@ -412,7 +412,7 @@
 	* *for example: 56.3° *(first eye)*, and 57.2° *(second eye)* = 0.9° difference*
 * The Distance will be *(1000/x°)* Blocks away, where x is the difference calculated
 	* *alternatively, use this [chart](https://i.imgur.com/6rvw5Bb.webp), or go to the [Speedrun Cheatsheet](https://github.com/Metacor/Minecraft-Speedrun-Guide#speedrun-cheatsheet) section of this Guide*
-	* *in this case, a 0.9° difference will be ~1111 Blocks away from you*
+	* *in the case above, a 0.9° difference will be ~1111 Blocks away from you*
 		* *this is, of course, assuming you recorded the correct Angles, and travelled 17.5 Blocks*
 * Follow the Angle for your Eye throws, until you travel the amount of Blocks needed to reach the Stronghold
 * Use the [8,8 Method](https://youtu.be/w8Lqa2B01lo) to locate the exact Chunk that your Stronghold's Starter Staircase is in
