@@ -401,9 +401,8 @@
 ## The Overworld, Part 2
 *Find the Location of a Stronghold → Enter the Stronghold, and Navigate to the Portal Room → Enter The End*
 
-### **Triangulation**
+### **Triangulation**  
 *use the differing angles from throwing multiple Eyes of Ender to find the location of the closest Stronghold*  
-
 * While in the Overworld, throw an Eye of Ender → Place the Eye in the center of your screen → Record the Angle°
 	* *changing your FoV to 30 while looking at the Eye will make the Angle more precise*
 	* *if you have trouble following the Eye, try throwing it while either [looking down](https://youtu.be/8c29j0We2VQ?t=200), or using [F5](https://youtu.be/0LDj48fsRT8?t=24)*
