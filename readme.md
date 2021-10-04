@@ -389,7 +389,7 @@
 ### **Fortress**
 
 ### **Travel**  
-*[Build a Nether Portal](https://youtu.be/ZE5VEYWC_9s) at [specific locations](https://imgur.com/gallery/i3fIanf) in the Nether to teleport close to the Stronghold*  
+*[Build a Nether Portal](https://youtu.be/ZE5VEYWC_9s) at specific locations in the Nether to teleport close to the Stronghold*  
 * **[Blind](https://youtu.be/0N8Wj8hOVKM)**
 	* Build your Nether Portal at the closest of any of [these locations](https://imgur.com/gallery/i3fIanf)
 * **[Divine](https://youtu.be/SXem01c44-I)**
