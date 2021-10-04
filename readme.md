@@ -405,7 +405,7 @@
 * **[Axis Calculated](https://www.youtube.com/watch?v=0LDj48fsRT8)**
 	* A more precise version of Calculated Travel, if you're interested, watch the Video linked above
 * **[Divine](https://youtu.be/SXem01c44-I)**
-	* if there is a Fossil in the 0,x,0 Chunk, build your Nether Portal at the [corresponding location](https://cdn.discordapp.com/attachments/405839885509984256/891800745760948224/finished3mdpi.jpg)
+	* if there is a Fossil in the 0,x,0 Chunk, build your Nether Portal at the [corresponding Coordinates](https://cdn.discordapp.com/attachments/405839885509984256/891800745760948224/finished3mdpi.jpg)
 
 <br/>
 
