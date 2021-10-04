@@ -393,11 +393,10 @@
 * **[Blind](https://youtu.be/0N8Wj8hOVKM)**
 	* Build your Nether Portal at the closest of any of [these Coordinates](https://imgur.com/gallery/i3fIanf)
 * **[Educated](https://youtu.be/0N8Wj8hOVKM)**
-	* if you have 20+ Obsidian, build a Nether Portal anywhere → Throw an Eye of Ender in the Overworld → Record the Angle →
-		* *if your last Nether Structure is very close to your first Nether Portal, you can use that instead*
+	* Requires you to have 20+ Obsidian, and for you to build a Nether Portal to reach the Overworld
+		* *if your final Nether Structure is very close to your first Nether Portal, you can use that instead*
+	* Once in the Overworld, Throw an Eye of Ender → Record the Angle → Return to the Nether
 	* Follow that Angle in the Nether, and build a Nether Portal at the closest [Blind location](https://imgur.com/gallery/i3fIanf)
-		* *if you follow the Angle perfectly, you can just build once you enter a [Stronghold Ring](https://i.imgur.com/geurgrO.webp)*
-			* *normally just the first 3 Rings matter, also remember to divide by 8, since those are Overworld Distances*
 * **Calculated**
 	* Similarly to Educated Travel, requires the use of 20+ Obsidian and a random Nether Portal
 	* For Calculated, instead of throwing 1 Eye of Ender, fully use Triangulation *(read the section below)*
