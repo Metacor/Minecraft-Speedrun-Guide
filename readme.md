@@ -402,19 +402,19 @@
 *Find the Location of a Stronghold → Enter the Stronghold, and Navigate to the Portal Room → Enter The End*
 
 ### **Triangulation**  
-*use the differing angles from throwing multiple Eyes of Ender to find the location of the closest Stronghold*  
+*use the differing Angles from throwing multiple Eyes of Ender to find the location of the closest Stronghold*  
 
 * While in the Overworld, throw an Eye of Ender → View the Eye in the center of your screen → Record the Angle°
 	* *changing your FoV to 30 while looking at the Eye will make the Angle more precise*
 	* *if you have trouble following the Eye, try throwing it while either [looking down](https://youtu.be/8c29j0We2VQ?t=200), or using [F5](https://youtu.be/0LDj48fsRT8?t=24)*
 * Turn 90° *(either direction)* → Travel 17.5 Blocks *(~4 Sprint Jumps)* → Throw another Eye → Record the Angle
-* Calculate the difference in the angles between your first and second Eyes
+* Calculate the difference in the Angles between your first and second Eyes
 	* *for example: 56.3° *(first eye)*, and 57.2 *(second eye)* = 0.9° difference*
 * The Distance will be *(1000/x°)* Blocks away, where x is the difference calculated
 	* *alternatively, use this [chart](https://i.imgur.com/6rvw5Bb.webp), or go to the [Speedrun Cheatsheet](https://github.com/Metacor/Minecraft-Speedrun-Guide#speedrun-cheatsheet) section of this Guide*
 	* *in this case, a 0.9° difference will be ~1111 Blocks away from you*
-		* *this is, of course, assuming you recorded the correct angles, and travelled 17.5 Blocks*
-* Follow the angle for your Eye throws, until you travel the amount of Blocks needed to reach the Stronghold
+		* *this is, of course, assuming you recorded the correct Angles, and travelled 17.5 Blocks*
+* Follow the Angle for your Eye throws, until you travel the amount of Blocks needed to reach the Stronghold
 * Use the [8,8 Method](https://youtu.be/w8Lqa2B01lo) to locate the exact Chunk that your Stronghold's Starter Staircase is in
 	* *the Eye of Ender **always** points to the direct middle of the Chunk *(8/x/8)* where the Start Staircase is located*
 * Dig into the Starter Staircase, and begin your Stronghold Navigation
