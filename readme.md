@@ -504,6 +504,7 @@ Enter the End
 	* if there are [2 Blocks](https://i.imgur.com/SzHSK3A.webp) between the Double/Single Chest, then it's Stables
 	* if there are [3 Blocks](https://i.imgur.com/wosezlF.webp), then it can be either Housing or Bridge
 		* *Housing and Bridge are very different, so it shouldn't be too hard to Identify the correct one*
+* if you want to Loot Chests in Bastions without worrying about Piglins, [dig down and hide your head](https://youtu.be/dAQGH8lPWAM?t=240)
 * Piglins have weird pathfinding around Lava
 	* *when building bridges across Lava - while routing bottom side Manhunt Housing for example*
 		* *build 1 block above Lava (instead of inside of it)*
