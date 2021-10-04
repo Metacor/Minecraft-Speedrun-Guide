@@ -404,6 +404,8 @@
 ### **Triangulation**  
 *use the differing Angles from throwing multiple Eyes of Ender to find the location of the closest Stronghold*  
 
+* Even if you're not doing [Axis Calculated Travel](https://youtu.be/0LDj48fsRT8), you can still use Ninjabrain's Triangulation Method if you prefer
+	* *the written guide below will assume you're using the normal Triangulation Method*
 * While in the Overworld, throw an Eye of Ender → View the Eye in the center of your screen → Record the Angle°
 	* *changing your FoV to 30 while looking at the Eye will make the Angle more precise*
 	* *if you have trouble following the Eye, try throwing it while either [looking down](https://youtu.be/8c29j0We2VQ?t=200), or using [F5](https://youtu.be/0LDj48fsRT8?t=24)*
@@ -417,12 +419,11 @@
 * Follow the Angle for your Eye throws until you travel the rough Distance needed to reach the Stronghold
 * Use the [8, 8 Method](https://youtu.be/w8Lqa2B01lo) to locate the exact Chunk that your Stronghold's Starter Staircase is in
 	* *the Eye of Ender **always** points to the direct middle of the Chunk *(8/x/8)* where the Starter Staircase is located*
-* Dig into the Starter Staircase, and begin your Stronghold Navigation
 	* *The Starter Staircase will **always** be located @ 4/x/4 in the Chunk that 8,8 points to*
 		* *digging down in any block between 3,3 and 5,5 will work for this, 4,4 is just the center*
 		* *4/x/4 is in 4 Blocks diagonally from the North-West corner*
 			* *using the [F3 Axis Cursor](https://youtu.be/w8Lqa2B01lo?t=187) is an easy way to quickly find North-West*
-* Even if you're not doing [Axis Calculated Travel](https://youtu.be/0LDj48fsRT8), you can still use Ninjabrain's Triangulation Method if you prefer
+* Dig into the Starter Staircase, and begin your Stronghold Navigation
 
 ### **Stronghold Navigation**
 * 4/x/4 (3-5/x/3-5)
