@@ -426,7 +426,7 @@
 * Dig into the Starter Staircase, and begin your Stronghold Navigation
 
 ### **Stronghold Navigation**
-*checkout the [Overworld, Part 2 - Tips & Tricks](https://github.com/Metacor/Minecraft-Speedrun-Guide#the-overworld-part-2-1) section for more Navigation Techniques*  
+*read the [Overworld, Part 2 - Tips & Tricks](https://github.com/Metacor/Minecraft-Speedrun-Guide#the-overworld-part-2-1) section for more Navigation Techniques*  
 * Start at the Starter Staircase and Navigate through the Stronghold until you reach the Portal Room
 	* *if you entered from somewhere else, go through [backwards Doors](https://i.imgur.com/ZZP3PuP.webp) until you find the Starter Staircase*
 	* *all staircases lead **up** to the Starter Staircase, so if you find one always go up*
