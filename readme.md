@@ -430,7 +430,7 @@
 * Start at the Starter Staircase and Navigate through the Stronghold until you reach the Portal Room
 	* *if you entered from somewhere else, go through [backwards Doors](https://i.imgur.com/ZZP3PuP.webp) until you find the Starter Staircase*
 	* *all staircases lead **up** to the Starter Staircase, so if you find one always go up*
-* When you find the Portal Room, Enter it → Run up the Stairs → Place a Block in the Lava → Stand on it → Complete the End Portal
+* Enter the Portal Room → Run up the Stairs → Place a Block in the Lava → Stand on it → Complete the End Portal
 	* *when you place the final Eye of Ender into the End Portal Frames, you will be instantly teleported to the End*
 			
 <br/>
