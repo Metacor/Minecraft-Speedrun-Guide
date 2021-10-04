@@ -391,7 +391,7 @@
 ### **Travel**  
 *[Build a Nether Portal](https://youtu.be/ZE5VEYWC_9s) at specific locations in the Nether to teleport close to the Stronghold*  
 * **[Blind](https://youtu.be/0N8Wj8hOVKM)**
-	* Build your Nether Portal at the closest of any of [these locations](https://imgur.com/gallery/i3fIanf)
+	* Build your Nether Portal at the closest of any of [these Coordinates](https://imgur.com/gallery/i3fIanf)
 * **[Educated](https://youtu.be/0N8Wj8hOVKM)**
 	* if you have 20+ Obsidian, build a Nether Portal anywhere → Throw an Eye of Ender in the Overworld → Record the Angle →
 		* *if your last Nether Structure is very close to your first Nether Portal, you can use that instead*
