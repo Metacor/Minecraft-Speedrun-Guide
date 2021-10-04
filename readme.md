@@ -401,10 +401,28 @@
 ## The Overworld, Part 2
 *Find the Location of a Stronghold → Enter the Stronghold, and Navigate to the Portal Room → Enter The End*
 
-### **Triangulation**
-* 8/x/8 https://youtu.be/w8Lqa2B01lo
-* Axis Calculated for Triangulation
-	* *even if you're not doing Axis Calculated Travel, you can still use Ninjabrain's Triangulation Method*
+### **Triangulation**  
+*use the differing angles from throwing multiple Eyes of Ender to find the location of the closest Stronghold*
+
+* While in the Overworld, throw an Eye of Ender → Place the Eye in the center of your screen → Record the Angle°
+	* *changing your FoV to 30 while looking at the Eye will make the Angle more precise*
+	* *if you have trouble following the Eye, try throwing it while either [looking down](), or using [F5]()*
+* Turn 90° *(either direction)* → Travel 17.5 Blocks *(~4 Sprint Jumps)* → Throw another Eye → Record the Angle
+* Calculate the difference in the angles between your first and second Eyes
+	* *for example: 56.3° *(first eye)*, and 57.2 *(second eye)* = 0.9° difference*
+* The Distance will be *(1000/x°)* Blocks away, where x is the difference calculated
+	* *alternatively, use this [chart](https://i.imgur.com/6rvw5Bb.webp), or go to the [Speedrun Cheatsheet](https://github.com/Metacor/Minecraft-Speedrun-Guide#speedrun-cheatsheet) section of this Guide*
+	* *in the case of a 0.9° difference, assuming you did everything correct, the Stronghold should be ~1111 Blocks away*
+* Follow the angle of your Eye of Ender throws until you travel roughly the amount of Blocks needed to reach that Stronghold
+* Use the [8,8 Method](https://youtu.be/w8Lqa2B01lo) to locate the exact Chunk that your Stronghold's Starter Staircase is in
+	* *the Eye of Ender **always** points to the direct middle of the Chunk *(8/x/8)* where the Start Staircase is located*
+* Dig into the Starter Staircase, and begin your Stronghold Navigation
+	* *The Starter Staircase will **always** be located @ 4/x/4 in the Chunk that 8,8 points to*
+		* *digging down in any block between 3,3 and 5,5 will work for this, 4,4 is just the center*
+		* *4/x/4 is in 4 Blocks diagonally from the North-West corner*
+			* *using the [F3 Axis Cursor](https://youtu.be/w8Lqa2B01lo?t=187) is an easy way to quickly find North-West*
+
+* Even if you're not doing [Axis Calculated Travel](https://youtu.be/0LDj48fsRT8), you can still use Ninjabrain's Triangulation Method if you prefer
 
 ### **Stronghold Navigation**
 * 4/x/4 (3-5/x/3-5)
