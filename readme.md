@@ -404,7 +404,7 @@
 ### **Triangulation**  
 *use the differing Angles from throwing multiple Eyes of Ender to find the location of the closest Stronghold*  
 
-* Even if you're not doing [Axis Calculated Travel](https://youtu.be/0LDj48fsRT8), you can still use Ninjabrain's Triangulation Method if you prefer
+*even if you're not doing [Axis Calculated Travel](https://youtu.be/0LDj48fsRT8), you can still use Ninjabrain's Triangulation Method if you prefer*
 	* *however, the written guide below will assume you're using the normal Triangulation Method*
 * While in the Overworld, throw an Eye of Ender → View the Eye in the center of your screen → Record the Angle°
 	* *changing your FoV to 30 while looking at the Eye will make the Angle more precise*
