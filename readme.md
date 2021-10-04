@@ -402,7 +402,7 @@
 *Find the Location of a Stronghold → Enter the Stronghold, and Navigate to the Portal Room → Enter The End*
 
 ### **Triangulation**
-*
+* 8/x/8 https://youtu.be/w8Lqa2B01lo
 * Axis Calculated for Triangulation
 	* *even if you're not doing Axis Calculated Travel, you can still use Ninjabrain's Triangulation Method*
 
