@@ -492,7 +492,7 @@
 		* *proper Door placement will usually negate all potential Damage when searching for the Gold Blocks*
 * Desert Temples - *explode a single TnT to collect all of the Chest Loot and any surrounding Blocks*
 	* [Top TnT](https://youtu.be/gS6LxaNibWM?t=76) | [Bot TnT](https://youtu.be/CdoYoYrOyjU?t=5)
-* Mining [Stone takes slightly less time than Mining Cobblestone](https://i.imgur.com/LuyiYEa.webp), (typically found as part of Plains Village houses)
+* Mining [Stone takes slightly less time than Cobblestone](https://i.imgur.com/LuyiYEa.webp), (typically found as part of Plains Village houses)
 	* Wooden Pickaxe: Stone takes **1.15 Seconds** | Cobblestone takes **1.5 Seconds**
 	* Stone Pickaxe: Stone takes **0.6 Seconds** | Cobblestone takes **0.75 Seconds**
 * if the Iron Golem is already in a good spot, you can build up next to it before you attack
