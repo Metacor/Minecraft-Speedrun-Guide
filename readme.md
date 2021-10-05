@@ -507,7 +507,8 @@
 	* *this can also be used in the End, if you run out of Blocks while building up out of a buried spawn*
 		* *although if you have Blocks, [just building up](https://youtu.be/b96APrsfm6s?t=749) is faster than using a Bucket of Water*
 	* *doing this wouldn't work in the Nether, as Buckets of Water don't work in the Nether*
-* if you need to Dig Gravel from your inventory, place the Gravel in your offhand, so you can Dig and Place at the same time
+* if you have a limited amount of Gravel, and you need to Dig more to collect Flint, put the Gravel in your offhand
+	* *by doing this, you can Dig with a Shovel and place Gravel at the same time*
 * Lava Lakes tend to spawn underneath Water Lakes
 	* *if you're unable to find a Lava Lake on the surface, try digging near small surface Water Lakes*
 * [Lava Dousing](https://youtu.be/SzNbVxDj-do)
