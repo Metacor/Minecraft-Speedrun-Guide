@@ -372,7 +372,7 @@
 	* *20 for Educated/Calculated Travel*
 	* *1-3 for the One-Cycle platform in the End (Crying Obsidian will also work)*
 * **Ender Pearls**, 12: Required to fill the 12 [End Portal Frames](https://minecraft.fandom.com/wiki/End_Portal_Frame) in the Stronghold
-	* *the End Portal Frames can sometimes already be filled, requiring fewer Eye of Enders*
+	* *the End Portal Frames can sometimes [already be filled](https://i.imgur.com/p1Cp5hd.webp), requiring fewer Eye of Enders*
 	* *16+ to allow for more uses outside of just filling the End Portal Frames*
 		* *2+, in case your Eye of Enders break while locating the Stronghold*
 		* *2+, to quickly move around in the End, resulting in a less stressful Ender Dragon setup*
