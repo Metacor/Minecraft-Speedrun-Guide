@@ -389,7 +389,7 @@
 	* *makes you immune to the Blaze's fireballs, but not their melee attacks*
 * *Cross***Bow + Arrows**: Allows you to [Half-Bow](https://youtu.be/whwjNbIni58) while in the Ender Dragon fight
 * **Fire Charge**: Can be used to light Nether Portals *(useful if you entered with a Flintless Portal)*
-	* *alternatively: Gather Flint from Gravel | Craft Iron Nuggets 18:2 Iron Ingots → Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp)*
+	* *alternatively: Gather Flint from Gravel | Craft [Iron Nuggets 18:2 Iron Ingots](https://i.imgur.com/jrxLEur.webp) → Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp)*
 
 <br/>
 
