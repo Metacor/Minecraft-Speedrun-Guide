@@ -369,8 +369,8 @@
 
 **Required Items**  
 * **Obsidian**, 10: Required to Blind Travel out of the Nether
-	* *20+ for Educated/Calculated Travel*
-	* *1+ for your One-Cycle platform in the End (Crying Obsidian will also work)*
+	* *20 for Educated/Calculated Travel*
+	* *1|3 for your One-Cycle platform in the End (Crying Obsidian will also work)*
 * **Ender Pearls**, 12: Required to fill the 12 [End Portal Frames](https://minecraft.fandom.com/wiki/End_Portal_Frame) in the Stronghold
 	* *the End Portal Frames can sometimes already be filled, requiring fewer Eye of Enders*
 	* *16+ to allow for more uses outside of just filling the End Portal Frames*
