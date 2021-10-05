@@ -376,8 +376,8 @@
 	* **12 Required** to fill the 12 [End Portal Frames](https://minecraft.fandom.com/wiki/End_Portal_Frame) in the Stronghold
 		* *the End Portal Frames can sometimes [already be filled](https://i.imgur.com/p1Cp5hd.webp), requiring fewer Eye of Enders*
 	* *16+ to allow for more uses outside of just filling the End Portal Frames*
-		* *2+, in case your Eye of Enders break while locating the Stronghold*
-		* *2+, to quickly move around in the End, resulting in a less stressful Ender Dragon setup*
+		* *2+ in case your Eye of Enders break while locating the Stronghold*
+		* *2+ to quickly move around in the End, resulting in a less stressful Ender Dragon setup*
 		* *and a few more Pearls to travel large Distances in the Nether/Overworld if possible*
 * **String**
 	* **0-72 Required** to Craft Beds *([4:1 Wool → 3:1 Bed](https://i.imgur.com/PFGJa4f.webp))*, in order to One-Cycle the Ender Dragon
