@@ -371,7 +371,9 @@
 * **Obsidian**, 10: Required to Blind Travel out of the Nether
 	* *ideally, 20+ for Educated/Calculated Travel*
 * **Ender Pearls**, 12: Required to fill the 12 [End Portal Frames](https://minecraft.fandom.com/wiki/End_Portal_Frame) in the Stronghold
-	* *ideally, 16+, 2 for the Ender Dragon fight, 2+ for broken Eye of Enders*  
+	* *the End Portal Frames can sometimes already be filled, sometimes requiring fewer Eye of Enders*
+	* *ideally, you would want at least 16+ Ender Pearls, for quicker travel and as backup if your Eye of Enders break*
+		* *additionally, 2-3 Pearls can be used to make setting up for the Ender Dragon less stressful*  
 * **String**, 0-72+: Required to Craft Beds *([4:1 Wool → 3:1 Bed](https://i.imgur.com/PFGJa4f.webp))*, in order to One-Cycle the Ender Dragon
 	* *if you collect enough Beds (4: Minimum | 6+: for safety) from Villages, you wont need any String*
 		* *4 Beds = 48 String (48s → 12w → 4b) | 6 Beds = 72 String (72s → 18w → 6b)*
