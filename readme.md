@@ -378,7 +378,7 @@
 	* *16+ to allow for more uses outside of just filling the End Portal Frames*
 		* *2+ in case your Eye of Enders break while locating the Stronghold*
 		* *2+ to quickly move around in the End, resulting in a less stressful Ender Dragon setup*
-		* *and a few more Pearls to travel large Distances in the Nether/Overworld if needed*
+		* *and a few more to travel large Distances in the Nether/Overworld if needed*
 * **String**
 	* **0-72 Required** to Craft Beds *([4:1 Wool → 3:1 Bed](https://i.imgur.com/PFGJa4f.webp))*, in order to One-Cycle the Ender Dragon
 	* *if you collect enough Beds from Villages (4 minimum | 6+ for safety), you wont need any String*
