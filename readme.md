@@ -368,16 +368,17 @@
 <br/>
 
 **Required Items**  
-* 10+ **Obsidian**, required to Blind Travel out of the Nether
+* **Obsidian**, 10: Required to Blind Travel out of the Nether
 	* *ideally, 20+ for Educated/Calculated Travel*
-* 12+ **Ender Pearls**, required to fill the 12 [End Portal Frames](https://minecraft.fandom.com/wiki/End_Portal_Frame) in the Stronghold
+* **Ender Pearls**, 12: Required to fill the 12 [End Portal Frames](https://minecraft.fandom.com/wiki/End_Portal_Frame) in the Stronghold
 	* *ideally, 16+, 2 for the Ender Dragon fight, 2+ for broken Eye of Enders*  
+* **String**, 0-72+: Required to Craft Beds *([4:1 Wool → 3:1 Bed](https://i.imgur.com/PFGJa4f.webp))*, in order to One-Cycle the Ender Dragon
+	* *if you collect enough Beds (4, Minimum | 6+, for safety) from Villages, you wont need any String*
+		* *4 Beds = 48 String (48s → 12w → 4b) | 6 Beds = 72 String (72s → 18w → 6b)*
 
 **Optional Items**  
 * **Potion of Fire Resistance**: Makes you immune to Lava / Fire Damage 
 	* *makes you immune to Blaze's fireballs, but not their melee attacks*
-* **String**: Allows you to Craft Beds *([4:1 Wool → 3:1 Bed](https://i.imgur.com/PFGJa4f.webp))*
-	* *if you don't have enough Beds from the Overworld, this isn't optional*
 * *Cross***Bow + Arrows**: Allows you to [Half-Bow](https://youtu.be/whwjNbIni58) while in the Ender Dragon fight
 * **Fire Charge**: if you entered the Nether with a Flintless Portal Method, this can substitute for a Flint and Steel
 	* *if you gathered Flint while in the Overworld, you can also use Iron Nuggets to Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp)*
