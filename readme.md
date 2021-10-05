@@ -388,10 +388,8 @@
 * **Potion of Fire Resistance**: Makes you immune to Lava / Fire Damage 
 	* *makes you immune to Blaze's fireballs, but not their melee attacks*
 * *Cross***Bow + Arrows**: Allows you to [Half-Bow](https://youtu.be/whwjNbIni58) while in the Ender Dragon fight
-* **Fire Charge**: if you entered the Nether with a Flintless Portal Method, this can substitute for a Flint and Steel
-	* *if you gathered Flint while in the Overworld, you can also use Iron Nuggets to Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp)*
-		* *Piglins also Trade Gravel, so you can collect Flint in the Nether if you'd like*
-			* *if doing this, put the Gravel in your off-hand, so you can Place and Dig at the same time*
+* **Fire Charge**: Can be used to light Nether Portals *(useful if you entered with a Flintless Portal)*
+	* *alternatively: Gather Flint from Gravel | Craft Iron Nuggets 18:2 Iron Ingots → Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp)*
 
 <br/>
 
@@ -509,6 +507,7 @@
 	* *this can also be used in the End, if you run out of Blocks while building up out of a buried spawn*
 		* *although if you have Blocks, [just building up](https://youtu.be/b96APrsfm6s?t=749) is faster than using a Bucket of Water*
 	* *doing this wouldn't work in the Nether, as Buckets of Water don't work in the Nether*
+* if you need to Dig Gravel from your inventory, place the Gravel in your offhand, so you can Dig and Place at the same time
 * Lava Lakes tend to spawn underneath Water Lakes
 	* *if you're unable to find a Lava Lake on the surface, try digging near small surface Water Lakes*
 * [Lava Dousing](https://youtu.be/SzNbVxDj-do)
