@@ -562,8 +562,9 @@
 		* *if you throw it directly at your feet, you lose ~20 seconds of Effect Duration*
 	* *if a [Splash Potion is thrown while Falling](https://youtu.be/NVb0EMzorw4), you can recieve nearly the max Duration*
 * While trying to Pie-Ray, if you accidentally press the wrong button, press '0' to go back a page  
-* When entering a Fortress, you can lower your Render Distance to 5 (5RD), increasing nearby random Blazes
+* When approaching a Fortress, you can lower your Render Distance to 5 (5RD), increasing nearby random Blazes
 	* *this increases nearby spawns of all enemies, not just Blazes (doesn't affect spawners)*
+	* *it's a lot easier to deal with spawns if the Fortress isn't free floating above Lava*
 	* *Mobs spawn more often in Soul Sand Valleys, so if a Fortress is located in one, 5RD is pretty risky*
 * if your Axe breaks while fighting Blazes, [Shovels do slightly more Damage than Pickaxes](https://i.imgur.com/gpxqtCg.webp) of the same Type
 	* *while Pickaxes above Gold have very marginally more DPS, they also require an extra hit below Diamond*
