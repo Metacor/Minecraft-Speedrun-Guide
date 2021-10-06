@@ -492,6 +492,9 @@
 			* *if the Shipwreck is right-side up, you can Loot this chest [from above](https://youtu.be/dX83N4q4YWU?t=57)*
 		* Bot Chest: Buried Treasure Maps
 			* Buried Treasure is always located @ 9/x/9 in the Chunk where the X is located 
+* Buried Treasure can also be found in [Ocean Ruins](https://minecraft.fandom.com/wiki/Ocean_Ruins)
+	* *[all but 2](https://youtu.be/4-6OUGu6uqY?t=427) configurations can have chests in them with Buried Treasure Maps (~40% of the time)*
+	* *however, the Ocean Ruins usually form with blocks missing, and can sometimes spawn without a Chest*
 * In Ocean Monuments, the Guardian's Lazer attack will Kill you in: Hits Required (Damage Taken/20)
 	* Easy = 5 (4) **|** Normal = 4 (6) **|** Hard = 3 (9)
 		* *with Healing, Easy will almost always take 6 hits, and Normal will sometimes take 5*
