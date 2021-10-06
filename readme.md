@@ -682,6 +682,7 @@
 		* and as always, change the Hotkey Keybinds to fit your specific setup
 
 ## Tasks  
+**[Structure Location Commands](https://pastebin.com/raw/ifkr19dc)**  
 *learn to efficiently complete these tasks*  
 
 **Villages**  
@@ -721,7 +722,7 @@
 **Stronghold**  
 * Blind Travel: Try to remember the general Coordinates for atleast the First Ring
 * Triangulation: Accurately turn 90°, and be able to consistently travel 17.5 Blocks
-* Stronghold Navigation: Complete [Stronghold Trial Runs](https://pastebin.com/raw/aMGheVgQ), starting from random positions
+* Stronghold Navigation: Complete [Stronghold Trial Runs](https://pastebin.com/raw/ifkr19dc)
 
 **The End**
 * Force a N/S Perch, and be able to tell when the Dragon is Perching
