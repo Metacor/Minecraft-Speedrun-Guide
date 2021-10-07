@@ -503,7 +503,7 @@
 		* *proper Door placement will usually negate all potential Damage when searching for the Gold Blocks*
 * Desert Temples - *explode a single TnT to collect all of the Chest Loot and any surrounding Blocks*
 	* [Top TnT](https://youtu.be/gS6LxaNibWM?t=76) | [Bot TnT](https://youtu.be/CdoYoYrOyjU?t=5)
-* When collecting Pre-Cooked Meat, you don't need to hit Chickens after lighting them on fire, [the fire will do enough Damage on its own](https://youtu.be/FV2u8soBkeA?t=702)
+* You don't need to hit Chickens after igniting them, [the Fire Damage alone will kill it](https://youtu.be/FV2u8soBkeA?t=702)
 * Mining [Stone takes slightly less time than Cobblestone](https://i.imgur.com/LuyiYEa.webp), (typically found as part of Plains Village houses)
 	* Wooden Pickaxe: Stone takes **1.15 Seconds** | Cobblestone takes **1.5 Seconds**
 	* Stone Pickaxe: Stone takes **0.6 Seconds** | Cobblestone takes **0.75 Seconds**
