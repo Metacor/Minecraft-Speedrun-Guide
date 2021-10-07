@@ -352,7 +352,7 @@
 	* if Double Single: [Ela's Hole](https://youtu.be/3SHj_nm8mC0)
 	* if Top Entry: [Lodestone Manhunt](https://youtu.be/n5HDxqNFe4s?t=593)
 * **Treasure**: [Structure Video](https://youtu.be/A9GGUWwNcrY?t=132) | [Screenshots](https://imgur.com/gallery/U4FnQC5) | [Bottom Placements](https://i.imgur.com/bDQjaBL.webp)  
-*highly recommended to Craft a Gold Pickaxe with the [Gold Blocks on the bridge](https://youtu.be/Y0DCoD6yhIc?t=9)*
+*highly recommended to Craft a Gold Pickaxe with the [Gold Blocks on the bridge](https://youtu.be/9NNvyBx03iY)*
 	* [Ninjabrain](https://youtu.be/0YvGkSOJVmU)
 * **Housing**: [Structure Video](https://youtu.be/BoNr-pbEITM?t=132) | [Screenshots](https://imgur.com/gallery/wyjWcli) | [Correct Direction](https://youtu.be/BoNr-pbEITM?t=853)
 	* if Bot: [Manhunt]()
