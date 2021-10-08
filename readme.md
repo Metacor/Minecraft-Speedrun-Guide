@@ -492,10 +492,10 @@
 
 ### **Stronghold Navigation**
 *read the [Overworld, Part 2 - Tips & Tricks](https://github.com/Metacor/Minecraft-Speedrun-Guide#the-overworld-part-2-1) section for more Navigation Techniques*  
-* Start at the Starter Staircase and Navigate through the Stronghold until you reach the Portal Room
+* Begin at the Starter Staircase and Navigate through the Stronghold until you reach the Portal Room
 	* *if you entered from somewhere else, go through [backwards Doors](https://i.imgur.com/ZZP3PuP.webp) until you find the Starter Staircase*
 	* *all staircases lead **up** to the Starter Staircase, so if you find one always go up*
-* Enter the Portal Room → Run up the Stairs → Place a Block in the Lava → Stand on it → Complete the End Portal
+* Enter the Portal Room → Run up the stairs → Place a Block in the Lava → Stand on it → Complete the End Portal
 	* *when you place the final Eye of Ender into the End Portal Frames, you will be instantly teleported to the End*
 			
 <br/>
@@ -508,10 +508,11 @@
 	* *if you spawn above ground, Ender Pearl directly to the Exit Portal*
 	* *if you spawn underground, Mine up along the West wall, ideally in a corner*
 		* *[Place a Block → Jump onto it → Mine up 5 Blocks → Place Blocks below you → Repeat](https://youtu.be/b96APrsfm6s?t=750)*
-* Setup your preferred Bed Platform: [Obsidian]() | [Full Block]() | [Slab]()
+* Setup your preferred Bed Platform for One-Cycling: [Obsidian](https://youtu.be/7fu55PqeQ1E?t=202) | [Full Block](https://youtu.be/7fu55PqeQ1E?t=174) | [Slab](https://youtu.be/7fu55PqeQ1E?t=179)
 	* *run away in your preferred Perch Direction (N/S or E/W)*
-		* *your Bed Platform position might need to change, based on your chosen Perch Direction*
-* Execute your preferred End Island Method:
+	* *your [Bed Platform position](https://youtu.be/7fu55PqeQ1E?t=214) will depend on your chosen Perch Direction*
+		* *if you're Perching N/S: place the Obsidian N/S | if you're Perching E/W: place the Obsidian E/W*
+* Execute the relevant End Island Method:
 	* if you have a *cross*Bow and Arrows → [Half-Bow]()
 	* if you have 2+ Pearls, and you don't plan on doing Half-Bow:
 		* [Pearl up to the highest Obsidian Tower](https://youtu.be/-Ta_1R1aXvA?t=116) in the Direction you chose, [build up until you reach y = 122](https://youtu.be/-Ta_1R1aXvA?t=128)
