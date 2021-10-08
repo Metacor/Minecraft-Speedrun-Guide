@@ -338,6 +338,8 @@
 	* *as opposed to the previous example, in the [image linked above](https://i.imgur.com/w6WZlqf.webp), E: **32**/122, you should be looking at 32 this time*
 	* *High density Biomes can sometimes give false positives for Bastions, use (E + 30 ≈ M + C), for a better idea*
 
+<br/>
+
 ### **Bastions**  
 [pncakespoon's Route Spreadsheet](https://docs.google.com/spreadsheets/d/1qLgp5uhMOKuerNZaec1dpoECpJI0-6YhztMqa_wZ8W0/edit#gid=1811348189) | [Bastion Resources](https://docs.google.com/document/d/1yuruZF575xvwOCB5t6ftfRY9OEtLDRQsWFJRD6YetU0/edit) | [Zolstice's Beginner Screenshot Guide](https://www.reddit.com/r/MinecraftSpeedrun/collection/a6121708-188c-43b9-8267-de61620456f1/)  
 *ideally, locate and finish the Bastion before the Fortress, for the chance to get Fire Resistance Potions*  
