@@ -272,20 +272,21 @@
 <br/>
 
 * You wont have any Beds, so make sure you get enough String from Piglin Trades: [6 Beds = 72 String (+18 Planks)](https://i.imgur.com/PFGJa4f.webp)
-	* *you can also Craft [Iron Nuggets 18:2 Iron Ingots](https://i.imgur.com/jrxLEur.webp) → [Shears](https://i.imgur.com/T8iU2V6.webp)*
-		* *and then Shear Sheep in the Overworld or Collect Cobwebs in a Stronghold Library*
+	* *you can also Craft [Iron Nuggets 18:2 Iron Ingots](https://i.imgur.com/jrxLEur.webp) → Craft [Shears](https://i.imgur.com/T8iU2V6.webp)*
+		* *Shear Sheep in the Overworld or Collect Cobwebs in a Stronghold Library*
 * You wont have much Food *(if any)*:
-	* In the Nether: Craft [Mushroom Stews](https://i.imgur.com/5fLy4j5.webp) or Kill Burning Hoglins to get Pre-Cooked Meat
-		* *if you Looted Carrots from the Shipwreck, you can Craft some [Golden Carrots](https://i.imgur.com/U5GaNsx.webp)*
-	* In the Overworld: Kill Burning Animals to get Pre-Cooked Meat
-	* Optionally: Suicide to Reset Hitpoints / Hunger
-		* Nether: Craft a [Respawn Anchor](https://i.imgur.com/n7sZDd9.webp) → use a Glowstone Block on it to Set Spawn → Suicide
-		* Overworld: Craft a [Bed](https://i.imgur.com/oioKEXE.webp) → Place the Bed → Right Click it to Set Spawn → Suicide
+	* Obtain Food
+		* **Nether**: Craft [Mushroom Stews](https://i.imgur.com/5fLy4j5.webp) or Kill Burning Hoglins to get Pre-Cooked Meat
+			* *if you Looted Carrots from the Shipwreck, you can Craft [Golden Carrots](https://i.imgur.com/U5GaNsx.webp)*
+		* **Overworld**: Kill Burning Animals to get Pre-Cooked Meat
+	* Suicide to Reset Hitpoints / Hunger
+		* **Nether**: Craft a [Respawn Anchor](https://i.imgur.com/n7sZDd9.webp) → use a Glowstone Block on it to Set Spawn → Suicide
+		* **Overworld**: Craft a [Bed](https://i.imgur.com/oioKEXE.webp) → Place the Bed → Right Click it to Set Spawn → Suicide
 	* Suicide Methods: *make sure to dig down 2 Blocks and Suicide in a hole so your Items don't fly everywhere*
-		* [Fire](https://youtu.be/itqFlGfKvdk?t=460): Use either a Flint and Steel or Lava to set yourself on Fire
+		* [**Fire**](https://youtu.be/itqFlGfKvdk?t=460): Use either a Flint and Steel or Lava to set yourself on Fire
 			* *douse the Fire before you die, so you don't accidently destroy your Items*
-		* Ender Pearl: Throw Ender Pearls [at the ground](https://youtu.be/IH47hXfRFl0), dealing 2.5 Hearts of Damage on impact
-		* Fall Damage: 1/2 Heart per Block above 3 Blocks
+		* **Ender Pearl**: Throw Ender Pearls [at the ground](https://youtu.be/IH47hXfRFl0), dealing 2.5 Hearts of Damage on impact
+		* **Fall Damage**: 1/2 Heart per Block above 3 Blocks
 			* *4 Blocks = 1/2 Heart | 7 Blocks = 2 Hearts | 15 Blocks = 6 Hearts, etc*
 			* *While in the Stronghold, you can climb up the Starter Staircase to easily get some Height*
 
