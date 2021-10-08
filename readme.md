@@ -2,27 +2,23 @@
 [Discord](https://discord.com/invite/jmdFn3C) | [Website](https://www.minecraftspeedrunning.com/) | [Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki) | [Leaderboard](https://www.speedrun.com/mc#Any_Glitchless)
 
 ### To Do:
-* Complete these Sections
-	* Fortresses
-
-* On Completion:
-	* Add Crafting Screenshots for each mention of Crafting an Item *(similarly to: Craft a [Composter](https://i.imgur.com/xRd6xYT.webp))*
-		* *change all current Screenshots to be cropped the same as above, name/mats/window (2 gray lines)*
-			* *use the [Crafting](https://minecraft.fandom.com/wiki/Crafting) wiki page to get the correct windows*
-		* *take screenshots @ 250% zoom level, post imgur links as direct link (i.imgur.com/image.webp)*
-	* Add Links to all Video / Section / Item references, even if they have previously been linked to
-	* Check the skinny main view to make sure there isn't any unnecessary text wraps
-	* Spell Check / Phrasing Check the entire document *(missed words, poor punctuation, unclosed italics, etc)*
-	* Keep consistent Capitalization *(make sure all instances of an item/entity/word are the same)*
-		* *words after a : or → should be treated as a new sentence*
-		* *The first word of each sentence should be Capitalized*
-			* *unless it's an italicized clarifying statement, such as this*
-				* *Special Capitalized words should still be Capitalized in these comments*
-					* *such as Item, Damage, Block, Nether*
-						* *the "the" in "the Nether" should only be Capitalized if it's the first word in the sentence*
-			* *all cases of "if" should be lower-case, even if it's the start of a sentence*
-	* Double Check every Link to make sure it actually links something *(and make sure it leads to the correct place)*
-	* Make sure there isn't any superfluous information in the Speedrun Guide section *(move it to Tips & Tricks)*
+* Add Crafting Screenshots for each mention of Crafting an Item *(similarly to: Craft a [Composter](https://i.imgur.com/xRd6xYT.webp))*
+	* *change all current Screenshots to be cropped the same as above, name/mats/window (2 gray lines)*
+		* *use the [Crafting](https://minecraft.fandom.com/wiki/Crafting) wiki page to get the correct windows*
+	* *take screenshots @ 250% zoom level, post imgur links as direct link (i.imgur.com/image.webp)*
+* Add Links to all Video / Section / Item references, even if they have previously been linked to
+* Check the skinny main view to make sure there isn't any unnecessary text wraps
+* Spell Check / Phrasing Check the entire document *(missed words, poor punctuation, unclosed italics, etc)*
+* Keep consistent Capitalization *(make sure all instances of an item/entity/word are the same)*
+	* *words after a : or → should be treated as a new sentence*
+	* *The first word of each sentence should be Capitalized*
+		* *unless it's an italicized clarifying statement, such as this*
+			* *Special Capitalized words should still be Capitalized in these comments*
+				* *such as Item, Damage, Block, Nether*
+					* *the "the" in "the Nether" should only be Capitalized if it's the first word in the sentence*
+		* *all cases of "if" should be lower-case, even if it's the start of a sentence*
+* Double Check every Link to make sure it actually links something *(and make sure it leads to the correct place)*
+* Make sure there isn't any superfluous information in the Speedrun Guide section *(move it to Tips & Tricks)*
 
 <br/>
 
