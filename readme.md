@@ -395,9 +395,9 @@
 	* *makes you immune to the Blaze's fireballs, but not their melee attacks*
 * *Cross***Bow + Arrows**: Allows you to [Half-Bow](https://youtu.be/whwjNbIni58) while in the Ender Dragon fight
 * **Fire Charge**: Can be used to light Nether Portals *(useful if you entered with a Flintless Portal)*
-	* *alternatively: Gather Flint from Gravel | Craft [Iron Nuggets 18:2 Iron Ingots](https://i.imgur.com/jrxLEur.webp) → Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp)*
+	* *alternatively: Gather Flint from Gravel → Craft [Iron Nuggets 18:2 Iron Ingots](https://i.imgur.com/jrxLEur.webp) → Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp)*
 
-### **Pie-Ray**, *a.k.a. Piedar*  
+### **Pie-Ray** *(a.k.a. Piedar)*  
 [k4yfour](https://youtu.be/Ou58P7e-ZY0?t=109) | [PandapigGamer](https://youtu.be/Aq9qfHNEOHM)  
 *attempt to locate a Fortress, using Mob Spawners in the Block Entities option of the Shift+F3 Pie Chart Menu*  
 *Blaze Spawners aren't the only Mob Spawner in the Nether, sometimes Treasure Bastions will cause a false positive*  
