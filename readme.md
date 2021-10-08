@@ -416,7 +416,8 @@
 * Fortresses are split into 2 sections, the Bad *(inside)* and the Good *(outside)*
 	* *the Bad section of the Fortress will have a Netherbrick roof above it*
 	* *the Good section of the Fortress with have either no roof, or a Netherrack/Soul Sand roof*
-* [Inside Navigation](https://www.youtube.com/watch?v=swSbv4AImzI): *Blaze Spawners only generate in the Outside section, try to get there as fast as possible*
+		* *Blaze Spawners only generate in the Outside section, try to get there as fast as possible*
+* [Inside Navigation](https://www.youtube.com/watch?v=swSbv4AImzI)
 	* *if there is a staircase with Neterwart at the bottom: Go **down** the stairs*
 	* *if there is a staircase without Netherwart at the bottom: Go **up** the stairs*
 	* *if there is a balcony room: Go in the **opposite** direction of it*
