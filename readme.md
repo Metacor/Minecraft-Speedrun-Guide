@@ -447,13 +447,13 @@
 *[Build a Nether Portal](https://youtu.be/ZE5VEYWC_9s) at specific locations in the Nether to teleport close to the Stronghold*  
 * **[Blind](https://youtu.be/0N8Wj8hOVKM)**
 	* Build your Nether Portal at the closest of any of [these Coordinates](https://imgur.com/gallery/i3fIanf)
-* **[Educated](https://youtu.be/0N8Wj8hOVKM)**
-	* Requires you to have 20+ Obsidian, and for you to build a Nether Portal to reach the Overworld
+* **[Educated](https://youtu.be/0N8Wj8hOVKM?t=516)**
+	* Requires you to have 20 Obsidian, and for you to build a Nether Portal to reach the Overworld
 		* *if your final Nether Structure is very close to your first Nether Portal, you can use that instead*
 	* Once in the Overworld, Throw an Eye of Ender → Record the Angle → Return to the Nether
 	* Follow that Angle in the Nether, and build a Nether Portal at the closest [Blind location](https://imgur.com/gallery/i3fIanf)
 * **Calculated**
-	* Similarly to Educated Travel, requires the use of 20+ Obsidian and a random Nether Portal
+	* Similarly to Educated Travel, requires the use of 20 Obsidian and a random Nether Portal
 	* For Calculated, instead of throwing 1 Eye of Ender, fully use Triangulation *(read the section below)*
 	* Build your Nether Portal *(in the Nether)*, at the general location of the Stronghold
 		* *using both the Direction of the Eye of Ender *(like Educated)*, but also the rough Distance/8*
@@ -465,14 +465,14 @@
 <br/>
 
 ## The Overworld, Part 2
-*Find the Location of a Stronghold → Enter the Stronghold, and Navigate to the Portal Room → Enter The End*
+*Find the Location of a Stronghold → Enter the Stronghold and Navigate to the Portal Room → Enter The End*
 
 ### **Triangulation**  
 [BoomerPlayz](https://youtu.be/8c29j0We2VQ) | [Distance Chart](https://i.imgur.com/6rvw5Bb.webp)  
 *use the differing Angles from throwing multiple Eyes of Ender to find the location of the closest Stronghold*  
-*even if you're not doing [Axis Calculated Travel](https://youtu.be/0LDj48fsRT8), you can still use Ninjabrain's Triangulation Method if you prefer*  
+*even if you're not doing [Axis Calculated Travel](https://youtu.be/0LDj48fsRT8), you can still use Ninjabrain's Triangulation Method*  
 
-* While in the Overworld, throw an Eye of Ender → View the Eye in the center of your screen → Record the Angle°
+* While in the Overworld, throw an Eye of Ender → View the Eye in the center of your screen → Record the [Angle°](https://i.imgur.com/NdQFQB6.webp)
 	* *changing your FoV to 30 while looking at the Eye will make the Angle more precise*
 	* *if you have trouble following the Eye, try throwing it while either [looking down](https://youtu.be/8c29j0We2VQ?t=200), or using [F5](https://youtu.be/0LDj48fsRT8?t=24)*
 * Turn 90° *(either Direction)* → Travel 17.5 Blocks *(~4 Sprint Jumps)* → Throw another Eye → Record the Angle
