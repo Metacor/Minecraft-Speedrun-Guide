@@ -568,9 +568,10 @@
 	* *if a [Splash Potion is thrown while Falling](https://youtu.be/NVb0EMzorw4), you can recieve nearly the max Duration*
 * While trying to Pie-Ray, if you accidentally press the wrong button, press '0' to go back a page  
 * When approaching a Fortress, you can lower your Render Distance to 5 (5RD)
+	* *this decreases the spawning area, while not changing the Mob Limit, effectively increasing spawn rates*
 	* *this decreases the spawn area for enemies, while keeping the same Mob limit, effectively increasing the nearby spawn density*
 		* *this effective increase affects all enemies that spawn in that Biome, not just Blazes*
-		* *additionally, Mob Spawners are not affected by this increase, so if you plan to camp a Spawner, 5RD wont help*
+		* *Mob Spawners are not affected by this increase, so if you plan to camp a Spawner, 5RD wont help*
 	* *it's a lot easier to deal with spawns if the Fortress isn't free floating above Lava*
 	* *Mobs spawn more often in Soul Sand Valleys, using 5RD in one is pretty risky if you're low on food*
 * if your Axe breaks while fighting Blazes, [Shovels do slightly more Damage than Pickaxes](https://i.imgur.com/gpxqtCg.webp) of the same Type
