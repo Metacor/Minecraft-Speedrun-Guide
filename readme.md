@@ -402,7 +402,7 @@
 * Open the F3 Pie Chart by pressing Shift + F3
 * Navigate to the correct Pie Chart Menu: *Tick → Level → Entites → Block Entites*
 	* *you can use the numbers on your keyboard to select the corresponding option*
-* Increase your Render Distance until you see a Mob Spawner show up in the Pie Chart
+* Increase your Render Distance *[F3 + F]* until you see a Mob Spawner show up in the Pie Chart
 	* *if there is already a Mob Spawner showing: First change to RD2 → Close/Reopen Shift+F3*
 * Decrease by 4 RD *[F3 + Shift + F]* → Close/Reopen Shift+F3 → Increase by 3 RD *[F3 + F]*
 * Enable Chunk Borders *[F3 + G]* → Cross the Chunk Border, in each direction, until the Mob Spawner reappears
@@ -412,6 +412,10 @@
 	* *if it's a Treasure Bastion, either break the Magma Spawner and try again, or reset*
 
 ### **Fortress**
+*explaination*  
+
+* Navigation
+* Blaze Bed
 
 ### **Travel**  
 *[Build a Nether Portal](https://youtu.be/ZE5VEYWC_9s) at specific locations in the Nether to teleport close to the Stronghold*  
