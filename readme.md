@@ -264,7 +264,7 @@
 	* Dig up Gravel until you find some Flint → Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp) → Pickup the Crafting Table (and Door)
 * Resurface → Place the Boat → Search for an Ocean Ravine
 * Create a Ravine Nether Portal *([Spreadsheet](https://docs.google.com/spreadsheets/d/1VU6IZpyhr-3tMXC5GG4ryuqrbmQkvCKE_1nJm2eym4c/edit#gid=1186267001))* → Enter the Nether
-	* [Standard]() | [1-Deep]() 
+	* [Standard](https://youtu.be/yGyMWYhHYoQ?t=85) | [1-Deep](https://youtu.be/yGyMWYhHYoQ?t=329) 
 		* *Cobblestone Skip is faster, and not really any harder, so optionally: Skip learning the Standard Method*
 	* [Cobblestone Skip](https://youtu.be/H2fHDidyfJo?t=62) - [Safe](https://youtu.be/x0SVexwfKZY) | [1-Deep](https://youtu.be/Q5kh9EYvoqs)
 	* [2-Wide, Doors](https://youtu.be/5JXu6lQehQ0) - [Safe](https://youtu.be/CMl2xzC7jb0)
