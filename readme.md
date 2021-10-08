@@ -309,10 +309,10 @@
 *Combination of the most optimal strats, Resets are frequent, so having a very high Reset Efficiency is recommended*
 * [Mapless Treasure](https://youtu.be/_dyD8ZwagDg), *if available* → [Pirate](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate-overworld) → [Ravine Nether Entry](https://youtu.be/H2fHDidyfJo?t=63) → 
 	* *if you spot a Shipwreck from your spawn location, [prioritize that](https://youtu.be/CEG8oXyz9zc?t=257) over Mapless Treasure*
-* [Microlensing](https://youtu.be/jvTfMLPnMSw) → [Bastion](https://github.com/Metacor/Minecraft_Speedrun_Guide#bastions) → [Pie-Ray](https://youtu.be/Aq9qfHNEOHM) → Fortress, [Blazebed](https://www.youtube.com/watch?v=3TD4jkuT8QA) → [Blind](https://i.imgur.com/96KhbT2.webp) / [Divine](https://youtu.be/SXem01c44-I) Travel
-	* if 20+ Obsidian: [Axis Calculated](https://youtu.be/0LDj48fsRT8) / [Perfect](https://youtu.be/YpV7I9X-Jso) Travel
+* [Microlensing](https://youtu.be/jvTfMLPnMSw) → [Bastion](https://github.com/Metacor/Minecraft_Speedrun_Guide#bastions) → [Pie-Ray](https://youtu.be/Aq9qfHNEOHM) → Fortress, [Blazebed](https://www.youtube.com/watch?v=3TD4jkuT8QA) → [Blind](https://i.imgur.com/96KhbT2.webp) | [Divine](https://youtu.be/SXem01c44-I) Travel
+	* if 20+ Obsidian: [Axis Calculated](https://youtu.be/0LDj48fsRT8) | [Perfect](https://youtu.be/YpV7I9X-Jso) Travel
 * [Triangulation](https://youtu.be/8c29j0We2VQ) → Stronghold Entry *(if Ocean exposed: Portal Room Entry,  else: Starter Staircase Entry)* → End Entry →
-	* [Half-Bow](https://youtu.be/whwjNbIni58) + North / South Ground + [One-Cycle Dragon](https://youtu.be/aGMLHXnD6Bc) (~[4 Bed](https://youtu.be/R-9PGkSJU7g))  
+	* [Half-Bow](https://youtu.be/whwjNbIni58) | North / South Ground → [One-Cycle Dragon](https://youtu.be/aGMLHXnD6Bc) (~[4 Bed](https://youtu.be/R-9PGkSJU7g))  
 
 
 *Optionally*   
