@@ -68,7 +68,7 @@
 
 ## Mods
 [Website](https://www.minecraftspeedrunning.com/public-resources/mods ) | [Explainations](https://youtu.be/km0sXurMj5s?t=126)  
-### Fabric Loader (DON'T USE FABRIC API): [Website](https://fabricmc.net/use/) | [Download](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.4/fabric-installer-0.7.4.jar)  
+### Fabric Loader *(DON'T USE FABRIC API)*: [Website](https://fabricmc.net/use/) | [Download](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.4/fabric-installer-0.7.4.jar)  
 * Auto Reset Mod: [Website](https://github.com/DuncanRuns/AutoResetMod) | [Download](https://github.com/DuncanRuns/AutoResetMod/releases/download/v1.2.0/autoreset-1.2.0+MC1.16.1.jar)
 	* When Active, on pressing Quit: Quits → Creates a New World, with correct Settings → Loads the World
 	* **Optional**: AHK Keybind Reset + Saved Worlds Culling [Video](https://youtu.be/km0sXurMj5s?t=187)
