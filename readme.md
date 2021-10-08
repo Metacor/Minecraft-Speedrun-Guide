@@ -430,7 +430,7 @@
 	* *if you don't have Fire res, make sure to Craft a [Shield](https://i.imgur.com/nyxJaf0.webp) and put it in your offhand*
 	* *if you don't have Fire res or a Shield, create a [safety platform](https://youtu.be/jXCyUOMP4wQ) to fight the Blazes*
 * After you defeat the first wave of Blazes, begin to clear out the surrounding blocks, increasing the spawn rates
-	* Standard: *manually use your Pickaxe to Mine out the Blocks*
+	* [Standard](https://youtu.be/mDb8VucFV9s?t=276): *manually use your Pickaxe to Mine out the Blocks*
 	* [Blaze Bed](https://youtu.be/3TD4jkuT8QA): *use the exlposion from a Bed or TnT to quickly clear the Blocks for you*	
 		* [Methods](https://youtu.be/1spSd0Ussy0): [Open](https://youtu.be/3TD4jkuT8QA?t=165) - [2](https://youtu.be/3TD4jkuT8QA?t=379) | [Enclosed](https://youtu.be/3TD4jkuT8QA?t=460) - [2](https://youtu.be/3TD4jkuT8QA?t=268) | [TnT](https://youtu.be/X3kHn0PaZW0)
 			* *when Blaze Bedding quickly put out the Fires, Blazes only spawn at Light Levels 11 or lower*
