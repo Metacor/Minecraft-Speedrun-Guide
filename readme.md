@@ -541,7 +541,6 @@
 		* *proper Door placement will usually negate all potential Damage when searching for the Gold Blocks*
 * Desert Temples - *explode a single TnT to collect all of the Chest Loot and any surrounding Blocks*
 	* [Top TnT](https://youtu.be/gS6LxaNibWM?t=76) | [Bot TnT](https://youtu.be/CdoYoYrOyjU?t=5)
-* You don't need to hit Chickens after igniting them, [the Fire Damage alone will kill it](https://youtu.be/FV2u8soBkeA?t=702)
 * Mining [Stone takes slightly less time than Cobblestone](https://i.imgur.com/LuyiYEa.webp), (typically found as part of Plains Village houses)
 	* Wooden Pickaxe: Stone takes **1.15 Seconds** | Cobblestone takes **1.5 Seconds**
 	* Stone Pickaxe: Stone takes **0.6 Seconds** | Cobblestone takes **0.75 Seconds**
@@ -552,6 +551,7 @@
 	* *doing this wouldn't work in the Nether, as Buckets of Water don't work in the Nether*
 * if you have a limited amount of Gravel, and you need to Dig more to collect Flint, put the Gravel in your offhand
 	* *by doing this, you can Dig with a Shovel and place Gravel at the same time*
+* You don't need to hit Chickens after igniting them, [the Fire Damage alone will kill it](https://youtu.be/FV2u8soBkeA?t=702)
 * Lava Lakes tend to spawn underneath Water Lakes
 	* *if you're unable to find a Lava Lake on the surface, try digging near small surface Water Lakes*
 * [Lava Dousing](https://youtu.be/SzNbVxDj-do)
