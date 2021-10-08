@@ -408,7 +408,7 @@
 	* *if the Mob Spawner doesn't reappear, it's likely diagonal from your location, check the corners*
 * The direction in which the Mob Spawner reappears is the direction of the Mob Spawner
 * Follow that direction until you find the Fortress *(or Treasure Bastion, if you're unlucky)*
-	* *if it's a Treasure Bastion, either break the Magma Spawner and try again, or reset*
+	* *if it's a Treasure Bastion, either [break the Magma Spawner](https://youtu.be/Ymt8NCIyYt0?t=41) and try again, or reset*
 
 ### **Fortress**
 *explaination*  
