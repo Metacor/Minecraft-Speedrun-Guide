@@ -59,8 +59,9 @@
 * Options → Music & Sounds → **Show Subtitles: ON**
 * Options → Video Settings → Quality → **Entity Distance (500)**
 
-**With Sodium Mod** (*Disabling Entity Culling isn't required for Sodium v0.2.0+*)
+**With Sodium Mod**
 * Options → Video Settings → Advanced → **Disable Entity Culling**
+	* *Disabling Entity Culling isn't required for Sodium v0.2.0+*
 * Options → Video Settings → Unofficial → **Enable Planar Fog**  
 
 **Timers**: [Livesplit](https://livesplit.org/downloads/) | [NinjaSnail1080's Minecraft Universal Timer](https://github.com/NinjaSnail1080/mc-universal-in-game-timer) - [Video](https://youtu.be/fPESBmKYi0Q)
