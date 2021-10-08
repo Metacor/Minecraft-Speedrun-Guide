@@ -428,7 +428,7 @@
 	* *if you don't have Fire res, make sure to Craft a [Shield](https://i.imgur.com/nyxJaf0.webp) and put it in your offhand*
 	* *if you don't have Fire res or a Shield, create a [safety platform](https://youtu.be/jXCyUOMP4wQ) to fight the Blazes*
 * After you defeat the first wave of Blazes, begin to clear out the surrounding blocks, this will increase the spawn rates
-	* Standard: *manually use your Pickaxe to Mine out the Blocks
+	* Standard: *manually use your Pickaxe to Mine out the Blocks*
 	* Blaze Bed: *use the exlposion from a Bed or TnT to quickly clear the Blocks for you*
 		* *Front:*
 		* *Full:*
