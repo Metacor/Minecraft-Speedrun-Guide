@@ -101,7 +101,7 @@
 * **F3 + G**: Chunk Borders  
 * **F3 + B**: Entity Hitboxes  
 
-**Useful for [Pie-Ray](https://www.youtube.com/watch?v=Aq9qfHNEOHM) and [Mapless Treasure](https://youtu.be/_dyD8ZwagDg):**
+**Useful for [Pie-Ray](https://github.com/Metacor/Minecraft-Speedrun-Guide#pie-ray-aka-piedar) and [Mapless Treasure](https://youtu.be/_dyD8ZwagDg):**
 * **Shift + F3**: Pie Chart F3 Menu
 	* **Pie-Ray**: *Tick → Level → Entites → Block Entites*
 	* **Mapless Treasure**: *gameRenderer → Level → Entites*
@@ -401,6 +401,7 @@
 
 * Open the F3 Pie Chart by pressing Shift + F3
 * Navigate to the correct Pie Chart Menu: *Tick → Level → Entites → Block Entites*
+	* *you can use the numbers on your keyboard to select the corresponding option*
 * Increase your Render Distance until your see a Mob Spawner show in the Pie Chart
 * Decrease your Render Distance by 4 → Close and reopen your F3 Pie Chart → Increase your Render Distance by 3
 * Enable Chunk Borders *[F3 + G]* → Cross the Chunk Border, in each direction, until the Mob Spawner reappears
