@@ -292,25 +292,27 @@
 
 ### **Advanced+** | Pirate → Ocean Monument  
 **Ocean Monument Guides:** [T_Wagz](https://youtu.be/0dyHYkg_xIU) | [Silver](https://youtu.be/14FGC1eUHug) - [Part 2](https://youtu.be/-b7nQyXZkfw)   
-*Same start as [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate-overworld), but you also Gather the guaranteed 8 Gold Blocks from an Ocean Monument*  
-*sometimes allowing you to completely skip the Bastion while in the Nether*  
+*[Pirate](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate) strats, but you also Gather the guaranteed 8 Gold Blocks from an Ocean Monument*  
+*doing this will sometimes allow you to completely skip the need to go to a Bastion while in the Nether*  
+
 * Pirate Start → Shipwreck (Craft a [Shield](https://i.imgur.com/nyxJaf0.webp), since you wont have Fire Resistance for the Fortress) → Ocean Monument
 	* As soon as you see an Ocean Monument, turn your Render Distance to 2 (RD2)
 		* *this will usually result in the Elder Guardians not spawning, allowing you to avoid Mining Fatigue*
 	* if you get Mining Fatigue
-		* *Drink a Milk Bucket (use an Empty Bucket on a cow, mooshroom, or goat)*
-		* *Set your Spawn at a Bed, and Suicide, (see Suicide Methods in [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate-overworld))*
+		* Drink a Milk Bucket (use an Empty Bucket on a cow, mooshroom, or goat)
+		* Set your Spawn at a Bed → Suicide *(see the Suicide Methods in the Pirate section above)*
 			* *optionally: if you're close to the World Spawn, Suicide without setting your Spawn*
-	* Loot the 8 Gold Blocks from the Monument → Leave the Monument as fast as possible
+	* Mine the 8 Gold Blocks from the Monument → Leave the Monument as fast as possible
 	* Once you're a reasonable Distance away from the Monument, set your Render Distance back to normal
-* Continue with the normal Pirate strats → Ravine Nether Portal → Enter the Nether
-	* The same Bed/Food limitations exist  
+* Locate an Ocean Ravine → Create a Ravine Nether Portal → Enter the Nether
+	* The Bed and Food limitations from the Pirate strats still apply here  
 
 <br/>
 
-* While in the Nether: Find a Fortress → Trade with nearby randomly spawned Piglins → Kill Blazes for Blaze Rods
-	* *trap 2 Piglins in a Boat → Throw them your Gold Ingots → Proceed into the Fortress*
-		* *don't forget to return to the Piglins to Collect your Loot - if you didn't get enough → Find a Bastion*
+* When you find a Fortress in the Nether, look around for nearby Piglins to Trade with
+	* Trap 2 Piglins in a Boat → Throw them your Gold Ingots → Proceed into the Fortress
+	* Kill Blazes for Blaze Rods → Return to the Piglins to Collect your Loot
+		* *if you didn't get enough Loot to leave, either Find a Bastion or finish Trading using Classic Strats*
 
 ### **Expert** | [Hypermodern](https://youtu.be/gAHMJfsrHe4)  
 *Combination of the most optimal strats, Resets are frequent, so having a very high Reset Efficiency is recommended*
