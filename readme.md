@@ -338,8 +338,6 @@
 	* *as opposed to the previous example, in the [image linked above](https://i.imgur.com/w6WZlqf.webp), E: **32**/122, you should be looking at 32 this time*
 	* *High density Biomes can sometimes give false positives for Bastions, use (E + 30 ≈ M + C), for a better idea*
 
-<br/>
-
 ### **Bastions**  
 [pncakespoon's Route Spreadsheet](https://docs.google.com/spreadsheets/d/1qLgp5uhMOKuerNZaec1dpoECpJI0-6YhztMqa_wZ8W0/edit#gid=1811348189) | [Bastion Resources](https://docs.google.com/document/d/1yuruZF575xvwOCB5t6ftfRY9OEtLDRQsWFJRD6YetU0/edit) | [Zolstice's Beginner Screenshot Guide](https://www.reddit.com/r/MinecraftSpeedrun/collection/a6121708-188c-43b9-8267-de61620456f1/)  
 *ideally, locate and finish the Bastion before the Fortress, for the chance to get Fire Resistance Potions*  
@@ -390,8 +388,6 @@
 * **Fire Charge**: Can be used to light Nether Portals *(useful if you entered with a Flintless Portal)*
 	* *alternatively: Gather Flint from Gravel | Craft [Iron Nuggets 18:2 Iron Ingots](https://i.imgur.com/jrxLEur.webp) → Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp)*
 
-<br/>
-
 ### **Pie-Ray**, *a.k.a. Piedar*  
 [k4yfour](https://youtu.be/Ou58P7e-ZY0?t=109) | [PandapigGamer](https://youtu.be/Aq9qfHNEOHM)  
 *attempt to locate a Fortress, using Mob Spawners in the Block Entities option of the Shift+F3 Pie Chart Menu*  
@@ -409,8 +405,6 @@
 * The direction in which the Mob Spawner reappears is the direction of the Mob Spawner
 * Follow that direction until you find the Fortress *(or Treasure Bastion, if you're unlucky)*
 	* *if it's a Treasure Bastion, either [break the Magma Spawner](https://youtu.be/Ymt8NCIyYt0?t=41) and try again, or reset*
-
-<br/>
 
 ### **Fortress**
 [Pooply](https://youtu.be/swSbv4AImzI) | [Haroon Shah](https://youtu.be/iaUF0oaegns?t=3624) | [Couriway](https://youtu.be/LJ1PbhPAVAI?t=263)
@@ -440,8 +434,6 @@
 		* *doing this will make sure you don't waste any Ender Pearls that could've otherwise been used in the End*
 * Leave the Stronghold and navigate to the nearest Blind location
 	* *if 20 Obsidian: create a Nether Portal at the Fortress → use one of the Travel Methods listed below*
-
-<br/>
 
 ### **Travel**  
 *[Build a Nether Portal](https://youtu.be/ZE5VEYWC_9s) at specific locations in the Nether to teleport close to the Stronghold*  
