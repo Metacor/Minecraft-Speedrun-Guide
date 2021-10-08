@@ -336,7 +336,7 @@
 ## The Nether
 *Find a Bastion, Trade Gold to Piglins for Obsidian and Ender Pearls → Find a Fortress, Kill Blazes for Blaze Rods*
 
-### **Microlensing**, *a.k.a. E-Ray*  
+### **Microlensing** *(a.k.a. E-Ray)*  
 [k4yfour](https://youtu.be/jvTfMLPnMSw) - [Part 2](https://youtu.be/Ou58P7e-ZY0) | [Nuskapuska's Slide](https://i.imgur.com/98heFGq.webp)
 * When you enter The Nether, open your F3 Menu *(if not already opened)*, and look at the **Right** [E: Value](https://i.imgur.com/w6WZlqf.webp)
 	* *for example, in the image linked above, E: 32/**122**, you should be looking at 122*
