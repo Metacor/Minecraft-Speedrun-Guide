@@ -343,8 +343,8 @@
 	* *ideally, open your F3 Menu before entering your Nether Portal in the Overworld*
 * if you notice the E: Value quickly raises, you likely just loaded a Bastion into your Render Distance
 * if the sum of the M: & C: Values is ~30 higher than the E: Value, there is a Bastion within your Render Distance
-* To find the Bastion Direction, change your Fov to 30 then slowly turn 360°, and look at the **Left** E: Value
-	* *as opposed to the previous example, in the [image linked above](https://i.imgur.com/w6WZlqf.webp), E: **32**/122, you should be looking at 32 this time*
+* To find the Bastion Direction, change your Fov to 30 then slowly turn 360°, and look at the **Left** [E: Value](https://i.imgur.com/w6WZlqf.webp)
+	* *as opposed to the previous example, in the image linked above, E: **32**/122, you should be looking at 32 this time*
 	* *High density Biomes can sometimes give false positives for Bastions, use (E + 30 ≈ M + C), for a better idea*
 
 ### **Bastions**  
@@ -358,12 +358,12 @@
 	* if Triple, *(Right Shoulder)*: [Dowsky](https://youtu.be/RAgYDi23Dww)
 	* if Triple, *(Left Shoulder)*: [Reignex/Gus](https://youtu.be/aKxDbLTZ2f0) | [Buried](https://www.twitch.tv/videos/1056189431)
 	* if Double Single: [Ela's Hole](https://youtu.be/3SHj_nm8mC0)
-	* if Top Entry: [Lodestone Manhunt](https://youtu.be/n5HDxqNFe4s?t=593)
+	* if Top Entry: [Lodestone Manhunt](https://youtu.be/QdUehnmxkjo?t=665)
 * **Treasure**: [Structure Video](https://youtu.be/A9GGUWwNcrY?t=132) | [Screenshots](https://imgur.com/gallery/U4FnQC5) | [Bottom Placements](https://i.imgur.com/bDQjaBL.webp)  
 *highly recommended to Craft a Gold Pickaxe with the [Gold Blocks on the bridge](https://youtu.be/9NNvyBx03iY)*
 	* [Ninjabrain](https://youtu.be/0YvGkSOJVmU)
 * **Housing**: [Structure Video](https://youtu.be/BoNr-pbEITM?t=132) | [Screenshots](https://imgur.com/gallery/wyjWcli) | [Correct Direction](https://youtu.be/BoNr-pbEITM?t=853)
-	* if Bot: [Manhunt]()
+	* if Bot: [Manhunt](https://streamable.com/tdzb21)
 	* if Top: [Top Down Manhunt](https://youtu.be/55sRL0xsWe8)
 		* Alternative: [Kuee Top Down](https://youtu.be/H2xy6q5Wp4Q)
 			* *the Chest Method can also be used for the normal Top Down strat*
