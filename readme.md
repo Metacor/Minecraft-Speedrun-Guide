@@ -71,7 +71,7 @@
 ### Fabric Loader *(DON'T USE FABRIC API)*: [Website](https://fabricmc.net/use/) | [Download](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.4/fabric-installer-0.7.4.jar)  
 * Auto Reset Mod: [Website](https://github.com/DuncanRuns/AutoResetMod) | [Download](https://github.com/DuncanRuns/AutoResetMod/releases/download/v1.2.0/autoreset-1.2.0+MC1.16.1.jar)
 	* When Active, on pressing Quit: Quits → Creates a New World, with correct Settings → Loads the World
-	* *optional Keybind reset and Save Worlds culling AHK Script [Guide](https://youtu.be/km0sXurMj5s?t=187)*
+	* *[Guide](https://youtu.be/km0sXurMj5s?t=187) to reset with a Hotkey and cull Saved World files using AutoHotKey*
 * Fast Reset: [Website](https://github.com/jan-leila/FastReset) | [Download](https://github.com/jan-leila/FastReset/releases/download/1.15.2-1.0.0/fast_reset-1.15.2-1.0.0.jar)
 	* Disables the forced Auto Save when Exiting a World, saving time between Resets  
 * LazyDFU: [Website](https://modrinth.com/mod/lazydfu) | [Download](https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar)
