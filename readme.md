@@ -411,7 +411,7 @@
 	* *if it's a Treasure Bastion, either [break the Magma Spawner](https://youtu.be/Ymt8NCIyYt0?t=41) and try again, or reset*
 
 ### **Fortress**
-[Haroon Shah](https://youtu.be/iaUF0oaegns?t=3624)
+[Pooply](https://youtu.be/swSbv4AImzI) | [Haroon Shah](https://youtu.be/iaUF0oaegns?t=3624) | [Couriway](https://youtu.be/LJ1PbhPAVAI?t=263)
 
 * Fortresses are split into 2 sections, the Bad *(inside)* and the Good *(outside)*
 	* *the Bad section of the Fortress will have a Netherbrick roof above it*
@@ -422,7 +422,26 @@
 	* *if there is a balcony room: Go in the **opposite** direction of it*
 	* *the Lava pool room will always connect the Inside and Outside sections*
 		* *if viewed from above, this room will be the building [without roof access](https://youtu.be/LJ1PbhPAVAI?t=269)*
-* Blaze Bed
+* Search the Good section of the Fortress until you locate a Blaze Spawner
+* Activate a Potion of Fire Resistance if you have any *(this is the main reason we try to do Bastions first)*
+	* *if you don't have Fire res, make sure to Craft a [Shield](https://i.imgur.com/nyxJaf0.webp) and put it in your offhand*
+	* *if you don't have Fire res or a Shield, create a [safety platform](https://youtu.be/jXCyUOMP4wQ) to fight the Blazes*
+* After the first wave of Blaze spawns, begin to clear out the surrounding Blocks to increase the spawn rates
+	* *standard: *
+	* *Blaze Bed: use the exlposion from a Bed or TnT to quickly clear the Blocks for you*
+		* *Front:*
+		* *Full:*
+		* *TnT:*
+* Kill Blazes until you collect 7-8 Blaze Rods → Craft [Blaze Powder](https://i.imgur.com/Bhr4808.webp) → Craft [Eye of Ender](https://i.imgur.com/0FjuMuE.webp)
+	* *Craft ~10 Eye of Enders for now, and Craft the remaining needed when you see how many End Portal Frames are completed*
+		* *do this will make sure you don't waste any Ender Pearls that could've otherwise been used in the End*
+	* *only 6 Rods are needed to complete an End Portal, however some Eye of Enders may break while locating the Stronghold*
+* Leave the Stronghold and navigate to the nearest Blind location
+	* *if 20 Obsidian: create a Nether Portal at the Fortress → use one of the Travel Methods listed below*
+
+
+
+
 
 ### **Travel**  
 *[Build a Nether Portal](https://youtu.be/ZE5VEYWC_9s) at specific locations in the Nether to teleport close to the Stronghold*  
