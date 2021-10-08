@@ -364,8 +364,6 @@
 	* if no Triple, w/ Good Gap: [Good Gap Stables](https://youtu.be/ukyIkZMnw-w?t=141)
 	* if no Triple, w/ Double Bad Gap: [Better Luck Next Time](https://i.imgur.com/YxRxdhI.webp)
 
-<br/>
-
 **Required Items**  
 * **Obsidian**
 	* **10 Required** to Blind Travel out of the Nether
@@ -410,6 +408,8 @@
 * Follow that direction until you find the Fortress *(or Treasure Bastion, if you're unlucky)*
 	* *if it's a Treasure Bastion, either [break the Magma Spawner](https://youtu.be/Ymt8NCIyYt0?t=41) and try again, or reset*
 
+<br/>
+
 ### **Fortress**
 [Pooply](https://youtu.be/swSbv4AImzI) | [Haroon Shah](https://youtu.be/iaUF0oaegns?t=3624) | [Couriway](https://youtu.be/LJ1PbhPAVAI?t=263)
 
@@ -436,13 +436,10 @@
 * Kill Blazes until you collect 7-8 Blaze Rods → Craft [Blaze Powder](https://i.imgur.com/Bhr4808.webp) → Craft [Eye of Ender](https://i.imgur.com/0FjuMuE.webp)
 	* *Craft ~10 Eyes for now, the remaining can be Crafted after you confirm the completed End Portal Frame count*
 		* *doing this will make sure you don't waste any Ender Pearls that could've otherwise been used in the End*
-	* *while 6 Rods are needed to complete an End Portal, some Eye of Enders may break while locating the Stronghold*
 * Leave the Stronghold and navigate to the nearest Blind location
 	* *if 20 Obsidian: create a Nether Portal at the Fortress → use one of the Travel Methods listed below*
 
-
-
-
+<br/>
 
 ### **Travel**  
 *[Build a Nether Portal](https://youtu.be/ZE5VEYWC_9s) at specific locations in the Nether to teleport close to the Stronghold*  
