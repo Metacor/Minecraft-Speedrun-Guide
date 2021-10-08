@@ -266,8 +266,8 @@
 * Create a Ravine Nether Portal *([Spreadsheet](https://docs.google.com/spreadsheets/d/1VU6IZpyhr-3tMXC5GG4ryuqrbmQkvCKE_1nJm2eym4c/edit#gid=1186267001))* → Enter the Nether
 	* [Standard]() | [1-Deep]() 
 		* *Cobblestone Skip is faster, and not really any harder, so optionally: Skip learning the Standard Method*
-	* [Cobblestone Skip]() - [Safe]() | [1-Deep]()
-	* [2-Wide, Doors]() | [1-Deep]()
+	* [Cobblestone Skip](https://youtu.be/H2fHDidyfJo?t=62) - [Safe](https://youtu.be/x0SVexwfKZY) | [1-Deep](https://youtu.be/Q5kh9EYvoqs)
+	* [2-Wide, Doors](https://youtu.be/5JXu6lQehQ0) - [Safe](https://youtu.be/CMl2xzC7jb0)
 
 <br/>
 
