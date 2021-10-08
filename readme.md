@@ -375,8 +375,8 @@
 
 **Required Items**  
 * **Obsidian**
-	* **10 Required** to Blind Travel out of the Nether
-	* *20 for Educated/Calculated Travel*
+	* **10 Required** to [Blind Travel](https://github.com/Metacor/Minecraft-Speedrun-Guide#travel) out of the Nether
+	* *20 for [Educated/Calculated Travel](https://github.com/Metacor/Minecraft-Speedrun-Guide#travel)*
 	* *1-3 for the One-Cycle platform in the End (Crying Obsidian will also work)*
 * **Ender Pearls**
 	* **12 Required** to fill the 12 [End Portal Frames](https://minecraft.fandom.com/wiki/End_Portal_Frame) in the Stronghold
@@ -418,11 +418,11 @@
 ### **Fortress**
 [Pooply](https://youtu.be/swSbv4AImzI) | [Haroon Shah](https://youtu.be/iaUF0oaegns?t=3624) | [Couriway](https://youtu.be/LJ1PbhPAVAI?t=263)
 
-* Fortresses are split into 2 sections, the Bad *(inside)* and the Good *(outside)*
+* Fortresses are split into 2 sections, the Bad *(inside)* section and the Good *(outside)* section
 	* *the Bad section of the Fortress will have a Netherbrick roof above it*
 	* *the Good section of the Fortress with have either no roof, or a Netherrack/Soul Sand roof*
 		* *Blaze Spawners only generate in the Good section, try to get there as fast as possible*
-* [Inside Navigation](https://www.youtube.com/watch?v=swSbv4AImzI)
+* [Inside Navigation](https://youtu.be/swSbv4AImzI?t=87)
 	* *if there is a staircase with Nether Wart at the bottom: Go **down** the stairs*
 	* *if there is a staircase without Nether Wart at the bottom: Go **up** the stairs*
 	* *if there is a balcony room: Go in the **opposite** direction of it*
