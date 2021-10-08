@@ -394,14 +394,16 @@
 <br/>
 
 ### **Pie-Ray**, *a.k.a. Piedar*  
-[k4yfour](https://youtu.be/Ou58P7e-ZY0?t=109) | [PandapigGamer](https://youtu.be/Aq9qfHNEOHM)
-*attempt to locate specific Structures using the Block Entities option in the Shift+F3 Pie Chart Menu*  
-*Blaze Spawners aren't the only Mob Spawner in the Nether, so sometimes Treasure Bastions will give a false positive*  
-*this method can also be used in the Overworld to find Villages, using Bells and [Workstations](https://minecraft.fandom.com/wiki/Villager#Professions) instead of Mob Spawners*  
+[k4yfour](https://youtu.be/Ou58P7e-ZY0?t=109) | [PandapigGamer](https://youtu.be/Aq9qfHNEOHM)  
+*attempt to locate a Fortress, using Mob Spawners in the Block Entities option of the Shift+F3 Pie Chart Menu*  
+*Blaze Spawners aren't the only Mob Spawner in the Nether, sometimes Treasure Bastions will cause a false positive*  
+*this method can also be used in the Overworld to find Villages, using [Bells](https://minecraft.fandom.com/wiki/Bell) and [Workstations](https://minecraft.fandom.com/wiki/Villager#Professions) instead of Mob Spawners*  
 
 * Open the F3 Pie Chart by pressing Shift + F3
 * Navigate to the correct Pie Chart Menu: *Tick → Level → Entites → Block Entites*
-* 
+* Increase your Render Distance until your see a Mob Spawner show in the Pie Chart
+* Decrease your Render Distance by 4 → Close and reopen your F3 Pie Chart → Increase your Render Distance by 3
+* Enable Chunk Borders *(F3 + G)* → Walk across the Chunk Border, in each direction, until the Mob Spawner reappears
 
 ### **Fortress**
 
