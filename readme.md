@@ -508,12 +508,12 @@
 	* *if you spawn above ground, Ender Pearl directly to the Exit Portal*
 	* *if you spawn underground, Mine up along the West wall, ideally in a corner*
 		* *[Place a Block → Jump onto it → Mine up 5 Blocks → Place Blocks below you → Repeat](https://youtu.be/b96APrsfm6s?t=750)*
-* Setup your preferred Bed Platform for One-Cycling: [Obsidian](https://youtu.be/7fu55PqeQ1E?t=202) | [Full Block](https://youtu.be/7fu55PqeQ1E?t=174) | [Slab](https://youtu.be/7fu55PqeQ1E?t=179)
+* Setup your preferred Bed Platform for One-Cycling: [Obsidian](https://youtu.be/7fu55PqeQ1E?t=202) | [Full Block](https://youtu.be/7fu55PqeQ1E?t=174) - [Slab](https://youtu.be/7fu55PqeQ1E?t=179)
 	* *run away in your preferred Perch Direction (N/S or E/W)*
 	* *your [Bed Platform position](https://youtu.be/7fu55PqeQ1E?t=214) will depend on your chosen Perch Direction*
 		* *if you're Perching N/S: place the Obsidian N/S | if you're Perching E/W: place the Obsidian E/W*
 * Execute the relevant End Island Method:
-	* if you have a *cross*Bow and Arrows → [Half-Bow]()
+	* if you have a *cross*Bow and Arrows → [Half-Bow](https://youtu.be/whwjNbIni58)
 	* if you have 2+ Pearls, and you don't plan on doing Half-Bow:
 		* [Pearl up to the highest Obsidian Tower](https://youtu.be/-Ta_1R1aXvA?t=116) in the Direction you chose, [build up until you reach y = 122](https://youtu.be/-Ta_1R1aXvA?t=128)
 	* if you don't have 2+ Pearls, and you also don't plan on doing Half-Bow:
@@ -527,7 +527,7 @@
 
 # Tips & Tricks  
 [Cuffep](https://youtu.be/CdoYoYrOyjU) - [Part 2](https://youtu.be/IhrK0AuMkBg) | [Couriway](https://youtu.be/fIeVOFqGwOM) | [Penney](https://youtu.be/TvvApbI6fis)  
-*this section is roughly listed in the order each situation would appear in a run*  
+*this section is listed roughly in the order each situation would appear in a run*  
 
 ### The Overworld
 * [Shipwrecks](https://i.imgur.com/ws384ow.webp)
@@ -537,7 +537,7 @@
 		* Top Chest: Iron Ingots, Gold Ingots
 			* *if the Shipwreck is right-side up, you can Loot this chest [from above](https://youtu.be/dX83N4q4YWU?t=57)*
 		* Bot Chest: Buried Treasure Maps
-			* *Buried Treasure is always located @ 9/x/9 in the Chunk where the X is located*
+			* *Buried Treasure is always @ 9/x/9 in the Chunk where the X is located*
 			* *placing the Buried Treasure Maps in your offhand will make navigating easier*
 * Buried Treasure can also be found in [Ocean Ruins](https://minecraft.fandom.com/wiki/Ocean_Ruins)
 	* *[all but 2](https://youtu.be/4-6OUGu6uqY?t=427) configurations can have chests in them with Buried Treasure Maps (~40% of the time)*
@@ -550,14 +550,12 @@
 * Desert Temples - *explode a single TnT to Collect all of the Chest Loot and any surrounding Blocks*
 	* [Top TnT](https://youtu.be/gS6LxaNibWM?t=76) | [Bot TnT](https://youtu.be/CdoYoYrOyjU?t=5)
 * Mining [Stone takes slightly less time than Cobblestone](https://i.imgur.com/LuyiYEa.webp), (typically found as part of Plains Village houses)
-	* Wooden Pickaxe: Stone takes **1.15 Seconds** | Cobblestone takes **1.5 Seconds**
-	* Stone Pickaxe: Stone takes **0.6 Seconds** | Cobblestone takes **0.75 Seconds**
 * if the Iron Golem is already in a good spot, you can build up next to it before you attack
 * if you need to climb something, but don't have many Blocks, you can use a [Bucket of Water](https://youtu.be/PkrCPuS6IZ8?t=380)
-	* *this can also be used in the End, if you run out of Blocks while building up out of a buried spawn*
+	* *this can also be used in the End, if you run out of Blocks while building up from a buried spawn*
 		* *although if you have Blocks, [just building up](https://youtu.be/b96APrsfm6s?t=749) is faster than using a Bucket of Water*
-	* *doing this wouldn't work in the Nether, as Buckets of Water don't work in the Nether*
-* if you have a limited amount of Gravel, and you need to Dig more to Collect Flint, put the Gravel in your offhand
+	* *doing this wouldn't work in the Nether, since Water doesn't work in the Nether*
+* if you need to Collect Flint using Gravel that is already in your Inventory, put the Gravel in your offhand
 	* *by doing this, you can Dig with a Shovel and place Gravel at the same time*
 * You don't need to hit Chickens after igniting them, [the Fire Damage alone will kill it](https://youtu.be/FV2u8soBkeA?t=702)
 * Lava Lakes tend to spawn underneath Water Lakes
@@ -566,9 +564,9 @@
 	* *more advanced and precise way to find subsurface Lava Lakes*
 * When Searching for an Ocean Ravine, turn on Entity Hitboxes (F3 + B), and look out for Floating Kelp
 	* *if you see floating Kelp in a Deep Ocean, there is [likely a Ravine below it](https://youtu.be/yGyMWYhHYoQ?t=471)*
-* To avoid Glitchy Buckets while making Nether Portals, [don't move while grabbing Lava](https://youtu.be/EjwStTX4U3A)
+* To avoid Glitchy Buckets while making Nether Portals, [don't move your cursor while grabbing Lava](https://youtu.be/EjwStTX4U3A)
 * Since Buckets of Water don't work in the Nether, when you finish your Nether Portal, fill the Bucket with Lava
-* if you plan on Microlensing your Bastion in the Nether, turn on the F3 Menu before you teleport to the Nether
+* While teleporting to the Nether, turn on the F3 Menu to save time while Microlensing
 
 ### The Nether
 * Falling while in a Boat will [negate all Fall Damage](https://youtu.be/REas9cmjlic?t=686)
@@ -577,8 +575,8 @@
 	* Netherrack isn't flammable, and it's very fast to Mine (0.1s with an Iron Pickaxe)
 * if there is a far away Ghast attacking you, quickly lower your Render Distance to 2
 	* [This will usually despawn the Ghast](https://youtu.be/tWVrxt0G6r0?t=696)
-	* *You can turn your Render Distance back up after it disappears*
-	* *if the Ghast is close, just reflect its attack back at it*
+		* *You can turn your Render Distance back up after it disappears*
+	* *if the Ghast is too close, just reflect its attack back at it*
 * When running across Soul Sand, either [jump with Blocks](https://youtu.be/LdY59umJcuA?t=460), or [run along the edges](https://youtu.be/7mRh3TWajn0)
 	* *this will also work on other movement impairing Blocks, such as Magma and Ice*
 * if you find Nether Gold Ore while travelling to a Bastion, consider Mining it and making [Gold Boots](https://i.imgur.com/QrAbJ35.webp)
@@ -592,10 +590,10 @@
 * Only 1 Structure *(Bastions and Fortresses)*, can spawn per *(432, 432)* MegaChunk, for example:
 	* *if a Bastion spawns at (+x, +z), this will be the only Structure in that MegaChunk*
 	* *in order to find a new Structure, you will need to go to a new MegaChunk*
-	* *the remaining 3 inner Quadrants being: (+x,-z), (-x,-z), (-x,+z) | where x & z are < 432 (neg or pos)*
+	* *the remaining 3 inner Quadrants being: (+x, -z), (-x, -z), (-x, +z) | where x & z are < 432 (neg or pos)*
 		* *Directions can also be called: (pos, pos), (pos, neg), (neg, neg), (neg, pos)*
 	* *Structures in MegaChunks beyond the inner 4 Quadrants are known as Extra-Regional Structures*
-* All Bastion types (besides Treasure), can spawn a Triple Chest top section - to easily tell them apart:
+* All Bastion types *(besides Treasure)*, can spawn a Triple Chest top section - to easily tell them apart:
 	* if there are [2 Blocks](https://i.imgur.com/SzHSK3A.webp) between the Double/Single Chest, then it's Stables
 	* if there are [3 Blocks](https://i.imgur.com/wosezlF.webp), then it can be either Housing or Bridge
 		* *Housing and Bridge are very different, so it shouldn't be too hard to Identify the correct one*
@@ -617,13 +615,14 @@
 	* *this decreases the spawning area, while not changing the Mob Limit, effectively increasing spawn rates*
 		* *this effective increase affects all enemies that spawn in that Biome, not just Blazes*
 		* *Mob Spawners are not affected by this increase, so if you plan to camp a Spawner, 5RD wont help*
-	* *it's a lot easier to deal with the increased density, if the Fortress isn't free floating above Lava*
+	* *it's a lot easier to deal with the increased density if the Fortress isn't free floating above Lava*
 	* *[Mobs spawn more often in Soul Sand Valleys](https://youtu.be/SDLFTWFpJOI?t=67), using 5RD while in one is pretty risky if you're low on food*
 * if your Axe breaks while fighting Blazes, [Shovels do slightly more Damage than Pickaxes](https://i.imgur.com/gpxqtCg.webp) of the same Type
 	* *while Pickaxes above Gold have very marginally more DPS, they also require an extra hit below Diamond*
 	* *assuming Crits @ 100% Power, hits needed to Kill a Blaze:*
 		* *Shovel: Wood/Gold = 6, Stone = 4, Iron = 3, Diamond = 3*
 		* *Pickaxe: Wood/Gold = 7, Stone = 5, Iron = 4, Diamond = 3*
+	* *similarly, a Diamond Sword Kills Blazes in the same hits as an Axe (2), so if you have one, use that instead of your Axe*
 * Blazes will Target a Player if they have Line of Sight, and are within 48 Blocks
 	* *once a Target is acquired, the Blaze will set itself... **ablaze**, for 3 seconds*
 	* *at the end of this 3 second period, the Blaze will begin to shoot a Volley of 3 Fireballs*
@@ -751,13 +750,13 @@
 * Avoid the Guardian's Lazer attack
 
 **Nether Portal Constructions** *[spreadsheet](https://docs.google.com/spreadsheets/d/1VU6IZpyhr-3tMXC5GG4ryuqrbmQkvCKE_1nJm2eym4c/edit#gid=0)*  
-*also learn the 1-Deep Versions of each Portal*  
+*learn the 2-Deep and 1-Deep Versions of each Portal*  
 * Lava Lake Nether Portal
-	* [Standard]()
-	* [Flintless]() | [Carpet Flintless]()
+	* [Standard](https://youtu.be/La-yHiEr7QM)
+	* [Flintless](https://youtu.be/DVDbfKuLaWo?t=9) | [Carpet Flintless](https://youtu.be/DVDbfKuLaWo?t=38)
 * Ocean Ravine Nether Portal
-	* [Cobblestone Skip]()
-	* [2-Wide]()
+	* [Cobblestone Skip](https://youtu.be/H2fHDidyfJo?t=62)
+	* [2-Wide](https://youtu.be/5JXu6lQehQ0)
 
 **Bastions**  
 * Microlensing: Locate a Bastion from your Nether Portal
