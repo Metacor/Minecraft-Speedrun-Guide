@@ -418,8 +418,8 @@
 	* *the Good section of the Fortress with have either no roof, or a Netherrack/Soul Sand roof*
 		* *Blaze Spawners only generate in the Good section, try to get there as fast as possible*
 * [Inside Navigation](https://www.youtube.com/watch?v=swSbv4AImzI)
-	* *if there is a staircase with Neterwart at the bottom: Go **down** the stairs*
-	* *if there is a staircase without Netherwart at the bottom: Go **up** the stairs*
+	* *if there is a staircase with Nether Wart at the bottom: Go **down** the stairs*
+	* *if there is a staircase without Nether Wart at the bottom: Go **up** the stairs*
 	* *if there is a balcony room: Go in the **opposite** direction of it*
 	* *the Lava pool room will always connect the Good and Bad sections*
 		* *if viewed from above, this room will be the building [without roof access](https://youtu.be/LJ1PbhPAVAI?t=269)*
