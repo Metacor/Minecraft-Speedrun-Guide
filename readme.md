@@ -394,9 +394,14 @@
 <br/>
 
 ### **Pie-Ray**, *a.k.a. Piedar*  
+[k4yfour](https://youtu.be/Ou58P7e-ZY0?t=109) | [PandapigGamer](https://youtu.be/Aq9qfHNEOHM)
 *attempt to locate specific Structures using the Block Entities option in the Shift+F3 Pie Chart Menu*  
+*Blaze Spawners aren't the only Mob Spawner in the Nether, so sometimes Treasure Bastions will give a false positive*  
+*this method can also be used in the Overworld to find Villages, using Bells and [Workstations](https://minecraft.fandom.com/wiki/Villager#Professions) instead of Mob Spawners*  
 
-* a
+* Open the F3 Pie Chart by pressing Shift + F3
+* Navigate to the correct Pie Chart Menu: *Tick → Level → Entites → Block Entites*
+* 
 
 ### **Fortress**
 
