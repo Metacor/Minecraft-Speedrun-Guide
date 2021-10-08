@@ -324,8 +324,8 @@
 
 
 ***Optionally***  
-*if Village with nearby: Lava Lake *(very close)* | Ruined Portal *(completable)* | Blacksmith *(with 10+ Obsidian)**  
-* Village Start
+*if Village with nearby Lava Lake *(very close)* | Ruined Portal *(completable)* | Blacksmith *(with 10+ Obsidian)**  
+* [Village](https://github.com/Metacor/Minecraft-Speedrun-Guide#standard--village) Start
 	* if 7+ Iron (Blacksmith + Golem): Craft an [Iron Pickaxe](https://i.imgur.com/lDMvU7r.webp) + [Bucket](https://i.imgur.com/eA21HpJ.webp) + [Flint and Steel](https://i.imgur.com/XzZEIrF.webp)
 		* *optionally, if 4+ Iron (Blacksmith): Don't Kill the Golem → Skip Crafting an Iron Pickaxe → get lucky*
 	* if 4-6 Iron: Skip Crafting an Iron Pickaxe, hopefully get lucky with Iron from Bastion Chests
