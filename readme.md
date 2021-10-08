@@ -437,7 +437,7 @@
 * Kill Blazes until you collect 7-8 Blaze Rods → Craft [Blaze Powder](https://i.imgur.com/Bhr4808.webp) → Craft [Eye of Ender](https://i.imgur.com/0FjuMuE.webp)
 	* *Craft ~10 Eyes for now, the remaining can be Crafted after you confirm the completed End Portal Frame count*
 		* *doing this will make sure you don't waste any Ender Pearls that could've otherwise been used in the End*
-* Leave the Stronghold and navigate to the nearest [Blind location](https://imgur.com/gallery/i3fIanf)
+* Leave the Fortress and navigate to the nearest [Blind location](https://imgur.com/gallery/i3fIanf)
 	* *if 20 Obsidian: create a Nether Portal at the Fortress → use one of the Travel Methods listed below*
 
 ### **Travel**  
