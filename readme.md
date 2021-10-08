@@ -567,11 +567,12 @@
 		* *if you throw it directly at your feet, you lose ~20 seconds of Effect Duration*
 	* *if a [Splash Potion is thrown while Falling](https://youtu.be/NVb0EMzorw4), you can recieve nearly the max Duration*
 * While trying to Pie-Ray, if you accidentally press the wrong button, press '0' to go back a page  
-* When approaching a Fortress, you can lower your Render Distance to 5 (5RD), increasing nearby random Blazes
-	* *this increases nearby spawns of all enemies, not just Blazes (doesn't affect spawners)*
-		* *if you find a very close spawner, 5RD wont really help since it only increases natural spawns*
+* When approaching a Fortress, you can lower your Render Distance to 5 (5RD)
+	* *this decreases the spawn area for enemies, while keeping the same Mob limit, effectively increasing the nearby spawn density*
+		* *this effective increase affects all enemies that spawn in that Biome, not just Blazes*
+		* *additionally, Mob Spawners are not affected by this increase, so if you plan to camp a Spawner, 5RD wont help*
 	* *it's a lot easier to deal with spawns if the Fortress isn't free floating above Lava*
-	* *Mobs spawn more often in Soul Sand Valleys, so 5RDing in one is pretty risky if you're low on food*
+	* *Mobs spawn more often in Soul Sand Valleys, using 5RD in one is pretty risky if you're low on food*
 * if your Axe breaks while fighting Blazes, [Shovels do slightly more Damage than Pickaxes](https://i.imgur.com/gpxqtCg.webp) of the same Type
 	* *while Pickaxes above Gold have very marginally more DPS, they also require an extra hit below Diamond*
 	* *assuming Crits @ 100% Power, hits needed to Kill a Blaze:*
@@ -719,7 +720,7 @@
 **Fortress**  
 * Pie-Ray: Locate the Fortress Direction using the F3 Pie Chart *(also useful for finding Villages)*
 * Inside Navigation: Navigate to the Outside section of the Fortress, and locate a Blaze Spawner
-* Blazebed: Learn to execute the correct technique for both enclosed and open spawners
+* Blazebed: Learn to execute the correct technique for both enclosed and open Spawners
 * Consistently complete the Fortress without a Fire Resistance Potion *(can use a shield)*
 
 **Stronghold**  
