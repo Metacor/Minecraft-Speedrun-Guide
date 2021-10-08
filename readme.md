@@ -571,7 +571,7 @@
 	* *this decreases the spawning area, while not changing the Mob Limit, effectively increasing spawn rates*
 		* *this effective increase affects all enemies that spawn in that Biome, not just Blazes*
 		* *Mob Spawners are not affected by this increase, so if you plan to camp a Spawner, 5RD wont help*
-	* *it's a lot easier to deal with spawns if the Fortress isn't free floating above Lava*
+	* *it's a lot easier to deal with the increased density, if the Fortress isn't free floating above Lava*
 	* *Mobs spawn more often in Soul Sand Valleys, using 5RD in one is pretty risky if you're low on food*
 * if your Axe breaks while fighting Blazes, [Shovels do slightly more Damage than Pickaxes](https://i.imgur.com/gpxqtCg.webp) of the same Type
 	* *while Pickaxes above Gold have very marginally more DPS, they also require an extra hit below Diamond*
