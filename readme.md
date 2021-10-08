@@ -198,7 +198,7 @@
 
 ### **Beginner** | [Structureless](https://youtu.be/7dOca1LHefk)  
 *Lower speed potential, but more consistent, resulting in far fewer resets*
-* Gather 3 Logs → Craft 12 [Planks](https://i.imgur.com/kkWqvQM.webp) → Craft a [Crafting Table + 8 Sticks](https://i.imgur.com/3Is7R0F.webp)
+* Gather 3 Logs → Craft 12 [Planks](https://i.imgur.com/kkWqvQM.webp) → Craft a [Crafting Table and 8 Sticks](https://i.imgur.com/3Is7R0F.webp)
 * Find a nearby Cave → Descend into the Cave until you find Iron Ore
 * Place the Crafting Table → Craft a [Wooden Pickaxe](https://i.imgur.com/AgRcfOf.webp) → Mine 3 Cobblestone → Craft a [Stone Pickaxe](https://i.imgur.com/YdNn79N.webp) → 
 	* Mine 7 Iron *(8 - if you want to Craft a [Shield](https://i.imgur.com/nyxJaf0.webp))*, 12 Cobblestone, and 1-2 Coal
@@ -217,7 +217,7 @@
 *if high rolled, Taiga Villages have a chance to be very good, however on average they're worse than the ones above*  
 *if you don't see a Village near your spawn, optionally try to [Pie-Ray](https://github.com/Metacor/Minecraft-Speedrun-Guide#pie-ray-aka-piedar) to locate one*
 
-* Gather 3 Logs → Craft 12 Planks → Craft a [Crafting Table + 8 Sticks](https://i.imgur.com/3Is7R0F.webp)
+* Gather 3 Logs → Craft 12 [Planks](https://i.imgur.com/kkWqvQM.webp) → Craft a [Crafting Table and 8 Sticks](https://i.imgur.com/3Is7R0F.webp)
 * Place the Crafting Table near your Mining Destination → Craft a [Wooden Pickaxe](https://i.imgur.com/AgRcfOf.webp) → Mine 6 Stone → 
 	* Craft a [Stone Axe, a Stone Hoe, and a Stone Shovel](https://i.imgur.com/UDSN7Uc.webp) → Pickup the Crafting Table → Chop 8+ Logs 
  
@@ -247,7 +247,7 @@
 		
 ### **Advanced** | [Pirate](https://youtu.be/EJ4G8QbhrGM)  
 *Spawn near an Ocean, with a Shipwreck nearby - with 7+ Iron inside (ideally 11+)*
-* Gather 3 Logs → Craft 12 Planks → Craft a [Crafting Table + 8 Sticks](https://i.imgur.com/3Is7R0F.webp)
+* Gather 3 Logs → Craft 12 Planks → Craft a [Crafting Table and 8 Sticks](https://i.imgur.com/3Is7R0F.webp)
 * Place the Crafting Table near a Tree → Craft a [Wooden Axe](https://i.imgur.com/qdy0r1s.webp) → Chop 4+ Logs →
 	* Craft [Doors, a Boat, and some Bowls](https://i.imgur.com/D7S3XDW.webp) → Pickup the Crafting Table
 * Place the Boat in the Ocean → Search for a Shipwreck → Collect the Boat and Dive towards the Shipwreck
