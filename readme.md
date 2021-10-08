@@ -292,7 +292,7 @@
 
 ### **Advanced+** | Pirate → Ocean Monument  
 **Ocean Monument Guides:** [T_Wagz](https://youtu.be/0dyHYkg_xIU) | [Silver](https://youtu.be/14FGC1eUHug) - [Part 2](https://youtu.be/-b7nQyXZkfw)   
-*[Pirate](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate) strats, but you also Gather the guaranteed 8 Gold Blocks from an Ocean Monument*  
+*[Pirate](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate) Strats, but you also Gather the guaranteed 8 Gold Blocks from an Ocean Monument*  
 *doing this will sometimes allow you to completely skip the need to go to a Bastion while in the Nether*  
 
 * Pirate Start → Shipwreck (Craft a [Shield](https://i.imgur.com/nyxJaf0.webp), since you wont have Fire Resistance for the Fortress) → Ocean Monument
@@ -305,7 +305,7 @@
 	* Mine the 8 Gold Blocks from the Monument → Leave the Monument as fast as possible
 	* Once you're a reasonable Distance away from the Monument, set your Render Distance back to normal
 * Locate an Ocean Ravine → Create a Ravine Nether Portal → Enter the Nether
-	* The Bed and Food limitations from the Pirate strats still apply here  
+	* The Bed and Food limitations from the Pirate Strats still apply here  
 
 <br/>
 
@@ -315,7 +315,7 @@
 		* *if you didn't get enough Loot to leave, either Find a Bastion or finish Trading using Classic Strats*
 
 ### **Expert** | [Hypermodern](https://youtu.be/gAHMJfsrHe4)  
-*Combination of the most optimal strats, Resets are frequent, so having a very high Reset Efficiency is recommended*
+*Combination of the most optimal Strats, Resets are frequent, so having a very high Reset Efficiency is recommended*
 * [Mapless Treasure](https://youtu.be/_dyD8ZwagDg), *if available* → [Pirate](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate-overworld) → [Ravine Nether Entry](https://youtu.be/H2fHDidyfJo?t=63) → 
 	* *if you spot a Shipwreck from your spawn location, [prioritize that](https://youtu.be/CEG8oXyz9zc?t=257) over Mapless Treasure*
 * [Microlensing](https://youtu.be/jvTfMLPnMSw) → [Bastion](https://github.com/Metacor/Minecraft_Speedrun_Guide#bastions) → [Pie-Ray](https://youtu.be/Aq9qfHNEOHM) → Fortress, [Blazebed](https://www.youtube.com/watch?v=3TD4jkuT8QA) → [Blind](https://i.imgur.com/96KhbT2.webp) | [Divine](https://youtu.be/SXem01c44-I) Travel
