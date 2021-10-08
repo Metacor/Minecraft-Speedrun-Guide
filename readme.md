@@ -427,11 +427,11 @@
 	* *if there is a staircase **without** Nether Wart at the bottom: Go **up** the stairs*
 	* *if there is a balcony room: Go in the **opposite** direction of it*
 	* *the Lava pool room will always connect the Good and Bad sections*
-		* *if viewed from above, this room will be the building [without roof access](https://youtu.be/LJ1PbhPAVAI?t=269)*
+		* *if viewed from above, this room will be the building [without roof access](https://youtu.be/LJ1PbhPAVAI?t=283)*
 * Search the Good section of the Fortress until you locate a Blaze Spawner
 * Activate a Potion of Fire Resistance if you have any *(this is the main reason we try to do Bastions first)*
-	* *if you don't have Fire res, make sure to Craft a [Shield](https://i.imgur.com/nyxJaf0.webp) and put it in your offhand*
-	* *if you don't have Fire res or a Shield, create a [safety platform](https://youtu.be/jXCyUOMP4wQ) to fight the Blazes*
+	* *if you don't have Fire Resistance, make sure to Craft a [Shield](https://i.imgur.com/nyxJaf0.webp) and put it in your offhand*
+	* *if you don't have Fire Resistance or a Shield, create a [safety platform](https://youtu.be/jXCyUOMP4wQ) to fight the Blazes*
 * After you defeat the first wave of Blazes, begin to clear out the surrounding blocks, increasing the spawn rates
 	* [Standard](https://youtu.be/mDb8VucFV9s?t=276): *manually use your Pickaxe to Mine out the Blocks*
 	* [Blaze Bed](https://youtu.be/3TD4jkuT8QA): *use the explosion from clicking a Bed in the Nether to quickly clear the Blocks for you*	
