@@ -270,7 +270,7 @@
 		* Shear Sheep in the Overworld or Collect Cobwebs in a Stronghold Library
 * You wont have much Food (if any):
 	* In the Nether: Craft [Mushroom Stews](https://i.imgur.com/5fLy4j5.webp) or Kill Burning Hoglins to get Pre-Cooked Meat
-		* *if you Looted carrots from the Shipwreck, you can Craft some [Golden Carrots](https://i.imgur.com/U5GaNsx.webp)*
+		* *if you Looted Carrots from the Shipwreck, you can Craft some [Golden Carrots](https://i.imgur.com/U5GaNsx.webp)*
 	* In the Overworld: Kill Burning Animals to get Pre-Cooked Meat
 	* Optionally: Suicide to Reset Hitpoints / Hunger
 		* Nether: Craft a [Respawn Anchor](https://i.imgur.com/n7sZDd9.webp) → use a Glowstone Block on it to Set Spawn → Suicide
