@@ -411,9 +411,17 @@
 	* *if it's a Treasure Bastion, either [break the Magma Spawner](https://youtu.be/Ymt8NCIyYt0?t=41) and try again, or reset*
 
 ### **Fortress**
-*explaination*  
+[Haroon Shah](https://youtu.be/iaUF0oaegns?t=3624)
 
-* Navigation
+* Fortresses are split into 2 sections, the Bad *(inside)* and the Good *(outside)*
+	* *the Bad section of the Fortress will have a Netherbrick roof above it*
+	* *the Good section of the Fortress with have either no roof, or a Netherrack/Soul Sand roof*
+* [Inside Navigation](https://www.youtube.com/watch?v=swSbv4AImzI): *Blaze Spawners only generate in the Outside section, try to get there as fast as possible*
+	* *if there is a staircase with Neterwart at the bottom: Go **down** the stairs*
+	* *if there is a staircase without Netherwart at the bottom: Go **up** the stairs*
+	* *if there is a balcony room: Go in the **opposite** direction of it*
+	* *the Lava pool room will always connect the Inside and Outside sections*
+		* *if viewed from above, this room will be the building [without roof access](https://youtu.be/LJ1PbhPAVAI?t=269)*
 * Blaze Bed
 
 ### **Travel**  
