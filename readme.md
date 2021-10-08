@@ -475,20 +475,19 @@
 * While in the Overworld, throw an Eye of Ender → View the Eye in the center of your screen → Record the [Angle°](https://i.imgur.com/NdQFQB6.webp)
 	* *changing your FoV to 30 while looking at the Eye will make the Angle more precise*
 	* *if you have trouble following the Eye, try throwing it while either [looking down](https://youtu.be/8c29j0We2VQ?t=200), or using [F5](https://youtu.be/0LDj48fsRT8?t=24)*
-* Turn 90° *(either Direction)* → Travel 17.5 Blocks *(~4 Sprint Jumps)* → Throw another Eye → Record the Angle
+* Turn 90° *(in either Direction)* → Travel 17.5 Blocks *(~4 Sprint Jumps)* → Throw another Eye → Record the Angle
 * Calculate the difference in the Angles between your first and second Eyes
 	* *for example: 56.3° *(first eye)*, and 57.2° *(second eye)* = 0.9° difference*
 * The Distance will be *(1000/x°)* Blocks away, where x is the difference calculated
 	* *alternatively, use this [chart](https://i.imgur.com/6rvw5Bb.webp), or go to the [Speedrun Cheatsheet](https://github.com/Metacor/Minecraft-Speedrun-Guide#speedrun-cheatsheet) section of this Guide*
 	* *in the case above, a 0.9° difference will be ~1111 Blocks away from you*
-		* *this is, of course, assuming you recorded the correct Angles, and travelled 17.5 Blocks*
-* Follow the Angle for your Eye throws until you travel the rough Distance needed to reach the Stronghold
+* Follow the Angle from your Eye throws until you travel the rough Distance needed to reach the Stronghold
 * Use the [8, 8 Method](https://youtu.be/w8Lqa2B01lo) to locate the exact Chunk that your Stronghold's Starter Staircase is in
-	* *the Eye of Ender **always** points to the direct middle of the Chunk *(8/x/8)* where the Starter Staircase is located*
+	* *the Eye of Ender **always** points to the direct middle of the Chunk where the Starter Staircase is located*
 	* *The Starter Staircase will **always** be located @ 4/x/4 in the Chunk that 8,8 points to*
 		* *digging down in any block between 3,3 and 5,5 will work for this, 4,4 is just the center*
-		* *4/x/4 will be 4 Blocks diagonally from the North-West corner*
-			* *using the [F3 Axis Cursor](https://youtu.be/w8Lqa2B01lo?t=187) is an easy way to quickly find North-West*
+		* *4,4 will be 4 Blocks diagonally from the North-West corner*
+			* *using the [F3 Cursor](https://youtu.be/w8Lqa2B01lo?t=187) is an easy way to quickly find North-West*
 * Dig into the Starter Staircase, and begin your Stronghold Navigation
 
 ### **Stronghold Navigation**
