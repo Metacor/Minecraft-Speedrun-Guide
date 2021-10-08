@@ -294,7 +294,7 @@
 		* *Drink a Milk Bucket (use an Empty Bucket on a cow, mooshroom, or goat)*
 		* *Set your Spawn at a Bed, and Suicide, (see Suicide Methods in [Pirate Overworld](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate-overworld))*
 			* *optionally: if you're close to the World Spawn, Suicide without setting your Spawn*
-	* Loot the 8 Gold Blocks from the Monument, following one of the guides linked above → Leave the Monument
+	* Loot the 8 Gold Blocks from the Monument → Leave the Monument as fast as possible
 	* Once you're a reasonable Distance away from the Monument, set your Render Distance back to normal
 * Continue with the normal Pirate strats → Ravine Nether Portal → Enter the Nether
 	* The same Bed/Food limitations exist  
@@ -319,7 +319,7 @@
 *if Village with nearby: Lava Lake *(very close)* | Ruined Portal *(completable)* | Blacksmith *(with 10+ Obsidian)**  
 * Village Start
 	* if 7+ Iron (Blacksmith + Golem): Craft an [Iron Pickaxe](https://i.imgur.com/lDMvU7r.webp) + [Bucket](https://i.imgur.com/eA21HpJ.webp) + [Flint and Steel](https://i.imgur.com/XzZEIrF.webp)
-		* *optionally, if 4+ Iron from the Blacksmith: Skip Killing the Golem → Skip Crafting an Iron Pickaxe → get lucky*
+		* *optionally, if 4+ Iron (Blacksmith): Don't Kill the Golem → Skip Crafting an Iron Pickaxe → get lucky*
 	* if 4-6 Iron: Skip Crafting an Iron Pickaxe, hopefully get lucky with Iron from Bastion Chests
 	* if 3 Iron: Reset *(or Flintless Portal, if you REALLY want to force the seed)*
 
