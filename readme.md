@@ -215,6 +215,7 @@
 *Spawn with a nearby Village - Ideally a Plains, Desert, or Savanna Village (for the guaranteed Hay Bales)*  
 *if the Village is in a Desert, Gather Wood and Stone before entering - Trees don't spawn, and buildings are Sand*  
 *if high rolled, Taiga Villages have a chance to be very good, however on average they're worse than the ones above*  
+*if you don't see a Village near your spawn, optionally try to [Pie-Ray](https://github.com/Metacor/Minecraft-Speedrun-Guide#pie-ray-aka-piedar) to locate one*
 
 * Gather 3 Logs → Craft 12 Planks → Craft a [Crafting Table + 8 Sticks](https://i.imgur.com/3Is7R0F.webp)
 * Place the Crafting Table near your Mining Destination → Craft a [Wooden Pickaxe](https://i.imgur.com/AgRcfOf.webp) → Mine 6 Stone → 
