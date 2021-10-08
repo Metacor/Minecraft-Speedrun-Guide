@@ -318,12 +318,12 @@
 *Combination of the most optimal Strats, Resets are frequent, so having a very high Reset Efficiency is recommended*
 * [Mapless Treasure](https://youtu.be/_dyD8ZwagDg), *if available* → [Pirate](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate) → [Ravine Nether Entry](https://youtu.be/H2fHDidyfJo?t=62) → 
 	* *if you spot a Shipwreck from your spawn location, [prioritize that](https://youtu.be/CEG8oXyz9zc?t=257) over Mapless Treasure*
-* [Microlensing](https://github.com/Metacor/Minecraft-Speedrun-Guide#microlensing-aka-e-ray) → [Bastion](https://github.com/Metacor/Minecraft-Speedrun-Guide#bastions) → [Pie-Ray](https://github.com/Metacor/Minecraft-Speedrun-Guide#pie-ray-aka-piedar) → [Fortress](https://github.com/Metacor/Minecraft-Speedrun-Guide#fortress) → [Nether Travel](https://github.com/Metacor/Minecraft-Speedrun-Guide#travel)
+* [Microlensing](https://github.com/Metacor/Minecraft-Speedrun-Guide#microlensing-aka-e-ray) → [Bastion](https://github.com/Metacor/Minecraft-Speedrun-Guide#bastions) → [Pie-Ray](https://github.com/Metacor/Minecraft-Speedrun-Guide#pie-ray-aka-piedar) → [Fortress](https://github.com/Metacor/Minecraft-Speedrun-Guide#fortress) → [Nether Travel](https://github.com/Metacor/Minecraft-Speedrun-Guide#travel) →
 * [Triangulation](https://github.com/Metacor/Minecraft-Speedrun-Guide#triangulation) → [Stronghold Navigation](https://github.com/Metacor/Minecraft-Speedrun-Guide#stronghold-navigation) → End Entry →
 	* [Half-Bow](https://youtu.be/whwjNbIni58) | North / South Ground → [One-Cycle Dragon](https://youtu.be/aGMLHXnD6Bc) (~[4 Bed](https://youtu.be/R-9PGkSJU7g))  
 
 
-*Optionally*   
+***Optionally***  
 *if Village with nearby: Lava Lake *(very close)* | Ruined Portal *(completable)* | Blacksmith *(with 10+ Obsidian)**  
 * Village Start
 	* if 7+ Iron (Blacksmith + Golem): Craft an [Iron Pickaxe](https://i.imgur.com/lDMvU7r.webp) + [Bucket](https://i.imgur.com/eA21HpJ.webp) + [Flint and Steel](https://i.imgur.com/XzZEIrF.webp)
