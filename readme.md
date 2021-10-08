@@ -622,7 +622,7 @@
 	* *assuming Crits @ 100% Power, hits needed to Kill a Blaze:*
 		* *Shovel: Wood/Gold = 6, Stone = 4, Iron = 3, Diamond = 3*
 		* *Pickaxe: Wood/Gold = 7, Stone = 5, Iron = 4, Diamond = 3*
-	* *similarly, a Diamond Sword Kills Blazes in the same hits as an Axe (2), so if you have one, use that instead of your Axe*
+	* *similarly, a Diamond Sword will Kill a Blaze in 2 hits (the same as an Axe), use the Sword if you obtain one*
 * Blazes will Target a Player if they have Line of Sight, and are within 48 Blocks
 	* *once a Target is acquired, the Blaze will set itself... **ablaze**, for 3 seconds*
 	* *at the end of this 3 second period, the Blaze will begin to shoot a Volley of 3 Fireballs*
