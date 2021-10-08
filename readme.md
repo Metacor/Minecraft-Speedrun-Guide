@@ -393,7 +393,10 @@
 
 <br/>
 
-### **Pie-Ray**, *a.k.a. Piedar*
+### **Pie-Ray**, *a.k.a. Piedar*  
+*attempt to locate specific Structures using the Block Entities option in the Shift+F3 Pie Chart Menu*  
+
+* a
 
 ### **Fortress**
 
