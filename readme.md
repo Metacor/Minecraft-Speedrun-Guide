@@ -402,8 +402,8 @@
 * Open the F3 Pie Chart by pressing Shift + F3
 * Navigate to the correct Pie Chart Menu: *Tick → Level → Entites → Block Entites*
 	* *you can use the numbers on your keyboard to select the corresponding option*
-* Increase your Render Distance until your see a Mob Spawner show in the Pie Chart
-	* *if there is already a Mob Spawner showing, Change to RD2 → Close/Reopen Shift+F3*
+* Increase your Render Distance until you see a Mob Spawner show up in the Pie Chart
+	* *if there is already a Mob Spawner showing, first change to RD2 → Close/Reopen Shift+F3*
 * Decrease your Render Distance by 4 → Close/Reopen Shift+F3 → Increase your Render Distance by 3
 * Enable Chunk Borders *[F3 + G]* → Cross the Chunk Border, in each direction, until the Mob Spawner reappears
 	* *if the Mob Spawner doesn't reappear, it's likely diagonal from your location, check the corners*
