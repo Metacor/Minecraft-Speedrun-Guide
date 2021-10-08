@@ -769,7 +769,7 @@
 **Stronghold**  
 * [Blind Travel](https://github.com/Metacor/Minecraft-Speedrun-Guide#travel): Try to remember the general Coordinates for atleast the First Ring
 * [Triangulation](https://github.com/Metacor/Minecraft-Speedrun-Guide#triangulation): Accurately turn 90°, and be able to consistently travel 17.5 Blocks
-* [Stronghold Navigation](https://github.com/Metacor/Minecraft-Speedrun-Guide#stronghold-navigation): Complete [Stronghold Trial Runs](https://pastebin.com/raw/ifkr19dc)
+* [Stronghold](https://github.com/Metacor/Minecraft-Speedrun-Guide#stronghold-navigation) [Navigation](https://github.com/Metacor/Minecraft-Speedrun-Guide#the-overworld-part-2-1): Complete [Stronghold Trial Runs](https://pastebin.com/raw/ifkr19dc)
 
 **The End**
 * Force a N/S Perch, and be able to tell when the Dragon is Perching
