@@ -246,21 +246,21 @@
 		* *for minimum space, the bottom 2 spaces aren't required if doing [Cave Portal](https://youtu.be/6Lw2Mng_q4U) | [1-Deep](https://youtu.be/IHnBUAgQwsc)*
 		
 ### **Advanced** | [Pirate](https://youtu.be/EJ4G8QbhrGM)  
-*Spawn near an Ocean, with a Shipwreck nearby - with 7+ Iron inside (ideally 11+)*
-* Gather 3 Logs → Craft 12 Planks → Craft a [Crafting Table and 8 Sticks](https://i.imgur.com/3Is7R0F.webp)
+*Spawn near an Ocean with a Shipwreck nearby, with 7+ Iron inside (ideally 11+)*
+* Gather 3 Logs → Craft 12 [Planks](https://i.imgur.com/kkWqvQM.webp) → Craft a [Crafting Table and 8 Sticks](https://i.imgur.com/3Is7R0F.webp)
 * Place the Crafting Table near a Tree → Craft a [Wooden Axe](https://i.imgur.com/qdy0r1s.webp) → Chop 4+ Logs →
 	* Craft [Doors, a Boat, and some Bowls](https://i.imgur.com/D7S3XDW.webp) → Pickup the Crafting Table
 * Place the Boat in the Ocean → Search for a Shipwreck → Collect the Boat and Dive towards the Shipwreck
-* Once you find a Shipwreck → Enter the Top Side at the Back of the Boat → Loot the Chest (Iron / Gold) →
+* Enter the Top Side at the Back of the Boat → Loot the Chest (Iron / Gold)
 	* if < 7 Iron: Loot the Bottom Side Chest at the Back of the Boat → Collect the Buried Treasure Map
-		* You can use the opened Door in the Bottom Cabin to refresh your Breath Meter 
-		* Locate the Buried Treasure, if the Loot is bad → Reset
-* Swim to the nearest Gravel → Place the Crafting Table, on the Ocean Floor → Place a Door on top of the Table →
+		* *you can use the opened Door in the Bottom Cabin to refresh your Breath Meter*
+		* *locate the Buried Treasure, if the Loot is bad or it takes too long to find it → Reset*
+* Swim to the nearest Gravel → Place the Crafting Table on the Ocean Floor → Place a Door on top of the Table →
 	* Craft an [Iron Pickaxe](https://i.imgur.com/lDMvU7r.webp), a [Bucket](https://i.imgur.com/eA21HpJ.webp), a [Shovel](https://i.imgur.com/mEOj9eM.webp) 
 		* if 8+ Iron: Iron Shovel, otherwise Wood/Stone Shovel
-		* if 11+ iron: Craft an [Iron Axe](https://i.imgur.com/nhL9TfF.webp)
-			* *if you don't get an Iron Axe, try to Gather 3 Cobblestone [while teleporting to the Nether](https://youtu.be/So076O4FrU0)*
-		* if extra Iron Ingots, Craft [Iron Armor](https://i.imgur.com/USYD3CZ.webp) (can also save 1 to Craft a [Shield](https://i.imgur.com/nyxJaf0.webp), if Fortress before Bastion)
+	* if 11+ iron: Craft an [Iron Axe](https://i.imgur.com/nhL9TfF.webp)
+		* *if you don't get an Iron Axe, try to Gather 3 Cobblestone [while teleporting to the Nether](https://youtu.be/So076O4FrU0)*
+	* if extra Iron Ingots, Craft [Iron Armor](https://i.imgur.com/USYD3CZ.webp) (can also save 1 to Craft a [Shield](https://i.imgur.com/nyxJaf0.webp), if Fortress before Bastion)
 	* Dig up Gravel until you find some Flint → Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp) → Pickup the Crafting Table (and Door)
 * Resurface → Place the Boat → Search for an Ocean Ravine
 * Create a Ravine Nether Portal *([Spreadsheet](https://docs.google.com/spreadsheets/d/1VU6IZpyhr-3tMXC5GG4ryuqrbmQkvCKE_1nJm2eym4c/edit#gid=1186267001))* → Enter the Nether
