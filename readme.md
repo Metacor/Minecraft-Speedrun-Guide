@@ -177,7 +177,7 @@
 **Select All of an Item Type**: *Double Left Click | Triple Left Click*
 * Combines All Stacks of an Item Type into 1 Stack *(Max Stack Limits still apply)*
 * *the Keybind depends on if you currently have an Item Selected or not*
-	* *if nothing is Selected, Double Click the Item*
+	* *if nothing is Selected, Double Left Click the Item*
 	* *if the SAME Item Type is Selected, Triple Left Click the Item*
 	* *if an unrelated Item is Selected, you CANNOT Select All*
 		* *trying to do so would just Select the Items back and forth*
