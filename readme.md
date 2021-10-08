@@ -403,7 +403,11 @@
 * Navigate to the correct Pie Chart Menu: *Tick → Level → Entites → Block Entites*
 * Increase your Render Distance until your see a Mob Spawner show in the Pie Chart
 * Decrease your Render Distance by 4 → Close and reopen your F3 Pie Chart → Increase your Render Distance by 3
-* Enable Chunk Borders *(F3 + G)* → Walk across the Chunk Border, in each direction, until the Mob Spawner reappears
+* Enable Chunk Borders *[F3 + G]* → Cross the Chunk Border, in each direction, until the Mob Spawner reappears
+	* *if the Mob Spawner doesn't reappear, it's likely diagonal from your location, check the corners*
+* The direction in which the Mob Spawner reappears is the direction of the Mob Spawner
+* Follow that direction until you find the Fortress *(or Treasure Bastion, if you're unlucky)*
+	* *if it's a Treasure Bastion, either break the Magma Spawner and try again, or reset*
 
 ### **Fortress**
 
