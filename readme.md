@@ -687,7 +687,7 @@
 	
 <br/>
 
-**Crafting Table + Sticks**: *used in practically every run*  
+**Crafting Table and 8 Sticks**: *used in practically every run*  
 [Screenshot](https://i.imgur.com/3Is7R0F.webp) | [Videos](https://youtu.be/lEdAMNweD7E): **[Half Split (8c)](https://youtu.be/lEdAMNweD7E?t=2)** - [Kuee (8c)](https://youtu.be/lEdAMNweD7E?t=8) - [Split 2 (10c)](https://youtu.be/lEdAMNweD7E?t=13) - [Double Split, Move (10c)](https://youtu.be/lEdAMNweD7E?t=20) - [Double Split, Throw (9c)](https://youtu.be/lEdAMNweD7E?t=28)  
 *while Kuee's Method also only takes 8 Clicks, I personally feel that it doesn't flow as nicely as the Half Split Method*  
 *this is by far the most common Craft you'll execute when speedrunning, so be sure to pick the one that feels best to you*  
@@ -704,7 +704,7 @@
 		* *highly recommend to Collect to your Pickaxe Hotbar Keybind, instead of shift + clicking*
 			* *i have my hotkey set to 8, rebound to F, just Collect to whatever yours is bound to*
 
-**Stone Tools**: *if Hoe Skip: Mine 4 Cobblestone instead - the same movements can be used*  
+**Stone Tools**: *if Hoe Skip: Mine 4 Stone instead of 6 - the same movements can be used*  
 [Screenshot](https://i.imgur.com/UDSN7Uc.webp) | [Video](https://youtu.be/lEdAMNweD7E?t=45)
 * Craft a Stone Axe, a Stone Hoe, and a Stone Shovel → *Pickup the Crafting Table → Chop 8+ Logs*
 	* Sticks(2), bM → Half Split → lClick mM → Stone(3), tM → Half Split → rClick mL → lClick tL → Collect: 7 → 4 → 5
@@ -757,19 +757,19 @@
 	* [2-Wide](https://youtu.be/5JXu6lQehQ0)
 
 **Bastions**  
-* Microlensing: Locate a Bastion from your Nether Portal
+* [Microlensing](https://github.com/Metacor/Minecraft-Speedrun-Guide#microlensing-aka-e-ray): Locate a Bastion from your Nether Portal
 * [Identification and Optimal Routing](https://github.com/Metacor/Minecraft_Speedrun_Guide#bastions)
 
-**Fortress**  
-* Pie-Ray: Locate the Fortress Direction using the F3 Pie Chart *(also useful for finding Villages)*
-* Inside Navigation: Navigate to the Outside section of the Fortress, and locate a Blaze Spawner
+**[Fortress](https://github.com/Metacor/Minecraft-Speedrun-Guide#fortress)**  
+* [Pie-Ray](https://github.com/Metacor/Minecraft-Speedrun-Guide#pie-ray-aka-piedar): Locate the Fortress Direction using the F3 Pie Chart *(also useful for finding Villages)*
+* Fortress Navigation: Navigate to the Outside section of the Fortress, and locate a Blaze Spawner
 * Blazebed: Learn to execute the correct technique for both enclosed and open Spawners
 * Consistently complete the Fortress without a Fire Resistance Potion *(can use a shield)*
 
 **Stronghold**  
-* Blind Travel: Try to remember the general Coordinates for atleast the First Ring
-* Triangulation: Accurately turn 90°, and be able to consistently travel 17.5 Blocks
-* Stronghold Navigation: Complete [Stronghold Trial Runs](https://pastebin.com/raw/ifkr19dc)
+* [Blind Travel](https://github.com/Metacor/Minecraft-Speedrun-Guide#travel): Try to remember the general Coordinates for atleast the First Ring
+* [Triangulation](https://github.com/Metacor/Minecraft-Speedrun-Guide#triangulation): Accurately turn 90°, and be able to consistently travel 17.5 Blocks
+* [Stronghold Navigation](https://github.com/Metacor/Minecraft-Speedrun-Guide#stronghold-navigation): Complete [Stronghold Trial Runs](https://pastebin.com/raw/ifkr19dc)
 
 **The End**
 * Force a N/S Perch, and be able to tell when the Dragon is Perching
