@@ -280,8 +280,8 @@
 			* *if you Looted Carrots from the Shipwreck, you can Craft [Golden Carrots](https://i.imgur.com/U5GaNsx.webp)*
 		* **Overworld**: Kill Burning Animals to get Pre-Cooked Meat
 	* Suicide to Reset Hitpoints / Hunger
-		* **Nether**: Craft a [Respawn Anchor](https://i.imgur.com/n7sZDd9.webp) → use a Glowstone Block on it to Set Spawn → Suicide
-		* **Overworld**: Craft a [Bed](https://i.imgur.com/oioKEXE.webp) → Place the Bed → Right Click it to Set Spawn → Suicide
+		* **Nether**: Craft a [Respawn Anchor](https://i.imgur.com/n7sZDd9.webp) → Charge it with a Glowstone Block use a Glowstone Block → Set Spawn → Suicide
+		* **Overworld**: Craft a [Bed](https://i.imgur.com/oioKEXE.webp) → Place the Bed → Set Spawn → Suicide
 	* Suicide Methods: *make sure to dig down 2 Blocks and Suicide in a hole so your Items don't fly everywhere*
 		* [**Fire**](https://youtu.be/itqFlGfKvdk?t=460): Use either a Flint and Steel or Lava to set yourself on Fire
 			* *douse the Fire before you die, so you don't accidently destroy your Items*
