@@ -431,10 +431,9 @@
 	* *if you don't have Fire res or a Shield, create a [safety platform](https://youtu.be/jXCyUOMP4wQ) to fight the Blazes*
 * After you defeat the first wave of Blazes, begin to clear out the surrounding blocks, increasing the spawn rates
 	* Standard: *manually use your Pickaxe to Mine out the Blocks*
-	* Blaze Bed: *use the exlposion from a Bed or TnT to quickly clear the Blocks for you*
-		* *Front:*
-		* *Full:*
-		* *TnT:*
+	* [Blaze Bed](https://youtu.be/3TD4jkuT8QA): *use the exlposion from a Bed or TnT to quickly clear the Blocks for you*	
+		* [Methods](https://youtu.be/1spSd0Ussy0): [Open](https://youtu.be/3TD4jkuT8QA?t=165) - [2](https://youtu.be/3TD4jkuT8QA?t=379) | [Enclosed](https://youtu.be/3TD4jkuT8QA?t=460) - [2](https://youtu.be/3TD4jkuT8QA?t=268) | [TnT](https://youtu.be/X3kHn0PaZW0)
+			* *when Blaze Bedding quickly put out the Fires, Blazes only spawn at Light Levels 11 or lower*
 * Kill Blazes until you collect 7-8 Blaze Rods → Craft [Blaze Powder](https://i.imgur.com/Bhr4808.webp) → Craft [Eye of Ender](https://i.imgur.com/0FjuMuE.webp)
 	* *Craft ~10 Eyes for now, the remaining can be Crafted after you confirm the completed End Portal Frame count*
 		* *doing this will make sure you don't waste any Ender Pearls that could've otherwise been used in the End*
