@@ -224,7 +224,7 @@
 **Village Tasks:**  
 * Loot Blacksmiths, if available:
 	* if 10+ Obsidian: Skip Bucket → Mine 4 Stone, *(instead of 6)* → Skip Crafting a Stone Hoe
-		* *still collect 5-10 Hay Bales by hand in order to Craft [Bread](https://i.imgur.com/zq8lZ3M.webp)*
+		* *still Collect 5-10 Hay Bales by hand in order to Craft [Bread](https://i.imgur.com/zq8lZ3M.webp)*
 	* if 3+ Iron Ingots: Gather 2 Logs, instead of 3 → Skip Crafting a Wooden Pickaxe
 	* if 7+ Total Iron Ingots *(Blacksmith + Golem)*: Skip Trading for a Bucket of Cod 
 		* *you can skip with 6 Iron, but that will require a [Flintless Portal](https://youtu.be/DVDbfKuLaWo?t=9)*
@@ -272,9 +272,9 @@
 <br/>
 
 * You wont have any Beds, so make sure you get enough String from Piglin Trades: [6 Beds = 72 String (+18 Planks)](https://i.imgur.com/PFGJa4f.webp)
-	* You can also Craft [Iron Nuggets 18:2 Iron Ingots](https://i.imgur.com/jrxLEur.webp) → [Shears](https://i.imgur.com/T8iU2V6.webp) →
-		* Shear Sheep in the Overworld or Collect Cobwebs in a Stronghold Library
-* You wont have much Food (if any):
+	* *you can also Craft [Iron Nuggets 18:2 Iron Ingots](https://i.imgur.com/jrxLEur.webp) → [Shears](https://i.imgur.com/T8iU2V6.webp)*
+		* *and then Shear Sheep in the Overworld or Collect Cobwebs in a Stronghold Library*
+* You wont have much Food *(if any)*:
 	* In the Nether: Craft [Mushroom Stews](https://i.imgur.com/5fLy4j5.webp) or Kill Burning Hoglins to get Pre-Cooked Meat
 		* *if you Looted Carrots from the Shipwreck, you can Craft some [Golden Carrots](https://i.imgur.com/U5GaNsx.webp)*
 	* In the Overworld: Kill Burning Animals to get Pre-Cooked Meat
@@ -309,7 +309,7 @@
 
 * While in the Nether: Find a Fortress → Trade with nearby randomly spawned Piglins → Kill Blazes for Blaze Rods
 	* *trap 2 Piglins in a Boat → Throw them your Gold Ingots → Proceed into the Fortress*
-		* *don't forget to return to the Piglins to collect your Loot - if you didn't get enough → Find a Bastion*
+		* *don't forget to return to the Piglins to Collect your Loot - if you didn't get enough → Find a Bastion*
 
 ### **Expert** | [Hypermodern](https://youtu.be/gAHMJfsrHe4)  
 *Combination of the most optimal strats, Resets are frequent, so having a very high Reset Efficiency is recommended*
@@ -346,7 +346,7 @@
 	* *High density Biomes can sometimes give false positives for Bastions, use (E + 30 ≈ M + C), for a better idea*
 
 ### **Bastions**  
-[pncakespoon's Route Spreadsheet](https://docs.google.com/spreadsheets/d/1qLgp5uhMOKuerNZaec1dpoECpJI0-6YhztMqa_wZ8W0/edit#gid=1811348189) | [Bastion Resources](https://docs.google.com/document/d/1yuruZF575xvwOCB5t6ftfRY9OEtLDRQsWFJRD6YetU0/edit) | [Zolstice's Beginner Screenshot Guide](https://www.reddit.com/r/MinecraftSpeedrun/collection/a6121708-188c-43b9-8267-de61620456f1/)  
+[pncakespoon's Route Spreadsheet](https://docs.google.com/spreadsheets/d/1qLgp5uhMOKuerNZaec1dpoECpJI0-6YhztMqa_wZ8W0/edit#gid=1811348189) | [Bastion Resources](https://docs.google.com/document/d/1yuruZF575xvwOCB5t6ftfRY9OEtLDRQsWFJRD6YetU0/edit) | [Zolstice's Beginner Screenshot Guide](https://www.reddit.com/r/MinecraftSpeedrun/Collection/a6121708-188c-43b9-8267-de61620456f1/)  
 *ideally, locate and finish the Bastion before the Fortress, for the chance to get Fire Resistance Potions*  
 
 **Identify the Bastion Type, and run the Route accordingly**  
@@ -385,7 +385,7 @@
 		* *and a few more to travel large Distances in the Nether/Overworld if needed*
 * **String**
 	* **0-72 Required** to Craft Beds *([4:1 Wool → 3:1 Bed](https://i.imgur.com/PFGJa4f.webp))*, in order to One-Cycle the Ender Dragon
-	* *if you collect enough Beds from Villages (4 minimum | 6+ for safety), you wont need any String*
+	* *if you Collect enough Beds from Villages (4 minimum | 6+ for safety), you wont need any String*
 		* *4 Beds = 48 String (48s → 12w → 4b) | 6 Beds = 72 String (72s → 18w → 6b)*
 
 **Optional Items**  
@@ -435,7 +435,7 @@
 	* [Blaze Bed](https://youtu.be/3TD4jkuT8QA): *use the explosion from clicking a Bed in the Nether to quickly clear the Blocks for you*	
 		* [Methods](https://youtu.be/1spSd0Ussy0): [Open](https://youtu.be/3TD4jkuT8QA?t=165) - [2](https://youtu.be/3TD4jkuT8QA?t=379) | [Enclosed](https://youtu.be/3TD4jkuT8QA?t=460) - [2](https://youtu.be/3TD4jkuT8QA?t=268) | [TnT](https://youtu.be/X3kHn0PaZW0)
 			* *when Blaze Bedding quickly put out the Fires, Blazes only spawn at Light Levels 11 or lower*
-* Kill Blazes until you collect 7-8 Blaze Rods → Craft [Blaze Powder](https://i.imgur.com/Bhr4808.webp) → Craft [Eye of Ender](https://i.imgur.com/0FjuMuE.webp)
+* Kill Blazes until you Collect 7-8 Blaze Rods → Craft [Blaze Powder](https://i.imgur.com/Bhr4808.webp) → Craft [Eye of Ender](https://i.imgur.com/0FjuMuE.webp)
 	* *Craft ~10 Eyes for now, the remaining can be Crafted after you confirm the completed End Portal Frame count*
 		* *doing this will make sure you don't waste any Ender Pearls that could've otherwise been used in the End*
 * Leave the Fortress and navigate to the nearest [Blind location](https://imgur.com/gallery/i3fIanf)
@@ -545,7 +545,7 @@
 		* *with Healing, Easy will almost always take 6 hits, and Normal will sometimes take 5*
 	* *their lazer attack requires 2 seconds of uninterrupted line of sight, simply break LoS to take 0 Damage*
 		* *proper Door placement will usually negate all potential Damage when searching for the Gold Blocks*
-* Desert Temples - *explode a single TnT to collect all of the Chest Loot and any surrounding Blocks*
+* Desert Temples - *explode a single TnT to Collect all of the Chest Loot and any surrounding Blocks*
 	* [Top TnT](https://youtu.be/gS6LxaNibWM?t=76) | [Bot TnT](https://youtu.be/CdoYoYrOyjU?t=5)
 * Mining [Stone takes slightly less time than Cobblestone](https://i.imgur.com/LuyiYEa.webp), (typically found as part of Plains Village houses)
 	* Wooden Pickaxe: Stone takes **1.15 Seconds** | Cobblestone takes **1.5 Seconds**
@@ -555,7 +555,7 @@
 	* *this can also be used in the End, if you run out of Blocks while building up out of a buried spawn*
 		* *although if you have Blocks, [just building up](https://youtu.be/b96APrsfm6s?t=749) is faster than using a Bucket of Water*
 	* *doing this wouldn't work in the Nether, as Buckets of Water don't work in the Nether*
-* if you have a limited amount of Gravel, and you need to Dig more to collect Flint, put the Gravel in your offhand
+* if you have a limited amount of Gravel, and you need to Dig more to Collect Flint, put the Gravel in your offhand
 	* *by doing this, you can Dig with a Shovel and place Gravel at the same time*
 * You don't need to hit Chickens after igniting them, [the Fire Damage alone will kill it](https://youtu.be/FV2u8soBkeA?t=702)
 * Lava Lakes tend to spawn underneath Water Lakes
@@ -660,7 +660,7 @@
 * The Dragon's Fireball doesn't actually do Damage, the AoE ground Effect left behind is what Damages you
 	* *an easy way to avoid the Damage, is to get hit on purpose, then Jump → place a Block below you*
 * if you aggro an Enderman, try to trap it in a Boat so you can easily Kill it without taking damage
-	* *this can also be used in the Overworld / Nether to collect Ender Pearls*
+	* *this can also be used in the Overworld / Nether to Collect Ender Pearls*
 * Using Pick Block to select Beds while One-Cycling the Dragon makes inventory management a lot more simple
 * if you failed to One-Cycle the Dragon: attack the Dragon's Head Hitbox
 	* *don't try to crit, just stand normally and hit with fully charged attacks*
@@ -693,7 +693,7 @@
 *while Kuee's Method also only takes 8 Clicks, I personally feel that it doesn't flow as nicely as the Half Split Method*  
 *this is by far the most common Craft you'll execute when speedrunning, so be sure to pick the one that feels best to you*  
 * Gather 3 Logs, turn them into 12 Planks, then Craft a Crafting Table and 8 Sticks
-	* Logs(1) → collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → collect: sClick x2  
+	* Logs(1) → Collect: sClick → Planks(9), bR → Half Split → Drag bR, bL, tL → lClick tR → Collect: sClick x2  
 	
 <br/>
 
@@ -701,15 +701,15 @@
 **Wooden Pickaxe**:  
 [Screenshot](https://i.imgur.com/AgRcfOf.webp) | [Video](https://youtu.be/lEdAMNweD7E?t=37)
 * Place the Crafting Table, Craft a Wooden Pickaxe → *Mine 6 Cobblestone*
-	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tL → Half Split → Drag tM, tR → collect: 8
-		* *highly recommend to collect to your Pickaxe Hotbar Keybind, instead of shift + clicking*
-			* *i have my hotkey set to 8, rebound to F, just collect to whatever yours is bound to*
+	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tL → Half Split → Drag tM, tR → Collect: 8
+		* *highly recommend to Collect to your Pickaxe Hotbar Keybind, instead of shift + clicking*
+			* *i have my hotkey set to 8, rebound to F, just Collect to whatever yours is bound to*
 
 **Stone Tools**: *if Hoe Skip: Mine 4 Cobblestone instead - the same movements can be used*  
 [Screenshot](https://i.imgur.com/UDSN7Uc.webp) | [Video](https://youtu.be/lEdAMNweD7E?t=45)
 * Craft a Stone Axe, a Stone Hoe, and a Stone Shovel → *Pickup the Crafting Table → Chop 8+ Logs*
-	* Sticks(2), bM → Half Split → lClick mM → Stone(3), tM → Half Split → rClick mL → lClick tL → collect: 7 → 4 → 5
-		* *once again, i'd recommend collecting directly to your axe/hoe/shovel slots*
+	* Sticks(2), bM → Half Split → lClick mM → Stone(3), tM → Half Split → rClick mL → lClick tL → Collect: 7 → 4 → 5
+		* *once again, i'd recommend Collecting directly to your axe/hoe/shovel slots*
 	
 <br/>
 
@@ -717,15 +717,15 @@
 **Wooden Axe**:  
 [Screenshot](https://i.imgur.com/qdy0r1s.webp) | [Video](https://youtu.be/lEdAMNweD7E?t=53)
 * Place the Crafting Table, Craft a Wooden Axe → *Chop 4+ Logs*
-	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tM → Half Split → Drag tR, mR → collect: 7
-		* *highly recommend to collect to your Axe Hotbar Keybind, instead of Shift + Clicking*
-			* *i have my hotkey set to 7, rebound to R, just collect to whatever yours is bound to*
+	* Sticks(8), bM → Half Split → lClick mM → Planks(1), tM → Half Split → Drag tR, mR → Collect: 7
+		* *highly recommend to Collect to your Axe Hotbar Keybind, instead of Shift + Clicking*
+			* *i have my hotkey set to 7, rebound to R, just Collect to whatever yours is bound to*
 
 **Doors + Boat + Bowls**:  
 [Screenshot](https://i.imgur.com/D7S3XDW.webp) | [Video](https://youtu.be/lEdAMNweD7E?t=60)
 * Craft Doors, a Boat, and Bowls → *Pickup the Crafting Table → Boat on the Ocean*
-	* Logs(3) → collect: sClick → Planks(1), bM → Half Split → Drag mM, tM, tR, mR, bR, bM → 
-	* rClick bR → lClick mR → collect: 3 → Half Split, bM → rClick bL → lClick mL → collect: 4 → sClick
+	* Logs(3) → Collect: sClick → Planks(1), bM → Half Split → Drag mM, tM, tR, mR, bR, bM → 
+	* rClick bR → lClick mR → Collect: 3 → Half Split, bM → rClick bL → lClick mL → Collect: 4 → sClick
 		* there are a few ways to do the Door Drag → Corner Drag, [they're all basically the same](https://i.imgur.com/ngH7DoB.webp)
 		* and as always, change the Hotkey Keybinds to fit your specific setup
 
