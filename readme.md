@@ -171,7 +171,7 @@
 
 **Drag Split, x**: *Select an Item → Hold Left Click → Drag*
 * Equally Splits a Stack of Items between all Slots that you drag a Stack of Items over
-	* *stack of 30: 2 Slots x 15 Items | 3 Slots x 10 Items | 4 Slots x 7 Items (+2), etc*
+	* *stack of 30: 2 Slots x 15 Items | 3 Slots x 10 Items | 4 Slots x 7 Items (2 remaining), etc*
 * *press Right Click to undo the current Split Selection, (before releasing Left Click)*
 
 **Select All of an Item Type**: *Double Left Click | Triple Left Click*
