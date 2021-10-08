@@ -640,12 +640,10 @@
 * Strongholds are [extremely unlikely](https://youtu.be/_rbWryJVEmw?t=1011) to spawn in Swamps ([supposedly impossible](https://bugs.mojang.com/browse/MC-136288))
 * The Portal Room is usually within [5 = 7](https://youtu.be/u42bjqtq5-s) Rooms of the Starter Staircase
 * [Hidden Rooms Identification](https://www.youtube.com/watch?v=vztJNmUdyBY)
-	* *Hidden Rooms can only occur in "5-way" room types*
+	* *Hidden Rooms can **only** occur in "5-way" room types*
 	* *if you're facing +x/+z (South/East) from the main entrance, there **CANNOT** be Hidden Rooms*
 	* *if you're facing -x/-z (North/West) from the main entrance, there **CAN** be Hidden Rooms*
-		* *if you see an indentation in the wall, there will be a hidden room on that side*
-		* *for example, if there is an indentation in the top left, the bottom left wall will be a Hidden Room*
-			* *assuming you're in a 5-way that faces North or West*
+		* *if you see an indentation in the wall, there could be a hidden room on that side*
 * Libraries lead nowhere, if you enter a Library from the Starter Staircase, turn around
 	* if you need more Beds, you can Gather string from Library Cobwebs
 		* *when Gathering, use either a Sword or Shears (decreasing the Gather Time from 20s → 0.4s)*
@@ -653,17 +651,17 @@
 * Be sure to pay attention to the Subtitles, look for popping Lava and Silverfish noises
 
 ### The End
-* You will **always** spawn East of the Island, facing West, towards the Exit Portal
+* You will **always** spawn East of the Island, facing West towards the Exit Portal
 * The Dragon has a [higher chance to Perch the farther away you are from the Exit Portal](https://i.imgur.com/e3JyPex.webp)
 * The Dragon will Perch from the opposite side of you, in relation to the Exit Portal
-	* *Diagonal Perches are a lot harder to One Cycle, so it's recommended to run away N/S/E/W*
+	* *Diagonal Perches are harder to One Cycle, so it's recommended to run away N/S or E/W*
 	* *N/S Perch is faster than E/W, however it gives the player less time to react to the Perch*
 * The Dragon's Fireball doesn't actually do Damage, the AoE ground Effect left behind is what Damages you
 	* *an easy way to avoid the Damage, is to get hit on purpose, then Jump → place a Block below you*
 * if you aggro an Enderman, try to trap it in a Boat so you can easily Kill it without taking damage
 	* *this can also be used in the Overworld / Nether to Collect Ender Pearls*
-* Using Pick Block to select Beds while One-Cycling the Dragon makes inventory management a lot more simple
-* if you failed to One-Cycle the Dragon: attack the Dragon's Head Hitbox
+* Using Pick Block to select Beds while One-Cycling the Dragon makes inventory management easier
+* if you failed to One-Cycle the Dragon, attack the Dragon's Head Hitbox with your Axe
 	* *don't try to crit, just stand normally and hit with fully charged attacks*
 	* *you can deal up to 50 Damage (~6 Stone Axe hits), before the Dragon will fly away*
 		* *if you haven't destroyed the End Crystals, failing to defeat the Dragon at this point will result in a Reset*
