@@ -277,10 +277,11 @@
 * Pirate Start → Shipwreck (Craft a [Shield](https://i.imgur.com/nyxJaf0.webp), since you wont have Fire Resistance for the Fortress) → Ocean Monument
 	* As soon as you see an Ocean Monument, turn your Render Distance to 2 (RD2)
 		* *this will usually result in the Elder Guardians not spawning, allowing you to avoid Mining Fatigue*
-	* if you get Mining Fatigue → Reset, *if for some reason you really don't want to Reset:*
-		* Drink a Milk Bucket (use an Empty Bucket on a cow, mooshroom, or goat)
-		* Set your Spawn at a Bed → Suicide *(see the Suicide Methods in the Pirate section above)*
-			* *optionally: if you're close to the World Spawn, Suicide without setting your Spawn*
+	* if you get Mining Fatigue → Reset
+		* *if for some reason you really don't want to Reset:*
+			* Drink a Milk Bucket (use an Empty Bucket on a cow, mooshroom, or goat)
+			* Set your Spawn at a Bed → Suicide *(see the Suicide Methods in the Pirate section above)*
+				* *optionally: if you're close to the World Spawn, Suicide without setting your Spawn*
 	* Mine the 8 Gold Blocks from the Monument → Leave the Monument as fast as possible
 	* Once you're a reasonable Distance away from the Monument, set your Render Distance back to normal
 * Locate an Ocean Ravine → Create a Ravine Nether Portal → Enter the Nether
