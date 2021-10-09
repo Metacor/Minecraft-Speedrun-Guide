@@ -375,7 +375,7 @@
 * **Crying Obsidian**: Used to Craft [Respawn Anchors](https://i.imgur.com/n7sZDd9.webp) *(can also be used to create the One-Cycle Platform)*
 	* 6 Blocks per Respawn Anchor | 1-3 Blocks for the One-Cycle Platform *(can also use normal Obsidian)*
 * **Glowstone Dust**: Used to Craft and Charge Respawn Anchors
-	* 16 Dust per Respawn Anchor - *(12 Dust → 3 Blocks → 1 Respawn Anchor | 4 Dust → 1 BLock → 1 Charge)*
+	* 16 Dust per Respawn Anchor *(12 Dust → 3 Blocks → 1 Respawn Anchor | 4 Dust → 1 Block → 1 Charge)*
 * *Cross***Bow + Arrows**: Allows you to [Half-Bow](https://youtu.be/whwjNbIni58) while in the Ender Dragon fight
 * **Fire Charge**: Can be used to light Nether Portals *(useful if you entered with a Flintless Portal)*
 	* *alternatively: Gather Flint from Gravel → Craft [Iron Nuggets 18:2 Iron Ingots](https://i.imgur.com/jrxLEur.webp) → Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp)*
