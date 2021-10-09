@@ -230,7 +230,7 @@
 * Place the Crafting Table near a Tree → Craft a [Wooden Axe](https://i.imgur.com/qdy0r1s.webp) → Chop 4+ Logs →
 	* Craft [Doors, a Boat, and some Bowls](https://i.imgur.com/D7S3XDW.webp) → Pickup the Crafting Table
 * Place the Boat in the Ocean → Search for a Shipwreck → Collect the Boat and Dive towards the Shipwreck
-* Enter the Top Side at the Back of the Boat → Loot the Chest (Iron / Gold)
+* Enter the [Top Side at the Back of the Boat](https://i.imgur.com/ws384ow.webp) → Loot the Chest (Iron / Gold)
 	* if < 7 Iron: Loot the Bottom Side Chest at the Back of the Boat → Collect the Buried Treasure Map
 		* *you can use the opened Door in the Bottom Cabin to refresh your Breath Meter*
 		* *locate the Buried Treasure, if the Loot is bad or it takes too long to find it → Reset*
