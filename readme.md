@@ -416,7 +416,7 @@
 	* [Blaze Bed](https://youtu.be/3TD4jkuT8QA): *use the explosion from clicking a Bed in the Nether to quickly clear the Blocks for you*	
 		* [Methods](https://youtu.be/1spSd0Ussy0): [Open](https://youtu.be/3TD4jkuT8QA?t=165) - [2](https://youtu.be/3TD4jkuT8QA?t=379) | [Enclosed](https://youtu.be/3TD4jkuT8QA?t=460) - [2](https://youtu.be/3TD4jkuT8QA?t=268) | [TnT](https://youtu.be/X3kHn0PaZW0)
 			* *when Blaze Bedding quickly put out the Fires, Blazes only spawn at Light Levels 11 or lower*
-* Kill Blazes until you Collect 7-8 Blaze Rods → Craft [Blaze Powder](https://i.imgur.com/Bhr4808.webp) → Craft [Eye of Ender](https://i.imgur.com/0FjuMuE.webp)
+* Kill Blazes until you Collect 6-7 Blaze Rods → Craft [Blaze Powder](https://i.imgur.com/Bhr4808.webp) → Craft [Eye of Ender](https://i.imgur.com/0FjuMuE.webp)
 	* *Craft ~10 Eyes for now, the remaining can be Crafted after you confirm the completed End Portal Frame count*
 		* *doing this will make sure you don't waste any Ender Pearls that could've otherwise been used in the End*
 * Leave the Fortress and navigate to the nearest [Blind location](https://imgur.com/gallery/i3fIanf)
