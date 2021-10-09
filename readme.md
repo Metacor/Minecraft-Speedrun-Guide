@@ -366,7 +366,7 @@
 		* *2+ to quickly move around in the End, resulting in a less stressful Ender Dragon setup*
 		* *and a few more to travel large Distances in the Nether/Overworld if needed*
 * **String**
-	* **48-72 Required** to Craft 4-6 Beds, depending on how good you are at One-Cycling the Ender Dragon*
+	* **48-72 Required** to Craft 4-6 Beds, *depending on how good you are at One-Cycling the Ender Dragon*
 		* *for each bed you Collect from Villages, you require 12 fewer Strings ([Strings 4:1 Wool → Wool 3:1 Beds](https://i.imgur.com/PFGJa4f.webp))*
 
 **Optional Items**  
