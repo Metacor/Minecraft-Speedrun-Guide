@@ -600,6 +600,8 @@
 		* *Mob Spawners are not affected by this increase, so if you plan to camp a Spawner, 5RD wont help*
 	* *it's a lot easier to deal with the increased density if the Fortress isn't free floating above Lava*
 	* *[Mobs spawn more often in Soul Sand Valleys](https://youtu.be/SDLFTWFpJOI?t=67), using 5RD while in one is pretty risky if you're low on food*
+* if you plan to Blazebed a non-enclosed Blaze Spawner, Craft a [Fishing Rod](https://i.imgur.com/LPpwUNB.webp)
+	* *this will let you to [pull in Blazes that drift away from the Spawner platform](https://youtu.be/nO01yuuIe2k?t=1081), allowing you to Loot their Blaze Rods*
 * if your Axe breaks while fighting Blazes, [Shovels do slightly more Damage than Pickaxes](https://i.imgur.com/gpxqtCg.webp) of the same Type
 	* *while Pickaxes above Gold have very marginally more DPS, they also require an extra hit below Diamond*
 	* *assuming Crits @ 100% Power, hits needed to Kill a Blaze:*
