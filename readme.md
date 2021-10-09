@@ -292,7 +292,7 @@
 * When you find a Fortress in the Nether, look around for nearby Piglins to Trade with
 	* Trap 2 Piglins in a Boat → Throw them your Gold Ingots → Proceed into the Fortress
 	* Kill Blazes for Blaze Rods → Return to the Piglins to Collect your Loot
-		* *if you didn't get enough Loot to leave, either Find a Bastion or finish Trading using Classic Strats*
+		* *if you didn't get enough Loot to leave, either Find a Bastion or finish Trading using [Classic Strats](https://youtu.be/fRbnqezNbwc?t=485)*
 
 ### **Expert** | [Hypermodern](https://youtu.be/gAHMJfsrHe4)  
 *Combination of the most optimal Strats, Resets are frequent, so having a very high Reset Efficiency is recommended*
