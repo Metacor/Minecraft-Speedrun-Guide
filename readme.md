@@ -639,6 +639,9 @@
 	* *an easy way to avoid the Damage, is to get hit on purpose, then Jump → place a Block below you*
 * if you aggro an Enderman, try to trap it in a Boat so you can easily Kill it without taking damage
 	* *this can also be used in the Overworld / Nether to Collect Ender Pearls*
+* if you don't have enough Beds to comfortably One-Cycle the Dragon, setup a [Respawn Anchor](https://youtu.be/hN3htLk0XK4)
+	* *Respawn Anchors outside of the Nether explode on use, just like Beds outside of the Overworld*
+	* *Make sure you use 1 Glowstone Block to Charge the Respawn Anchor, otherwise it wont explode*
 * Using Pick Block to select Beds while One-Cycling the Dragon makes inventory management easier
 * if you failed to One-Cycle the Dragon, attack the Dragon's Head Hitbox with your Axe
 	* *don't try to crit, just stand normally and hit with fully charged attacks*
