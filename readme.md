@@ -250,7 +250,7 @@
 
 <br/>
 
-* You wont have any Beds, so make sure you get enough String from Piglin Trades: [6 Beds = 72 String (+18 Planks)](https://i.imgur.com/PFGJa4f.webp)
+* You wont have any Beds, so make sure you get enough String from Piglin Trades
 	* *you can also Craft [Iron Nuggets 18:2 Iron Ingots](https://i.imgur.com/jrxLEur.webp) → Craft [Shears](https://i.imgur.com/T8iU2V6.webp)*
 		* *Shear Sheep in the Overworld or Collect Cobwebs in a Stronghold Library*
 * You wont have much Food *(if any)*:
