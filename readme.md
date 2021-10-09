@@ -357,7 +357,7 @@
 * **Obsidian**
 	* **10 Required** to [Blind Travel](https://github.com/Metacor/Minecraft-Speedrun-Guide#travel) out of the Nether
 	* *20 for [Educated/Calculated Travel](https://github.com/Metacor/Minecraft-Speedrun-Guide#travel)*
-	* *1-3 for the One-Cycle platform in the End (Crying Obsidian will also work)*
+	* *1-3 for the One-Cycle platform in the End (can also use Crying Obsidian)*
 * **Ender Pearls**
 	* **12 Required** to fill the 12 [End Portal Frames](https://minecraft.fandom.com/wiki/End_Portal_Frame) in the Stronghold
 		* *the End Portal Frames can sometimes [already be filled](https://i.imgur.com/p1Cp5hd.webp), requiring fewer Eye of Enders*
