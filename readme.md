@@ -737,7 +737,7 @@
 
 **Bastions**  
 * [Microlensing](https://github.com/Metacor/Minecraft-Speedrun-Guide#microlensing-aka-e-ray): Locate a Bastion from your Nether Portal
-* [Identification and Optimal Routing](https://github.com/Metacor/Minecraft_Speedrun_Guide#bastions)
+* [Identification and Routing](https://github.com/Metacor/Minecraft_Speedrun_Guide#bastions)
 
 **[Fortress](https://github.com/Metacor/Minecraft-Speedrun-Guide#fortress)**  
 * [Pie-Ray](https://github.com/Metacor/Minecraft-Speedrun-Guide#pie-ray-aka-piedar): Locate the Fortress Direction using the F3 Pie Chart *(also useful for finding Villages)*
