@@ -372,7 +372,7 @@
 **Optional Items**  
 * **Potion of Fire Resistance**: Makes you immune to Lava / Fire Damage 
 	* *makes you immune to the Blaze's fireballs, but not their melee attacks*
-* **Crying Obsidian**: Used to Craft Respawn Anchors *(can also be used to create the One-Cycle Platform)*
+* **Crying Obsidian**: Used to Craft [Respawn Anchors](https://i.imgur.com/n7sZDd9.webp) *(can also be used to create the One-Cycle Platform)*
 	* *6 Blocks per Respawn Anchor | 1-3 Blocks for the One-Cycle Platform (can also use normal Obsidian)*
 * **Glowstone Dust**: Used to Craft and Charge Respawn Anchors
 	* *16 Dust per Respawn Anchor - *(12 Dust → 3 Blocks → 1 Respawn Anchor | 4 Dust → 1 BLock → 1 Charge)*
