@@ -602,6 +602,7 @@
 	* *[Mobs spawn more often in Soul Sand Valleys](https://youtu.be/SDLFTWFpJOI?t=67), using 5RD while in one is pretty risky if you're low on food*
 * if you plan to Blazebed a non-enclosed Blaze Spawner, Craft a [Fishing Rod](https://i.imgur.com/LPpwUNB.webp)
 	* *you can use the Fishing Rod to [pull in Blazes that drift away from the platform](https://youtu.be/nO01yuuIe2k?t=1081)*
+	* *place the Fishing Rod into your offhand slot, allowing you to Attack and pull at the same time*
 * if your Axe breaks while fighting Blazes, [Shovels do slightly more Damage than Pickaxes](https://i.imgur.com/gpxqtCg.webp) of the same Type
 	* *while Pickaxes above Gold have very marginally more DPS, they also require an extra hit below Diamond*
 	* *assuming Crits @ 100% Power, hits needed to Kill a Blaze:*
