@@ -278,7 +278,7 @@
 	* As soon as you see an Ocean Monument, turn your Render Distance to 2 (RD2)
 		* *this will usually result in the Elder Guardians not spawning, allowing you to avoid Mining Fatigue*
 	* if you get Mining Fatigue → Reset
-		* Methods to get rid of Mining Fatigue: *(if for some reason you really don't want to Reset)**
+		* Methods to get rid of Mining Fatigue: *(if for some reason you really don't want to Reset)*
 			* Drink a Milk Bucket *(use an Empty Bucket on a cow, mooshroom, or goat)*
 			* Set your Spawn at a Bed → Suicide *(see the Suicide Methods in the Pirate section above)*
 				* *optionally: if you're close to the World Spawn, Suicide without setting your Spawn*
