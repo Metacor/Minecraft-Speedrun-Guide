@@ -238,7 +238,7 @@
 	* Craft an [Iron Pickaxe](https://i.imgur.com/lDMvU7r.webp), a [Bucket](https://i.imgur.com/eA21HpJ.webp), a [Shovel](https://i.imgur.com/mEOj9eM.webp) 
 		* if 8+ Iron: Iron Shovel, otherwise Wood/Stone Shovel
 	* if 11+ iron: Craft an [Iron Axe](https://i.imgur.com/nhL9TfF.webp)
-		* *if you don't get an Iron Axe, try to Gather 3 Cobblestone [while teleporting to the Nether](https://youtu.be/So076O4FrU0)*
+		* *if no Iron Axe: Gather 3 Cobblestone [while teleporting to the Nether](https://youtu.be/So076O4FrU0) → Craft a Stone Axe*
 	* if extra Iron Ingots, Craft [Iron Armor](https://i.imgur.com/USYD3CZ.webp) (can also save 1 to Craft a [Shield](https://i.imgur.com/nyxJaf0.webp), if Fortress before Bastion)
 	* Dig up Gravel until you find some Flint → Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp) → Pickup the Crafting Table (and Door)
 * Resurface → Place the Boat → Search for an Ocean Ravine
