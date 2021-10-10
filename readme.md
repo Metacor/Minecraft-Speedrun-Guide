@@ -701,7 +701,7 @@
 **Stone Tools**: *if Hoe Skip: Mine 4 Stone instead of 6 - the same movements can be used*  
 [Screenshot](https://i.imgur.com/UDSN7Uc.webp) | [Video](https://youtu.be/lEdAMNweD7E?t=45)
 * Craft a Stone Axe, a Stone Hoe, and a Stone Shovel → *Pickup the Crafting Table → Chop 8+ Logs*
-	* Sticks(2), bM → Half Split → lClick mM → Stone(3), tM → Half Split → rClick mL → lClick tL → Collect: 7 → 4 → 5
+	* Sticks(2), bM → Half Split → lClick mM → Stone(3), tM → Half Split → rClick mL → lClick tL → Collect: 7 → 4 →5
 		* *once again, i'd recommend Collecting directly to your axe/hoe/shovel slots*
 	
 <br/>
