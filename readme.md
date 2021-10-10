@@ -473,7 +473,7 @@
 			* *using the [F3 Cursor](https://youtu.be/w8Lqa2B01lo?t=187) is an easy way to quickly find North-West*
 * Alternatively to 8,8 you can use [Perfect Triangulation](https://youtu.be/3IV94SNgcJk) to find the Stronghold Chunk
 	* *instead of visually finding the Chunk in-game, you use the angle of an Eye of Ender to locate the Chunk*
-		* *doing so requires the use of an external spreadsheet, so if you're against that, just use 8,8*
+		* *doing so requires the use of an external spreadsheet - so if you're against that, just use 8,8*
 	* *this method isn't necessarily more accurate than 8,8 but it does generally work from farther away*
 		* *because of this, on average you will be able to use fewer Eye of Enders compared to 8,8*
 * Dig into the Starter Staircase, and begin your Stronghold Navigation
