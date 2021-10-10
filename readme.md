@@ -465,14 +465,16 @@
 	* *alternatively, use this [chart](https://i.imgur.com/6rvw5Bb.webp), or go to the [Speedrun Cheatsheet](https://github.com/Metacor/Minecraft-Speedrun-Guide#speedrun-cheatsheet) section of this Guide*
 	* *in the case above, a 0.9° difference will be ~1111 Blocks away from you*
 * Follow the Angle from your Eye throws until you travel the rough Distance needed to reach the Stronghold
-* Use the [8, 8 Method](https://youtu.be/w8Lqa2B01lo) to locate the exact Chunk that your Stronghold's Starter Staircase is in
+* Use the [8,8 Method](https://youtu.be/w8Lqa2B01lo) to locate the exact Chunk that your Stronghold's Starter Staircase is in
 	* *the Eye of Ender **always** points to the direct middle of the Chunk where the Starter Staircase is located*
 	* *The Starter Staircase will **always** be located @ 4/x/4 in the Chunk that 8,8 points to*
 		* *digging down in any block between 3,3 and 5,5 will work for this, 4,4 is just the center*
 		* *4,4 will be 4 Blocks diagonally from the North-West corner*
 			* *using the [F3 Cursor](https://youtu.be/w8Lqa2B01lo?t=187) is an easy way to quickly find North-West*
 * Alternatively to 8,8 you can use [Perfect Triangulation](https://youtu.be/3IV94SNgcJk) to find the Stronghold Chunk
-	* *this method isn't necessarily more precise than 8,8 however it does generally work from farther away*
+	* *instead of visually finding the Chunk in-game, you use the angle of an Eye of Ender to locate the Chunk*
+		* *doing so requires the use of an external spreadsheet, so if you're against that, just use 8,8*
+	* *this method isn't necessarily more precise than 8,8 but it does generally work from farther away*
 * Dig into the Starter Staircase, and begin your Stronghold Navigation
 
 ### **Stronghold Navigation**
