@@ -471,6 +471,8 @@
 		* *digging down in any block between 3,3 and 5,5 will work for this, 4,4 is just the center*
 		* *4,4 will be 4 Blocks diagonally from the North-West corner*
 			* *using the [F3 Cursor](https://youtu.be/w8Lqa2B01lo?t=187) is an easy way to quickly find North-West*
+* Alternatively to 8,8 you can use [Perfect Triangulation](https://youtu.be/3IV94SNgcJk) to find the Stronghold Chunk
+	* *this method isn't necessarily more precise than 8,8 however it does generally work from farther away*
 * Dig into the Starter Staircase, and begin your Stronghold Navigation
 
 ### **Stronghold Navigation**
