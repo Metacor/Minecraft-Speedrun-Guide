@@ -496,7 +496,7 @@
 	* *if you spawn above ground, Ender Pearl directly to the Exit Portal*
 	* *if you spawn underground, Mine up along the West wall, ideally in a corner*
 		* *[Place a Block → Jump onto it → Mine up 5 Blocks → Place Blocks below you → Repeat](https://youtu.be/b96APrsfm6s?t=750)*
-* Setup your preferred Bed Platform for One-Cycling: [Obsidian](https://youtu.be/7fu55PqeQ1E?t=202) | [Block/Slab](https://youtu.be/7fu55PqeQ1E?t=153) - [Platform](https://youtu.be/7fu55PqeQ1E?t=174)
+* Setup your preferred Bed Platform for One-Cycling: [Obsidian](https://youtu.be/iv5uKxCMEkM?t=623) | [Block/Slab](https://youtu.be/7fu55PqeQ1E?t=153) - [Platform](https://youtu.be/7fu55PqeQ1E?t=174)
 	* *run away in your preferred Perch Direction (N/S or E/W)*
 	* *your [Bed Platform position](https://youtu.be/7fu55PqeQ1E?t=214) will depend on your chosen Perch Direction*
 		* *if you're Perching N/S: place the Obsidian N/S | if you're Perching E/W: place the Obsidian E/W*
