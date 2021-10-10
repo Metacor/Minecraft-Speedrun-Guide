@@ -553,8 +553,8 @@
 
 ### The Nether
 * Falling while in a Boat will [negate all Fall Damage](https://youtu.be/REas9cmjlic?t=686)
-	* *since Water doesn't work in the Nether, you can try to [Lava Blip](https://youtu.be/sCN8oKUQb_0) instead*
-		* *place Lava on a wall and quickly pick it up while you're falling into it, this shouldn't do Damage*
+* *Water doesn't work in the Nether, so instead of breaking Fall Damage with Water, use [Lava Blip](https://youtu.be/sCN8oKUQb_0)*
+	* *place Lava on a nearby wall and quickly pick it up while you're falling into it, this shouldn't do Damage*
 * Killing Burning Hoglins is an easy way to get food in the Nether [Lava Bucket](https://youtu.be/wjbQyyHkr9M?t=110) | [Flint and Steel](https://youtu.be/REas9cmjlic?t=694)
 * if you need more Blocks while in the Nether, Mine some Netherrack
 	* Netherrack isn't flammable, and it's very fast to Mine (0.1s with an Iron Pickaxe)
