@@ -499,7 +499,8 @@
 * Setup your preferred Bed Platform for One-Cycling: [Obsidian](https://youtu.be/iv5uKxCMEkM?t=623) | [Block/Slab](https://youtu.be/7fu55PqeQ1E?t=153) - [Platform](https://youtu.be/7fu55PqeQ1E?t=174)
 	* *run away in your preferred Perch Direction (N/S or E/W)*
 	* *your [Bed Platform position](https://youtu.be/7fu55PqeQ1E?t=214) will depend on your chosen Perch Direction*
-		* *if you're Perching N/S: place the Obsidian N/S | if you're Perching E/W: place the Obsidian E/W*
+		* *if you're Perching N/S: place the Obsidian N/S*
+		* *if you're Perching E/W: place the Obsidian E/W*
 * Execute the relevant End Island Method:
 	* if you have a *cross*Bow and Arrows → [Half-Bow](https://youtu.be/whwjNbIni58)
 	* if you have 2+ Pearls, and you don't plan on doing Half-Bow:
