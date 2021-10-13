@@ -70,7 +70,7 @@
 [Website](https://www.minecraftspeedrunning.com/public-resources/maps) | [Structure Location Commands](https://pastebin.com/raw/ifkr19dc)  
 * Sethbling's General Speedrun Datapack: [Video](https://youtu.be/UihtGJhK_-w) | [Download](https://sethbling.s3-us-west-2.amazonaws.com/Downloads/DataPacks/speedrun_practice.zip)
 * Synapsolus' General Speedrun: [Video](https://youtu.be/VmvUWSNSFPQ) | [Download](https://www.mediafire.com/file/0x3btypmpwns22c/%C3%82%C2%A74The+Speedrun+Practice+Map!+%C3%82%C2%A7cby+synapsolus+%C3%82%C2%A785.0%C3%82%C2%A77.zip/file)
-* AndyNovo's Mapless Treasure Seed Generator Tool: [Website](https://replit.com/@AndyNovo/JustLearnTreasure) | [Example](https://i.imgur.com/8Q7Vp6B.webp)
+* AndyNovo's Mapless Treasure Seed Generator Tool: [Website](https://replit.com/@AndyNovo/JustLearnTreasure) | [Example](https://i.imgur.com/8Q7Vp6B.webp) | [1500 Seed List](https://pastebin.com/raw/heCgtPy4)
 * Semper's Nether Portal: [Video](https://youtu.be/K233ih6nSCU) | [Download](https://www.mediafire.com/file/1oanxrh14db4u7g/Portal_Practice.zip/file)
 * Synapsolus' Divine Fossil Identification: [Video](https://youtu.be/zMvQSTXykgQ) | [Download](https://www.mediafire.com/file/1czn1vcn6sow3pl/_%25C2%25A73Fossil_Identification_Practice_Map%2521_%25C2%25A7bby_synapsolus_%25C2%25A781.0%25C2%25A77.zip/file)
 * Llama's Bastion: [Video](https://youtu.be/jlA-jW7VGqw) | [Download](https://www.dropbox.com/s/9e103bjzroi85aa/Llama%27s%20Bastion%20Practice%20v2.6.1.zip?dl=0) | [Loadout Guide](https://youtu.be/uTn9LwB5WAE)
