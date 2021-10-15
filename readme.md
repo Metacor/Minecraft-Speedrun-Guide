@@ -75,8 +75,9 @@
 * Synapsolus' Divine Fossil Identification: [Video](https://youtu.be/zMvQSTXykgQ) | [Download](https://www.mediafire.com/file/1czn1vcn6sow3pl/_%25C2%25A73Fossil_Identification_Practice_Map%2521_%25C2%25A7bby_synapsolus_%25C2%25A781.0%25C2%25A77.zip/file)
 * Llama's Bastion: [Video](https://youtu.be/jlA-jW7VGqw) | [Download](https://www.dropbox.com/s/9e103bjzroi85aa/Llama%27s%20Bastion%20Practice%20v2.6.1.zip?dl=0) | [Loadout Guide](https://youtu.be/uTn9LwB5WAE)
 * Semper's Blaze: [Video](https://youtu.be/CNqrnlgCRXk) | [Download](https://www.mediafire.com/file/2c6vo3qt9hv3qp5/Blaze_Practice.zip/file)
-* Ryguy2k4's End: [Website](https://github.com/ryguy2k4/ryguy2k4endpractice) | [Download](https://github.com/ryguy2k4/ryguy2k4endpractice/releases)
+* Ryguy's End: [Website](https://github.com/ryguy2k4/ryguy2k4endpractice) | [Download](https://github.com/ryguy2k4/ryguy2k4endpractice/releases)
 	* Emma's End: [Video](https://youtu.be/fV5B7xJmiZU) | [Download](https://sites.google.com/view/emma-practice-map/home)
+	* Jojo's End: [Website](https://github.com/jojoe77777/PerchPractice) | [Download](https://github.com/jojoe77777/PerchPractice/releases)
 
 ## F3 Keybinds
 * **F3**: Standard F3 Menu  
