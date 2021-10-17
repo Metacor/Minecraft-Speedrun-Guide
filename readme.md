@@ -400,7 +400,8 @@
 	* *if the Mob Spawner doesn't reappear, it's likely diagonal from your location, check the corners*
 * The direction the Mob Spawner reappears is the direction in which it's located
 * Follow that direction until you find the Fortress *(or Treasure Bastion, if you're unlucky)*
-	* *if Treasure Bastion: Reset, or Break the Spawner ([from below](https://youtu.be/Ymt8NCIyYt0?t=41) | [from above](https://youtu.be/TZTQCB_rvJU?t=973)) → Pie-Ray again*
+	* *if Treasure Bastion: Reset, or destroy the Spawner ([from below](https://youtu.be/Ymt8NCIyYt0?t=41) | [from above](https://youtu.be/TZTQCB_rvJU?t=973)) → Pie-Ray again*
+		* *if you destroy the Spawner, exit and re-enter the world so the Spawner doesn't interfere - **turn off auto-reset***
 
 ### **Fortress**
 [Pooply](https://youtu.be/swSbv4AImzI) | [Haroon Shah](https://youtu.be/iaUF0oaegns?t=3624) | [Couriway](https://youtu.be/LJ1PbhPAVAI?t=263)
