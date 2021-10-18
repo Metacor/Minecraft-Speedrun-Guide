@@ -198,6 +198,7 @@
 *Spawn with a nearby Village - Ideally a Plains, Desert, or Savanna Village (for the guaranteed Hay Bales)*  
 *if the Village is in a Desert, Gather Wood and Stone before entering - Trees don't spawn, and buildings are Sand*  
 *if high rolled, Taiga Villages have a chance to be very good, however on average they're worse than the ones above*  
+*each Village has many different spawning [Village Structures](https://imgur.com/gallery/wSnxWaD), try to remember which ones are useful*  
 *if you don't see a Village near your spawn, optionally try to [Pie-Ray](https://github.com/Metacor/Minecraft-Speedrun-Guide#pie-ray-aka-piedar) to locate one*
 
 * Gather 3 Logs → Craft 12 [Planks](https://i.imgur.com/kkWqvQM.webp) → Craft a [Crafting Table and 8 Sticks](https://i.imgur.com/3Is7R0F.webp)
@@ -735,7 +736,7 @@
 **Villages**  
 * Kill the Golem → Craft an Iron Pickaxe and a Boat 
 	* *if Bucket of Cod Trade: also Craft a Composter and a Barrel → Trade with Villagers*
-* Identify which Houses have Beds in them, and which don't
+* Identify [which Houses have Beds in them](https://imgur.com/gallery/wSnxWaD), and which don't
 	* *also identify which houses have Carpets in them, in case you need to do a Flintless Portal*
 
 **Shipwrecks**  
