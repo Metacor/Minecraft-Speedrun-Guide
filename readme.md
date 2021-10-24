@@ -347,7 +347,7 @@
 * **Treasure**: [Structure Video](https://youtu.be/A9GGUWwNcrY?t=132) | [Screenshots](https://imgur.com/gallery/U4FnQC5) | [Bottom Placements](https://i.imgur.com/bDQjaBL.webp)  
 *highly recommended to Craft a Gold Pickaxe with the [Gold Blocks on the bridge](https://youtu.be/9NNvyBx03iY)*
 	* [Ninjabrain](https://youtu.be/0YvGkSOJVmU)
-* **Housing**: [Structure Video](https://youtu.be/BoNr-pbEITM?t=132) | [Screenshots](https://imgur.com/gallery/wyjWcli) | [Correct Direction](https://youtu.be/BoNr-pbEITM?t=853)
+* **Housing**: [Structure Video](https://youtu.be/BoNr-pbEITM?t=132) | [Screenshots](https://imgur.com/gallery/wyjWcli) | [Correct Direction](https://youtu.be/BoNr-pbEITM?t=853) | [Lava Bridges](https://youtu.be/A2tiwLB3DlY?t=119)
 	* if Bot: [Manhunt](https://streamable.com/tdzb21)
 	* if Top: [Top Down Manhunt](https://youtu.be/55sRL0xsWe8)
 		* Alternative: [Kuee Top Down](https://youtu.be/H2xy6q5Wp4Q)
