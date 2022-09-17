@@ -2,82 +2,107 @@
 [Discord](https://discord.com/invite/jmdFn3C) | [Website](https://www.minecraftspeedrunning.com/) | [Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki) | [Leaderboard](https://www.speedrun.com/mc#Any_Glitchless)
 
 ## Table of Contents
-* [Setup](https://github.com/Metacor/Minecraft_Speedrun_Guide#setup)
-	* [Mods](https://github.com/Metacor/Minecraft_Speedrun_Guide#mods)
-	* [Practice Maps](https://github.com/Metacor/Minecraft_Speedrun_Guide#practice-maps)
-	* [F3 Keybinds](https://github.com/Metacor/Minecraft_Speedrun_Guide#f3-keybinds)
-	* [Inventory Management](https://github.com/Metacor/Minecraft_Speedrun_Guide#inventory-management)
-* [Speedrun Guide](https://github.com/Metacor/Minecraft_Speedrun_Guide#speedrun-guide)
+* [Setup](https://github.com/Metacor/Minecraft-Speedrun-Guide#setup)
+	* [Mods](https://github.com/Metacor/Minecraft-Speedrun-Guide#mods)
+	* [Practice Maps](https://github.com/Metacor/Minecraft-Speedrun-Guide#practice-maps)
+	* [F3 Keybinds](https://github.com/Metacor/Minecraft-Speedrun-Guide#f3-keybinds)
+	* [Inventory Management](https://github.com/Metacor/Minecraft-Speedrun-Guide#inventory-management)
+* [Speedrun Guide](https://github.com/Metacor/Minecraft-Speedrun-Guide#speedrun-guide)
 	* [The Overworld](https://github.com/Metacor/Minecraft-Speedrun-Guide#the-overworld)
-		* [Structureless](https://github.com/Metacor/Minecraft_Speedrun_Guide#beginner--structureless)
-		* [Village](https://github.com/Metacor/Minecraft_Speedrun_Guide#standard--village)
-		* [Pirate](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate)
-			* [Pirate → Ocean Monument](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate--ocean-monument)
-		* [Hypermodern](https://github.com/Metacor/Minecraft_Speedrun_Guide#expert--hypermodern)
-	* [The Nether](https://github.com/Metacor/Minecraft_Speedrun_Guide#the-nether)
+		* [Structureless](https://github.com/Metacor/Minecraft-Speedrun-Guide#beginner--structureless)
+		* [Village](https://github.com/Metacor/Minecraft-Speedrun-Guide#standard--village)
+		* [Pirate](https://github.com/Metacor/Minecraft-Speedrun-Guide#advanced--pirate)
+			* [Pirate → Ocean Monument](https://github.com/Metacor/Minecraft-Speedrun-Guide#advanced--pirate--ocean-monument)
+		* [Hypermodern](https://github.com/Metacor/Minecraft-Speedrun-Guide#expert--hypermodern)
+	* [The Nether](https://github.com/Metacor/Minecraft-Speedrun-Guide#the-nether)
 		* [Microlensing](https://github.com/Metacor/Minecraft-Speedrun-Guide#microlensing-aka-e-ray)
 		* [Bastions](https://github.com/Metacor/Minecraft-Speedrun-Guide#bastions)
 		* [Pie-Ray](https://github.com/Metacor/Minecraft-Speedrun-Guide#pie-ray-aka-piedar)
 		* [Fortress](https://github.com/Metacor/Minecraft-Speedrun-Guide#fortress)
 		* [Travel](https://github.com/Metacor/Minecraft-Speedrun-Guide#travel)
-	* [The Overworld, Part 2](https://github.com/Metacor/Minecraft_Speedrun_Guide#the-overworld-part-2)
+	* [The Overworld, Part 2](https://github.com/Metacor/Minecraft-Speedrun-Guide#the-overworld-part-2)
 		* [Triangulation](https://github.com/Metacor/Minecraft-Speedrun-Guide#triangulation)
 		* [Stronghold](https://github.com/Metacor/Minecraft-Speedrun-Guide#stronghold-navigation)
-	* [The End](https://github.com/Metacor/Minecraft_Speedrun_Guide#the-end)
-* [Tips & Tricks](https://github.com/Metacor/Minecraft_Speedrun_Guide#tips--tricks)
-* [Practice](https://github.com/Metacor/Minecraft_Speedrun_Guide#practice)
-* [Speedrun Cheatsheet](https://github.com/Metacor/Minecraft_Speedrun_Guide#speedrun-cheatsheet)
+	* [The End](https://github.com/Metacor/Minecraft-Speedrun-Guide#the-end)
+* [Tips & Tricks](https://github.com/Metacor/Minecraft-Speedrun-Guide#tips--tricks)
+* [Practice](https://github.com/Metacor/Minecraft-Speedrun-Guide#practice)
+* [Speedrun Cheatsheet](https://github.com/Metacor/Minecraft-Speedrun-Guide#speedrun-cheatsheet)
 
 # Setup 
-[k4yfour](https://youtu.be/4cTbSyvWNgI) | [DashPum4](https://youtu.be/km0sXurMj5s) | [Lenszel's Speedrunning Tools List](https://docs.google.com/document/d/1REEzqLCmOizEhY797kLCXI4I0ftm4N-u8aaD8ECzIw8/edit)
+[k4yfour](https://youtu.be/GAbnKAyireM) | [Lenszel's Speedrunning Tools List](https://docs.google.com/document/d/1REEzqLCmOizEhY797kLCXI4I0ftm4N-u8aaD8ECzIw8/edit)
 
 **Before Launching**
-* Win + r → %appdata% → .minecraft → options.txt → **gamma:5.0**
+* Win + r → %appdata% → .minecraft → options.txt → 
+	* **gamma:5.0**
+	* **syncChunkWrites:false**
 
 **In-game**
-* Options → Music & Sounds → **Show Subtitles: ON**
-* Options → Video Settings → Quality → **Entity Distance (500)**
+* Options → Accessibility Settings →
+	* **Show Subtitles: ON**
+	* **Auto-Jump: OFF**
+* Options → Video Settings → General → 
+	* **Disable V-Sync**
+	* **FPS Limit: [Match Display](https://i.imgur.com/4imI47K.png)**
+* Options → Video Settings → Quality → 
+	* **Entity Distance (500)**
+	* **Disable Vignette**
 
 **With Sodium Mod**
 * Options → Video Settings → Advanced → **Disable Entity Culling**
 	* *Disabling Entity Culling isn't required for Sodium v0.2.0+*
-* Options → Video Settings → Unofficial → **Enable Planar Fog**  
+	* *However disabling it IS still required to utilize [Mapless Treasure](https://youtu.be/_dyD8ZwagDg)*
+* Options → Video Settings → Speedrun → **Enable Planar Fog**  
 
-**Timers**: [Livesplit](https://livesplit.org/downloads/) | [NinjaSnail1080's Minecraft Universal Timer](https://github.com/NinjaSnail1080/mc-universal-in-game-timer) - [Video](https://youtu.be/fPESBmKYi0Q)
+**Timers**: [Livesplit](https://livesplit.org/downloads/) | [RedLime's In-Game Timer](https://redlime.github.io/SpeedRunIGT/)
 
 ## Mods
-[Website](https://www.minecraftspeedrunning.com/public-resources/mods ) | [Explainations](https://youtu.be/km0sXurMj5s?t=126)  
-### Fabric Loader *(DON'T USE FABRIC API)*: [Website](https://fabricmc.net/use/) | [Download](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.4/fabric-installer-0.7.4.jar)  
-* Auto Reset Mod: [Website](https://github.com/DuncanRuns/AutoResetMod) | [Download](https://github.com/DuncanRuns/AutoResetMod/releases/download/v1.2.0/autoreset-1.2.0+MC1.16.1.jar)
-	* When Active, on pressing Quit: Quits → Creates a New World, with correct Settings → Loads the World
-	* *[Guide](https://youtu.be/km0sXurMj5s?t=187) to reset with a Hotkey and cull Saved World files using AutoHotKey*
-* Fast Reset: [Website](https://github.com/jan-leila/FastReset) | [Download](https://github.com/jan-leila/FastReset/releases/download/1.15.2-1.0.0/fast_reset-1.15.2-1.0.0.jar)
-	* Disables the forced Auto Save when Exiting a World, saving time between Resets  
-* LazyDFU: [Website](https://modrinth.com/mod/lazydfu) | [Download](https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar)
-	* Lowers the time it takes to initially open the game
-* Sodium: [Website](https://github.com/mrmangohands/sodium-fabric) | [Download](https://github.com/mrmangohands/sodium-fabric/releases/download/mc1.16.1-0.2.0%2Bbuild.17/sodium-1.16.1-backport-fabric-0.2.0+build.17.jar)
-	* Greatly increases General Performance, Reduces Micro-Stutters, and Fixes Graphical Issues
-* Lithium: [Website](https://github.com/mrmangohands/lithium-fabric) | [Download](https://github.com/mrmangohands/lithium-fabric/releases/download/mc1.16.1-0.6.6/lithium-1.16.1-backport-fabric-0.6.6.jar)
-	* Optimizes Game Areas  
+[Website](https://www.minecraftspeedrunning.com/public-resources/mods ) *make sure to click on 1.16!* | [Mod Pack (2022)](https://github.com/Metacor/Minecraft-Speedrun-Guide/releases)
 
-**Starlight is incompatible with Phosphor, only use Phosphor if Starlight doesn't work for you**
-* Starlight: [Website](https://github.com/PaperMC/Starlight) | [Download](https://github.com/PaperMC/Starlight/releases/download/1.0.0-RC2/starlight-fabric-1.0.0-RC2-1.16.x.jar)
+#### Fabric Loader ~ *DON'T USE FABRIC API*: [Website](https://fabricmc.net/use/)  
+* **Atum** *(Auto Reset)*: [Website](https://github.com/VoidXWalker/Atum) | [Download](https://github.com/VoidXWalker/Atum/releases)
+	* When Active, on pressing Quit: Quits → Creates a New World, with correct Settings → Loads the World
+* **Fast Reset**: [Website](https://github.com/jan-leila/FastReset) | [Download](https://github.com/jan-leila/FastReset/releases/tag/1.16.1-1.4.1)
+	* Disables the forced Auto Save when Exiting a World, saving time between Resets  
+* **Sodium**: [Website](https://github.com/jan-leila/sodium-fabric) | [Download](https://github.com/jan-leila/sodium-fabric/releases)
+	* Greatly increases General Performance, Reduces Micro-Stutters, and Fixes Graphical Issues
+* **Lithium**: [Website](https://github.com/mrmangohands/lithium-fabric) | [Download](https://github.com/mrmangohands/lithium-fabric/releases)
+	* Optimizes Game and Server Logic
+* **Starlight**: [Website](https://github.com/PaperMC/Starlight) | [Download](https://github.com/PaperMC/Starlight/releases/tag/1.0.0-RC2)
 	* Completely rewrites the Lighting Engine, greatly reducing World Creation times
-* Phosphor: [Website](https://github.com/mrmangohands/phosphor-fabric) | [Download](https://github.com/mrmangohands/phosphor-fabric/releases/download/mc1.16.1-0.7.2/phosphor-1.16.1-backport-fabric-0.7.2.jar)
-	* Optimizes the Lighting Engine, causing general improvements and faster World Generation  
+	* *Starlight and Phosphor are Incompatible, only use Phosphor if Starlight doesn't work for you*
+* **LazyDFU**: [Website](https://modrinth.com/mod/lazydfu) | [Download](https://modrinth.com/mod/lazydfu/version/0.1.2)
+	* Lowers the time it takes to initially open the game
+* **LazyStronghold**: [Website](https://github.com/Gregor0410/LazyStronghold) | [Download](https://github.com/Gregor0410/LazyStronghold/releases)
+	* Generates stronghold locations on a seperate thread to speed up world generation
+* **Voyager**: [Website](https://github.com/modmuss50/Voyager) | [Download](https://github.com/modmuss50/Voyager/releases)
+	* Fixes a rare CME (ConcurrentModificationException) when using java 11+
 
 ## Practice Maps
 [Website](https://www.minecraftspeedrunning.com/public-resources/maps) | [Structure Location Commands](https://pastebin.com/raw/ifkr19dc)  
-* Sethbling's General Speedrun Datapack: [Video](https://youtu.be/UihtGJhK_-w) | [Download](https://sethbling.s3-us-west-2.amazonaws.com/Downloads/DataPacks/speedrun_practice.zip)
-	* Synapsolus' General Speedrun: [Video](https://youtu.be/VmvUWSNSFPQ) | [Download](https://www.mediafire.com/file/0x3btypmpwns22c/%C3%82%C2%A74The+Speedrun+Practice+Map!+%C3%82%C2%A7cby+synapsolus+%C3%82%C2%A785.0%C3%82%C2%A77.zip/file)
-* AndyNovo's Mapless Treasure Seed Generator Tool: [Website](https://replit.com/@AndyNovo/JustLearnTreasure) | [Example](https://i.imgur.com/8Q7Vp6B.webp) | [1500 Seed List](https://pastebin.com/raw/heCgtPy4)
-* Semper's Nether Portal: [Video](https://youtu.be/K233ih6nSCU) | [Download](https://www.mediafire.com/file/1oanxrh14db4u7g/Portal_Practice.zip/file)
-* Synapsolus' Divine Fossil Identification: [Video](https://youtu.be/zMvQSTXykgQ) | [Download](https://www.mediafire.com/file/1czn1vcn6sow3pl/_%25C2%25A73Fossil_Identification_Practice_Map%2521_%25C2%25A7bby_synapsolus_%25C2%25A781.0%25C2%25A77.zip/file)
-* Llama's Bastion: [Video](https://youtu.be/jlA-jW7VGqw) | [Download](https://www.dropbox.com/s/9e103bjzroi85aa/Llama%27s%20Bastion%20Practice%20v2.6.1.zip?dl=0) | [Loadout Guide](https://youtu.be/uTn9LwB5WAE)
-* Semper's Blaze: [Video](https://youtu.be/CNqrnlgCRXk) | [Download](https://www.mediafire.com/file/2c6vo3qt9hv3qp5/Blaze_Practice.zip/file)
-* Ryguy's End: [Website](https://github.com/ryguy2k4/ryguy2k4endpractice) | [Download](https://github.com/ryguy2k4/ryguy2k4endpractice/releases)
-	* Emma's End: [Video](https://youtu.be/fV5B7xJmiZU) | [Download](https://sites.google.com/view/emma-practice-map/home)
-	* Jojo's End: [Website](https://github.com/jojoe77777/PerchPractice) | [Download](https://github.com/jojoe77777/PerchPractice/releases)
+
+**General Speedrunning**
+* **Sethbling's General Speedrun Datapack**: [Video](https://youtu.be/UihtGJhK_-w) | [Download](https://sethbling.s3-us-west-2.amazonaws.com/Downloads/DataPacks/speedrun_practice.zip)
+* **Synapsolus' General Speedrun**: [Video](https://youtu.be/2AnoosNf0zo) | [Download](https://drive.google.com/file/d/1x6D-DwA8rizya3KoItceJoeToeu8cmgg/view)
+
+**Overworld**
+* **AndyNovo's Mapless Treasure Seed Generator Tool**: [Website](https://replit.com/@AndyNovo/JustLearnTreasure) | [Example](https://i.imgur.com/8Q7Vp6B.webp) | [1500 Seed List](https://pastebin.com/raw/heCgtPy4)
+* **7rowl's Overworld**: [Website](https://github.com/7rowl/OWPractice) | [Download](https://github.com/7rowl/OWPractice/releases)
+* **Semper's Nether Portal**: [Video](https://youtu.be/K233ih6nSCU) | [Download](https://www.mediafire.com/file/1oanxrh14db4u7g/Portal_Practice.zip/file)
+
+**Nether**
+* **Logwet's Nether Practice**: [Website](https://github.com/logwet/noverworld) | [Download](https://github.com/logwet/noverworld/releases)
+* **Synapsolus' Divine Fossil Identification**: [Video](https://youtu.be/zMvQSTXykgQ) | [Download](https://www.mediafire.com/file/1czn1vcn6sow3pl/_%25C2%25A73Fossil_Identification_Practice_Map%2521_%25C2%25A7bby_synapsolus_%25C2%25A781.0%25C2%25A77.zip/file)
+* **Llama's Bastion**: [Video](https://youtu.be/jlA-jW7VGqw) | [Download](https://github.com/LlamaPag/bastion/releases) | [Loadout Guide](https://youtu.be/uTn9LwB5WAE)
+* **Semper's Blaze**: [Video](https://youtu.be/CNqrnlgCRXk) | [Download](https://www.mediafire.com/file/2c6vo3qt9hv3qp5/Blaze_Practice.zip/file)
+
+**Overworld, Part 2**
+* **Logwet's Blind Travel**: [Website](https://github.com/logwet/blinded) | [Download](https://github.com/logwet/blinded/releases)
+
+**The End**
+* **Ryguy's End**: [Website](https://github.com/ryguy2k4/ryguy2k4endpractice) | [Download](https://github.com/ryguy2k4/ryguy2k4endpractice/releases)
+* **Emma's End**: [Video](https://youtu.be/fV5B7xJmiZU) | [Download](https://sites.google.com/view/emma-practice-map/home)
+* **Jojo's End**: [Website](https://github.com/jojoe77777/PerchPractice) | [Download](https://github.com/jojoe77777/PerchPractice/releases)
+* **mjtb49's DragonFlightPathVisualizer**: [Website](https://github.com/mjtb49/DragonFightPathVisualizer) | [Download](https://github.com/mjtb49/DragonFightPathVisualizer/releases) **This is a Mod not a Map**
 
 ## F3 Keybinds
 * **F3**: Standard F3 Menu  
@@ -276,7 +301,7 @@
 
 ### **Advanced+** | Pirate → Ocean Monument  
 **Ocean Monument Guides:** [T_Wagz](https://youtu.be/0dyHYkg_xIU) | [Silver](https://youtu.be/14FGC1eUHug) - [Part 2](https://youtu.be/-b7nQyXZkfw)   
-*[Pirate](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate) Strats, but you also Gather the guaranteed 8 Gold Blocks from an Ocean Monument*  
+*[Pirate](https://github.com/Metacor/Minecraft-Speedrun-Guide#advanced--pirate) Strats, but you also Gather the guaranteed 8 Gold Blocks from an Ocean Monument*  
 *doing this will sometimes allow you to completely skip the need to go to a Bastion while in the Nether*  
 
 * Pirate Start → Shipwreck (Craft a [Shield](https://i.imgur.com/nyxJaf0.webp), since you wont have Fire Resistance for the Fortress) → Ocean Monument
@@ -301,11 +326,11 @@
 
 ### **Expert** | [Hypermodern](https://youtu.be/gAHMJfsrHe4)  
 *Combination of the most optimal Strats, Resets are frequent, so having a very high Reset Efficiency is recommended*
-* [Mapless Treasure](https://youtu.be/_dyD8ZwagDg), *if available* → [Pirate](https://github.com/Metacor/Minecraft_Speedrun_Guide#advanced--pirate) → [Ravine Nether Entry](https://youtu.be/H2fHDidyfJo?t=62) → 
+* [Mapless Treasure](https://youtu.be/_dyD8ZwagDg), *if available* → [Pirate](https://github.com/Metacor/Minecraft-Speedrun-Guide#advanced--pirate) → [Ravine Nether Entry](https://youtu.be/H2fHDidyfJo?t=62) → 
 	* *if you spot a Shipwreck from your spawn location, [prioritize that](https://youtu.be/CEG8oXyz9zc?t=257) over Mapless Treasure*
 * [Microlensing](https://github.com/Metacor/Minecraft-Speedrun-Guide#microlensing-aka-e-ray) → [Bastion](https://github.com/Metacor/Minecraft-Speedrun-Guide#bastions) → [Pie-Ray](https://github.com/Metacor/Minecraft-Speedrun-Guide#pie-ray-aka-piedar) → [Fortress](https://github.com/Metacor/Minecraft-Speedrun-Guide#fortress) → [Nether Travel](https://github.com/Metacor/Minecraft-Speedrun-Guide#travel) →
 * [Triangulation](https://github.com/Metacor/Minecraft-Speedrun-Guide#triangulation) → [Stronghold Navigation](https://github.com/Metacor/Minecraft-Speedrun-Guide#stronghold-navigation) → End Entry →
-	* [Half-Bow](https://youtu.be/whwjNbIni58) | North / South Ground → [One-Cycle Dragon](https://youtu.be/aGMLHXnD6Bc) (~[4 Bed](https://youtu.be/R-9PGkSJU7g))  
+	* North / South Ground *or* [Half-Bow](https://youtu.be/whwjNbIni58) → [One-Cycle Dragon](https://youtu.be/aGMLHXnD6Bc) (~[4 Bed](https://youtu.be/R-9PGkSJU7g))  
 
 
 ***Optionally***  
@@ -352,7 +377,7 @@
 	* if Top: [Top Down Manhunt](https://youtu.be/55sRL0xsWe8)
 		* Alternative: [Kuee Top Down](https://youtu.be/H2xy6q5Wp4Q)
 			* *the Chest Method can also be used for the normal Top Down strat*
-				* *Pick Block the Chest to easily get it into your Hotbar*
+			* *Pick Block the Chest to easily get it into your Hotbar*
 * **Stables**: [Structure Video](https://youtu.be/TioQsF5ygOg?t=149) | [Screenshots](https://imgur.com/gallery/u91rHC4) | [Gap Identification](https://www.youtube.com/watch?v=AczOTF5QpZ4&t=164s)
 	* if Triple: [Triple Chest Stables](https://youtu.be/AJxgbRma25Q)
 	* if no Triple, w/ Good Gap: [Good Gap Stables](https://youtu.be/ukyIkZMnw-w?t=141)
@@ -381,7 +406,7 @@
 	* 6 Blocks per Respawn Anchor | 1-3 Blocks for the One-Cycle Platform *(can also use normal Obsidian)*
 * **Glowstone Dust**: Used to Craft and Charge Respawn Anchors
 	* 16 Dust per Respawn Anchor *([12 Dust → 3 Blocks → 1 Respawn Anchor](https://i.imgur.com/ARBjNXL.webp) | 4 Dust → 1 Block → 1 [Charge](https://i.imgur.com/9TYnto4.webp))*
-* *Cross***Bow + Arrows**: Allows you to [Half-Bow](https://youtu.be/whwjNbIni58) while in the Ender Dragon fight
+* *Cross*/**Bow + Arrows**: Allows you to [Half-Bow](https://youtu.be/whwjNbIni58) while in the Ender Dragon fight
 * **Fire Charge**: Can be used to light Nether Portals *(useful if you entered with a Flintless Portal)*
 	* *alternatively: Gather Flint from Gravel → Craft [Iron Nuggets 18:2 Iron Ingots](https://i.imgur.com/jrxLEur.webp) → Craft a [Flint and Steel](https://i.imgur.com/XzZEIrF.webp)*
 
@@ -636,7 +661,6 @@
 * When travelling across Water, it is faster to use a [Dolphin's Boost](https://minecraft.fandom.com/wiki/Dolphin%27s_Grace), than it would be to use a Boat
 * if you find an underwater Stronghold, make sure to look around for the Portal Room before blindly entering
 * Strongholds are [extremely unlikely](https://youtu.be/_rbWryJVEmw?t=1011) to spawn in Swamps ([supposedly impossible](https://bugs.mojang.com/browse/MC-136288))
-* The Portal Room is usually within [5 = 7](https://youtu.be/u42bjqtq5-s) Rooms of the Starter Staircase
 * [Hidden Rooms Identification](https://www.youtube.com/watch?v=vztJNmUdyBY)
 	* *Hidden Rooms can **only** occur in "5-way" room types*
 	* *if you're facing +x/+z (South/East) from the main entrance, there **CANNOT** be Hidden Rooms*
@@ -759,7 +783,7 @@
 
 **Bastions**  
 * [Microlensing](https://github.com/Metacor/Minecraft-Speedrun-Guide#microlensing-aka-e-ray): Locate a Bastion from your Nether Portal
-* [Identification and Routing](https://github.com/Metacor/Minecraft_Speedrun_Guide#bastions)
+* [Identification and Routing](https://github.com/Metacor/Minecraft-Speedrun-Guide#bastions)
 
 **[Fortress](https://github.com/Metacor/Minecraft-Speedrun-Guide#fortress)**  
 * [Pie-Ray](https://github.com/Metacor/Minecraft-Speedrun-Guide#pie-ray-aka-piedar): Locate the Fortress Direction using the F3 Pie Chart *(also useful for finding Villages)*
