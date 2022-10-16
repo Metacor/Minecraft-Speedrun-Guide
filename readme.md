@@ -52,8 +52,9 @@
 	* *Disabling Entity Culling isn't required for Sodium v0.2.0+*
 	* *However disabling it IS still required to utilize [Mapless Treasure](https://youtu.be/_dyD8ZwagDg)*
 * Options → Video Settings → Speedrun → **Enable Planar Fog**  
+	* *how to abuse Planar Fog:* [Haroon Shah](https://youtu.be/c2VMwhqVHqU?t=1926) | [Four](https://youtu.be/yv40tvntwvI)
 
-**Timers**: [Livesplit](https://livesplit.org/downloads/) | [RedLime's In-Game Timer](https://redlime.github.io/SpeedRunIGT/)
+**Timers**: [Livesplit](https://livesplit.org/downloads/) | [RedLime's In-Game Timer](https://redlime.github.io/SpeedRunIGT/) ← *Recommended*
 
 ## Mods
 [Website](https://www.minecraftspeedrunning.com/public-resources/mods ) *make sure to click on 1.16!* | [Mod Pack (2022)](https://github.com/Metacor/Minecraft-Speedrun-Guide/releases)
@@ -102,7 +103,6 @@
 * **Ryguy's End**: [Website](https://github.com/ryguy2k4/ryguy2k4endpractice) | [Download](https://github.com/ryguy2k4/ryguy2k4endpractice/releases)
 * **Emma's End**: [Video](https://youtu.be/fV5B7xJmiZU) | [Download](https://sites.google.com/view/emma-practice-map/home)
 * **Jojo's End**: [Website](https://github.com/jojoe77777/PerchPractice) | [Download](https://github.com/jojoe77777/PerchPractice/releases)
-* **mjtb49's DragonFlightPathVisualizer**: [Website](https://github.com/mjtb49/DragonFightPathVisualizer) | [Download](https://github.com/mjtb49/DragonFightPathVisualizer/releases) **This is a Mod not a Map**
 
 ## F3 Keybinds
 * **F3**: Standard F3 Menu  
@@ -200,7 +200,10 @@
 <br/>
 
 # Speedrun Guide  
-[Haroon Shah, Jun 2021](https://youtu.be/iaUF0oaegns) | [Nuskapuska, Mar 2021](https://youtu.be/0PXQvPNCxy8) | [Couriway, Dec 2020](https://youtu.be/REas9cmjlic) | [LiquidCandy, Dec 2020](https://youtu.be/14XeowuYgV0) | [Cuffep, Oct 2020](https://youtu.be/GQodZBfdL3g)  
+## Video Guides:
+* **2022** [Cuffep, Jun 2022](https://youtu.be/wXu9iQxStgI) | [Haroon Shah, Mar 2022](https://youtu.be/c2VMwhqVHqU)
+* **2021** [Haroon Shah, Jun 2021](https://youtu.be/iaUF0oaegns) | [Nuskapuska, Mar 2021](https://youtu.be/0PXQvPNCxy8)
+* **2020** [Couriway, Dec 2020](https://youtu.be/REas9cmjlic) | [LiquidCandy, Dec 2020](https://youtu.be/14XeowuYgV0) | [Cuffep, Oct 2020](https://youtu.be/GQodZBfdL3g)  
 
 ## The Overworld
 
@@ -219,7 +222,7 @@
 * Find a nearby Lava Lake, or Dig deeper in the Cave to find Lava → [Create a Nether Portal](https://youtu.be/iaUF0oaegns?t=2029) → Enter the Nether
 	* While in the Nether, Collect Mushrooms in order to Craft [Suspicious Stews](https://i.imgur.com/zl00UZT.webp)
 
-### **Standard** | Village  
+### **Intermediate** | Village  
 *Spawn with a nearby Village - Ideally a Plains, Desert, or Savanna Village (for the guaranteed Hay Bales)*  
 *if the Village is in a Desert, Gather Wood and Stone before entering - Trees don't spawn, and buildings are Sand*  
 *if high rolled, Taiga Villages have a chance to be very good, however on average they're worse than the ones above*  
@@ -390,9 +393,9 @@
 	* *1-3 for the One-Cycle platform in the End (can also use Crying Obsidian)*
 * **Ender Pearls**
 	* **12 Required** to fill the 12 [End Portal Frames](https://minecraft.fandom.com/wiki/End_Portal_Frame) in the Stronghold
-		* *the End Portal Frames can sometimes [already be filled](https://i.imgur.com/p1Cp5hd.webp), requiring fewer Eye of Enders*
+		* *the End Portal Frames can sometimes [already be filled](https://i.imgur.com/p1Cp5hd.webp), requiring fewer Eyes of Ender*
 	* *16+ to allow for more uses outside of just filling the End Portal Frames*
-		* *2+ in case your Eye of Enders break while locating the Stronghold*
+		* *2+ in case your Eyes of Ender break while locating the Stronghold*
 		* *2+ to quickly move around in the End, resulting in a less stressful Ender Dragon setup*
 		* *and a few more to travel large Distances in the Nether/Overworld if needed*
 * **String**
@@ -460,19 +463,26 @@
 ### **Travel**  
 *[Build a Nether Portal](https://youtu.be/ZE5VEYWC_9s) at specific locations in the Nether to teleport close to the Stronghold*  
 * **[Blind](https://youtu.be/0N8Wj8hOVKM)**
-	* Build your Nether Portal at the closest of any of [these Coordinates](https://imgur.com/gallery/i3fIanf)
+	* Build a Nether Portal at the closest of any of [these Coordinates](https://imgur.com/gallery/i3fIanf)
 * **[Educated](https://youtu.be/0N8Wj8hOVKM?t=516)**
-	* Requires you to have 20 Obsidian, and for you to build a Nether Portal to reach the Overworld
-		* *if your final Nether Structure is very close to your first Nether Portal, you can use that instead*
+	* Requires you to have 20 Obsidian
+	* Build a random Nether Portal *(in the Nether)* to reach the Overworld
 	* Once in the Overworld, Throw an Eye of Ender → Record the Angle → Return to the Nether
-	* Follow that Angle in the Nether, and build a Nether Portal at the closest [Blind location](https://imgur.com/gallery/i3fIanf)
+	* Build a Nether Portal *(in the Nether)*, at the closest [Blind location](https://imgur.com/gallery/i3fIanf), following the Recorded Angle
 * **Calculated**
-	* Similarly to Educated Travel, requires the use of 20 Obsidian and a random Nether Portal
-	* For Calculated, instead of throwing 1 Eye of Ender, fully use Triangulation *(read the section below)*
-	* Build your Nether Portal *(in the Nether)*, at the general location of the Stronghold
+	* Requires 20 Obsidian
+	* Build a random Nether Portal *(in the Nether)* to reach the Overworld
+	* Once in the Overworld, fully use Triangulation *([see below](https://github.com/Metacor/Minecraft-Speedrun-Guide#triangulation))*
+	* Build a Nether Portal *(in the Nether)*, at the general location of the Stronghold
 		* *using both the Direction of the Eye of Ender *(like Educated)*, but also the rough Distance/8*
 * **[Axis Calculated](https://www.youtube.com/watch?v=0LDj48fsRT8)** | [How-to Doc](https://docs.google.com/document/d/1oora0jzLf6IgydbGciE8-vL8JXsejqvAKm4N9jAfWVg/edit)
-	* A more precise version of Calculated Travel, if you're interested, watch the Video linked above
+	* Requires 20 Obsidian - *and the use of an External Spreadsheet*
+	* if you're interested, watch the Video linked above
+* **[Bot Calculated](https://youtu.be/Rx8i7e5lu7g)** | [Github](https://github.com/Ninjabrain1/Ninjabrain-Bot)
+	* Requires 20 Obsidian - *and the use of an External Program*
+	* Build a random Nether Portal *(in the Nether)* to reach the Overworld
+	* Once in the Overworld, just use the Bot™ lol
+	* Build a Nether Portal *(in the Nether)* where the Bot tells you to
 * **[Divine](https://youtu.be/SXem01c44-I)**
 	* if there is a Fossil in the 0,x,0 Chunk, build your Nether Portal at the [corresponding Coordinates](https://cdn.discordapp.com/attachments/405839885509984256/891800745760948224/finished3mdpi.jpg)
 
@@ -506,7 +516,7 @@
 	* *instead of visually finding the Chunk in-game, you use the angle of an Eye of Ender to locate the Chunk*
 		* *doing so requires the use of an external spreadsheet - so if you're against that, just use 8,8*
 	* *this method isn't necessarily more accurate than 8,8 but it does generally work from farther away*
-		* *because of this, on average you will be able to use fewer Eye of Enders compared to 8,8*
+		* *because of this, on average you will need to use fewer Eyes of Ender compared to 8,8*
 * Dig into the Starter Staircase, and begin your Stronghold Navigation
 
 ### **Stronghold Navigation**
@@ -533,10 +543,12 @@
 		* *if you're Perching N/S: place the Obsidian N/S*
 		* *if you're Perching E/W: place the Obsidian E/W*
 * Execute the relevant End Island Method:
-	* if you have a *cross*Bow and Arrows → [Half-Bow](https://youtu.be/whwjNbIni58)
-	* if you have 2+ Pearls, and you don't plan on doing Half-Bow:
+	* if you have a *cross*/Bow and Arrows → [Half-Bow](https://youtu.be/whwjNbIni58)
+	* if you have 2+ Pearls:
 		* [Pearl up to the highest Obsidian Tower](https://youtu.be/-Ta_1R1aXvA?t=116) in the Direction you chose, [build up until you reach y = 122](https://youtu.be/-Ta_1R1aXvA?t=128)
-	* if you don't have 2+ Pearls, and you also don't plan on doing Half-Bow:
+	* if you have 2+ Pearls, and you're insane: [Zero Cycle](https://youtu.be/iClDGWL0e5s) *(why are you here?)*
+		* [T_Wag's Practice Map](https://cdn.discordapp.com/attachments/775129762955132938/853447100300918815/T_Wags_0-Cycle_Practice.zip) | [Pillar Visualizer Map](https://cdn.discordapp.com/attachments/775129762955132938/853447121369825310/Zero_Cycle_Pillars.zip)
+	* if you don't have 2+ Pearls:
 		* [Run as far away from the Exit Portal as possible](https://youtu.be/-Ta_1R1aXvA?t=519), while still being able to see if the Dragon is Perching
 * Turn on Entity Hitboxes *(F3 + B)* to help with One-Cycling the Dragon
 	* *hitboxes will also make it more obvious when the Dragon's head "snaps" to the center before Perching*
@@ -591,6 +603,8 @@
 ### The Nether
 * Falling while in a Boat will [negate all Fall Damage](https://youtu.be/REas9cmjlic?t=686)
 * Killing Burning Hoglins is an easy way to get food in the Nether [Lava Bucket](https://youtu.be/wjbQyyHkr9M?t=110) | [Flint and Steel](https://youtu.be/REas9cmjlic?t=694)
+* if you want to conserve hunger while running, [hit any entity](https://youtu.be/c2VMwhqVHqU?t=1387)
+	* *the video says 'entity that drops food', but the [comments](https://i.imgur.com/wUE5tf9.png) state any entity works*
 * if you need more Blocks while in the Nether, Mine some Netherrack
 	* Netherrack isn't flammable, and it's very fast to Mine (0.1s with an Iron Pickaxe)
 * if there is a far away Ghast attacking you, quickly lower your Render Distance to 2
@@ -602,6 +616,8 @@
 * if you find Nether Gold Ore while travelling to a Bastion, consider Mining it and making [Gold Boots](https://i.imgur.com/QrAbJ35.webp)
 	* *Boots only take 4 Gold Ingots (36 Gold Nuggets), ~9 Ore on average*
 	* *Wearing any Gold Armor will make it so Piglins don't auto-aggro you*
+* [Pearl Hanging](https://www.youtube.com/watch?v=eCVVDstvd3c): *Throwing an Ender Pearl into unloaded Chunks for future use*
+	* *examples:* [Bastion Route](https://www.youtube.com/watch?v=5vIeGt7G3Vk) | [Task Overlap](https://youtu.be/uyCCj-dhT9Q?t=213) | [Force Bastion first](https://youtu.be/uyCCj-dhT9Q?t=724) | [meme](https://youtu.be/uyCCj-dhT9Q?t=1052)
 * Bastion Microlensing example *(using m+c=e)*
 	* *for [M + C = 113, while E = 122, @16 RD](https://i.imgur.com/w6WZlqf.webp), if there is a Bastion, it's likely not fully rendered in*
 		* *Starting at (-77, 59, 58), the closest Bastion is at [(-128, ~, -288)](https://i.imgur.com/EVScDGC.webp), being ~350 Blocks away*
@@ -652,6 +668,8 @@
 		* *if the Blaze loses Line of Sight with its Target, the Volley will be paused*
 		* *upon regaining Line of Sight, the Volley will be resumed, shooting any remaining Fireballs*
 	* *after the final Fireball is shot, the Blaze will be unable to Target for 5 seconds*
+* When doing any form of Calculated Travel - *to optionally save 10 Obsidian*
+	* *if your final Nether Structure is close to the initial Nether Portal, you can just use that instead*
 	
 ### The Overworld, Part 2
 * The Stronghold will spawn a [minimum of 1280 Blocks](https://minecraft.fandom.com/wiki/Stronghold#Java_Edition) from *(0, 0)*
@@ -659,7 +677,8 @@
 		* *(150x, 150z) would be ~212 Blocks away from (0, 0), not ~300*
 	* *if you're just adding x + z, then the Stronghold ≈ 2000 - 2400 (Overworld) | 250 - 300 (Nether)*
 * When travelling across Water, it is faster to use a [Dolphin's Boost](https://minecraft.fandom.com/wiki/Dolphin%27s_Grace), than it would be to use a Boat
-* if you find an underwater Stronghold, make sure to look around for the Portal Room before blindly entering
+	* *you can set the Render Distance to 2 (RD2), to [try to force closer spawns](https://youtu.be/lobTglGCfw0?t=452)*
+* if you find an underwater Stronghold, try to look around for an exposed [Portal Room](https://youtu.be/lobTglGCfw0?t=491)
 * Strongholds are [extremely unlikely](https://youtu.be/_rbWryJVEmw?t=1011) to spawn in Swamps ([supposedly impossible](https://bugs.mojang.com/browse/MC-136288))
 * [Hidden Rooms Identification](https://www.youtube.com/watch?v=vztJNmUdyBY)
 	* *Hidden Rooms can **only** occur in "5-way" room types*
@@ -668,8 +687,9 @@
 		* *if you see an indentation in the wall, there could be a hidden room on that side*
 * Libraries lead nowhere, if you enter a Library from the Starter Staircase, turn around
 	* if you need more Beds, you can Gather string from Library Cobwebs
-		* *when Gathering, use either a Sword or Shears (decreasing the Gather Time from 20s → 0.4s)*
-		* *alternatively, you can use a [Bucket of Water](https://youtu.be/D714cio_nv4?t=673)*
+		* *when Gathering, use a Sword ([decreases the Gather Time from 20s → 0.4s](https://i.imgur.com/3CXFMGf.png))*
+		* *alternatively, you can use a [Bucket of Water](https://youtu.be/D714cio_nv4?t=673) on the top or sides of a Cobweb*
+* The Portal Room is usually within [5-7 'Rooms'](https://youtu.be/2WbWdqhXqJI?t=752) from the Starter Staircase
 * Be sure to pay attention to the Subtitles, look for popping Lava and Silverfish noises
 
 ### The End
